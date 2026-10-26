@@ -1,0 +1,92 @@
+# counts for 71 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Argus                           170 word   170 in   [13, 15, 17, 19, 21, 23]
+  Kael                             12 word    19 in   [17, 19, 23, 77, 634, 668]
+                                    4      as Kael-Systems
+                                    3      as Kael-System
+  Kael-System                       3 word     7 in   [17, 19, 23, 830, 846, 848]  <-- substring
+                                    4      as Kael-Systems
+  Juna                              4 word    12 in   [79, 779, 781, 789, 794, 802]  <-- substring
+                                    8      as Junas
+  Selene                           11 word    15 in   [19, 25, 56, 76, 122, 596]
+                                    4      as Selenes
+  Lex                              14 word    14 in   [68, 140, 142, 145, 149, 155]
+  Alex                             15 word    15 in   [69, 197, 199, 202, 205, 212]
+  Rhys                             11 word    11 in   [70, 254, 256, 262, 269, 308]
+  Nyx                              11 word    11 in   [71, 311, 313, 319, 327, 366]
+  Kiko                              8 word    12 in   [72, 369, 371, 374, 377, 384]
+                                    4      as Kikos
+  Lia                               8 word    11 in   [73, 425, 427, 430, 433, 440]
+  Isabelle                          9 word    12 in   [74, 482, 484, 487, 490, 498]
+                                    3      as Isabelles
+  Moros                            11 word    11 in   [75, 541, 543, 549, 557, 578]
+  Panoptikum des Systems            6 word     6 in   [15, 17, 67, 81, 83, 93]
+  Panoptikum                       19 word    19 in   [15, 17, 19, 52, 67, 81]
+  Leuchtturmwärter                 10 word    12 in   [29, 36, 40, 46, 138, 423]
+                                    2      as Leuchtturmwärters
+  Archivar der Narben               6 word     6 in   [19, 29, 37, 42, 98, 138]
+  Astronom innerer Konstellationen    2 word     2 in   [29, 38]
+  Astronom                         21 word    22 in   [29, 38, 44, 114, 138, 173]
+                                    1      as Astronomen
+  Chronist der Wandlung             6 word     6 in   [11, 23, 50, 700, 761, 850]
+  Chronist                         11 word    15 in   [11, 23, 42, 50, 78, 610]
+                                    4      as Chronisten
+  Junas Gleichung                   8 word     8 in   [79, 779, 781, 802, 826, 830]
+  Elixier                           8 word    13 in   [25, 56, 76, 78, 723, 749]
+                                    5      as Elixiers
+  Host                              5 word     5 in   [77, 668, 670, 676, 697]
+  Album 10                          1 word     1 in   [19]
+  Kohärenz                          4 word     4 in   [19, 122, 464, 848]
+  Illusion der perfekten Beobachtung    2 word     2 in   [23, 67]
+  Weg der Prüfungen                13 word    13 in   [23, 69, 70, 71, 72, 73]
+  Abstieg                           9 word    10 in   [23, 71, 72, 73, 74, 323]
+                                    1      as Abstiegs
+  spirituelle Dürre                 1 word     1 in   [25]
+  Tod des Alten                     1 word     1 in   [25]
+  Beobachtung mit Urteil trennt; Bezeugen mit Mitgefühl integriert    4 word     4 in   [25, 777, 834, 836]
+  Bezeugen mit Mitgefühl            8 word     8 in   [25, 656, 723, 777, 834, 836]
+  Beobachtung mit Urteil trennt     6 word     6 in   [25, 655, 750, 777, 834, 836]
+  Kollateralschaden-Report          5 word     5 in   [69, 197, 199, 207, 252]
+  Logikfehler aufgedeckt            3 word     3 in   [68, 140, 142]
+  Emotionale Landkarte              4 word     4 in   [70, 254, 256, 283]
+  Ursachenforschung                 5 word     5 in   [71, 311, 313, 341, 367]
+  Validierung der Angst             4 word     4 in   [72, 369, 371, 398]
+  Muster im Chaos                   4 word     4 in   [73, 425, 427, 454]
+  Die Funktion der Fassade          4 word     4 in   [74, 482, 484, 513]
+  Beschreibung der Leere            4 word     4 in   [75, 541, 543, 569]
+  Dialog der Weisen                 5 word     5 in   [76, 596, 598, 626, 645]
+  Feedback für den Host             4 word     4 in   [77, 668, 670, 697]
+  Der mitfühlende Blick             5 word     5 in   [78, 725, 727, 749, 773]
+  Systemwohlbefinden                2 word     2 in   [163, 195]
+  Systemfluss                       2 word     2 in   [158, 214]
+  Effizienz-Index                   1 word     1 in   [150]
+  Sektor L                          2 word     2 in   [148, 433]
+  Datentier                         1 word     1 in   [170]
+  Mandala                           1 word     2 in   [606, 661]
+                                    1      as Mandalas
+  Tempel                            3 word     3 in   [629, 647, 666]
+  Systemheilung                     1 word     1 in   [25]
+  Suno AI                          13 word    13 in   [137, 194, 251, 308, 366, 422]
+  Synth Goth                        8 word     8 in   [48, 50, 137, 194, 308, 422]
+  Dystopian Future Synth           12 word    12 in   [48, 50, 52, 137, 194, 251]
+  IDM                               5 word     6 in   [50, 52, 56, 137, 194, 251]
+  Progressive Electronic            5 word     5 in   [50, 54, 194, 776, 854]
+  weisen Narren                     2 word     2 in   [777, 842]
+  Argus Male Voice                 41 word    41 in   [88, 147, 154, 168, 176, 190]
+  Schutzfunktion                    4 word     4 in   [74, 523, 535, 539]
+  Kritiker                         13 word    14 in   [17, 40, 52, 67, 138, 699]
+                                    1      as Kritikers
+  systemische Verantwortung         1 word     1 in   [830]
+  Ko-Bewusstseins                   1 word     1 in   [19]
+  Heldinnenreise                   18 word    18 in   [21, 23, 60, 62, 66, 138]
+  ANP                              15 word    29 in   [17, 19, 25, 29, 40, 46]
+  EP                                2 word    19 in   [19, 25, 29, 46, 138, 367]  <-- substring
+  EP-Anteile                        8 word    10 in   [19, 25, 29, 46, 138, 836]
+                                    2      as EP-Anteilen
+  TSDP                              1 word     2 in   [25, 836]
+                                    1      as TSDP-Prinzipien
+  Theorie der strukturellen Dissoziation    1 word     1 in   [25]
+  Metakognition                     3 word     3 in   [844, 854]

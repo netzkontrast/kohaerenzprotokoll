@@ -1,0 +1,25 @@
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[rechtliche-analyse-entlassungsbericht-und-dis.md:#0]
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[rechtliche-analyse-entlassungsbericht-und-dis.md:#0]
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[rechtliche-analyse-entlassungsbericht-und-dis.md:#0]
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[rechtliche-analyse-entlassungsbericht-und-dis.md:#0]
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[rechtliche-analyse-entlassungsbericht-und-dis.md:#0]

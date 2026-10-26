@@ -1,0 +1,197 @@
+{
+  "document": "kohaerenz-protokoll-plot-entwurf",
+  "drive_id": "1v8DtEA3PW3TZEgcIdFCkt4utWlmchPFAe7vfhtcdthk",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-538/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 76,
+    "decisions": 75,
+    "decided_by_lookup": 58,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A blueprint of answers to core questions and a 39-step outline: what it proposes for AEGIS, its perception filter, Kael and the Alters, the DID, the Guardians, the Überwelt, the Kernwelten, the Potentialmeer, the cracks and functional multiplicity went on existing pages as a plan's proposals.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        63,
+        68
+      ],
+      "attribution": "",
+      "note": "the Cognitive Firewall as perception filter"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        58,
+        75,
+        440,
+        442,
+        462
+      ],
+      "attribution": "",
+      "note": "from Entropic Gatekeeper to overtaken, never destroyed"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        199,
+        225,
+        239
+      ],
+      "attribution": "",
+      "note": "a first switch, a first meeting, and another Alter's eyes"
+    },
+    {
+      "page": "did",
+      "lines": [
+        112,
+        200,
+        420,
+        460
+      ],
+      "attribution": "",
+      "note": "Kael's DID as the starting point"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        45,
+        268
+      ],
+      "attribution": "",
+      "note": "AEGIS's dualism and the Entropie-Infektion"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        113,
+        140,
+        287,
+        311,
+        446
+      ],
+      "attribution": "",
+      "note": "witnesses who turn, split and become allies"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        105,
+        129,
+        199,
+        225,
+        422
+      ],
+      "attribution": "",
+      "note": "from a first switch to integration, loneliness and the search for Gleichzeitigkeit"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        58,
+        225,
+        472
+      ],
+      "attribution": "",
+      "note": "symbolic landscapes of Kael's fragments"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        50,
+        422
+      ],
+      "attribution": "",
+      "note": "functional multiplicity reached, then surpassed by the search for Gleichzeitigkeit"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        25,
+        45,
+        470
+      ],
+      "attribution": "",
+      "note": "origin of the Kohärenz-Inseln and goal of the final hunt"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        58,
+        61,
+        256,
+        311
+      ],
+      "attribution": "",
+      "note": "glitches, cracks in the Überwelt and a hiding place in them"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        61,
+        200,
+        471
+      ],
+      "attribution": "",
+      "note": "AEGIS's constructed, vulnerable domain"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the Cognitive Firewall read on aegis-teilfunktionen; `Entropic Gatekeeper` read on aegis; Kohärenz-Inseln, System-Dekohärenz, qualitative Kohärenz and the title are occurrences of `Kohärenz` (J9); the bond partner is named only by an earlier name, so juna gets no reading, and the K-J-Bindung page awaits renaming and gets nothing; the 25 lines holding an earlier name are not cited",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 239,
+      "decision": "reading",
+      "why": "another Alter's eyes through the first instrument; read on the page"
+    },
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 31,
+      "decision": "occurrence",
+      "why": "an earlier name; the draft does not make the identity plain"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebenen",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "on a line with an earlier name; not cited"
+    }
+  ],
+  "not_promoted": [
+    "Kohärenz-Insel(n), K-J compounds, Gleichzeitigkeit, Instrumente der Ordnung, PMAS, RIVE, SARM, OBP and their v1.5 forms, Entropie-Infektion, Welle von Unmöglichkeit, Einsamkeit, Zweck, Entropic Gatekeeper as a surface"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,378 @@
+{
+  "document": "protokoll-der-offenbarung",
+  "step": "reconcile-pre",
+  "at": "2026-10-21",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-21",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 44,
+  "decisions": 47,
+  "same_surface": {},
+  "decided_mechanically": 32,
+  "needs_judgement": 15,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 300
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 98
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 194
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 112
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Eingangsraum"
+      },
+      {
+        "candidate": "Kontrollraum"
+      },
+      {
+        "candidate": "Vestibül"
+      },
+      {
+        "candidate": "Speicherbank"
+      },
+      {
+        "candidate": "Matrix"
+      },
+      {
+        "candidate": "Siegel"
+      },
+      {
+        "candidate": "Kollektivstimme"
+      },
+      {
+        "candidate": "KERN-EINHEIT"
+      },
+      {
+        "candidate": "KERNFRAGMENT"
+      },
+      {
+        "candidate": "Protokollbeginn"
+      },
+      {
+        "candidate": "Logbucheintrag"
+      },
+      {
+        "candidate": "Kernschmelze"
+      },
+      {
+        "candidate": "Abstiegsprotokoll"
+      },
+      {
+        "candidate": "Weichenstellung"
+      },
+      {
+        "candidate": "SWITCH-PROTOKOLL"
+      },
+      {
+        "candidate": "Direktive"
+      },
+      {
+        "candidate": "Übermittlung"
+      },
+      {
+        "candidate": "Kinderstimmen-Archiv"
+      },
+      {
+        "candidate": "Materielle Zeugen"
+      },
+      {
+        "candidate": "Mosaik der Stimmen"
+      },
+      {
+        "candidate": "Logik der Emotion"
+      },
+      {
+        "candidate": "Sektion Trauma"
+      },
+      {
+        "candidate": "Chronik der Entfremdung"
+      },
+      {
+        "candidate": "Dystopian Future Synth"
+      },
+      {
+        "candidate": "Clear Twist"
+      },
+      {
+        "candidate": "Schutzmechanismen"
+      },
+      {
+        "candidate": "Dissoziationsstruktur"
+      },
+      {
+        "candidate": "Latenz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Bunker  /  Bunkers",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss  /  Erste Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Erste Risse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Systemkerne  /  Das System",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das System  /  Systemstimme",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das System  /  Systemstimmen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das System  /  Kael-System-Core",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das System  /  Systemfehler",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Systemstimme  /  Systemstimmen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteile  /  Anteilen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Das System",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "groemauersystemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "groersystemmonitor",
+            "page": "system-monitor"
+          },
+          {
+            "surface": "groesystemmonitor",
+            "page": "system-monitor"
+          },
+          {
+            "surface": "systemgrenze",
+            "page": "grosse-mauer"
+          },
+          {
+            "surface": "systemmonitor",
+            "page": "system-monitor"
+          },
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-System-Core",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Erste Risse",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "kael",
+      "surface": "(an earlier name)",
+      "line": 111,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 112,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

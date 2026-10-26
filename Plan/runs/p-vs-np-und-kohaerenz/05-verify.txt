@@ -1,0 +1,210 @@
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Query"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Query` ^[p-vs-np-und-kohaerenz.md:#22]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Vorteile"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Vorteile` ^[p-vs-np-und-kohaerenz.md:#3]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Nachteile"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Nachteile` ^[p-vs-np-und-kohaerenz.md:#2]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Umsetzung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Umsetzung` ^[p-vs-np-und-kohaerenz.md:#2]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Empfehlung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            5
+
+`Empfehlung` ^[p-vs-np-und-kohaerenz.md:#1]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "wahrscheinlich"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`wahrscheinlich` ^[p-vs-np-und-kohaerenz.md:#9]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "mutmaßlich"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`mutmaßlich` ^[p-vs-np-und-kohaerenz.md:#3]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "könnte"
+whole word, case-sensitive     49
+whole word, case-insensitive   50
+including compounds            69
+
+`könnte` ^[p-vs-np-und-kohaerenz.md:#49]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[p-vs-np-und-kohaerenz.md:#2]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Risse"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Risse` ^[p-vs-np-und-kohaerenz.md:#3]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "RIVE"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`RIVE` ^[p-vs-np-und-kohaerenz.md:#2]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "SARM"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            4
+
+`SARM` ^[p-vs-np-und-kohaerenz.md:#2]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Reboot"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            4
+
+`Reboot` ^[p-vs-np-und-kohaerenz.md:#3]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Kernwelten"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            19
+
+`Kernwelten` ^[p-vs-np-und-kohaerenz.md:#19]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Architekt"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            8
+
+`Architekt` ^[p-vs-np-und-kohaerenz.md:#6]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Echo"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Echo` ^[p-vs-np-und-kohaerenz.md:#4]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "EST"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            11
+
+`EST` ^[p-vs-np-und-kohaerenz.md:#9]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Wächter"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            5
+
+`Wächter` ^[p-vs-np-und-kohaerenz.md:#4]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Cerberus"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Cerberus` ^[p-vs-np-und-kohaerenz.md:#6]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Sucher"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Sucher` ^[p-vs-np-und-kohaerenz.md:#7]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Funke"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funke` ^[p-vs-np-und-kohaerenz.md:#1]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "K-J-Verbindung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`K-J-Verbindung` ^[p-vs-np-und-kohaerenz.md:#3]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Kernparadoxon"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernparadoxon` ^[p-vs-np-und-kohaerenz.md:#1]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Kohärenz Protokoll"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Kohärenz Protokoll` ^[p-vs-np-und-kohaerenz.md:#11]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Kohärenz-Protokoll"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kohärenz-Protokoll` ^[p-vs-np-und-kohaerenz.md:#0]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "P=NP"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`P=NP` ^[p-vs-np-und-kohaerenz.md:#11]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "[K]"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`[K]` ^[p-vs-np-und-kohaerenz.md:#0]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "[V]"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`[V]` ^[p-vs-np-und-kohaerenz.md:#0]
+
+$ python3 scripts/read.py p-vs-np-und-kohaerenz --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[p-vs-np-und-kohaerenz.md:#0]
+
+# stance_marker_count: Empfehlung 1 + Vorteile 3 + Nachteile 2 + Umsetzung 2 = 8
+# census facts: candidates 89, zeros 0, standing-alone-less 33 (from census.py draft)
+$ grep -c "P≠NP" Sources/drive/p-vs-np-und-kohaerenz.md
+1
+$ grep -nP "(?<![\w-])Co-NP|NP-Intermediär" Sources/drive/p-vs-np-und-kohaerenz.md
+116:  - **Co-NP:** Dies ist die Klasse der Probleme, deren *
+117:  - **NP-Intermediär:** Wenn P=NP gilt, dann besagt 

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      47
+  backslash escapes      38
+  typographic marks      54
+  ascii quotes           38
+
+# inflection families -- one term, several surfaces
+  chara    CharacterNode, Charakter, Charakterdynamiken, Charaktere, Charakterhandlung, Charakterhandlungen, Charakteristik, Charakterkarten, Charakterprofile, Charakterprofilen, Charakterpsychologie, Charakters, Charakterwarnung
+  inter    Interaction, Interaktion, Interaktionen, Interaktionsebene, Interaktionselemente, Interface, Interfaces, Interrogatories
+  syste    System, Systemarchitekt, Systemdynamik, Systementwurf, Systemregeln, Systems, Systemwarnungen, Systemwächter
+  arbei    Arbeitsanweisung, Arbeitsflächen, Arbeitsfokus, Arbeitsraum, Arbeitssitzung, Arbeitsumgebung
+  archi    Architectural, Architekt, Architektonische, Architektur, Architekturen, Archiv
+  handl    Handlung, Handlungen, Handlungsbogen, Handlungsbögen, Handlungspfade, Handlungsstränge
+  metap    Metapher, Metaphern, Metaphorik, MetaphysicalState, Metaphysik, Metaphysische
+  agent    Agent, Agenten, Agentenbasierte, Agentenentwicklung, Agentic
+  funkt    Funktion, Funktionale, Funktionalen, Funktionalität, Funktionen
+  gener    Generation, Generative, Generativer, Generiert, Generierung
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturierung
+  analy    Analyse, Analysen, Analyseprozess, Analysiere
+  fehle    Fehlen, Fehler, Fehleranalysen, Fehlermeldung
+  integ    Integration, Integrationswerkstatt, Integratorin, Integrität
+  katal    Katalog, Katalogdaten, Kataloge, Katalogen
+  konfl    Konflikt, Konflikte, Konfliktlösung, Konflikts
+  konze    Konzept, Konzepte, Konzepten, Konzeption
+  manus    Manuskript, Manuskriptanalyse, Manuskripte, Manuskripts
+  proto    Protocol, Protokoll, Protokolle, Protokolls
+  zusam    Zusammenarbeit, Zusammenfassung, Zusammenfügen, Zusammenhänge
+  assis    Assistent, Assistenzsystem, Assistenzsysteme
+  benut    Benutzer, Benutzeroberfläche, Benutzeroberflächen
+  disso    Dissonanz, Dissonanzen, Dissoziation
+  dynam    Dynamic, Dynamics, Dynamik
+  farbs    Farbschema, Farbsystem, Farbsystems
+
+# substring pairs -- never one term, often merged by accident
+  Baum < Weltenbaum
+  Card < Cards
+  Chat < Chatbot
+  Chat < Chatbots
+  Chat < Schatten
+  Code < Codecademy
+  Dies < Diese
+  Dies < Dieses
+  Eine < Deine
+  Eine < Anscheinend
+  Ende < Wendet
+  Ende < Rendert
+  Ende < Rendering
+  Ende < Wachsende
+  Ende < Umfassende
+  Ende < Leuchtendes
+  Farb < Farben
+  Farb < Farbraum
+  Farb < Farbthema
+  Farb < Farbschema

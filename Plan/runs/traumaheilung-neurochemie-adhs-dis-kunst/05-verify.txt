@@ -1,0 +1,19 @@
+# every number the census and note state
+$ python3 scripts/read.py traumaheilung-neurochemie-adhs-dis-kunst --count "Zugriff am"
+`Zugriff am` ^[traumaheilung-neurochemie-adhs-dis-kunst.md:#177]
+$ python3 scripts/read.py traumaheilung-neurochemie-adhs-dis-kunst --count "spekulative Ideen"
+`spekulative Ideen` ^[traumaheilung-neurochemie-adhs-dis-kunst.md:#1]
+$ python3 scripts/read.py traumaheilung-neurochemie-adhs-dis-kunst --count "Heilungsreise"
+`Heilungsreise` ^[traumaheilung-neurochemie-adhs-dis-kunst.md:#3]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+$ read.py --count "Kael"
+whole word, case-sensitive     0
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+$ read.py --count "Nyx"
+whole word, case-sensitive     0
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+$ read.py --count "Album"
+whole word, case-sensitive     0

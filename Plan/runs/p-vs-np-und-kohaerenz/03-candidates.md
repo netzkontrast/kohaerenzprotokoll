@@ -1,0 +1,98 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Observations. The document is a report that applies complexity theory to the novel's system and its four core worlds; the novel's own terms appear mostly as restated input marked [User Query]. The export writes the inequality of P and NP as P=NP throughout. Template labels repeated under each world (Guardian-Operation, Umgebung (EST) & Regeln, Herausforderungen & Limitationen, Metapher) are field labels, not listed. Lines 212, 220, 332, 398 and 400 carry an abbreviated or earlier-named figure pairing; nothing is harvested from them under an earlier name.
+
+## world
+
+- AEGIS
+- Überwelt
+- Kernwelten
+- Kernwelt 1
+- KW1
+- KW2
+- KW3
+- KW4
+- Guardian
+- Guardians
+- Architekt
+- Echo
+- Wächter
+- Sucher
+- Cerberus
+- Kael
+- EST
+- SARM
+- RIVE
+- Risse
+- Reboot
+- K-J-Verbindung
+- Kernparadoxon
+- Kohärenz Protokoll
+- Kohärenz-Patching-Protokoll
+- Potential
+- Paradoxien
+- Kohärenz
+- Entropie
+- Rechenlandschaften
+- Rechenlandschaft
+- Komplexität als Weltphysik
+- komputationale Physik
+- degradierten Modus
+- P-Maschine
+- Logik/Architekt
+- Emotion/Echo
+- Abwehr/Wächter
+- Potential/Sucher/Funke
+- Jenseits von NP / Qualia
+- Jenseits von NP
+- NP-Suche
+- Hybrider Ansatz
+- nicht-deterministischer Löser
+- polynomialer Kreativität
+- Intraktabilität
+- Zustandsvalidierung
+
+## lens
+
+- P vs NP
+- P versus NP
+- P=NP
+- Klasse P
+- NP
+- NP-vollständig
+- NP-schwer
+- NP-intermediär
+- NP-Intermediär
+- Co-NP
+- co-NP
+- EXPTIME
+- EXPSPACE
+- PSPACE
+- Haltingproblem
+- Turingmaschine
+- Zertifikat
+- Verifizierer
+- Heuristiken
+- Approximationsalgorithmen
+- Qualia
+- Cobham-Edmonds-These
+- Cook-Levin-Theorem
+- Ladner's Theorem
+- Gödels Unvollständigkeitssätzen
+- Subgraph-Isomorphismus
+- Constraint Satisfaction Problems
+- CSPs
+- Exploration
+- Exploitation
+- Polynomzeit
+- Polynomialzeit
+- Unentscheidbar
+- Millennium-Preis-Probleme
+- SAT
+- 3SAT
+- TSP
+- Graphenisomorphismus
+- Primfaktorzerlegung
+- Faktorisierung
+- Falsch-Positiv
+- Komplexitätsklassen

@@ -1,0 +1,351 @@
+{
+  "document": "sozialrechtliche-strategien-bei-traumafolgestoerungen",
+  "drive_id": "1j1q0i2FzWNNSpSmIVlwHlfHJskmXPZjhV9f6glWJqsY",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 14,
+  "backslash_escapes": 127,
+  "typographic_marks": 12,
+  "ascii_quotes": 46,
+  "inflection_families": {
+    "recht": [
+      "RECHT",
+      "Recht",
+      "Rechte",
+      "Rechtsanwalt",
+      "Rechtsanwälte",
+      "Rechtsauffassung",
+      "Rechtsgrundlage",
+      "Rechtsportal",
+      "Rechtsprechung",
+      "Rechtspsychologie",
+      "Rechtsschutz",
+      "Rechtsschutzversicherung",
+      "Rechtsschutzversicherungen"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interesse",
+      "Interessen",
+      "International",
+      "Internationales",
+      "Interne",
+      "Internet",
+      "Interpretation",
+      "Intervention",
+      "Interview",
+      "Interviews"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbild",
+      "Selbsterleben",
+      "Selbstfürsorge",
+      "Selbstgefühl",
+      "Selbstkonzeptveränderungen",
+      "Selbstorganisation",
+      "Selbstständigkeit",
+      "Selbstverletzung",
+      "Selbstversorgung",
+      "Selbstversorgungsakte"
+    ],
+    "sozia": [
+      "Soziale",
+      "Sozialgericht",
+      "Sozialgerichten",
+      "Sozialgerichtliche",
+      "Sozialgerichtsbarkeit",
+      "Sozialgerichtsgesetz",
+      "Sozialgerichtssachen",
+      "Sozialgerichtsverfahren",
+      "Sozialgesetzbuch",
+      "Sozialrecht",
+      "Sozialverband"
+    ],
+    "traum": [
+      "TRAUMA",
+      "Trauma",
+      "Traumaanamnese",
+      "Traumafolgen",
+      "Traumafolgesto",
+      "Traumafolgestörung",
+      "Traumafolgestörungen",
+      "Traumas",
+      "Traumatisierungen",
+      "Traumen"
+    ],
+    "funkt": [
+      "Funktionelle",
+      "Funktionen",
+      "Funktionieren",
+      "Funktionsbeeinträchtigung",
+      "Funktionsbeeinträchtigungen",
+      "Funktionsbereichen",
+      "Funktionseinschränkungen",
+      "Funktionsfähigkeit",
+      "Funktionsverlust"
+    ],
+    "gesam": [
+      "Gesamt",
+      "Gesamtausmaß",
+      "Gesamtbetrachtung",
+      "Gesamtbild",
+      "Gesamtergebnis",
+      "Gesamthafte",
+      "Gesamtheit",
+      "Gesamtleiden",
+      "Gesamtverfassung"
+    ],
+    "schwe": [
+      "Schweiz",
+      "Schwerbehindert",
+      "Schwerbehinderteneigenschaft",
+      "Schwerbehindertenrecht",
+      "Schwere",
+      "Schweregrad",
+      "Schweregrade",
+      "Schweregrads",
+      "Schwerpunkt"
+    ],
+    "unter": [
+      "Unterlagen",
+      "Unterschreitung",
+      "Unterschätzung",
+      "Unterstellung",
+      "Unterstützungsangebote",
+      "Untersuchung",
+      "Untersuchungsbedingungen",
+      "Untersuchungsbericht",
+      "Untersuchungsdauer"
+    ],
+    "besch": [
+      "Bescheid",
+      "Beschluss",
+      "Beschreibung",
+      "Beschreibungen",
+      "Beschränkt",
+      "Beschwerden",
+      "Beschwerdenvalidierung",
+      "Beschädigung"
+    ],
+    "bewei": [
+      "Beweisfragen",
+      "Beweisführung",
+      "Beweislast",
+      "Beweismaßstabes",
+      "Beweismitteln",
+      "Beweismittelsammlung",
+      "Beweiswert",
+      "Beweiswürdigung"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebensbereiche",
+      "Lebensbereichen",
+      "Lebensführung",
+      "Lebensgeschichte",
+      "Lebensjahres",
+      "Lebensplanung"
+    ],
+    "persö": [
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteils",
+      "Persönlichkeitsstörung",
+      "Persönlichkeitsstörungen",
+      "Persönlichkeitszustand",
+      "Persönlichkeitszustände",
+      "Persönlichkeitszuständen",
+      "Persönlichkeitsänderung"
+    ],
+    "psych": [
+      "Psych",
+      "Psychische",
+      "Psychopathologie",
+      "Psychosomati",
+      "Psychosomatische",
+      "Psychotherapeut",
+      "Psychotherapeuten",
+      "Psychotraumatologie"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltags",
+      "Alltagsamnesien",
+      "Alltagsbeeinträchtigungen",
+      "Alltagsbewältigung",
+      "Alltagsrelevante",
+      "Alltagsstrukturierung"
+    ],
+    "diagn": [
+      "DIAGNOSTIK",
+      "Diagnose",
+      "Diagnosekriterien",
+      "Diagnosen",
+      "Diagnosestellung",
+      "Diagnostik",
+      "Diagnostische"
+    ],
+    "ident": [
+      "Identifizierung",
+      "Identität",
+      "Identitäten",
+      "Identitätsfragmentierung",
+      "Identitätsstörung",
+      "Identitätsverwirrung",
+      "Identitätswechsel"
+    ],
+    "krank": [
+      "Krankenversicherung",
+      "Krankheitsbild",
+      "Krankheitsbilder",
+      "Krankheitsbildes",
+      "Krankheitsgeschehens",
+      "Krankheitsverlaufs",
+      "Krankheitswert"
+    ],
+    "manda": [
+      "Mandanteninteressen",
+      "Mandantschaft",
+      "Mandat",
+      "Mandatsbearbeitung",
+      "Mandatsziel",
+      "Mandatsziele",
+      "Mandatsziels"
+    ],
+    "sachv": [
+      "Sachverhalten",
+      "Sachverhalts",
+      "Sachverstaendigengutachten",
+      "Sachverständigen",
+      "Sachverständigengutachten",
+      "Sachverständigengutachtens",
+      "Sachverständiger"
+    ],
+    "befun": [
+      "Befund",
+      "Befundberichten",
+      "Befunde",
+      "Befunden",
+      "Befunderhebung",
+      "Befundes"
+    ],
+    "belas": [
+      "Belastung",
+      "Belastungen",
+      "Belastungsbezogene",
+      "Belastungsst",
+      "Belastungsstoerung",
+      "Belastungsstörung"
+    ],
+    "frage": [
+      "Frage",
+      "Fragebogen",
+      "Fragebögen",
+      "Fragen",
+      "Fragestellung",
+      "Fragestellungen"
+    ],
+    "gutac": [
+      "Gutachten",
+      "Gutachtens",
+      "Gutachtenverwertbarkeit",
+      "Gutachter",
+      "Gutachters",
+      "Gutachtliche"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptomcluster",
+      "Symptomclustern",
+      "Symptome",
+      "Symptomen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Akte",
+      "Kontakte"
+    ],
+    [
+      "Akte",
+      "Charakteristisch"
+    ],
+    [
+      "Akte",
+      "Selbstversorgungsakte"
+    ],
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Allenfalls"
+    ],
+    [
+      "Amts",
+      "Amtsermittlung"
+    ],
+    [
+      "Amts",
+      "Amtsermittlungsgrundsatz"
+    ],
+    [
+      "Arzt",
+      "Arztes"
+    ],
+    [
+      "Auch",
+      "Missbrauch"
+    ],
+    [
+      "Auch",
+      "Substanzgebrauch"
+    ],
+    [
+      "Auch",
+      "Substanzgebrauchsstörungen"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Ausbildung"
+    ],
+    [
+      "Bild",
+      "Gesamtbild"
+    ],
+    [
+      "Bild",
+      "Selbstbild"
+    ],
+    [
+      "Bild",
+      "Störungsbild"
+    ],
+    [
+      "Bild",
+      "Krankheitsbild"
+    ],
+    [
+      "Bild",
+      "Urteilsbildung"
+    ],
+    [
+      "Bild",
+      "Störungsbildern"
+    ],
+    [
+      "Bild",
+      "Krankheitsbilder"
+    ]
+  ]
+}

@@ -1,0 +1,93 @@
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#0]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#0]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "evtl."
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`evtl.` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#9]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "ehem."
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`ehem.` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#11]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Zielsetzung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Zielsetzung` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#1]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Forschungsauftrag"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Forschungsauftrag` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#1]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Referenzsystem"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzsystem` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#1]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Forschungsaufgaben"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Forschungsaufgaben` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#1]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Erwartetes Ergebnis"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Erwartetes Ergebnis` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#1]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Juna/V"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna/V` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#4]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Juna"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Juna` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#4]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "AEGIS"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`AEGIS` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#7]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Paradoxon X"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Paradoxon X` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#2]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Cache Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cache Kohärenz` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#1]
+$ python3 scripts/read.py forschungsauftrag-spannungspunktanalyse-und-charakterausarbe --count "Kernwelten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kernwelten` ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:#2]
+stance_marker_count 14 = Forschungsauftrag 1 + Zielsetzung 1 + Referenzsystem 1 + Forschungsaufgaben 1 + Erwartetes Ergebnis 1 + evtl. 9
+eleven profiles: ehem. 11 (above); four numbered headings: L13 L17 L217 L243; question marks L99 L135 L143 L153: $ grep -n '?' Sources/drive/forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md | cut -d: -f1
+99 135 143 153 

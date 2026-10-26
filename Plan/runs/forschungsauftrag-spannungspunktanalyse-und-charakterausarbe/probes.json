@@ -1,0 +1,241 @@
+{
+  "document": "forschungsauftrag-spannungspunktanalyse-und-charakterausarbe",
+  "drive_id": "1Wl83N2BDD-y8BzPM0ZauAxeH1JHOs9J4jma--mpABzg",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 0,
+  "backslash_escapes": 0,
+  "typographic_marks": 44,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstaufgabe",
+      "Selbstbehauptung",
+      "Selbstbestimmung",
+      "Selbstbewusstsein",
+      "Selbstbild",
+      "Selbstermächtigung",
+      "Selbstinstrumentalisierung",
+      "Selbstregulation"
+    ],
+    "emoti": [
+      "Emotionale",
+      "Emotionaler",
+      "Emotionen",
+      "Emotionsblockade",
+      "Emotionskontrolle",
+      "Emotionslos",
+      "Emotionsregulation"
+    ],
+    "bindu": [
+      "Bindung",
+      "Bindungs",
+      "Bindungsaufbau",
+      "Bindungsmodus",
+      "Bindungssuche",
+      "Bindungsverhalten"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen",
+      "Anteils",
+      "Anteilspaare"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interaktionspartner",
+      "Interne",
+      "Internes"
+    ],
+    "chara": [
+      "Charakterausarbeitung",
+      "Charakterdarstellung",
+      "Charakterprofil",
+      "Charakterprofile"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationspotenzial",
+      "Integrationsprozess",
+      "Integrieren"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktpotenziale",
+      "Konfliktvermeidung"
+    ],
+    "schut": [
+      "Schutz",
+      "Schutzfunktion",
+      "Schutzinstinkt",
+      "Schutzmodus"
+    ],
+    "sexua": [
+      "Sexual",
+      "Sexualisierter",
+      "Sexualisierung",
+      "Sexualität"
+    ],
+    "struk": [
+      "Strukturellen",
+      "Strukturen",
+      "Strukturiertes",
+      "Strukturierung"
+    ],
+    "syste": [
+      "System",
+      "Systemarchitekt",
+      "Systemdynamik",
+      "Systemtheorie"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumaforschung",
+      "Traumagefühle",
+      "Traumas"
+    ],
+    "analy": [
+      "Analyse",
+      "Analysefähigkeit",
+      "Analytiker"
+    ],
+    "bedro": [
+      "Bedrohung",
+      "Bedrohungen",
+      "Bedrohungswahrnehmung"
+    ],
+    "entwi": [
+      "Entwickelt",
+      "Entwicklung",
+      "Entwicklungswege"
+    ],
+    "funkt": [
+      "Funktionale",
+      "Funktionieren",
+      "Funktionsweise"
+    ],
+    "muste": [
+      "Musteranalyse",
+      "Mustererkennung",
+      "Musterrwiederholung"
+    ],
+    "probl": [
+      "Problem",
+      "Probleme",
+      "Problemlösung"
+    ],
+    "überl": [
+      "Überlastung",
+      "Überleben",
+      "Überlebensstrategie"
+    ],
+    "allta": [
+      "Alltagsmanagement",
+      "Alltagsmanager"
+    ],
+    "ambiv": [
+      "Ambivalentes",
+      "Ambivalenz"
+    ],
+    "angst": [
+      "Angst",
+      "Angstblockaden"
+    ],
+    "bedür": [
+      "Bedürfnisse",
+      "Bedürftigkeit"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alex",
+      "(an earlier name, redacted under decision 028)"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Kern",
+      "Kernängste"
+    ],
+    [
+      "Last",
+      "Überlastung"
+    ],
+    [
+      "Lust",
+      "Kontrollverlust"
+    ],
+    [
+      "Meta",
+      "Metakognitiver"
+    ],
+    [
+      "Nähe",
+      "Todesnähe"
+    ],
+    [
+      "Nähe",
+      "Annäherung"
+    ],
+    [
+      "Ruhe",
+      "Ruhender"
+    ],
+    [
+      "Tief",
+      "Tiefe"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Ziel",
+      "Zielsetzung"
+    ],
+    [
+      "Ziel",
+      "Zielstrebigkeit"
+    ],
+    [
+      "Angst",
+      "Angstblockaden"
+    ],
+    [
+      "Krise",
+      "Krisenmanager"
+    ],
+    [
+      "Leben",
+      "Überleben"
+    ],
+    [
+      "Leben",
+      "Lebensfreude"
+    ],
+    [
+      "Leben",
+      "Überlebensstrategie"
+    ],
+    [
+      "Logik",
+      "Unlogik"
+    ]
+  ]
+}

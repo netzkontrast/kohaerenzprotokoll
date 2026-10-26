@@ -329,6 +329,17 @@ def sheet(slug: str) -> str:
     for name, ok, found, blocks in rows:
         mark = "ok" if ok else ("**refuses**" if blocks else "noted")
         out.append(f"| {name} | {mark} | {found} |")
+    if thought_page(slug) is not None:
+        import fullread
+        st = fullread.status(slug)
+        fails, notes = fullread.problems_of(slug, verify=fullread.verifier())
+        out += ["", "## The full read — the thought page is what the author reviews", "",
+                f"`Wiki/terms/{slug}.md`: {st['refs']} references read, "
+                + ", ".join(f"{n} {k}" for k, n in st["states"].items() if n)
+                + f"; `fullread.py check`: {len(fails)} problem(s)" + (", " + "; ".join(notes) if notes else "") + ".",
+                "One word of the author's promotes this page and approves the thought page (`apply` does both)."]
+        rows = rows + [("the thought page is whole and current", not fails and not notes,
+                        "; ".join(fails + notes) or "yes", True)]
     out += ["", "## For a person — the author decides", ""] + [f"- [ ] {j}" for j in JUDGEMENT]
     blocking = [n for n, ok, _, b in rows if b and not ok]
     out += ["", "**`apply` refuses: " + ", ".join(blocking) + ".**" if blocking else
@@ -343,6 +354,14 @@ def apply(slug: str, words: str, by: str, today: str | None = None) -> dict:
         raise SystemExit("a promotion records the author's words verbatim: --words is required (P0)")
     path = PAGES / f"{slug}.md"
     text = path.read_text(encoding="utf-8")
+    thought = thought_page(slug)
+    if thought is not None:
+        # One act (the author's answer of 2026-10-23): the words that promote the candidate approve its thought
+        # page, so the page must be whole and of this very state of the candidate.
+        import fullread
+        fails, notes = fullread.problems_of(slug, verify=fullread.verifier())
+        if fails or notes:
+            raise SystemExit("refused — the thought page is not ready: " + "; ".join(fails + notes))
     if since_readings(text):
         text = fold_since(text)
         path.write_text(text, encoding="utf-8")
@@ -360,7 +379,19 @@ def apply(slug: str, words: str, by: str, today: str | None = None) -> dict:
            "coverage": {"naming": cov["naming"], "on_page": cov["on_page"], "unread": list(cov["unread"])}}
     with LEDGER.open("a", encoding="utf-8") as fh:
         fh.write(json.dumps(row, ensure_ascii=False) + "\n")
+    if thought is not None:
+        import terms
+        row["thought_page"] = terms.approve(slug, words, by, today)
     return row
+
+
+def thought_page(slug: str) -> Path | None:
+    """The full read's page for this candidate (Wiki/terms/<slug>.md, form: gedanken), or None."""
+    from wiki_index import frontmatter
+    path = ROOT / "Wiki" / "terms" / f"{slug}.md"
+    if path.exists() and frontmatter(path.read_text(encoding="utf-8")).get("form") == "gedanken":
+        return path
+    return None
 
 
 def withdraw(slug: str, words: str, by: str) -> dict:

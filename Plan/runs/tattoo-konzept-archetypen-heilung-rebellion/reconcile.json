@@ -1,0 +1,71 @@
+{
+  "document": "tattoo-konzept-archetypen-heilung-rebellion",
+  "drive_id": "1Vo-ByUwZaxXHrlUXJ-6WQaLwHHzkJ6lQ_Z0DisyyFtA",
+  "step": "reconcile",
+  "at": "2026-10-21",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-21, from the full-ingest task with no count before the list; light pass at reconciliation; no readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 47,
+    "decisions": 46,
+    "decided_by_lookup": 41,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A personal tattoo concept that uses the figures' names as labels (decision 028): read as a light pass, nothing harvested.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "light pass (decision 028): personal material (decision 028); not harvested; every term is an occurrence only; nothing harvested",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 68,
+      "decision": "occurrence",
+      "why": "personal material (decision 028); not harvested"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 254,
+      "decision": "occurrence",
+      "why": "personal material (decision 028); not harvested"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 58,
+      "decision": "occurrence",
+      "why": "personal material (decision 028); not harvested"
+    },
+    {
+      "page": "vortex",
+      "surface": "Vortex",
+      "line": 187,
+      "decision": "occurrence",
+      "why": "personal material (decision 028); not harvested"
+    }
+  ],
+  "not_promoted": [
+    "everything: a light pass"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

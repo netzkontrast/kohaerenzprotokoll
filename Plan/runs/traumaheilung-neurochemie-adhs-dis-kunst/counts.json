@@ -1,0 +1,515 @@
+{
+  "document": "traumaheilung-neurochemie-adhs-dis-kunst",
+  "drive_id": "169_sQpzjh9qjJcyRiIlj1tqkpLAPVcca75_SKAcGXhs",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Zersplitterung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        364,
+        365
+      ]
+    },
+    "Fragmentierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        255,
+        285,
+        304,
+        365,
+        388
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        366
+      ]
+    },
+    "Abschaltung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        276,
+        367
+      ]
+    },
+    "Die Schleife": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        368
+      ]
+    },
+    "Verkörperung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        304,
+        369
+      ]
+    },
+    "Allianz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        172,
+        370
+      ]
+    },
+    "Reaktivierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        136,
+        371
+      ]
+    },
+    "Rekonsolidierung": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        130,
+        142,
+        143,
+        145,
+        372
+      ]
+    },
+    "Integration": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        184,
+        259,
+        263,
+        287,
+        326,
+        373,
+        388
+      ]
+    },
+    "Überwindung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        324,
+        326,
+        374
+      ]
+    },
+    "Rebellion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        375
+      ]
+    },
+    "Bedeutung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        147,
+        246,
+        291,
+        309,
+        376
+      ]
+    },
+    "Shattering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        364
+      ]
+    },
+    "Fragmentation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        365,
+        522,
+        544
+      ]
+    },
+    "Hypervigilance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        366
+      ]
+    },
+    "Shutdown": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        161,
+        367,
+        387,
+        475,
+        476
+      ]
+    },
+    "The Loop": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        368
+      ]
+    },
+    "Embodiment": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        369,
+        542
+      ]
+    },
+    "Alliance": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        370,
+        482,
+        562
+      ]
+    },
+    "Reactivation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        371
+      ]
+    },
+    "Reconsolidation": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        372,
+        407,
+        459,
+        460,
+        461,
+        466
+      ]
+    },
+    "Overcoming": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        374
+      ]
+    },
+    "Heilungsreise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        349,
+        358,
+        376
+      ]
+    },
+    "Schlüsselwörter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        358
+      ]
+    },
+    "Klangliche Dissonanz und Harmonie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        386
+      ]
+    },
+    "Visuals und Kitsch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        389
+      ]
+    },
+    "Theorie der strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "Der anscheinend normale Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Der emotionale Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "ANP": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        273,
+        276,
+        287,
+        365
+      ]
+    },
+    "EP": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        274,
+        276,
+        287,
+        365
+      ]
+    },
+    "polyvagalen Leiter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "dorsal-vagalen Shutdowns": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Neuroplastizität": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        45,
+        110,
+        118,
+        122,
+        126,
+        326
+      ]
+    },
+    "Gedächtnisrekonsolidierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        134,
+        184
+      ]
+    },
+    "Mismatch": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        137,
+        372
+      ]
+    },
+    "Enaktivismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        304,
+        310
+      ]
+    },
+    "4E-Kognition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        310
+      ]
+    },
+    "Default Mode Network": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        210,
+        285,
+        501,
+        506
+      ]
+    },
+    "Salience Network": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Psychoneuroimmunologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Darm-Hirn-Achse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        99,
+        106,
+        369
+      ]
+    },
+    "HHN-Achse": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        55,
+        60,
+        80,
+        106,
+        155,
+        173,
+        183,
+        364,
+        368
+      ]
+    },
+    "kPTBS": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        22,
+        30,
+        38,
+        45,
+        53,
+        55,
+        80,
+        88,
+        106,
+        173,
+        194,
+        210,
+        238,
+        276,
+        442
+      ]
+    },
+    "ADHS": {
+      "n": 18,
+      "n_including_compounds": 21,
+      "lines": [
+        13,
+        190,
+        194,
+        198,
+        207,
+        209,
+        210,
+        214,
+        217,
+        225,
+        227,
+        236,
+        238,
+        246,
+        406,
+        518
+      ]
+    },
+    "DIS": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        13,
+        190,
+        194,
+        250,
+        259,
+        262,
+        276,
+        285,
+        287
+      ]
+    },
+    "Dissoziation": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        161,
+        259,
+        267,
+        276,
+        284,
+        287,
+        365,
+        367,
+        389
+      ]
+    },
+    "Logotherapie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        342,
+        347
+      ]
+    },
+    "Amor Fati": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        323
+      ]
+    },
+    "Willen zur Macht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        324,
+        374
+      ]
+    },
+    "Ressentiment": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        324
+      ]
+    },
+    "Wille zum Sinn": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        342
+      ]
+    },
+    "Posttraumatisches Wachstum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        347
+      ]
+    },
+    "Kunsttherapie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        384,
+        389
+      ]
+    }
+  }
+}

@@ -1,0 +1,49 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Observations. A short plot-point list in three parts (episodes, a council scene, conceptual steps); the document is a summary and names few terms. Persona names in the first part are bracketed role labels. No quotation marks mark invention; the double quotes mark labels and a title.
+
+- Das Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Programms
+- Echos im Zersplitterten Spiegel
+- Zersplitterten Spiegel
+- Intervention aus dem Überraum
+- Die Jagd nach der Realität
+- Jagd nach der Realität
+- Die Naht im Selbst
+- Naht im Selbst
+- Architekt
+- Echo
+- Wächter
+- Sucher
+- Funke
+- Partnerin
+- Personas
+- Guardians
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Überraum
+- Nexus
+- Echo-Intrusion
+- Funke-Intrusion
+- Architekt-Intrusion
+- Glitch-Kind
+- Roter Vogel
+- Display-Riss
+- Realitätsriss
+- Realitätssturm
+- Risse
+- Glitches
+- Bruch
+- Klarheit
+- Integrations-Werkzeuge
+- Seele=Information
+- Seelen sind vernetzte Information
+- funktionale Multiplizität
+- Außen
+- Anomalie
+- Trauma-Loop
+- V4

@@ -1,0 +1,166 @@
+{
+  "document": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+  "drive_id": "1R76-PUw9a4KpNSyIvAeEiUq2dv3NTRqzIHzBdCD8wik",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-544/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 46,
+    "decisions": 49,
+    "decided_by_lookup": 40,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A narrative summary of the same earlier plot idea (Detailkonzept V4) as the plot summary of 532: what it proposes for the personas, the Guardians, the Partnerin, the cracks, the Überraum and Nexus, the programme and the finale's multiplicity went on existing pages.",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Cerberus among the Guardians analysing the collapse"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        19,
+        27,
+        31
+      ],
+      "attribution": "",
+      "note": "watchers in the Überraum who cannot capture the Partnerin"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Kairos among the Guardians analysing the collapse"
+    },
+    {
+      "page": "kohaerenz-programm",
+      "lines": [
+        19,
+        27
+      ],
+      "attribution": "",
+      "note": "the Seelen-Kohärenz-Programm failing through the fragmentation"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "LogOS among the Guardians analysing the collapse"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Mnemosyne among the Guardians analysing the collapse"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        19,
+        31
+      ],
+      "attribution": "",
+      "note": "stable functional multiplicity in the finale"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the Überraum as Nexus"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        19,
+        23,
+        31
+      ],
+      "attribution": "",
+      "note": "a constant across the realities, an anomaly to the Guardians"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        19,
+        23,
+        27,
+        31
+      ],
+      "attribution": "",
+      "note": "facets of one core consciousness who turn inward"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        19,
+        23,
+        31
+      ],
+      "attribution": "",
+      "note": "cracks from the fragmentation and from the hunt"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "Sophia among the Guardians analysing the collapse"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        23
+      ],
+      "attribution": "",
+      "note": "the Guardians' vantage and the scene of Part 2"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the five Guardians read by name; inner coherence is an occurrence of `Kohärenz` (J9); the „Seelen-Kohärenz-Programm“ read on kohaerenz-programm; the plan's simulation is not the Überwelt; L11 addresses whoever asked and is not cited",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "inner coherence the tools aim at, not the page's term (J9)"
+    }
+  ],
+  "not_promoted": [
+    "Kern-Bewusstsein, the archetypes, Meta-Narrator, Bruch der Realitäten, Integrations-Werkzeuge, Seele als Information, Jagd nach der Realität, Klarheit, Detailkonzept V4"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

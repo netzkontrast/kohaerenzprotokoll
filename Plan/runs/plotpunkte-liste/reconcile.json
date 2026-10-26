@@ -1,0 +1,190 @@
+{
+  "document": "plotpunkte-liste",
+  "drive_id": "1EEm2IvXX1NpctLeIesTcDHYsYx2gsdRFFDznvo8OGHk",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-533/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 43,
+    "decisions": 44,
+    "decided_by_lookup": 27,
+    "needs_judgement": 17
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The plot points of the same earlier plot idea as the plot summary (V4): what each point proposes for the Guardians, the personas, the partner figure, the cracks and the finale went on existing pages.",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        29,
+        32
+      ],
+      "attribution": "",
+      "note": "Cerberus explains one side of the crisis in Part 2"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        29,
+        34,
+        35,
+        43,
+        44
+      ],
+      "attribution": "",
+      "note": "the Guardians meet, find no data on the partner figure and hand out tools"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        29,
+        33
+      ],
+      "attribution": "",
+      "note": "Kairos explains one side of the crisis in Part 2"
+    },
+    {
+      "page": "kohaerenz-programm",
+      "lines": [
+        30
+      ],
+      "attribution": "",
+      "note": "LogOS on the errors of the Seelen-Kohärenz-Programm"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        29,
+        30
+      ],
+      "attribution": "",
+      "note": "LogOS explains one side of the crisis in Part 2"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        29,
+        31
+      ],
+      "attribution": "",
+      "note": "Mnemosyne explains one side of the crisis in Part 2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "the finale establishes functional multiplicity"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        29
+      ],
+      "attribution": "",
+      "note": "Überraum/Nexus as the place of the alarm"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        17,
+        18,
+        20,
+        23,
+        25,
+        40,
+        41,
+        42,
+        46
+      ],
+      "attribution": "",
+      "note": "one guise per episode, the anomaly, and the transcendent partner of the finale"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        17,
+        25,
+        39,
+        41,
+        43,
+        46
+      ],
+      "attribution": "",
+      "note": "episodes headed by the five personas, then repair as a team and the turn inward"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        17,
+        21,
+        24,
+        41,
+        44,
+        45
+      ],
+      "attribution": "",
+      "note": "cracks from the first episode to the twist"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        29,
+        34
+      ],
+      "attribution": "",
+      "note": "Sophia explains one side of the crisis in Part 2"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        25,
+        27
+      ],
+      "attribution": "",
+      "note": "the system alarm in the Überraum ends Part 1"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the five Guardians read by name; `Wächter`, `Architekt` and `Echo` are personas, not AEGIS or the paged terms; `Glitch-Kind` read on risse; inner coherence and the working title are occurrences of `Kohärenz` (J9, J16); the Seelen-Kohärenz-Programm read on kohaerenz-programm",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 45,
+      "decision": "occurrence",
+      "why": "„innerer Kohärenz“ as the twist's solution, not the page's term (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 43,
+      "decision": "occurrence",
+      "why": "the simulation's origin sought outside, not the Überwelt"
+    }
+  ],
+  "not_promoted": [
+    "Sucher, Roter Vogel, Display-Riss, Realitätsriss, Realitätssturm, Bruch, Klarheit, Integrations-Werkzeuge, Seele=Information, Trauma-Loop, Glitch-Kind, the part titles, V4"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

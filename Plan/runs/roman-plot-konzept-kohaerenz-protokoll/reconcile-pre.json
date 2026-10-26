@@ -1,0 +1,537 @@
+{
+  "document": "roman-plot-konzept-kohaerenz-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 77,
+  "decisions": 77,
+  "same_surface": {},
+  "decided_mechanically": 59,
+  "needs_judgement": 18,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 420
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 185
+      },
+      {
+        "candidate": "Überwelt",
+        "page": "ueberwelt",
+        "readings": 151
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 273
+      },
+      {
+        "candidate": "Potentialmeer",
+        "page": "potentialmeer",
+        "readings": 124
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 286
+      },
+      {
+        "candidate": "Cognitive Firewall",
+        "page": "aegis-teilfunktionen",
+        "readings": 53
+      },
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 192
+      },
+      {
+        "candidate": "DID",
+        "page": "did",
+        "readings": 110
+      },
+      {
+        "candidate": "Dissoziative Identitätsstruktur",
+        "page": "did",
+        "readings": 110
+      },
+      {
+        "candidate": "K-J-Bindung",
+        "page": "kael-julia-bindung",
+        "readings": 11
+      },
+      {
+        "candidate": "Externe Ebene",
+        "page": "externe-ebene",
+        "readings": 71
+      },
+      {
+        "candidate": "Entropie",
+        "page": "entropie",
+        "readings": 183
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Reinitialisierung"
+      },
+      {
+        "candidate": "Protokoll v1.5"
+      },
+      {
+        "candidate": "v1.5"
+      },
+      {
+        "candidate": "v1.4"
+      },
+      {
+        "candidate": "Beobachtungsprotokolle"
+      },
+      {
+        "candidate": "OBP"
+      },
+      {
+        "candidate": "PMAS"
+      },
+      {
+        "candidate": "Instrumente der Ordnung"
+      },
+      {
+        "candidate": "Gleichzeitigkeit"
+      },
+      {
+        "candidate": "Einsamkeit"
+      },
+      {
+        "candidate": "Heldinnenreise"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Metaebene"
+      },
+      {
+        "candidate": "Anteile"
+      },
+      {
+        "candidate": "K-J-Verbindung"
+      },
+      {
+        "candidate": "K-J-Paradoxon"
+      },
+      {
+        "candidate": "K-J-Anomalie"
+      },
+      {
+        "candidate": "informationale Topologie"
+      },
+      {
+        "candidate": "Kern-Triade"
+      },
+      {
+        "candidate": "Zerlegung in Teilsysteme"
+      },
+      {
+        "candidate": "externe Suche"
+      },
+      {
+        "candidate": "Wandel zu Hilfesuchenden"
+      },
+      {
+        "candidate": "konstruierte Realität"
+      },
+      {
+        "candidate": "informationelle Filterung"
+      },
+      {
+        "candidate": "hierarchischen Protokollschichten"
+      },
+      {
+        "candidate": "hierarchischer Kontrolle"
+      },
+      {
+        "candidate": "informationalen Chaos"
+      },
+      {
+        "candidate": "Punkt ohne Wiederkehr"
+      },
+      {
+        "candidate": "Autopoiesis"
+      },
+      {
+        "candidate": "Komplexen Adaptiven Systemen"
+      },
+      {
+        "candidate": "Komplexes Adaptives System"
+      },
+      {
+        "candidate": "CAS"
+      },
+      {
+        "candidate": "Informationstheorie"
+      },
+      {
+        "candidate": "Kolmogorov-Komplexität"
+      },
+      {
+        "candidate": "Landauer-Prinzip"
+      },
+      {
+        "candidate": "Kybernetik zweiter Ordnung"
+      },
+      {
+        "candidate": "Environmental Storytelling"
+      },
+      {
+        "candidate": "EST"
+      },
+      {
+        "candidate": "It from Bit"
+      },
+      {
+        "candidate": "Prozessphilosophie"
+      },
+      {
+        "candidate": "dissipativen Strukturen"
+      },
+      {
+        "candidate": "Attraktoren"
+      },
+      {
+        "candidate": "informationalen Phasenübergang"
+      },
+      {
+        "candidate": "kognitive Dissonanz"
+      },
+      {
+        "candidate": "Selbstorganisation"
+      },
+      {
+        "candidate": "Dunamis"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Guardians  /  Guardian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Logik-Guardian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardian  /  Gedächtnis-Guardian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Welle von Unmöglichkeit  /  Welle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Welle der Unmöglichkeit  /  Welle",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Entropie  /  Inhärente Entropie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Ontologie  /  Relationale Ontologie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kaels",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          },
+          {
+            "surface": "kaelswohneinheit",
+            "page": "kaels-wohneinheit"
+          },
+          {
+            "surface": "kaelswohneinheit10",
+            "page": "kaels-wohneinheit"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Problem",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Inseln",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Insel massiver Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "K-J-Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Bibliothek der Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kaskade von Inkohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Inhärente Entropie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "entropie",
+            "page": "entropie"
+          }
+        ]
+      },
+      {
+        "candidate": "wertvolles Strukturvorgehen der selbst-Kohärenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Kohärenz-Typ",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 65,
+      "already_read": false
+    },
+    {
+      "page": "genesis",
+      "surface": "Genesis",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 68,
+      "already_read": false
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 15,
+      "already_read": false
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "already_read": false
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 96,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

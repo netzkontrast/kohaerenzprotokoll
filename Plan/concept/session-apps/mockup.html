@@ -1,0 +1,635 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Startseite der Sitzungen</title>
+<meta name="description" content="Mockup der neuen Startseite: Bericht der Sitzung, Fragen an dich mit Tiefe, Antworten als Pull Request, der nächste Startprompt, alle Sitzungen und ihre Apps.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+:root{
+  --paper:#FBFAF6; --surface:#FFFFFF; --sunk:#F3F1EA; --ink:#1C1B18; --ink-2:#4A4740; --ink-3:#7A766C;
+  --rule:#E2DED3; --rule-2:#CFCABD; --rubric:#B0341E; --rubric-soft:#F6E6E1; --blue:#2B4C8C; --blue-soft:#E5EAF4;
+  --ok:#2F6B45; --ok-soft:#E3EFE6; --wait:#8A5A12; --wait-soft:#F4EBDA;
+  --serif:"Newsreader",Georgia,"Times New Roman",serif; --sans:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif; --mono:"IBM Plex Mono",ui-monospace,Menlo,Consolas,monospace;
+  --r:6px; --gutter:16px; --max:1120px;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#161513; --surface:#1E1D1A; --sunk:#252420; --ink:#ECE8DF; --ink-2:#C2BDB1; --ink-3:#8F8A7F;
+    --rule:#33312C; --rule-2:#46433C; --rubric:#E07158; --rubric-soft:#3A221C; --blue:#8FA9DE; --blue-soft:#1F2838;
+    --ok:#7FBF94; --ok-soft:#1D2E23; --wait:#D9AE62; --wait-soft:#33291A; color-scheme:dark;
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#161513; --surface:#1E1D1A; --sunk:#252420; --ink:#ECE8DF; --ink-2:#C2BDB1; --ink-3:#8F8A7F;
+  --rule:#33312C; --rule-2:#46433C; --rubric:#E07158; --rubric-soft:#3A221C; --blue:#8FA9DE; --blue-soft:#1F2838;
+  --ok:#7FBF94; --ok-soft:#1D2E23; --wait:#D9AE62; --wait-soft:#33291A; color-scheme:dark;
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth; scroll-padding-top:64px}
+body{margin:0; background:var(--paper); color:var(--ink); font:15px/1.55 var(--sans); -webkit-font-smoothing:antialiased; overflow-x:hidden}
+a{color:var(--blue); text-underline-offset:2px}
+.mono,code{font-family:var(--mono); font-size:.86em}
+.wrap{max-width:var(--max); margin:0 auto; padding:0 var(--gutter)}
+@media (min-width:900px){ :root{--gutter:40px} }
+
+/* header + nav */
+.mast{padding:40px 0 24px; border-bottom:1px solid var(--rule)}
+.mast .kicker{font:500 12px/1 var(--mono); letter-spacing:.08em; text-transform:uppercase; color:var(--rubric)}
+.mast h1{font:500 clamp(34px,5vw,52px)/1.05 var(--serif); margin:12px 0 10px; letter-spacing:-.01em}
+.mast p{margin:0; color:var(--ink-2); max-width:62ch}
+.stamp{margin-top:14px; display:flex; flex-wrap:wrap; gap:6px 16px; font:12px/1.4 var(--mono); color:var(--ink-3)}
+.mockflag{display:inline-block; border:1px dashed var(--rule-2); border-radius:3px; padding:1px 6px}
+nav.top{position:sticky; top:0; z-index:10; background:var(--paper); border-bottom:1px solid var(--rule)}
+nav.top .wrap{display:flex; gap:4px; overflow-x:auto; scrollbar-width:none}
+nav.top .wrap::-webkit-scrollbar{display:none}
+nav.top a{flex:none; padding:14px 10px 12px; font:500 13px/1 var(--sans); color:var(--ink-2); text-decoration:none; border-bottom:2px solid transparent}
+nav.top a:hover{color:var(--ink)}
+nav.top a.on{color:var(--ink); border-bottom-color:var(--rubric)}
+nav.top .n{font:11px var(--mono); color:var(--ink-3); margin-right:5px}
+
+/* sections */
+section{padding:48px 0 8px}
+.sh{display:flex; align-items:baseline; justify-content:space-between; gap:12px; flex-wrap:wrap; margin-bottom:18px}
+.sh h2{font:500 30px/1.15 var(--serif); margin:0}
+.sh h2 .n{font:500 13px var(--mono); color:var(--rubric); vertical-align:6px; margin-right:10px}
+.sh .aside{font-size:13px; color:var(--ink-3); max-width:52ch}
+.card{background:var(--surface); border:1px solid var(--rule); border-radius:var(--r)}
+.lbl{font:500 11px/1 var(--mono); letter-spacing:.08em; text-transform:uppercase; color:var(--ink-3)}
+.pill{display:inline-flex; align-items:center; gap:5px; font:500 11.5px/1 var(--mono); padding:4px 7px; border-radius:3px; border:1px solid var(--rule-2); color:var(--ink-2); white-space:nowrap}
+.pill.rub{color:var(--rubric); border-color:var(--rubric); background:var(--rubric-soft)}
+.pill.blue{color:var(--blue); border-color:var(--blue); background:var(--blue-soft)}
+.pill.ok{color:var(--ok); border-color:var(--ok); background:var(--ok-soft)}
+.pill.wait{color:var(--wait); border-color:var(--wait); background:var(--wait-soft)}
+.dot{width:6px; height:6px; border-radius:50%; background:currentColor; display:inline-block}
+button{font:inherit; color:inherit}
+.btn{cursor:pointer; font:500 13.5px/1 var(--sans); padding:10px 14px; border-radius:var(--r); border:1px solid var(--rule-2); background:var(--surface); color:var(--ink)}
+.btn:hover{border-color:var(--ink-3)}
+.btn.primary{background:var(--ink); border-color:var(--ink); color:var(--paper)}
+.btn.primary:disabled{opacity:.4; cursor:not-allowed}
+.btn.ghost{background:transparent}
+:focus-visible{outline:2px solid var(--blue); outline-offset:2px}
+
+/* 1 report */
+.report{padding:0}
+.report-head{display:flex; flex-wrap:wrap; gap:10px 24px; align-items:flex-start; justify-content:space-between; padding:22px 24px; border-bottom:1px solid var(--rule)}
+.report-head h3{font:500 24px/1.2 var(--serif); margin:6px 0 4px}
+.report-head .dates{font:13px var(--mono); color:var(--ink-3)}
+.meta{display:grid; grid-template-columns:repeat(4,auto); gap:4px 22px; font-size:13px}
+.meta dt{grid-row:1} .meta dd{margin:0; font:500 13px var(--mono); overflow-wrap:anywhere}
+.report-body{display:grid; grid-template-columns:1.25fr 1fr; gap:0}
+.col{padding:22px 24px}
+.col + .col{border-left:1px solid var(--rule)}
+.block + .block{margin-top:26px; padding-top:22px; border-top:1px solid var(--rule)}
+.block h4{font:500 19px/1.2 var(--serif); margin:0 0 12px; display:flex; gap:10px; align-items:baseline}
+.block h4 .lbl{color:var(--rubric)}
+.tools{list-style:none; margin:0; padding:0}
+.tools li{display:grid; grid-template-columns:150px 1fr; gap:12px; padding:9px 0; border-top:1px solid var(--rule); font-size:14px}
+.tools li:first-child{border-top:0; padding-top:0}
+.tools .t{font:500 13px var(--mono); color:var(--blue)}
+.tools .num{font-family:var(--mono); font-size:12.5px; color:var(--ink-3)}
+.thought{font:400 19px/1.45 var(--serif); margin:0; padding-left:14px; border-left:2px solid var(--rubric)}
+.thought + p{color:var(--ink-2); font-size:14px; margin:12px 0 0}
+ol.prio{margin:0; padding:0; list-style:none; counter-reset:p}
+ol.prio li{counter-increment:p; display:grid; grid-template-columns:28px 1fr; gap:8px; padding:8px 0; border-top:1px solid var(--rule); font-size:14px}
+ol.prio li:first-child{border-top:0; padding-top:0}
+ol.prio li::before{content:counter(p); font:500 20px/1 var(--serif); color:var(--rubric)}
+ul.next{margin:0; padding:0; list-style:none}
+ul.next li{padding:7px 0 7px 20px; position:relative; font-size:14px}
+ul.next li::before{content:"→"; position:absolute; left:0; color:var(--ink-3)}
+.foot-note{font-size:12.5px; color:var(--ink-3); padding:12px 24px; border-top:1px solid var(--rule); background:var(--sunk); border-radius:0 0 var(--r) var(--r)}
+@media (max-width:820px){
+  .report-body{grid-template-columns:1fr}
+  .col + .col{border-left:0; border-top:1px solid var(--rule)}
+  .meta{grid-template-columns:repeat(2,auto)} .meta dt{grid-row:auto}
+  .tools li{grid-template-columns:1fr; gap:2px}
+  .report-head,.col{padding:18px 16px}
+  .foot-note{padding:12px 16px}
+}
+
+/* 2 questions */
+.qfilter{display:flex; gap:6px; flex-wrap:wrap}
+.qlist{display:grid; gap:14px}
+.q{padding:18px 20px 16px}
+.q-top{display:flex; flex-wrap:wrap; gap:8px 12px; align-items:center; justify-content:space-between}
+.q-id{font:500 12px var(--mono); color:var(--ink-3)}
+.depth{display:inline-flex; align-items:center; gap:8px}
+.seg{display:inline-flex; border:1px solid var(--rule-2); border-radius:var(--r); overflow:hidden}
+.seg button{cursor:pointer; border:0; background:transparent; padding:6px 10px; font:500 12px/1 var(--mono); color:var(--ink-2); border-left:1px solid var(--rule-2)}
+.seg button:first-child{border-left:0}
+.seg button[aria-pressed="true"]{background:var(--blue); color:var(--paper)}
+.depth-hint{font-size:12px; color:var(--ink-3)}
+.q h3{font:500 21px/1.3 var(--serif); margin:12px 0 6px}
+.q details{margin:4px 0 12px; font-size:14px; color:var(--ink-2)}
+.q summary{cursor:pointer; font:500 12.5px var(--sans); color:var(--blue); list-style:none; display:inline-flex; gap:6px; align-items:center}
+.q summary::-webkit-details-marker{display:none}
+.q summary::before{content:"▸"; font-size:10px; transition:transform .15s}
+.q details[open] summary::before{transform:rotate(90deg)}
+.q details .ctx{margin-top:8px; padding:10px 12px; background:var(--sunk); border-radius:var(--r); border:1px solid var(--rule)}
+.q details .ctx p{margin:0 0 6px} .q details .ctx p:last-child{margin:0}
+.chips{display:flex; flex-wrap:wrap; gap:8px; margin:4px 0 4px}
+.chip{position:relative}
+.chip input{position:absolute; opacity:0; inset:0; margin:0; cursor:pointer}
+.chip span{display:inline-block; padding:8px 13px; border:1px solid var(--rule-2); border-radius:999px; font-size:14px; background:var(--surface)}
+.chip input:checked + span{border-color:var(--rubric); color:var(--rubric); background:var(--rubric-soft); font-weight:500}
+.chip input:focus-visible + span{outline:2px solid var(--blue); outline-offset:2px}
+textarea{width:100%; min-height:92px; resize:vertical; font:15px/1.5 var(--serif); color:var(--ink); background:var(--paper); border:1px solid var(--rule-2); border-radius:var(--r); padding:10px 12px}
+textarea::placeholder{color:var(--ink-3); font-style:italic}
+.words{margin-top:10px}
+.words label{display:block; font-size:12.5px; color:var(--ink-3); margin-bottom:4px}
+.words textarea{min-height:54px; font-size:14px}
+.q-foot{display:flex; flex-wrap:wrap; gap:8px 14px; align-items:center; justify-content:space-between; margin-top:12px; padding-top:12px; border-top:1px solid var(--rule); font-size:12.5px; color:var(--ink-3)}
+.q[data-locked="true"] .answer{opacity:.6; pointer-events:none}
+.savebar{position:sticky; bottom:0; z-index:9; margin-top:18px; background:var(--surface); border:1px solid var(--rule-2); border-radius:var(--r); padding:14px 16px; display:flex; flex-wrap:wrap; gap:10px 18px; align-items:center; justify-content:space-between; box-shadow:0 -1px 0 var(--paper)}
+.savebar .state{font:500 13px var(--mono)}
+.savebar .note{flex-basis:100%; font-size:12.5px; color:var(--ink-3); margin:0}
+.savebar.done{border-color:var(--ok)}
+.savebar.done .state{color:var(--ok)}
+
+/* 3 prompt */
+.prompt{padding:0}
+.prompt-head{display:flex; flex-wrap:wrap; gap:10px; justify-content:space-between; align-items:center; padding:12px 16px; border-bottom:1px solid var(--rule)}
+pre.gen{margin:0; padding:18px 20px; font:13px/1.65 var(--mono); white-space:pre-wrap; word-break:break-word; color:var(--ink); background:var(--surface); border-radius:0 0 var(--r) var(--r); max-height:560px; overflow:auto}
+pre.gen .c{color:var(--ink-3)} pre.gen .h{color:var(--rubric); font-weight:500} pre.gen .k{color:var(--blue)}
+pre.gen .new{background:var(--ok-soft); color:var(--ok)}
+.src-line{font-size:12.5px; color:var(--ink-3); margin-top:10px}
+.srcs{display:flex; flex-wrap:wrap; gap:6px; margin-top:8px}
+
+/* 4 sessions */
+.slist{border-top:1px solid var(--rule)}
+.srow{display:grid; grid-template-columns:96px minmax(0,1.5fr) 140px 70px 150px; gap:14px; align-items:center; padding:13px 4px; border-bottom:1px solid var(--rule); font-size:14px}
+.srow.head{font:500 11px/1 var(--mono); letter-spacing:.06em; text-transform:uppercase; color:var(--ink-3); padding:10px 4px}
+.srow .d{font:12.5px var(--mono); color:var(--ink-3)}
+.srow .t b{font-weight:500; display:block}
+.srow .t .id{font:12px var(--mono); color:var(--ink-3)}
+.srow .pr{font:500 12.5px var(--mono)}
+.srow .app{text-align:right}
+.srow.current{background:var(--sunk)}
+.toggle{display:inline-flex; align-items:center; gap:8px; cursor:pointer; font-size:13.5px; user-select:none}
+.toggle input{appearance:none; width:34px; height:20px; border-radius:999px; background:var(--rule-2); position:relative; margin:0; cursor:pointer; transition:background .15s}
+.toggle input::after{content:""; position:absolute; top:2px; left:2px; width:16px; height:16px; border-radius:50%; background:var(--surface); transition:left .15s}
+.toggle input:checked{background:var(--blue)}
+.toggle input:checked::after{left:16px}
+@media (max-width:820px){
+  .srow.head{display:none}
+  .srow{grid-template-columns:1fr auto; grid-template-areas:"t t" "d pr" "st app"; gap:6px 10px; padding:14px 0}
+  .srow .t{grid-area:t} .srow .d{grid-area:d} .srow .pr{grid-area:pr; text-align:right} .srow .st{grid-area:st} .srow .app{grid-area:app}
+}
+
+/* 5 apps */
+.grid{display:grid; grid-template-columns:repeat(auto-fill,minmax(240px,1fr)); gap:14px}
+.app-card{padding:18px; display:flex; flex-direction:column; gap:10px; min-height:210px}
+.app-card .glyph{width:36px; height:36px; border:1px solid var(--rule-2); border-radius:var(--r); display:grid; place-items:center; color:var(--rubric)}
+.app-card h3{font:500 21px/1.2 var(--serif); margin:0}
+.app-card p{margin:0; font-size:14px; color:var(--ink-2); flex:1}
+.app-card .own{font:12px var(--mono); color:var(--ink-3)}
+.app-card .row{display:flex; justify-content:space-between; align-items:center; gap:8px}
+.app-card.new{border-style:dashed; background:transparent}
+.app-card.hl{border-color:var(--blue); box-shadow:0 0 0 3px var(--blue-soft)}
+
+/* 6 parallel */
+.par{display:grid; grid-template-columns:1fr 1fr; gap:14px}
+.lane{padding:16px 18px}
+.lane .row{display:flex; justify-content:space-between; gap:8px; align-items:center; flex-wrap:wrap}
+.lane h3{font:500 19px/1.2 var(--serif); margin:8px 0 10px}
+.lane dl{margin:0; display:grid; grid-template-columns:auto 1fr; gap:4px 12px; font-size:13px}
+.lane dt{color:var(--ink-3)} .lane dd{margin:0; font-family:var(--mono); font-size:12.5px; word-break:break-all}
+.bar{height:6px; border-radius:3px; background:var(--sunk); border:1px solid var(--rule); margin-top:12px; overflow:hidden}
+.bar i{display:block; height:100%; background:var(--blue)}
+.rule-note{margin-top:14px; padding:14px 18px; font-size:14px; color:var(--ink-2)}
+.rule-note b{color:var(--ink); font-weight:500}
+.rule-note ul{margin:8px 0 0; padding-left:18px}
+.rule-note li{margin:3px 0}
+@media (max-width:820px){ .par{grid-template-columns:1fr} }
+
+footer{margin:56px 0 0; padding:20px 0 40px; border-top:1px solid var(--rule); font-size:12.5px; color:var(--ink-3)}
+.toast{position:fixed; left:50%; bottom:20px; transform:translateX(-50%) translateY(20px); opacity:0; background:var(--ink); color:var(--paper); font:500 13px var(--sans); padding:9px 14px; border-radius:var(--r); transition:all .2s; z-index:20; pointer-events:none}
+.toast.on{opacity:1; transform:translateX(-50%) translateY(0)}
+@media (prefers-reduced-motion:reduce){ *{transition:none!important; scroll-behavior:auto!important} }
+</style>
+</head>
+<body>
+
+<header class="mast">
+  <div class="wrap">
+    <div class="kicker">Kohärenz Protokoll · Projekt-App</div>
+    <h1>Startseite der Sitzungen</h1>
+    <p>Jede Sitzung berichtet zuerst, was sie getan und gedacht hat, stellt dir ihre Fragen mit einer Tiefe, und deine Antworten gehen als Pull Request zurück ins Repository. Aus allen Entscheidungen erzeugt ein Skript den nächsten Startprompt.</p>
+    <div class="stamp">
+      <span class="mockflag">Mockup · Platzhalterdaten</span>
+      <span>Stand: Commit 96c533e1</span>
+      <span>main · 2026-10-26</span>
+    </div>
+  </div>
+</header>
+
+<nav class="top" aria-label="Abschnitte">
+  <div class="wrap">
+    <a href="#sitzung" class="on"><span class="n">1</span>Diese Sitzung</a>
+    <a href="#fragen"><span class="n">2</span>Fragen an dich</a>
+    <a href="#prompt"><span class="n">3</span>Nächster Startprompt</a>
+    <a href="#alle"><span class="n">4</span>Alle Sitzungen</a>
+    <a href="#apps"><span class="n">5</span>Apps der Sitzungen</a>
+    <a href="#parallel"><span class="n">6</span>Parallel</a>
+  </div>
+</nav>
+
+<main class="wrap">
+
+<!-- 1 -->
+<section id="sitzung" aria-labelledby="h-sitzung">
+  <div class="sh">
+    <h2 id="h-sitzung"><span class="n">01</span>Diese Sitzung</h2>
+    <span class="aside">Der Bericht steht vor allem anderen: erst lesen, was geschah, dann antworten.</span>
+  </div>
+
+  <article class="card report">
+    <div class="report-head">
+      <div>
+        <span class="pill wait"><span class="dot"></span>wartet auf dich</span>
+        <h3>Die Schreibwerkstatt</h3>
+        <div class="dates">2026-10-23 → 2026-10-26 · Entscheidung 030</div>
+      </div>
+      <dl class="meta">
+        <dt class="lbl">Sitzung</dt><dd>writing-workshop</dd>
+        <dt class="lbl">Branch</dt><dd>claude/adoring-sagan-l2qtnq</dd>
+        <dt class="lbl">PR</dt><dd><a href="#">#195</a></dd>
+        <dt class="lbl">Commits</dt><dd>14</dd>
+      </dl>
+    </div>
+
+    <div class="report-body">
+      <div class="col">
+        <div class="block">
+          <h4><span class="lbl">Getan</span>Sechs Werkzeuge und ein voller Durchgang</h4>
+          <ul class="tools">
+            <li><span class="t">prose_rules.py</span><span>Das Register der Prosaregeln mit Status und mechanischen Prüfungen. <span class="num">25 Regeln · 5 bestätigt</span></span></li>
+            <li><span class="t">weiche.py</span><span>Ein Entscheidungsblatt beantworten — mit deinen Worten und der Zeile für den Kanon.</span></li>
+            <li><span class="t">continuity.py</span><span>Vier Kontinuitätstabellen pro Kapitel, ein Entwurf wird dagegen geprüft. <span class="num">357 Zeilen vorbelegt</span></span></li>
+            <li><span class="t">brief.py</span><span>Das Kapitel-Briefing: entschieden, vorgeschlagen, Quellen, Kontinuität, offene Weichen. <span class="num">Kap 1 aktuell · 11 offene Weichen</span></span></li>
+            <li><span class="t">manuscript.py</span><span>Szenen, Prüfungen, Freigabe nur durch deine geschriebenen Worte.</span></li>
+            <li><span class="t">Schreibtisch</span><span>Der neue Reiter in der App: Raster Kap 0–40, Briefing, Szenen mit Markierungen je Absatz, Regelfragen.</span></li>
+            <li><span class="t">genesis-klammer</span><span>Voller Durchgang des Begriffs, als Gedankenseite in <code>Wiki/terms/</code>. <span class="num">76 Gedanken</span></span></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <div class="block">
+          <h4><span class="lbl">Gedacht</span></h4>
+          <p class="thought">Nichts wird freigegeben ohne deine Worte. Ein Werkzeug schlägt vor, du entscheidest.</p>
+          <p>Deshalb hat kein Werkzeug dieser Sitzung einen Knopf, der etwas bestätigt. Jede Freigabe ist ein Satz von dir, der wörtlich im Datensatz steht.</p>
+        </div>
+        <div class="block">
+          <h4><span class="lbl">Prioritäten</span></h4>
+          <ol class="prio">
+            <li><span>Die 11 offenen Weichen von Kap 1 — ohne sie bleibt das Briefing ein Vorschlag.</span></li>
+            <li><span>Die 18 offenen Prosaregeln bestätigen oder verwerfen.</span></li>
+            <li><span>Erst dann die Beats von Kap 1, Szene 1.</span></li>
+          </ol>
+        </div>
+        <div class="block">
+          <h4><span class="lbl">Als Nächstes</span></h4>
+          <ul class="next">
+            <li>Du beantwortest die 11 Weichen von Kap 1 (unten, Abschnitt 2).</li>
+            <li>Du bestätigst oder verwirfst 18 offene Regeln.</li>
+            <li>Die nächste Sitzung schreibt die Beats von Kap 1, Szene 1 — als Vorschlag.</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="foot-note">Datensatz: <code>Plan/sessions/writing-workshop.json</code> · Bericht geschrieben, bevor die App gebaut wurde.</div>
+  </article>
+</section>
+
+<!-- 2 -->
+<section id="fragen" aria-labelledby="h-fragen">
+  <div class="sh">
+    <h2 id="h-fragen"><span class="n">02</span>Fragen an dich</h2>
+    <div class="qfilter" role="group" aria-label="Fragen filtern">
+      <span class="pill">Tiefe 1 · ja/nein</span>
+      <span class="pill">Tiefe 2 · Auswahl</span>
+      <span class="pill">Tiefe 3 · freie Antwort</span>
+    </div>
+  </div>
+  <p class="aside" style="margin:-6px 0 18px;color:var(--ink-3);font-size:13.5px;max-width:70ch">Die Sitzung schlägt die Tiefe vor; du kannst sie ändern. Tiefe 1 fragt ja oder nein, Tiefe 2 lässt dich wählen, Tiefe 3 gibt dir den Zusammenhang und ein freies Feld.</p>
+
+  <div class="qlist" id="qlist"></div>
+
+  <div class="savebar" id="savebar">
+    <span class="state" id="savestate">0 Antworten · noch nichts gespeichert</span>
+    <button class="btn primary" id="savebtn" disabled>Antworten speichern → Pull Request</button>
+    <p class="note">Deine Antworten sind deine Worte und werden wörtlich gespeichert. In <code>Manuscript/kanon.md</code> landen sie erst durch den Merge — den nimmst du selbst vor.</p>
+  </div>
+</section>
+
+<!-- 3 -->
+<section id="prompt" aria-labelledby="h-prompt">
+  <div class="sh">
+    <h2 id="h-prompt"><span class="n">03</span>Nächster Startprompt</h2>
+    <span class="aside">Erzeugt, nie getippt. Er ändert sich, sobald deine Antworten als PR gespeichert sind.</span>
+  </div>
+  <div class="card prompt">
+    <div class="prompt-head">
+      <span class="lbl">Sitzung: kap1-szene1-beats · erzeugt 2026-10-26</span>
+      <button class="btn" id="copybtn">Kopieren</button>
+    </div>
+<pre class="gen" id="gen"><span class="h"># Startprompt — kap1-szene1-beats</span>
+<span class="c"># erzeugt von scripts/sessions.py aus Plan/sessions/*.json — nicht von Hand bearbeiten</span>
+
+<span class="h">## Zuerst lesen</span>
+- AGENTS.md, NOW.md, CLAUDE.md, PRINCIPLES.md
+- Plan/decisions/030-the-writing-workshop.md
+- Manuscript/kap-01/briefing.md      <span class="c">(brief.py, Stand 2026-10-26)</span>
+- Plan/weichen/w16-laenge.md
+- Plan/sessions/writing-workshop.json
+
+<span class="h">## Auftrag</span>
+Beats für Kap 1, Szene 1 als Vorschlag in manuscript.py anlegen.
+Kanon und Manuskript bleiben unberührt; Freigabe nur durch deine Worte.
+
+<span class="h">## In der App entschieden</span>
+<span id="decided">- <span class="k">W12</span>  2026-10-24  beantwortet (PR #193, gemergt)
+- <span class="k">R-L1</span> 2026-10-24  bestätigt  (PR #193, gemergt)</span>
+
+<span class="h">## Offen, weitergetragen</span>
+<span id="carried">- <span class="k">W16</span>  Wie lang ist ein Kapitel im Pilot?            Tiefe 2
+- <span class="k">R-L3</span> Erstsatz ohne Figurennamen?                   Tiefe 1
+- <span class="k">K1-G</span> Grundhaltung von Kap 1 — Bestätigung oder Frist? Tiefe 3
+- 8 weitere Weichen von Kap 1, 17 weitere Regeln</span>
+
+<span class="h">## Anspruch</span>
+Session: kap1-szene1-beats
+Claim: Plan/sessions/kap1-szene1-beats.json</pre>
+  </div>
+  <p class="src-line">Erzeugt von <code>scripts/sessions.py</code> aus <code>Plan/sessions/*.json</code> — niemals getippt. Gelesene Datensätze:</p>
+  <div class="srcs">
+    <span class="pill">writing-workshop.json</span>
+    <span class="pill">full-read-genesis-klammer.json</span>
+    <span class="pill">ingest-end.json</span>
+    <span class="pill">+ 9 erledigte</span>
+  </div>
+</section>
+
+<!-- 4 -->
+<section id="alle" aria-labelledby="h-alle">
+  <div class="sh">
+    <h2 id="h-alle"><span class="n">04</span>Alle Sitzungen</h2>
+    <label class="toggle"><input type="checkbox" id="onlyapp"> nur mit App</label>
+  </div>
+  <div class="slist" id="slist">
+    <div class="srow head"><span>Datum</span><span>Sitzung</span><span>Zustand</span><span>PR</span><span style="text-align:right">App</span></div>
+  </div>
+</section>
+
+<!-- 5 -->
+<section id="apps" aria-labelledby="h-apps">
+  <div class="sh">
+    <h2 id="h-apps"><span class="n">05</span>Apps der Sitzungen</h2>
+    <span class="aside">Jede Sitzung darf eine kleine App bauen. Sie lebt hier, nicht in einem eigenen Projekt.</span>
+  </div>
+  <div class="grid" id="appgrid">
+    <article class="card app-card" id="app-schreibtisch">
+      <div class="row"><span class="glyph" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="2" y="3" width="14" height="11" rx="1"/><path d="M2 7h14M7 7v7"/></svg></span><span class="pill blue">neu</span></div>
+      <h3>Schreibtisch</h3>
+      <p>Raster Kap 0–40, Briefing, Szenen mit Markierungen je Absatz, offene Weichen und Regelfragen an einem Ort.</p>
+      <div class="row"><span class="own">writing-workshop</span><a class="btn ghost" href="#">Öffnen</a></div>
+    </article>
+    <article class="card app-card" id="app-gedanken">
+      <div class="row"><span class="glyph" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.4"><path d="M3 4h12M3 8h9M3 12h12M3 16h6"/></svg></span><span class="pill">76 Gedanken</span></div>
+      <h3>Gedanken</h3>
+      <p>Die Gedankenseite eines Begriffs aus dem vollen Durchgang: jeder Gedanke einmal, mit allen Quellen und Haltungen.</p>
+      <div class="row"><span class="own">full-read-genesis-klammer</span><a class="btn ghost" href="#">Öffnen</a></div>
+    </article>
+    <article class="card app-card" id="app-lesefragen">
+      <div class="row"><span class="glyph" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.4"><circle cx="9" cy="9" r="6.5"/><path d="M7.2 7.2a1.9 1.9 0 1 1 2.5 1.8c-.5.2-.7.6-.7 1.1v.4M9 12.6v.2"/></svg></span><span class="pill">9 offen</span></div>
+      <h3>Lesefragen</h3>
+      <p>Fragen, die beim Lesen eines Dokuments offen blieben, mit Zeilenverweis — zum Beantworten oder Weiterreichen.</p>
+      <div class="row"><span class="own">reading-questions</span><a class="btn ghost" href="#">Öffnen</a></div>
+    </article>
+    <article class="card app-card" id="app-board">
+      <div class="row"><span class="glyph" aria-hidden="true"><svg width="18" height="18" viewBox="0 0 18 18" fill="none" stroke="currentColor" stroke-width="1.4"><rect x="2" y="3" width="4" height="12"/><rect x="7" y="3" width="4" height="8"/><rect x="12" y="3" width="4" height="10"/></svg></span><span class="pill">live</span></div>
+      <h3>Session-Board</h3>
+      <p>Ansprüche und aktive Branches von GitHub, alle fünf Minuten neu, solange die Seite sichtbar ist.</p>
+      <div class="row"><span class="own">session-board</span><a class="btn ghost" href="#">Öffnen</a></div>
+    </article>
+    <article class="card app-card new">
+      <div class="row"><span class="glyph" aria-hidden="true">+</span></div>
+      <h3>Nächste App</h3>
+      <p>Die nächste Sitzung legt ihre App in <code>Plan/sessions/&lt;id&gt;/app/</code> ab; die Startseite findet sie über den Datensatz.</p>
+      <div class="row"><span class="own">—</span></div>
+    </article>
+  </div>
+</section>
+
+<!-- 6 -->
+<section id="parallel" aria-labelledby="h-parallel">
+  <div class="sh">
+    <h2 id="h-parallel"><span class="n">06</span>Parallel</h2>
+    <span class="aside">Zwei Sitzungen laufen gerade gleichzeitig.</span>
+  </div>
+  <div class="par">
+    <article class="card lane">
+      <div class="row"><span class="pill wait"><span class="dot"></span>wartet auf dich</span><span class="mono" style="color:var(--ink-3)">PR #195</span></div>
+      <h3>Die Schreibwerkstatt</h3>
+      <dl>
+        <dt>Sitzung</dt><dd>writing-workshop</dd>
+        <dt>Branch</dt><dd>claude/adoring-sagan-l2qtnq</dd>
+        <dt>Datensatz</dt><dd>Plan/sessions/writing-workshop.json</dd>
+        <dt>Fragen</dt><dd>3 offen · 0 gespeichert</dd>
+      </dl>
+      <div class="bar" aria-label="Fortschritt"><i style="width:86%"></i></div>
+    </article>
+    <article class="card lane">
+      <div class="row"><span class="pill blue"><span class="dot"></span>läuft</span><span class="mono" style="color:var(--ink-3)">PR #197</span></div>
+      <h3>Voller Durchgang: aegis</h3>
+      <dl>
+        <dt>Sitzung</dt><dd>full-read-aegis</dd>
+        <dt>Branch</dt><dd>claude/full-read-aegis-k7d2</dd>
+        <dt>Datensatz</dt><dd>Plan/sessions/full-read-aegis.json</dd>
+        <dt>Fragen</dt><dd>noch keine</dd>
+      </dl>
+      <div class="bar" aria-label="Fortschritt"><i style="width:38%"></i></div>
+    </article>
+  </div>
+  <div class="card rule-note">
+    <b>Wie Konflikte vermieden werden:</b> Jede Sitzung schreibt genau eine Datei, ihren eigenen Datensatz.
+    <ul>
+      <li>Bericht, Fragen und App-Verweis stehen in <code>Plan/sessions/&lt;id&gt;.json</code> — zwei Sitzungen berühren nie dieselbe Datei.</li>
+      <li>Deine Antworten gehen auf einen eigenen Branch je Tag (<code>app/antworten-JJJJ-MM-TT</code>) und hängen sich an den Datensatz der fragenden Sitzung.</li>
+      <li>Startseite und Startprompt werden aus allen Datensätzen erzeugt; niemand bearbeitet sie von Hand.</li>
+      <li>Der Anspruch bleibt der offene PR mit <code>Session: &lt;id&gt;</code> im Text — ein Branch-Name allein ist keiner.</li>
+    </ul>
+  </div>
+</section>
+
+<footer>Mockup für <code>Plan/concept/session-apps/</code> · statisch, ohne Build · alle Daten Platzhalter außer dem Bericht der Schreibwerkstatt.</footer>
+</main>
+
+<div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+<script>
+(function(){
+  var DEPTH_HINT={1:"ja / nein",2:"Auswahl",3:"freie Antwort"};
+  var STATUS={offen:["","offen"],beantwortet:["blue","beantwortet"],gespeichert:["ok","gespeichert"],pr:["ok","als PR veröffentlicht"]};
+  var Q=[
+    {id:"W16",src:"Plan/weichen/w16-laenge.md (Beispiel; real am 2026-10-26 beantwortet)",depth:2,status:"offen",
+     title:{1:"Soll ein Kapitel im Pilot höchstens 2 000 Wörter lang sein?",2:"Wie lang ist ein Kapitel im Pilot?",3:"Wie lang soll ein Kapitel im Pilot sein, und warum?"},
+     ctx:["Die Weiche W16 ist offen. brief.py rechnet für Kap 1 noch ohne Längenvorgabe; die Szenenzahl hängt davon ab.","Eine Vorgabe gilt nur für den Pilot, nicht für das Buch."],
+     opts:["1 500–2 000 Wörter","3 000–5 000 Wörter","keine Vorgabe"]},
+    {id:"R-L3",src:"Manuscript/regeln.jsonl",depth:1,status:"offen",
+     title:{1:"Soll Regel L3 (Erstsatz ohne Figurennamen) gelten?",2:"Wie streng soll Regel L3 gelten?",3:"Was soll der erste Satz eines Kapitels leisten — und darf er einen Namen tragen?"},
+     ctx:["L3 ist eine von 18 offenen Regeln. Bestätigt, prüft prose_rules.py jeden Kapitelanfang mechanisch und meldet einen Namen wie Kael im ersten Satz.","Eine Regel gilt erst, wenn deine Worte im Register stehen."],
+     opts:["immer","nur in Akt 1","nur als Hinweis, nie als Fehler"]},
+    {id:"K1-G",src:"Manuscript/kap-01/briefing.md",depth:3,status:"offen",
+     title:{1:"Ist die Grundhaltung von Kap 1 eine Bestätigung?",2:"Welche Grundhaltung hat Kap 1?",3:"Welche Grundhaltung hat Kap 1 — Bestätigung oder Frist?"},
+     ctx:["Das Briefing führt beide Lesarten als Vorschlag: Kap 1 bestätigt, was Kap 0 behauptet, oder es setzt eine Frist, die Kael erst später versteht.","Keine der beiden ist entschieden. Die Wahl verschiebt, was AEGIS in Kap 1 schon weiß.","Wenn du eine dritte Haltung siehst, schreib sie hin."],
+     opts:["Bestätigung","Frist","beides, nacheinander"]},
+    {id:"W12",src:"Plan/weichen/w12-genesis.md",depth:2,status:"pr",pr:"#193",
+     title:{1:"",2:"Wann fällt das Wort Genesis zum ersten Mal?",3:""},
+     ctx:["Bereits beantwortet und mit PR #193 gemergt. Hier nur zur Ansicht."],
+     opts:["Kap 0","Kap 1","später"],answer:"Kap 1"}
+  ];
+
+  var list=document.getElementById("qlist");
+  function esc(s){return String(s).replace(/[&<>"]/g,function(c){return {"&":"&amp;","<":"&lt;",">":"&gt;","\"":"&quot;"}[c];});}
+
+  function answerHTML(q){
+    var name="a-"+q.id, d=q.depth, h="";
+    if(d===1){
+      h='<div class="chips" role="radiogroup" aria-label="Antwort">'+["ja","nein"].map(function(o){return '<label class="chip"><input type="radio" name="'+name+'" value="'+o+'"><span>'+o+'</span></label>';}).join("")+'</div>'+
+        '<div class="words"><label for="w-'+q.id+'">Deine Worte dazu (werden wörtlich gespeichert, optional)</label><textarea id="w-'+q.id+'" placeholder="z. B. warum, oder wo die Regel nicht gelten soll"></textarea></div>';
+    } else if(d===2){
+      h='<div class="chips" role="radiogroup" aria-label="Optionen">'+q.opts.map(function(o){var c=q.answer===o?" checked":"";return '<label class="chip"><input type="radio" name="'+name+'" value="'+esc(o)+'"'+c+'><span>'+esc(o)+'</span></label>';}).join("")+'</div>'+
+        '<div class="words"><label for="w-'+q.id+'">Deine Worte dazu (optional)</label><textarea id="w-'+q.id+'" placeholder="eine Einschränkung, eine Ausnahme …"></textarea></div>';
+    } else {
+      h='<textarea id="w-'+q.id+'" aria-label="Freie Antwort" placeholder="Deine Antwort in deinen Worten. Sie wird wörtlich gespeichert."></textarea>';
+    }
+    return '<div class="answer">'+h+'</div>';
+  }
+  function statusPill(q){var s=STATUS[q.status];return '<span class="pill '+s[0]+'"><span class="dot"></span>'+s[1]+(q.status==="pr"&&q.pr?" "+q.pr:"")+'</span>';}
+
+  function render(q){
+    var el=document.getElementById("q-"+q.id);
+    if(!el){el=document.createElement("article");el.className="card q";el.id="q-"+q.id;list.appendChild(el);}
+    var locked=q.status==="gespeichert"||q.status==="pr";
+    el.setAttribute("data-locked",locked?"true":"false");
+    var seg=[1,2,3].map(function(n){var dis=locked||!q.title[n]?" disabled":"";return '<button type="button" aria-pressed="'+(q.depth===n)+'" data-d="'+n+'"'+dis+' title="Tiefe '+n+': '+DEPTH_HINT[n]+'">'+n+'</button>';}).join("");
+    el.innerHTML=
+      '<div class="q-top"><span class="q-id">'+q.id+' · '+esc(q.src)+'</span>'+
+      '<span class="depth"><span class="lbl">Tiefe</span><span class="seg" role="group" aria-label="Tiefe der Frage">'+seg+'</span><span class="depth-hint">'+DEPTH_HINT[q.depth]+'</span></span></div>'+
+      '<h3>'+esc(q.title[q.depth])+'</h3>'+
+      '<details'+(q.depth===3&&!locked?" open":"")+'><summary>Zusammenhang</summary><div class="ctx">'+q.ctx.map(function(p){return "<p>"+esc(p)+"</p>";}).join("")+'</div></details>'+
+      answerHTML(q)+
+      '<div class="q-foot"><span>Gefragt von writing-workshop · 2026-10-26</span>'+statusPill(q)+'</div>';
+    el.querySelectorAll(".seg button").forEach(function(b){b.addEventListener("click",function(){
+      if(locked)return; q.depth=+b.dataset.d; q.status="offen"; q.value=null; render(q); update();
+    });});
+    var ans=el.querySelector(".answer");
+    ans.addEventListener("input",function(){
+      var r=el.querySelector('input[type=radio]:checked'); var t=el.querySelector("textarea");
+      var v=q.depth===3?(t.value.trim()||null):(r?r.value:null);
+      q.value=v; q.words=t?t.value.trim():"";
+      q.status=v?"beantwortet":"offen";
+      el.querySelector(".q-foot .pill").outerHTML=statusPill(q); update();
+    });
+  }
+  Q.forEach(render);
+
+  var bar=document.getElementById("savebar"), state=document.getElementById("savestate"), btn=document.getElementById("savebtn");
+  function answered(){return Q.filter(function(q){return q.status==="beantwortet";});}
+  function update(){
+    if(bar.classList.contains("done"))return;
+    var n=answered().length;
+    state.textContent=n?(n+(n===1?" Antwort":" Antworten")+" bereit · noch nicht gespeichert"):"0 Antworten · noch nichts gespeichert";
+    btn.disabled=!n;
+  }
+  btn.addEventListener("click",function(){
+    var a=answered(); if(!a.length)return;
+    btn.disabled=true; btn.textContent="Speichere …";
+    a.forEach(function(q){q.status="gespeichert";render(q);});
+    state.textContent="Gespeichert in Plan/sessions/writing-workshop.json · öffne Pull Request …";
+    setTimeout(function(){
+      a.forEach(function(q){q.status="pr";q.pr="#196";render(q);});
+      bar.classList.add("done");
+      state.textContent="PR #196 geöffnet · "+a.length+(a.length===1?" Antwort":" Antworten")+" · Branch app/antworten-2026-10-26";
+      btn.textContent="Pull Request ansehen";
+      btn.disabled=false; btn.classList.remove("primary");
+      btn.onclick=function(e){e.preventDefault();toast("Würde github.com/…/pull/196 öffnen");};
+      updatePrompt(a);
+    },900);
+  });
+
+  function updatePrompt(a){
+    var dec=document.getElementById("decided"), car=document.getElementById("carried");
+    a.forEach(function(q){
+      var line=document.createElement("span"); line.className="new";
+      var v=q.value.length>48?q.value.slice(0,47)+"…":q.value;
+      line.textContent="\n- "+q.id+(q.id.length<4?"  ":" ")+" 2026-10-26  „"+v+"“  (PR #196, wartet auf Merge)";
+      dec.appendChild(line);
+    });
+    var ids=a.map(function(q){return q.id;});
+    var rest=Q.filter(function(q){return q.status==="offen";});
+    car.innerHTML=rest.map(function(q){return '- <span class="k">'+q.id+'</span>'+(q.id.length<4?"  ":" ")+esc(q.title[q.depth])+"  Tiefe "+q.depth;}).concat(["- 8 weitere Weichen von Kap 1, 17 weitere Regeln"]).join("\n");
+    toast("Startprompt neu erzeugt: "+ids.join(", "));
+  }
+
+  document.getElementById("copybtn").addEventListener("click",function(){
+    var txt=document.getElementById("gen").innerText;
+    function ok(){toast("Startprompt kopiert");}
+    if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(txt).then(ok,fallback);}else fallback();
+    function fallback(){try{var t=document.createElement("textarea");t.value=txt;t.style.position="fixed";t.style.opacity="0";document.body.appendChild(t);t.select();document.execCommand("copy");t.remove();ok();}catch(e){toast("Kopieren nicht möglich");}}
+  });
+
+  /* sessions */
+  var S=[
+    ["2026-10-26","Schreibwerkstatt","writing-workshop","wait","#195","Schreibtisch","app-schreibtisch",true],
+    ["2026-10-26","Voller Durchgang: aegis","full-read-aegis","run","#197",null,null],
+    ["2026-10-23","Voller Durchgang: genesis-klammer","full-read-genesis-klammer","wait","#194","Gedanken","app-gedanken"],
+    ["2026-10-22","Ingest beendet: Batch 51, Dokumente 532–584","ingest-end","done","#191",null,null],
+    ["2026-10-20","Kap 0–40 als Kapitelseiten nachgezogen","chapters-refresh","done","#188",null,null],
+    ["2026-10-18","Inkrementeller Build der App","ui-incremental-build","done","#185",null,null],
+    ["2026-10-16","MCP-Server auf Vercel","mcp-server","done","#181",null,null],
+    ["2026-10-14","Lesefragen aus dem Ingest","reading-questions","ready","#176","Lesefragen","app-lesefragen"],
+    ["2026-10-13","AEGIS als Figur: Plan und Pilot-Briefing","aegis-agent-plan","ready","#173",null,null],
+    ["2026-10-12","Ingest Batch 56","ingest-batch-56","done","#170",null,null],
+    ["2026-10-08","Promotion einer Begriffsseite","promotion-pilot","done","#162",null,null],
+    ["2026-10-05","Session-Board und Startprompt-Editor","session-board","done","#151","Session-Board","app-board"]
+  ];
+  var ST={wait:["wait","wartet auf dich"],ready:["blue","bereit"],done:["","erledigt"],run:["blue","läuft"]};
+  var sl=document.getElementById("slist");
+  S.forEach(function(r){
+    var d=document.createElement("div"); d.className="srow"+(r[7]?" current":""); d.dataset.app=r[5]?"1":"0";
+    var st=ST[r[3]];
+    d.innerHTML='<span class="d">'+r[0]+'</span><span class="t"><b>'+esc(r[1])+'</b><span class="id">'+r[2]+'</span></span>'+
+      '<span class="st"><span class="pill '+st[0]+'"><span class="dot"></span>'+st[1]+'</span></span>'+
+      '<span class="pr"><a href="#">'+r[4]+'</a></span>'+
+      '<span class="app">'+(r[5]?'<a class="pill rub" href="#'+r[6]+'" data-app="'+r[6]+'">eigene App · '+esc(r[5])+' ↗</a>':'<span style="color:var(--ink-3);font-size:12.5px">—</span>')+'</span>';
+    sl.appendChild(d);
+  });
+  document.getElementById("onlyapp").addEventListener("change",function(e){
+    sl.querySelectorAll(".srow:not(.head)").forEach(function(r){r.style.display=e.target.checked&&r.dataset.app!=="1"?"none":"";});
+  });
+  sl.addEventListener("click",function(e){
+    var a=e.target.closest("a[data-app]"); if(!a)return;
+    var card=document.getElementById(a.dataset.app); if(!card)return;
+    document.querySelectorAll(".app-card.hl").forEach(function(c){c.classList.remove("hl");});
+    card.classList.add("hl"); setTimeout(function(){card.classList.remove("hl");},2200);
+  });
+  document.querySelectorAll(".app-card a.btn").forEach(function(b){b.addEventListener("click",function(e){e.preventDefault();toast("Würde „"+b.closest(".app-card").querySelector("h3").textContent+"“ öffnen");});});
+
+  /* nav highlight */
+  var links=[].slice.call(document.querySelectorAll("nav.top a"));
+  if("IntersectionObserver" in window){
+    var io=new IntersectionObserver(function(es){es.forEach(function(en){if(en.isIntersecting){links.forEach(function(l){l.classList.toggle("on",l.getAttribute("href")==="#"+en.target.id);});}});},{rootMargin:"-30% 0px -60% 0px"});
+    document.querySelectorAll("main section").forEach(function(s){io.observe(s);});
+  }
+
+  var tt; function toast(m){var t=document.getElementById("toast");t.textContent=m;t.classList.add("on");clearTimeout(tt);tt=setTimeout(function(){t.classList.remove("on");},2000);}
+})();
+</script>
+</body>
+</html>

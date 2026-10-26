@@ -1,10 +1,10 @@
 ---
 term: Cache-Kohärenz
 status: candidate
-sources: 41
-readings: 41
+sources: 44
+readings: 44
 conflict: none
-ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-coherence-protocol-a-comparative-analysis-across-the-sca", "the-coherence-protocol-the-hidden-rules-that-hold-reality-to", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-roman-ausarbeitung", "kohaerenz-protokoll-umfassendes-konzept", "narrative-techniken-fuer-kohaerenz-protokoll", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "kohaerenz-protokoll-thematische-tiefenanalyse", "roman-kapitel-1-erstellung-analyse"]
+ingested: ["kohaerenz-protokoll-charakter-bibel-2026-05-08-md", "kohaerenz-protokoll-philosophischer-bericht-md", "editorial-style-dossier-somatic-and-linguistic-implementatio", "kohaerenz-protokoll", "kohaerenz-protokoll-outline-revision-2026-05-01-md", "kohaerenz-protokoll-kapitel-outline-erstellung", "charaktere", "finales-kausales-plot-geruest", "the-coherence-protocol-a-definitive-guide-to-the-narrative-a", "erlebniswelten-der-anteile-uberlagerung-mit-kernwelten", "kohaerenz-protokoll-narrativer-bauplan", "kael-charakterarchitektur-und-konfliktdynamik", "kohaerenz-analyse-kapitel-2", "narrativ", "charaktermodellierung-mit-aieos-schema", "kael-system-tsdp-analyse-und-profile", "plot-outline-for-kohaerenz-protokoll-a-journey-through-syste", "kohaerenz-protokoll-spannungsfelder-vertiefen", "kohaerenz-protokoll-forschungsaufgabe", "kernwelten-fuer-kohaerenz-protokoll", "kernwelten-und-fragmentierte-wahrnehmung", "tsdp-analyse-kohaerenz-protokoll-charaktere", "narrative-architecture-dossier-coherence-protocol", "blueprint", "roman-konzeptentwicklung-kohaerenz-protokoll", "kohaerenz-protokoll-analyse-und-verstaendnis", "angereichertes-plotkonzept-kapitelthemen-detailliert-kohaere", "kohaerenz-protokoll-umfassendes-konzept-mit-prin", "protokoll-ontologie-roman-konzeptentwicklung", "systemic-warfare-a-strategic-guide-to-dramatizing-the-psycho", "the-coherence-protocol-a-comparative-analysis-across-the-sca", "the-coherence-protocol-the-hidden-rules-that-hold-reality-to", "kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel", "kohaerenz-protokoll-roman-ausarbeitung", "kohaerenz-protokoll-umfassendes-konzept", "narrative-techniken-fuer-kohaerenz-protokoll", "kael-uberarbeitung-des-konzepts-unter-tsdp", "kohaerenz-protokoll-analyse-und-loglines", "tsdp-analyse-kaels-innere-welt", "kohaerenz-protokoll-thematische-tiefenanalyse", "roman-kapitel-1-erstellung-analyse", "forschungsauftrag-spannungspunktanalyse-und-charakterausarbe", "uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert", "plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur"]
 gathered: "2026-09-24"
 ---
 
@@ -25,6 +25,10 @@ The theme draft keys three chapters to `Cache Kohärenz` (numbers follow from ea
 ## Reading — `kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel`, 2025-04-26, the concept chapter map — Cache Kohärenz in the plan's everyday multiplicity chapter
 
 The concept chapter map names the term in Kap 19, whose narrator line plans „Cache-Konflikte, Kommunikationspannen, subtile Switches bei Routineaufgaben“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L199]. Its concept line is „Cache Kohärenz & Funktionale Multiplizität im Alltag“ ^[kohaerenz-protokoll-kapitelstruktur-mit-konzepten-39-kapitel.md:L201]. A plan, not a definition.
+
+## Reading — `plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur`, 2025-04-26, the heroine's-journey plot concept — a metaphor for Kael's state
+
+The heroine's-journey plot concept states: „Die Cache Kohärenz Metapher illustriert Kaels Zustand.“ ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:L21] In the sixth stage one-sided logic fails at a complex problem: „(Cache-Konflikt)“ ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:L34]. A plan, not canon.
 
 ## Reading — `kohaerenz-protokoll`, 2025-04-27, the Kohärenz-Protokoll narrative — the metaphor named directly, for the gaps in Kael's own memory
 
@@ -91,6 +95,14 @@ In the narrative advice the problem becomes a tool: „Eine Fähigkeit ist nicht
 ## Reading — `kohaerenz-protokoll-thematische-tiefenanalyse`, 2025-04-28, the thematic blueprint — Cache Kohärenz as the psychic manifestation of systemic control
 
 The thematic blueprint names `Cache Kohärenz` ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:#3] as Kael's problem and, in the section joining system control with trauma, calls it „die psychische Manifestation dieser systemischen Kontrolle“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L35]. In its account of a therapy model it calls the same problem the direct consequence of forced fragmentation: „ist die direkte Folge dieser erzwungenen Fragmentierung“ ^[kohaerenz-protokoll-thematische-tiefenanalyse.md:L117]. The phase list also names it among the trauma symptoms of Phase 1 (L52). Recorded as the blueprint's reading, not applied.
+
+## Reading — `forschungsauftrag-spannungspunktanalyse-und-charakterausarbe`, 2025-04-28, the tension-point research brief — the problem clearest in the host
+
+The tension-point research brief notes for the host that the „Cache Kohärenz“ ^[forschungsauftrag-spannungspunktanalyse-und-charakterausarbe.md:L35] problem is clearest there. A research brief, not canon.
+
+## Reading — `uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert`, 2025-04-28, the revised parts list — most noticeable in Kael's part
+
+The revised parts list notes of Kael's part that the „Cache Kohärenz“ ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:L27] problem is most noticeable there. A hedged note, not canon.
 
 ## Reading — `erlebniswelten-der-anteile-uberlagerung-mit-kernwelten`, 2025-04-29, the Erlebniswelten concept — Kael's core problem
 

@@ -1,0 +1,66 @@
+{
+ "kapitel": 25,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er weiß, dass Juna selbst wählt; er kennt ihre Antwort auf ihn noch nicht.",
+   "seit": 25,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Ihre Entscheidung ist mehr als ein künstlicher Countdown für Kael.",
+   "seit": 25,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] K: Juna spricht, wo sie schwieg (T:L320). Die Trennung läuft noch, bald entscheidet sie (T:L322).",
+   "seit": 25,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Junas eigener Ablauf; kein behauptetes Ultimatum ohne Entscheidung des Autors.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW3",
+   "art": "welt",
+   "seit": 23,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Nyx",
+   "art": "anteil",
+   "seit": 25,
+   "kanal": "Spur",
+   "wie": "Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Spur; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Isabelle",
+   "art": "anteil",
+   "seit": 25,
+   "kanal": "Spur",
+   "wie": "Kontrolle über Nähe statt Nähe — eine Spur aus den zehn Jahren mit Juna.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Spur; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

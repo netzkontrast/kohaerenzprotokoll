@@ -1,0 +1,60 @@
+{
+ "kapitel": 4,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er erinnert eine handelnde Person, nicht die ganze Beziehung.",
+   "seit": 4,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Der Leser erkennt einen eigenständigen Wunsch; biografische Details bleiben erfunden.",
+   "seit": 4,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[Juna] L: Juna will einen Ort für sich (T:L112). K: erinnert eine handelnde Person, nicht die Beziehung (dev:L170). Ob K sie sieht oder nennt, ist offen (EW:L59, EW:L92).",
+   "seit": 4,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[zehn Jahre] L: Es gab ein Davor. K: nur „ein Gefühl ohne Ort“ (EW:L59).",
+   "seit": 4,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Erinnerung vor dem Anruf, aus der Gegenwart ausgelöst.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Juna",
+   "art": "figur",
+   "seit": 4,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  }
+ ]
+}

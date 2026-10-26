@@ -1,0 +1,106 @@
+# counts for 70 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Digitale Überwelt                 1 word     1 in   [15]
+  Überwelt                         40 word    41 in   [11, 15, 21, 49, 72, 101]
+                                    1      as Überwelt-Struktur
+  Digitalen Überwelt                2 word     2 in   [11, 110]
+  AEGIS                            84 word   109 in   [15, 17, 25, 29, 36, 40]
+                                    5      as AEGIS-Protokoll
+                                    4      as AEGIS-Protokolls
+                                    2      as AEGIS-Protokollen
+                                    1      as AEGIS-Parameter
+  AEGIS-Protokoll                   5 word    12 in   [15, 29, 49, 62, 106, 110]  <-- substring
+                                    4      as AEGIS-Protokolls
+                                    2      as AEGIS-Protokollen
+                                    1      as AEGIS-Protokolle
+  AEGIS Functional Protocol v1.4    1 word     1 in   [17]
+  Guardians                        49 word    49 in   [15, 17, 21, 29, 30, 36]
+  Guardian                         13 word    79 in   [15, 17, 21, 23, 27, 29]  <-- substring
+                                   49      as Guardians
+                                    2      as Guardian-Interface-Protokolle
+                                    2      as Guardian-Interaktionen
+                                    2      as Guardian-Manifestation
+  Wächter-Konstrukte                1 word     1 in   [15]
+  LogOS                            20 word    20 in   [17, 29, 30, 34, 36, 45]
+  Mnemosyne                        14 word    18 in   [17, 30, 35, 49, 54, 63]
+                                    4      as Mnemosynes
+  Cerberus                         15 word    15 in   [17, 29, 34, 49, 103]
+  Kairos                           17 word    17 in   [17, 36, 45, 49, 62, 99]
+  Sophia                            7 word     9 in   [17, 35, 49, 98]
+                                    2      as Sophias
+  Guardian-Interface-Protokolle     2 word     2 in   [23, 95]
+  Zero-Trust Execution Model (ZTEM)    2 word     2 in   [25, 49]
+  Zero-Trust Execution Model        2 word     2 in   [25, 49]
+  ZTEM                              8 word    13 in   [25, 27, 49, 54]
+                                    1      as ZTEM-Konformität
+                                    1      as ZTEM-Prüfungen
+                                    1      as ZTEM-Regeln
+                                    1      as ZTEM-Auswirkung
+  Zero-Trust                        8 word    10 in   [25, 29, 40, 45, 49, 77]
+                                    1      as Zero-Trust-Modell
+                                    1      as Zero-Trust-Bedingungen
+  Zero-Trust Dynamik                1 word     1 in   [40]
+  Behavioral Proof-of-Function (BPoF)    2 word     2 in   [29, 97]
+  Behavioral Proof-of-Function      3 word     3 in   [29, 49, 97]
+  BPoF                             21 word    24 in   [29, 44, 49, 85, 87, 97]
+                                    1      as BPoF-Prinzip
+                                    1      as BPoF-Zugriffsvergabe
+                                    1      as BPoF-Prüfungen
+  Encrypted Intent Channels (EIC)    2 word     2 in   [30, 98]
+  Encrypted Intent Channels         3 word     3 in   [30, 98]
+  EIC                               3 word    11 in   [30, 36, 44, 49, 98]  <-- substring
+  EICs                              6 word     6 in   [36, 44, 49]
+  Consensus Enforcer                6 word    10 in   [45, 49, 85, 86, 97, 99]
+  Integrity Guardian               10 word    10 in   [44, 49, 62, 105]
+  Cognitive Firewall                8 word     8 in   [49, 62, 104, 105]
+  Real-time Self-Verification (RTSV)    1 word     1 in   [49]
+  Real-time Self-Verification       1 word     1 in   [49]
+  RTSV                             12 word    13 in   [49, 87, 103]
+                                    1      as RTSV-Fehler
+  Secure Isolation State (SIS)      4 word     4 in   [49, 71, 107]
+  Secure Isolation State            4 word     4 in   [49, 71, 107]
+  SIS                              10 word    13 in   [49, 71, 104, 107]
+  Externe Ebene                     8 word     8 in   [49, 72, 108]
+  Externen Ebene                    8 word     8 in   [21, 49, 53, 72, 106, 108]
+  Risse                             9 word     9 in   [49, 53, 104, 106]
+  Systeminstabilität                2 word     3 in   [49, 106]
+                                    1      as Systeminstabilitäten
+  Systemkohärenz                    8 word    11 in   [40, 44, 49, 85, 97, 105]
+                                    1      as Systemkohärenzmetriken
+                                    1      as Systemkohärenz-Notwendigkeiten
+                                    1      as Systemkohärenzmetrik
+  Kern-Welten                       2 word     2 in   [49]
+  simulierten Kern-Welten           2 word     2 in   [49]
+  simulierten Welten                3 word     3 in   [35, 49, 88]
+  Hypervisor-Schicht                1 word     1 in   [49]
+  Funktionale Zonen                 1 word     1 in   [49]
+  Mnemosynes Archive                1 word     1 in   [49]
+  LogOS' Analysekerne               1 word     1 in   [49]
+  Cerberus' Grenzknoten             1 word     1 in   [49]
+  Kairos' Potenzialfelder           1 word     1 in   [49]
+  Sophias Synthese-Hubs             1 word     1 in   [49]
+  Potenzialfelder                   1 word     2 in   [49, 105]
+                                    1      as Potenzialfeldern
+  Nullraum                          1 word     1 in   [49]
+  Umgebungsordnung                  1 word     1 in   [49]
+  Protokolldurchsetzung             2 word     2 in   [49]
+  Protokollausführung               2 word     2 in   [49]
+  Guardian-Manifestation            2 word     3 in   [49, 99, 103]
+                                    1      as Guardian-Manifestationen
+  Zero Trust Architecture (ZTA)     2 word     2 in   [49]
+  ZTA                               7 word     7 in   [49, 81, 89]
+  Self-Sovereign Identity (SSI)     3 word     3 in   [49, 155, 160]
+  SSI                               7 word     9 in   [49, 81, 89, 155, 157, 160]
+  Kybernetik                        3 word     3 in   [49]
+  Spieltheorie                      3 word     3 in   [77, 85]
+  Nash-Gleichgewicht                1 word     1 in   [85]
+  Mechanism Design                  1 word     1 in   [85]
+  Linked Views                      1 word     1 in   [86]
+  DNSSEC                            8 word     8 in   [49, 89, 145, 146, 192]
+  RPKI                              9 word     9 in   [49, 89, 148, 149, 193, 194]
+  C2PA                              5 word     6 in   [49, 152, 153]
+                                    1      as C2PA_Specification
+  S/MIME                            4 word     4 in   [49, 150, 151]

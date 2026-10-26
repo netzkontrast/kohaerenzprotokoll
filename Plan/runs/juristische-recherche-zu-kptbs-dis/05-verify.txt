@@ -1,0 +1,7 @@
+TL;DR 1: python3 scripts/read.py juristische-recherche-zu-kptbs-dis --count "TL;DR"
+Quellen 3: python3 scripts/read.py juristische-recherche-zu-kptbs-dis --count "Quellen"
+kPTBS 79: python3 scripts/read.py juristische-recherche-zu-kptbs-dis --count "kPTBS"
+Störungen der Selbstorganisation 9: python3 scripts/read.py juristische-recherche-zu-kptbs-dis --count "Störungen der Selbstorganisation"
+stance_marker_count 4 = 1 + 3
+AEGIS, Kael, Juna, Nyx, Kap: each 0 (read.py --count)
+Census figures (13 candidates, 0 zeros, 8 rows standing-alone below compounds, 51 glued reference numbers): capture.py --count and the profile

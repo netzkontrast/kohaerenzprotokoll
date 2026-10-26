@@ -21,6 +21,7 @@ skills are missing from it or listed here without existing, and
 | `reader-tools/SKILL.md` | prepare delegated readers and select initialized source, retrieval and graph CLIs within their assigned scope |
 | `hyperextract-learning/SKILL.md` | build and test extraction templates, stage quote-backed proposals and improve guidelines from measured failures |
 | `ingest/SKILL.md` | take one research document from `Sources/drive/` to a reconciled state a person can review |
+| `full-read/SKILL.md` | read one wiki candidate page whole, every citation opened, and write the German thought page the author reviews and promotes, with a ledger proving every citation was accounted for |
 | `tools/SKILL.md` | run the loop that extends the wiki: which command runs when, and what each consumes and produces |
 | `graph-context/SKILL.md` | retrieve budgeted evidence and explore the existing graph through the local GraphQLite CLI |
 | `qmd/SKILL.md` | search and read the German corpus with qmd: which collection answers which question |
@@ -30,7 +31,7 @@ skills are missing from it or listed here without existing, and
 | `jules/SKILL.md` | spawn a Google Jules session on a GitHub repository, drive it through its plan, and verify it pushed |
 | `app-refresh/SKILL.md` | rebuild, check, look at and publish the project app when it should be current for a pull request (no hook enforces it since 2026-10-06) — and keep it usable by agents: an address, an index entry and an interactive element for anything new |
 
-`ingest`, `dspy`, `typesafe`, `jules`, `app-refresh` and `writing-skills` end in a *Provisional* block: what the skill may
+`ingest`, `full-read`, `dspy`, `typesafe`, `jules`, `app-refresh` and `writing-skills` end in a *Provisional* block: what the skill may
 not do, and the evidence that would retire it. `tools` and `qmd` carry none yet.
 
 ## The writing skills — reading, never writing, the novel

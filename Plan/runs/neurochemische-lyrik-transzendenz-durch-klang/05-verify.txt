@@ -1,0 +1,67 @@
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Der Zustand"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Der Zustand` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#4]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Lyrische Gesten"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Lyrische Gesten` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#6]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#0]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#0]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#0]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Kael-System"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kael-System` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#1]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Agency System"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Agency System` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#2]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Cache Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cache Kohärenz` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#1]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Kohärenz Protokoll"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kohärenz Protokoll` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#6]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Coherence Process"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Coherence Process` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#6]
+python3 scripts/read.py neurochemische-lyrik-transzendenz-durch-klang --count "Klangbasierte Zeugenschaft"
+whole word, case-sensitive     1
+whole word, case-insensitive   2
+including compounds            1
+
+`Klangbasierte Zeugenschaft` ^[neurochemische-lyrik-transzendenz-durch-klang.md:#1]
+stance_marker_count: Der Zustand 4 + Lyrische Gesten 6 = 10 (counts above)

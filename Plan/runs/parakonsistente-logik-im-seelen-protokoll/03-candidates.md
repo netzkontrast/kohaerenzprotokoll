@@ -1,0 +1,73 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+The document is a report on whether paraconsistent logic could ground the worldbuilding of the novel; it maps logics onto worlds, guardians and the system. Spellings were checked with a standing-alone grep before the count. The document spells the system name Aegis and the guardian group Guardians. The partner part is called Partnerin and its anomaly Partnerin-Anomalie; the blind spot appears in three inflected forms. The document has no personal or autobiographical passage.
+
+- Das Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Programm
+- Aegis
+- Guardians
+- Kernwelten
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten
+- Möglichkeits-Gartens
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Kairos
+- Sophia
+- Architekt
+- Echo
+- Wächter
+- Partnerin
+- Partnerin-Anomalie
+- Risse
+- Glitches
+- Personas
+- Protagonist
+- Integration
+- Fragmentierung
+- Realitätsrisse
+- Kernfragmentierung
+- Kern-Seelenanteils
+- Meta-Narrator
+- blinden Fleck
+- blinde Flecken
+- Blinden Flecks
+- Reparaturstrategien
+- Reparaturversuche
+- logisches Vakuum
+- Firewall
+
+## lens
+
+- Parakonsistente Logik
+- Parakonsistenz
+- Parakomplettheit
+- Dialetheismus
+- FDE
+- First Degree Entailment
+- Dunn/Belnap-Logik
+- B4
+- C-Systeme
+- Konsistenzoperator
+- Konsistenzoperators
+- ECQ
+- Ex Contradictione Quodlibet
+- Explosionsprinzip
+- Wahrheitsgitter
+- Informationsgitter
+- Logics of Formal Inconsistency
+- LFIs
+- Trivialität
+- Inkonsistenz
+- Überbestimmtheit
+- Wahrheitswertlücken
+- Satz vom ausgeschlossenen Dritten
+- designierten
+- PL
+- Both
+- Neither

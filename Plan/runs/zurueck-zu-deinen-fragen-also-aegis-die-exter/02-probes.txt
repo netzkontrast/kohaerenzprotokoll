@@ -1,0 +1,54 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      13
+  backslash escapes      2
+  typographic marks      6
+  ascii quotes           56
+
+# inflection families -- one term, several surfaces
+  selbs    Selbstakzeptanz, Selbstfindung, Selbstliebe, Selbstschutz, Selbstständigkeit
+  antei    Anteil, Anteile, Anteils, Anteilswelten
+  entsc    Entscheidung, Entscheidungen, Entscheidungsfreiheit
+  syste    System, Systems, Systemsicht
+  album    Album, Albums
+  beisp    Beispiel, Beispiele
+  darst    Darstellen, Darstellung
+  entwi    Entwicklung, Entwicklungspotenzial
+  ersch    Erscheinen, Erschöpfung
+  etapp    Etappe, Etappen
+  helde    Heldenreise, Heldenreisen
+  hoffn    Hoffnung, Hoffnungsträger
+  konze    Konzept, Konzepts
+  krise    Krise, Krisen
+  metaa    Metaalbum, Metaalbums
+  metap    Metaphern, Metaphorik
+  neuke    Neukennenlernen, Neukennenlernens
+  parad    Paradoxon, Paradoxons
+  regel    Regel, Regeln
+  spieg    Spiegelsong, Spiegelsongs
+  trans    Transformation, Transformationsmechanismus
+  umbau    Umbau, Umbaus
+  verga    Vergangenheit, Vergangenheitsverständnis
+  verän    Veränderung, Veränderungsprozesse
+
+# substring pairs -- never one term, often merged by accident
+  Ihre < Ihren
+  Jede < Jeder
+  Juna < Junas
+  Meta < Metaalbum
+  Meta < Metaphern
+  Meta < Metaalbums
+  Meta < Metaphorik
+  Meta < Leitmetaphern
+  Sich < Sicht
+  Sich < Systemsicht
+  Sich < Sicherheitsprotokolle
+  Song < Songs
+  Song < Spiegelsong
+  Song < Spiegelsongs
+  Welt < Welten
+  Welt < Kernwelten
+  Welt < Anteilswelten
+  Album < Albums
+  Album < Metaalbum
+  Album < Metaalbums

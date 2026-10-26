@@ -1,0 +1,1226 @@
+{
+  "document": "kohaerenz-protokoll-plot-entwurf",
+  "drive_id": "1v8DtEA3PW3TZEgcIdFCkt4utWlmchPFAe7vfhtcdthk",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 148,
+      "n_including_compounds": 156,
+      "lines": [
+        15,
+        27,
+        29,
+        31,
+        33,
+        37,
+        39,
+        40,
+        41,
+        45,
+        47,
+        50,
+        52,
+        56,
+        58,
+        59,
+        60,
+        61,
+        63,
+        65,
+        67,
+        69,
+        75,
+        77,
+        79,
+        81,
+        82,
+        83,
+        87,
+        96,
+        97,
+        113,
+        132,
+        140,
+        141,
+        142,
+        146,
+        148,
+        149,
+        150,
+        151,
+        173,
+        193,
+        201,
+        212,
+        213,
+        214,
+        227,
+        234,
+        239,
+        240,
+        241,
+        242,
+        244,
+        248,
+        253,
+        255,
+        258,
+        262,
+        268,
+        269,
+        270,
+        277,
+        282,
+        283,
+        284,
+        287,
+        291,
+        296,
+        297,
+        298,
+        301,
+        305,
+        313,
+        314,
+        320,
+        325,
+        326,
+        327,
+        328,
+        330,
+        338,
+        339,
+        340,
+        341,
+        351,
+        353,
+        364,
+        365,
+        366,
+        377,
+        405,
+        421,
+        422,
+        430,
+        432,
+        436,
+        441,
+        450,
+        451,
+        452,
+        458,
+        459,
+        460,
+        461,
+        462,
+        470,
+        471,
+        473,
+        474,
+        478,
+        482
+      ]
+    },
+    "Kael": {
+      "n": 100,
+      "n_including_compounds": 157,
+      "lines": [
+        15,
+        23,
+        27,
+        31,
+        37,
+        39,
+        41,
+        49,
+        50,
+        56,
+        61,
+        68,
+        69,
+        79,
+        81,
+        82,
+        83,
+        87,
+        91,
+        92,
+        96,
+        97,
+        101,
+        105,
+        112,
+        113,
+        122,
+        129,
+        132,
+        138,
+        140,
+        141,
+        142,
+        146,
+        148,
+        149,
+        150,
+        151,
+        161,
+        162,
+        173,
+        181,
+        182,
+        193,
+        199,
+        200,
+        201,
+        202,
+        212,
+        214,
+        217,
+        225,
+        227,
+        228,
+        230,
+        234,
+        239,
+        241,
+        244,
+        248,
+        253,
+        254,
+        255,
+        262,
+        268,
+        270,
+        273,
+        277,
+        282,
+        284,
+        287,
+        291,
+        296,
+        297,
+        298,
+        301,
+        305,
+        311,
+        313,
+        314,
+        320,
+        325,
+        327,
+        328,
+        330,
+        338,
+        340,
+        351,
+        353,
+        354,
+        366,
+        377,
+        379,
+        390,
+        392,
+        403,
+        404,
+        405,
+        416,
+        420,
+        421,
+        422,
+        430,
+        432,
+        440,
+        442,
+        451,
+        452,
+        458,
+        459,
+        460,
+        461,
+        462,
+        463,
+        472,
+        473,
+        475,
+        478
+      ]
+    },
+    "Guardians": {
+      "n": 25,
+      "n_including_compounds": 25,
+      "lines": [
+        113,
+        136,
+        138,
+        140,
+        141,
+        142,
+        248,
+        262,
+        270,
+        277,
+        283,
+        287,
+        291,
+        298,
+        311,
+        312,
+        313,
+        320,
+        366,
+        390,
+        446,
+        451
+      ]
+    },
+    "Guardian": {
+      "n": 5,
+      "n_including_compounds": 30,
+      "lines": [
+        113,
+        136,
+        138,
+        140,
+        141,
+        142,
+        212,
+        214,
+        248,
+        262,
+        270,
+        277,
+        282,
+        283,
+        284,
+        287,
+        291,
+        298,
+        311,
+        312,
+        313,
+        320,
+        366,
+        390,
+        446,
+        451
+      ]
+    },
+    "Überwelt": {
+      "n": 35,
+      "n_including_compounds": 35,
+      "lines": [
+        15,
+        41,
+        61,
+        75,
+        132,
+        150,
+        155,
+        199,
+        200,
+        202,
+        213,
+        215,
+        228,
+        234,
+        242,
+        248,
+        256,
+        268,
+        271,
+        277,
+        285,
+        296,
+        311,
+        314,
+        341,
+        354,
+        364,
+        367,
+        377,
+        380,
+        393,
+        460,
+        471
+      ]
+    },
+    "Kernwelten": {
+      "n": 22,
+      "n_including_compounds": 22,
+      "lines": [
+        15,
+        39,
+        41,
+        56,
+        58,
+        61,
+        75,
+        81,
+        92,
+        111,
+        155,
+        193,
+        225,
+        226,
+        234,
+        256,
+        271,
+        277,
+        291,
+        314,
+        460,
+        472
+      ]
+    },
+    "Kernwelt": {
+      "n": 8,
+      "n_including_compounds": 30,
+      "lines": [
+        15,
+        39,
+        41,
+        56,
+        58,
+        61,
+        75,
+        81,
+        82,
+        92,
+        111,
+        155,
+        193,
+        202,
+        225,
+        226,
+        228,
+        234,
+        239,
+        242,
+        256,
+        271,
+        277,
+        291,
+        296,
+        311,
+        314,
+        460,
+        472
+      ]
+    },
+    "Potentialmeer": {
+      "n": 13,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        25,
+        45,
+        49,
+        50,
+        155,
+        162,
+        172,
+        305,
+        367,
+        380,
+        390,
+        393,
+        403,
+        406,
+        470
+      ]
+    },
+    "Kohärenz-Inseln": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        23,
+        25,
+        162,
+        470,
+        473
+      ]
+    },
+    "Kohärenz-Insel": {
+      "n": 3,
+      "n_including_compounds": 8,
+      "lines": [
+        23,
+        25,
+        27,
+        31,
+        48,
+        162,
+        470,
+        473
+      ]
+    },
+    "Gleichzeitigkeit": {
+      "n": 29,
+      "n_including_compounds": 29,
+      "lines": [
+        43,
+        45,
+        47,
+        48,
+        49,
+        50,
+        97,
+        134,
+        153,
+        155,
+        163,
+        173,
+        181,
+        182,
+        303,
+        305,
+        377,
+        378,
+        390,
+        403,
+        404,
+        422,
+        460,
+        462,
+        464,
+        470,
+        476
+      ]
+    },
+    "Einsamkeit": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        49,
+        50,
+        94,
+        96,
+        127,
+        129,
+        134,
+        173,
+        305,
+        325,
+        326,
+        327,
+        329,
+        377,
+        378,
+        422,
+        463,
+        476
+      ]
+    },
+    "Welle von Unmöglichkeit": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        54,
+        56,
+        255,
+        262,
+        268,
+        269,
+        441
+      ]
+    },
+    "Instrumente der Ordnung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        82,
+        103,
+        105,
+        240,
+        277,
+        311
+      ]
+    },
+    "Instrument": {
+      "n": 4,
+      "n_including_compounds": 12,
+      "lines": [
+        82,
+        103,
+        105,
+        125,
+        140,
+        239,
+        240,
+        248,
+        277,
+        282,
+        311,
+        420
+      ]
+    },
+    "Protokoll v1.5": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        85,
+        87,
+        94,
+        99,
+        140,
+        240,
+        253,
+        291,
+        441
+      ]
+    },
+    "OBP v1.5": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        40,
+        63,
+        89,
+        239,
+        241,
+        248
+      ]
+    },
+    "OBP": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        40,
+        63,
+        67,
+        89,
+        239,
+        241,
+        248,
+        474
+      ]
+    },
+    "Ontological Boundary Policing": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        68
+      ]
+    },
+    "PMAS": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        58,
+        68,
+        77,
+        82,
+        90,
+        91,
+        201,
+        214,
+        313,
+        474
+      ]
+    },
+    "PMAS v1.5": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        91,
+        313
+      ]
+    },
+    "Predictive Modeling and Adaptive Simulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "RIVE": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        59,
+        77,
+        90,
+        227,
+        248,
+        474
+      ]
+    },
+    "RIVE v1.5": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        90,
+        248
+      ]
+    },
+    "SARM": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        59,
+        77,
+        92,
+        270,
+        474
+      ]
+    },
+    "SARM v1.5": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        92,
+        270
+      ]
+    },
+    "Boundary Management": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        89
+      ]
+    },
+    "Entropic Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        440
+      ]
+    },
+    "Verhindert sein Nicht-Sein": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        97,
+        151,
+        364,
+        462
+      ]
+    },
+    "Reboot": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        73,
+        140,
+        262,
+        282,
+        283,
+        284,
+        291,
+        441
+      ]
+    },
+    "Anteile": {
+      "n": 9,
+      "n_including_compounds": 15,
+      "lines": [
+        105,
+        112,
+        122,
+        123,
+        129,
+        131,
+        225,
+        234,
+        248,
+        253,
+        305,
+        311,
+        325,
+        420
+      ]
+    },
+    "Alter": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        199,
+        202,
+        225,
+        227,
+        239
+      ]
+    },
+    "DID": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        27,
+        112,
+        193,
+        200,
+        201,
+        204,
+        234,
+        420,
+        460
+      ]
+    },
+    "Dissoziativer Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        50,
+        325,
+        326,
+        422
+      ]
+    },
+    "Glitches": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        41,
+        58,
+        234,
+        241
+      ]
+    },
+    "Risse": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        41,
+        61,
+        150,
+        256,
+        287,
+        291,
+        311,
+        470
+      ]
+    },
+    "Jagd": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        50,
+        153,
+        155,
+        262,
+        303,
+        390,
+        422,
+        464
+      ]
+    },
+    "Entropie-Infektion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        268
+      ]
+    },
+    "System-Dekohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        56
+      ]
+    },
+    "qualitative Kohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        41,
+        339,
+        364
+      ]
+    },
+    "K-J-Verbindung": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        33,
+        56,
+        65,
+        67,
+        68,
+        114,
+        133,
+        148,
+        193,
+        201,
+        253,
+        254,
+        421,
+        440,
+        459,
+        471,
+        473
+      ]
+    },
+    "K-J-Bindung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        45,
+        48,
+        133
+      ]
+    },
+    "K-J-Einheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        146
+      ]
+    },
+    "K-J-Paradoxon": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        144,
+        305,
+        351,
+        352
+      ]
+    },
+    "K-J-Paradoxons": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        144,
+        305,
+        352
+      ]
+    },
+    "K-J-Essenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        351
+      ]
+    },
+    "K-J-Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Spiegel der Akzeptanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Schlüssel zur Erinnerung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Band der Kooperation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        125
+      ]
+    },
+    "Kommunikationsbrücken": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        122
+      ]
+    },
+    "Harmonisierungswerkzeuge": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        123
+      ]
+    },
+    "Verankerungspunkte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Stimmgabel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Resonanz und nicht-lokale Korrelation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Kategoriale Blindheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Aktive Datenfilterung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Switch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        199,
+        202
+      ]
+    },
+    "Plot-Ereignis(se)": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        199,
+        212,
+        225,
+        239,
+        253,
+        268,
+        282,
+        296,
+        311,
+        325,
+        338,
+        351,
+        364,
+        377,
+        390,
+        403
+      ]
+    },
+    "Konzeptionelle Klärung": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        200,
+        213,
+        226,
+        240,
+        254,
+        269,
+        283,
+        297,
+        312,
+        326,
+        339,
+        352,
+        365,
+        378,
+        391,
+        404
+      ]
+    },
+    "Charakter-/System-Entwicklung": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        201,
+        214,
+        227,
+        241,
+        255,
+        270,
+        284,
+        298,
+        313,
+        327,
+        340,
+        353,
+        366,
+        379,
+        392,
+        405
+      ]
+    },
+    "Welt-Interaktion": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        187,
+        202,
+        215,
+        228,
+        242,
+        256,
+        271,
+        285,
+        299,
+        314,
+        328,
+        341,
+        354,
+        367,
+        380,
+        393,
+        406
+      ]
+    },
+    "Thematischer Fokus": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        203,
+        216,
+        229,
+        243,
+        257,
+        272,
+        286,
+        300,
+        315,
+        329,
+        342,
+        355,
+        368,
+        381,
+        394,
+        407
+      ]
+    },
+    "Narrative Funktion": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        204,
+        217,
+        230,
+        244,
+        258,
+        273,
+        287,
+        301,
+        316,
+        330,
+        343,
+        356,
+        369,
+        382,
+        395,
+        408
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        191
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        303,
+        316
+      ]
+    },
+    "Metaebene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        260
+      ]
+    },
+    "Inciting Incident": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        217
+      ]
+    },
+    "Midpoint": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        235,
+        278
+      ]
+    },
+    "Kognitive Dissonanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        141,
+        451
+      ]
+    },
+    "kognitiver Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        138
+      ]
+    },
+    "morphischer Resonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Entropie": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        29,
+        32,
+        33,
+        45,
+        60,
+        82,
+        97,
+        141,
+        146,
+        149,
+        255,
+        268,
+        353,
+        458
+      ]
+    },
+    "Paradigmenwechsel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    }
+  }
+}

@@ -1,0 +1,33 @@
+$ read.py --count "Phase 0"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Phase 0` ^[juna-kael-system-analyse-und-rettungsplan-docx.md:#2]
+$ read.py --count "Phase 1"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Phase 1` ^[juna-kael-system-analyse-und-rettungsplan-docx.md:#3]
+$ read.py --count "Rettungsplan"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Rettungsplan` ^[juna-kael-system-analyse-und-rettungsplan-docx.md:#1]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[juna-kael-system-analyse-und-rettungsplan-docx.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[juna-kael-system-analyse-und-rettungsplan-docx.md:#0]
+stance_marker_count = 2 + 3 + 1 = 6 (Phase 0, Phase 1, Rettungsplan, from the counts above)
+$ grep -cE "^[0-9]+\. " lines 364-516
+152

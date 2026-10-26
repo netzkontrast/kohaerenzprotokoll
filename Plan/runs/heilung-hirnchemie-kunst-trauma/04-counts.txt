@@ -1,0 +1,42 @@
+# counts for 34 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  KAIROS / CHRONOS                  2 word     2 in   [13, 38]
+  Die Un-Zeit                       1 word     1 in   [66]
+  Amygdala Hijack                   2 word     2 in   [45, 74]
+  Dorsal Vagal                      3 word     3 in   [46, 88, 143]
+  Das fragmentierte Archiv          2 word     2 in   [47, 101]
+  Anhedonie                         4 word     5 in   [48, 114, 120]
+  Die Orientierungsreaktion         2 word     2 in   [49, 135]
+  Titration                         3 word     3 in   [50, 147, 154]
+  Embodiment                        4 word     4 in   [51, 159, 221, 269]
+                                    1      as embodiment-in-trauma-recovery
+  Das relationale Zuhause           2 word     2 in   [52, 171]
+  Die Exekutive                     2 word     2 in   [53, 192]
+  Narrative Integration             2 word     2 in   [54, 205]
+  Das erweiterte Fenster            2 word     2 in   [55, 217]
+  Posttraumatisches Wachstum        2 word     2 in   [56, 228]
+  Die Wiederherstellung der Zeit    1 word     1 in   [247]
+  Neurochemische Signatur          13 word    13 in   [78, 92, 105, 118, 139, 151]
+  Poetisches Leitmotiv             12 word    12 in   [82, 95, 108, 121, 141, 153]
+  Phänomenologisches Leitmotiv      1 word     1 in   [246]
+  Bildsprache                      13 word    13 in   [83, 96, 109, 122, 142, 154]
+  Akustische & Lyrische Skizze     13 word    13 in   [84, 97, 110, 123, 143, 155]
+  Interdisziplinäre Erweiterung     3 word     3 in   [81, 107, 198]
+  Kairos                           11 word    12 in   [30, 32, 34, 57, 184, 188]
+                                    1      as kairos-time
+  Chronos                           7 word     8 in   [30, 66, 188, 247, 285, 286]
+  HPA-Achse                         3 word     4 in   [26, 32, 78, 92]
+                                    1      as HPA-Achsen-Dysregulation
+  Default Mode Network              4 word     4 in   [28, 47, 106, 232]
+  Toleranzfenster                   1 word     1 in   [221]
+  Kintsugi                          3 word     3 in   [54, 205, 212]
+  Neuroplastizität                  3 word     3 in   [54, 127, 209]
+  Vagustonus                        3 word     3 in   [55, 217, 221]
+  Polyvagal-Theorie                 1 word     1 in   [93]
+  Hypervigilanz                     2 word     2 in   [24, 80]
+  Interozeption                     2 word     2 in   [51, 163]
+  Ko-Regulation                     2 word     2 in   [52, 171]
+  Hypokortisolismus                 3 word     3 in   [26, 46, 92]

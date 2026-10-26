@@ -1,0 +1,105 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Observation: an earlier-concept document; the protagonist and the central woman figure carry earlier names and are not listed. The alters table also names parts in quotation marks; two of those names are left off the list because they may be earlier names. Terms below are written as the document spells them; the lens terms (ISSTD, ANP, EP, ISH, therapy and hero's-journey stages) follow under the lens heading.
+
+- Guardians
+- Seelen-Kohärenz-Protokoll
+- Blueprint V5
+- Überwelt
+- Externe Ebene
+- externe Ebene
+- Simulierten Welten
+- Welt 1
+- Welt 2
+- Welt 3
+- Welt 4
+- Zerbrochene Stadt
+- Ewige Spielplatz
+- Starre Puppenhaus
+- Zitadelle der Wacht
+- Zitadelle
+- Endlose Bibliothek
+- Masken-Theater
+- Risse
+- Riss
+- Seele=Info
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos/Sophia
+- Alters
+- Alter
+- Host
+- Apparently Normal Part
+- Emotional Parts
+- Protector
+- Persecutor
+- Kind-Anteil
+- Kind-Anteile
+- Gatekeeper
+- Memory Holder
+- Internal Self-Helper
+- Nexuspunkt
+- Kernpersönlichkeit
+- Ebene 5
+- Ebene 6
+- Ebenen 1-4
+- Systemwächter
+- Systemhütern
+- Datenkorruption
+- Wächter
+- Der Archivar
+- Funke
+- Daten-Synchronisator
+- Emotions-Dämpfer
+- Verhaltens-Korrektor
+- Kohärenz-Analysator
+- Protokolle zur Datensynchronisation
+- Algorithmen zur Emotionsdämpfung
+- Module zur Verhaltenskorrektur
+- Logische Kohärenz-Analysatoren
+- Alter Intrusion/Switch
+- nicht-lokaler Bewusstseinsverschränkung
+- Reparaturdrohnen
+- Quarantänezonen
+- Kontrollzentrum
+- Vogel
+- Beobachter
+- Teil 1
+- Teil 2
+- Teil 3
+- Kerntrauma
+- Kern-Trauma
+- Systemfragmentierung
+- Trauma-Korruption
+- externen Ebene
+- Externen Ebene
+- Informationskonstrukt
+- Unsichtbarkeit
+- Funktionale Multiplizität
+
+## lens
+- strukturellen Dissoziation
+- funktionale Multiplizität
+- ISSTD
+- ANP
+- EP
+- ISH
+- Heldenreise
+- Heldinnenreise
+- Crossing the Threshold
+- Ordeal
+- Road of Trials
+- Freedom to Live
+- Atonement with the Father
+- Resurrection
+- hard problem of consciousness
+- Headspace
+- Qualia
+- Transzendenz
+- Depersonalisation
+- Derealisation
+- Amnesie
+- Flashback
+- Co-Bewusstsein
+- DID

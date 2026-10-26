@@ -1,0 +1,501 @@
+{
+  "document": "parakonsistente-logik-im-seelen-protokoll",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 65,
+  "decisions": 68,
+  "same_surface": {
+    "seelenkoharenzprotokoll": [
+      "Das Seelen-Kohärenz-Protokoll",
+      "Seelen-Kohärenz-Protokoll"
+    ]
+  },
+  "decided_mechanically": 49,
+  "needs_judgement": 19,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Aegis",
+        "page": "aegis",
+        "readings": 424
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 190
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 279
+      },
+      {
+        "candidate": "Konstrukt-Stadt",
+        "page": "konstrukt-stadt",
+        "readings": 134
+      },
+      {
+        "candidate": "Resonanz-Landschaft",
+        "page": "resonanz-landschaft",
+        "readings": 61
+      },
+      {
+        "candidate": "Grenzfeste",
+        "page": "grenzfeste",
+        "readings": 59
+      },
+      {
+        "candidate": "Möglichkeits-Garten",
+        "page": "moeglichkeits-garten",
+        "readings": 59
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 139
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 140
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 114
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 97
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 84
+      },
+      {
+        "candidate": "Partnerin",
+        "page": "partnerin",
+        "readings": 20
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 292
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 292
+      },
+      {
+        "candidate": "Personas",
+        "page": "personas",
+        "readings": 18
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Protagonist"
+      },
+      {
+        "candidate": "Integration"
+      },
+      {
+        "candidate": "Kern-Seelenanteils"
+      },
+      {
+        "candidate": "Meta-Narrator"
+      },
+      {
+        "candidate": "blinde Flecken"
+      },
+      {
+        "candidate": "Reparaturstrategien"
+      },
+      {
+        "candidate": "Reparaturversuche"
+      },
+      {
+        "candidate": "logisches Vakuum"
+      },
+      {
+        "candidate": "Parakonsistente Logik"
+      },
+      {
+        "candidate": "Parakonsistenz"
+      },
+      {
+        "candidate": "Parakomplettheit"
+      },
+      {
+        "candidate": "Dialetheismus"
+      },
+      {
+        "candidate": "FDE"
+      },
+      {
+        "candidate": "First Degree Entailment"
+      },
+      {
+        "candidate": "Dunn/Belnap-Logik"
+      },
+      {
+        "candidate": "B4"
+      },
+      {
+        "candidate": "C-Systeme"
+      },
+      {
+        "candidate": "ECQ"
+      },
+      {
+        "candidate": "Ex Contradictione Quodlibet"
+      },
+      {
+        "candidate": "Explosionsprinzip"
+      },
+      {
+        "candidate": "Wahrheitsgitter"
+      },
+      {
+        "candidate": "Informationsgitter"
+      },
+      {
+        "candidate": "Logics of Formal Inconsistency"
+      },
+      {
+        "candidate": "LFIs"
+      },
+      {
+        "candidate": "Trivialität"
+      },
+      {
+        "candidate": "Inkonsistenz"
+      },
+      {
+        "candidate": "Überbestimmtheit"
+      },
+      {
+        "candidate": "Wahrheitswertlücken"
+      },
+      {
+        "candidate": "Satz vom ausgeschlossenen Dritten"
+      },
+      {
+        "candidate": "designierten"
+      },
+      {
+        "candidate": "PL"
+      },
+      {
+        "candidate": "Both"
+      },
+      {
+        "candidate": "Neither"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Möglichkeits-Garten  /  Möglichkeits-Gartens",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos/Sophia  /  Kairos",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kairos/Sophia  /  Sophia",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Partnerin  /  Partnerin-Anomalie",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Realitätsrisse",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Fragmentierung  /  Kernfragmentierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "blinden Fleck  /  Blinden Flecks",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Konsistenzoperator  /  Konsistenzoperators",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Das Seelen-Kohärenz-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Seelen-Kohärenz-Programm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          },
+          {
+            "surface": "koharenzprogramm",
+            "page": "kohaerenz-programm"
+          }
+        ]
+      },
+      {
+        "candidate": "Möglichkeits-Gartens",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "moglichkeitsgarten",
+            "page": "moeglichkeits-garten"
+          }
+        ]
+      },
+      {
+        "candidate": "Kairos/Sophia",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kairos",
+            "page": "kairos"
+          },
+          {
+            "surface": "sophia",
+            "page": "sophia"
+          }
+        ]
+      },
+      {
+        "candidate": "Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Partnerin-Anomalie",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "partnerin",
+            "page": "partnerin"
+          }
+        ]
+      },
+      {
+        "candidate": "Fragmentierung",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "psychischefragmentierung",
+            "page": "did"
+          }
+        ]
+      },
+      {
+        "candidate": "Realitätsrisse",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Firewall",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "cognitivefirewall",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 77,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 40,
+      "already_read": false
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

@@ -1,0 +1,36 @@
+$ read.py gutachterprofil-und-alternativen-ptbs-dis --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[gutachterprofil-und-alternativen-ptbs-dis.md:#0]
+$ read.py gutachterprofil-und-alternativen-ptbs-dis --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[gutachterprofil-und-alternativen-ptbs-dis.md:#0]
+$ read.py gutachterprofil-und-alternativen-ptbs-dis --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[gutachterprofil-und-alternativen-ptbs-dis.md:#0]
+$ read.py gutachterprofil-und-alternativen-ptbs-dis --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[gutachterprofil-und-alternativen-ptbs-dis.md:#0]
+$ read.py gutachterprofil-und-alternativen-ptbs-dis --count "KPTBS"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`KPTBS` ^[gutachterprofil-und-alternativen-ptbs-dis.md:#31]
+$ read.py gutachterprofil-und-alternativen-ptbs-dis --count "DIS"
+whole word, case-sensitive     29
+whole word, case-insensitive   29
+including compounds            30
+
+`DIS` ^[gutachterprofil-und-alternativen-ptbs-dis.md:#29]

@@ -1,0 +1,14 @@
+# tattoo-konzept-symbolik-trauma-heilung
+  lines                456  (frontmatter ends at 9)
+  body words           6421
+  headings             38   bold-only lines 0
+  table rows           14   code fences 0
+  question marks       8
+  backslash escapes    68
+  typographic marks    71   ascii quotes 2
+  invisible characters none
+  math symbol lines    12
+  glued ref numbers    85
+  repeated labels      Chromatic Signature x11, Formal Language x11, Psychological Essence x11, Placement x7, Execution x3
+  longest line         1086 chars
+

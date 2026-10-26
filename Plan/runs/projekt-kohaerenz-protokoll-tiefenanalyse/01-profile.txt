@@ -1,0 +1,14 @@
+# projekt-kohaerenz-protokoll-tiefenanalyse
+  lines                1008  (frontmatter ends at 0)
+  body words           8447
+  headings             29   bold-only lines 0
+  table rows           38   code fences 0
+  question marks       21
+  backslash escapes    212
+  typographic marks    19   ascii quotes 464
+  invisible characters U+200Bx1
+  math symbol lines    0
+  glued ref numbers    151
+  repeated labels      Farbpalette x13, Narrative Währung x13, Verbale Signatur x13, Ergebnis x12, Kern-Direktive x12, TSDP-Mapping x11, Textuelle Signatur x10, Aktion x9, Intrusion x9, Trigger x6, Interaktion mit (ein Symbolwort, redigiert) x5, System-Reaktion x5, Ziel x5, Funktion x3, Plot x3
+  longest line         580 chars
+

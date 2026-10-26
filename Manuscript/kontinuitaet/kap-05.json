@@ -1,0 +1,66 @@
+{
+ "kapitel": 5,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er weiß, dass sie nicht nur neugierig ist; ihre Sorge kann berechtigt sein.",
+   "seit": 5,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Keine reine Schurkin: Ihr Einwand muss aus gezeigten Folgen stammen.",
+   "seit": 5,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE: Der Bericht erreicht AEGIS (T:L126).",
+   "seit": 5,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Vor einem festgelegten Berichtsschluss; danach ist die Frist aus Kap 2 kürzer. Um wie viel, ist offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Körper",
+   "wie": "Kälte in den Händen; Ordnung, die sich verdoppelt.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Alex",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Körper",
+   "wie": "Der Körper wappnet sich, bevor Kael Gefahr sieht.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

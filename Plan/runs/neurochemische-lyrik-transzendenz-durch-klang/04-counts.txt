@@ -1,0 +1,54 @@
+# counts for 40 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              7 word     9 in   [55, 65, 267, 292, 293, 296]
+                                    1      as Kael-System
+                                    1      as Kaels
+  Kael-System                       1 word     1 in   [55]
+  Nyx                               9 word     9 in   [66, 78, 234, 255, 266, 292]
+  Isabelle                          2 word     2 in   [81]
+  Moros                             6 word     6 in   [68, 82, 121, 232, 291]
+  Selene                            3 word     4 in   [90, 121, 294, 297]
+                                    1      as Selenes
+  Argus                             2 word     2 in   [91, 121]
+  Kiko                              4 word     4 in   [80, 267, 291]
+  Lex                               4 word     6 in   [66, 135, 195, 234, 266]
+  Kohärenz Protokoll                6 word     6 in   [29, 39, 79, 103, 106, 120]
+  Coherence Process                 6 word     6 in   [31, 39, 47, 106, 121, 314]
+  Agency System                     2 word     2 in   [47, 298]
+  Bunker                            4 word     4 in   [95, 101, 120]
+  Firewall                          5 word     7 in   [66, 95, 102, 120, 234]
+                                    2      as Firewalls
+  Firewalls                         2 word     2 in   [102]
+  Rage Circuit                      2 word     2 in   [78, 255]
+  Cache Kohärenz                    1 word     1 in   [65]
+  Firewall Conflict                 4 word     4 in   [66, 102, 120, 234]
+  Zero Signal                       4 word     4 in   [145, 232, 268, 291]
+  Echo Trace                        3 word     3 in   [146, 233, 292]
+  Not Mine                          2 word     2 in   [256, 293]
+  Spine Root                        5 word     5 in   [173, 235, 243, 254, 294]
+  Flicker Self                      3 word     3 in   [163, 245, 295]
+  Soft Split                        2 word     2 in   [266, 296]
+  Tremor Grace                      3 word     3 in   [181, 235, 297]
+  Render Glitch                     4 word     4 in   [108, 193, 246, 293]
+  Neurochemische Signaturen         2 word     2 in   [276, 280]
+  Klangbasierte Zeugenschaft        1 word     1 in   [306]
+  Transfusion                       5 word     5 in   [39, 131, 186, 193, 284]
+  GABA-Crash                        4 word     4 in   [145, 232, 291]
+  Glutamatsturm                     1 word     2 in   [146, 255]
+                                    1      as Glutamatsturms
+  Hypervigilanz                     5 word     5 in   [150, 154, 199, 233, 292]
+  Tertiäre Strukturelle Dissoziation    1 word     1 in   [55]
+  Multivokalität                    1 word     1 in   [264]
+  TSDP                              2 word    11 in   [27, 43, 47, 55, 67, 79]  <-- substring
+                                    2      as TSDP-Analyse
+                                    2      as TSDP-Dynamik
+                                    1      as TSDP-fundierte
+                                    1      as TSDP-basierten
+  ANP                               6 word    12 in   [55, 59, 63, 65, 66, 90]
+  ANPs                              3 word     3 in   [55, 63, 102]
+  EP                                6 word    16 in   [55, 65, 66, 72, 76, 78]  <-- substring
+  EPs                               3 word     3 in   [55, 76, 102]
+  Dissoziation                      6 word     6 in   [47, 55, 99, 246, 293]

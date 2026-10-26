@@ -1,0 +1,84 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+The document is a plot blueprint in German with a table of four worlds, a character table and a plot outline of 3 x 13 numbered points. Its figures carry role names (Architekt, Echo, Wächter, Funke, Sucher) and the document writes none of the novel's current figure names. It calls its own passages „Lösungsansatz“ and per plot point uses a fixed field template (HJ-Inspiration, Setting and so on); those field labels repeat and are template, not terms. Question sections at the end are questions, so terms standing only there have no reading. Kap numbers are not used; plot points are numbered 1.01 to 3.13. No personal or autobiographical material was met.
+
+- Seelen-Kohärenz-Protokoll
+- Seelen-Kohärenz-Programm
+- Kern-Welten
+- Kernbewusstsein
+- Konstrukt-Stadt
+- Resonanz-Landschaft
+- Grenzfeste
+- Möglichkeits-Garten/Nexus
+- Möglichkeits-Garten
+- Nexus
+- Überraum
+- Meta-Realität
+- Meta-Narrator
+- Meta-Erzähler
+- Personas
+- Architekt
+- Echo
+- Wächter
+- Funke
+- Sucher
+- Der Architekt
+- Das Echo
+- Der Wächter
+- Der Funke
+- Der Sucher
+- Der Kreative Funke
+- Der Suchende Sucher
+- Guardians
+- Guardian
+- LogOS
+- Mnemosyne
+- Cerberus
+- Kairos
+- Sophia
+- Partnerin
+- Partnerin-Echo
+- Partnerin-Echos
+- Glitch-Kind
+- Beobachter
+- Roter Vogel
+- Roten Vogel
+- Wiederkehrende Archetypen
+- Archetypen
+- Risse
+- Glitches
+- Intrusionen
+- Intrusion
+- Seele=Info
+- Seele = Information
+- funktionale Multiplizität
+- funktionalen Multiplizität
+- Integrations-Werkzeuge
+- Jagd nach der Realität
+- Bruch der Realitäten
+- Fragmentierung
+- sekundäre Fragmentierung
+- Reintegration
+- Kern-Seelenanteil
+- systemische Blindheit
+- Notfall-Extraktionsprotokoll
+- HJ-Inspiration
+- Fokus-Persona(s)
+- Simulation
+- Kern-Welt
+- V5
+- Teil 1
+- Teil 2
+- Teil 3
+- Kern-Bewusstseins-Instanzen
+- Schaltzentrale
+- Seelenanteil
+
+## lens
+
+- Epistemologie
+- Qualia
+- Simulationstheorie
+- Reduktionismus
+- Informationstheorie
+- Heldenreise

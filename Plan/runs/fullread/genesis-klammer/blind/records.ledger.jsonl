@@ -1,0 +1,41 @@
+{"ref": "Plan/weichen/w14-kap40.md:26", "state": "used", "thoughts": ["bR-01"]}
+{"ref": "Wiki/conflicts/c11-landauer-warmth-or-cold-ozone.md:215", "state": "used", "thoughts": ["bR-03"]}
+{"ref": "Wiki/conflicts/c12-genesis-beats.md:219", "state": "used", "thoughts": ["bR-04", "bR-11"], "note": "Das Zitat „Kap 0 und Kap 40 spiegeln sich in der Genesis-Klammer.“ wiederholt PH L464 (Chunk 01)."}
+{"ref": "Wiki/candidates/aegis.md:3119", "state": "used", "thoughts": ["bR-05"]}
+{"ref": "Wiki/candidates/formel-inversion.md:35", "state": "same-as", "thoughts": [], "note": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L275 (sieben Spiegelpunkte)"}
+{"ref": "Wiki/candidates/formel-inversion.md:158", "state": "same-as", "thoughts": [], "note": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L344 (Formel in Kap 40) und kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L88 (Kap 39 -> 40)"}
+{"ref": "Wiki/candidates/genesis.md:624", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464"}
+{"ref": "Wiki/candidates/komponente-734.md:449", "state": "occurrence", "thoughts": [], "note": "nennt die Abhandlung nur als Dokument unter den Belegen, wann die Komponente entsteht"}
+{"ref": "Wiki/candidates/nichts-rauschen.md:710", "state": "used", "thoughts": ["bR-06"]}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:106", "state": "used", "thoughts": ["bR-07"]}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:168", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-begriffe-und-konzepte-2026-06-10-md.md:L622 (Glossareintrag im Abschnitt 12)"}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:172", "state": "used", "thoughts": ["bR-08"]}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:189", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464"}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:192", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470"}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:210", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L618 und kohaerenz-protokoll-welt-sensorik-drafting-2026-06-10-md.md:L616"}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:253", "state": "used", "thoughts": ["bR-09"]}
+{"ref": "Wiki/candidates/ouroboros-struktur.md:257", "state": "used", "thoughts": ["bR-09"]}
+{"ref": "Wiki/candidates/residual-echos.md:19", "state": "same-as", "thoughts": [], "note": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L327 und kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L321 (V.4 Die Echos)"}
+{"ref": "Wiki/candidates/vermittler-stimme.md:45", "state": "used", "thoughts": ["bR-10"]}
+{"ref": "Wiki/candidates/vermittler-stimme.md:143", "state": "used", "thoughts": ["bR-10"]}
+{"ref": "Wiki/chapters/kap-00.md:23", "state": "same-as", "thoughts": [], "note": "Zusammenfassung von kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125, kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L299 und kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L108"}
+{"ref": "Wiki/chapters/kap-00.md:203", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L125"}
+{"ref": "Wiki/chapters/kap-00.md:230", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464"}
+{"ref": "Wiki/chapters/kap-00.md:231", "state": "used", "thoughts": ["bR-11"], "note": "Die Zeile selbst wiederholt PH L470 (Chunk 01); die benachbarte Zeile 232 (im Fenster) nennt die Genesis-4-Beat-Zählung."}
+{"ref": "Wiki/chapters/kap-00.md:252", "state": "used", "thoughts": ["bR-12"]}
+{"ref": "Wiki/chapters/kap-00.md:253", "state": "same-as", "thoughts": [], "note": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L108 (Fenster, dort L112: noch keine B-Storyform vor dem Klick)"}
+{"ref": "Wiki/chapters/kap-00.md:271", "state": "same-as", "thoughts": [], "note": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L108 (B entsteht erst mit dem Klick)"}
+{"ref": "Wiki/chapters/kap-00.md:272", "state": "used", "thoughts": ["bR-13"]}
+{"ref": "Wiki/chapters/kap-00.md:286", "state": "used", "thoughts": ["bR-16"]}
+{"ref": "Wiki/chapters/kap-01.md:641", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470"}
+{"ref": "Wiki/chapters/kap-39.md:497", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 und kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470"}
+{"ref": "Wiki/chapters/kap-39.md:547", "state": "used", "thoughts": ["bR-04"]}
+{"ref": "Wiki/chapters/kap-40.md:23", "state": "same-as", "thoughts": [], "note": "Zusammenfassung von kapitel-kompendium-gather-2026-05-31-md.md:L92 und kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L592"}
+{"ref": "Wiki/chapters/kap-40.md:182", "state": "occurrence", "thoughts": [], "note": "Überschrift des Lesungsblocks der Philosophie, keine eigene Aussage"}
+{"ref": "Wiki/chapters/kap-40.md:188", "state": "same-as", "thoughts": [], "note": "kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L464 und kohaerenz-protokoll-philosophie-im-detail-2026-06-10-md.md:L470"}
+{"ref": "Wiki/chapters/kap-40.md:201", "state": "used", "thoughts": ["bR-02"]}
+{"ref": "Wiki/chapters/kap-40.md:214", "state": "used", "thoughts": ["bR-13"]}
+{"ref": "Wiki/chapters/kap-40.md:215", "state": "used", "thoughts": ["bR-14"]}
+{"ref": "Wiki/chapters/kap-40.md:217", "state": "used", "thoughts": ["bR-15"]}
+{"ref": "Wiki/chapters/kap-40.md:227", "state": "same-as", "thoughts": [], "note": "kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L390 und kap0-kap40-doppelklammer-abhandlung-2026-05-08-md.md:L408 (Driver Decision / Approach Be-er)"}
+{"ref": "Wiki/chapters/kap-40.md:231", "state": "used", "thoughts": ["bR-13", "bR-17"]}

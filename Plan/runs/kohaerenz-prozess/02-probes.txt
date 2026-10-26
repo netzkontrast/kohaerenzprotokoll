@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      73
+  backslash escapes      144
+  typographic marks      28
+  ascii quotes           156
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstabwertung, Selbstbenennung, Selbstbestrafung, Selbstdefinition, Selbsterkenntnis, Selbstermächtigung, Selbstheilungs, Selbstkorrekturprozesse, Selbstkritik, Selbstmedikation, Selbstmitgefühl, Selbstorganisationsprozesse, Selbstreflexion, Selbstregulationsfähigkeiten, Selbstverständnisses, Selbstwertgefühl, Selbstzerstörung
+  bindu    Bindu, Bindung, Bindungs, Bindungsangst, Bindungsdynamiken, Bindungsentwicklung, Bindungserhalt, Bindungskontexten, Bindungsmuster, Bindungsmustern, Bindungsstilen, Bindungstheorie
+  bezie    Bezieht, Beziehung, Beziehungen, Beziehungsbruch, Beziehungsdynamik, Beziehungserfahrungen, Beziehungsklärungsprozess, Beziehungskrise, Beziehungsmuster
+  kommu    Kommunikation, Kommunikations, Kommunikationsnetzwerks, Kommunikationsprotokolle, Kommunikationsregeln, Kommunikationsstrukturen, Kommunikationswege, Kommunikationswegen, Kommuniziert
+  kontr    Kontrast, Kontraste, Kontrolle, Kontrollebene, Kontrollstrategien, Kontrollstrukturen, Kontrollverlust, Kontrollverlusts, Kontrollversuche
+  syste    System, Systemabsturz, Systematic, Systemebene, Systemen, Systemische, Systemreaktion, Systems, Systemstress
+  thera    Therapeuten, Therapeutin, Therapeutische, Therapeutischer, Therapie, Therapieergebnissen, Therapiephasen, Therapy, TherapyTrainings
+  funkt    Funktion, Funktional, Funktionalität, Funktionen, Funktionieren, Funktionsanpassung, Funktionsfähigkeit, Funktionsweise
+  psych    Psyche, Psychedelic, Psychedelics, Psychoedukation, Psychological, Psychology, Psychotraumatologie
+  sucht    Sucht, Suchtdynamik, Suchtdynamiken, Suchtmittel, Suchtmittelkonsum, Suchtmitteln, Suchttherapie
+  affek    Affekt, Affekte, Affekten, Affektive, Affektmuster, Affektregulation
+  exist    Existential, Existenz, Existenzberechtigung, Existenzielle, Existenzkrise, Existenzweise
+  infor    Information, Informationen, Informationsaustausch, Informationsgeber, Informationsverlust, Informationsüberflutung
+  krise    Krise, Krisen, Krisenbewältigung, Krisenintervention, Krisenphasen, Krisenreaktion
+  traum    Trauma, Traumainformierte, Traumas, Traumatisierte, Traumatisierung, Traumatization
+  trenn    Trennung, Trennungsandrohung, Trennungsangst, Trennungsdrohung, Trennungserfahrungen, Trennungsgrund
+  verha    Verhalten, Verhaltens, Verhaltensmuster, Verhaltensweisen, Verhandlung, Verharrens
+  disso    Dissociation, Dissociative, Dissonanz, Dissonanzen, Dissoziation
+  inter    Interaktion, Interne, Interner, Intervention, Interventionen
+  klang    Klangfarben, Klanglich, Klanglichen, Klangräume, Klangschichten
+  leben    Lebens, Lebensereignisse, Lebensgefahr, Lebensgeschichte, Lebensqualität
+  netzw    Netzwerk, Netzwerkbildung, Netzwerkkommunikation, Netzwerks, Netzwerktheorie
+  reakt    Reaktion, Reaktionen, Reaktionsmustern, Reaktivierung, Reaktivität
+  stres    Stress, Stressbewältigung, Stresses, Stressoren, Stressregulation
+  theor    Theoretische, Theoretischer, Theorie, Theorien, Theory
+
+# substring pairs -- never one term, often merged by accident
+  Bild < Abbild
+  Bild < Bilder
+  Bild < Bildung
+  Bild < Gesamtbild
+  Bild < Allianzbildung
+  Bild < Netzwerkbildung
+  Blue < Blueprints
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Keine
+  Eine < Kleine
+  Eine < Steine
+  Eine < Einelternfamilien
+  Ende < Wende
+  Ende < Fehlende
+  Ende < Liebende
+  Ende < Auslösende
+  Ende < Wendepunkt
+  Ende < Wendepunkte

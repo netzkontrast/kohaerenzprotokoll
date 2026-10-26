@@ -1,0 +1,94 @@
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kap` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#0]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Lösungsansatz"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Lösungsansatz` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#5]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "HJ-Inspiration"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            40
+
+`HJ-Inspiration` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#40]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Guardian-Beobachtung / Aktivität"
+whole word, case-sensitive     39
+whole word, case-insensitive   39
+including compounds            39
+
+`Guardian-Beobachtung / Aktivität` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#39]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Partnerin"
+whole word, case-sensitive     81
+whole word, case-insensitive   81
+including compounds            178
+
+`Partnerin` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#81]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Partnerin-Echo"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            48
+
+`Partnerin-Echo` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#19]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Guardians"
+whole word, case-sensitive     105
+whole word, case-insensitive   105
+including compounds            105
+
+`Guardians` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#105]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Seele=Info"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Seele=Info` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#13]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Seele = Information"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Seele = Information` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#2]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Jagd nach der Realität"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Jagd nach der Realität` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#9]
+$ python3 scripts/read.py roman-blueprint-seelen-kohaerenz-protokoll --count "Seelen-Kohärenz-Programm"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Seelen-Kohärenz-Programm` ^[roman-blueprint-seelen-kohaerenz-protokoll.md:#1]
+
+plot points: 3 parts x 13 (1.01-1.13, 2.01-2.13, 3.01-3.13)
+$ grep -cE "^  - \*\*[123]\.[0-9]{2} - " Sources/drive/roman-blueprint-seelen-kohaerenz-protokoll.md
+39

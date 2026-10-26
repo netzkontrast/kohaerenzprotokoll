@@ -1,0 +1,371 @@
+{
+  "document": "manifest-der-handlungsfaehigkeit-nachhall",
+  "drive_id": "1EWKIrpjMrxmY56ULXANyiUT9cLASjf63Khlm61GZe8w",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Manifest der Handlungsfähigkeit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        17
+      ]
+    },
+    "Nachhall": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        19,
+        328,
+        332
+      ]
+    },
+    "Resonanzraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Ein Protokoll des Bleibens": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        11
+      ]
+    },
+    "Handlungsfähigkeit": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        17,
+        19,
+        134,
+        164,
+        181,
+        258,
+        268,
+        323,
+        332
+      ]
+    },
+    "Agency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        164
+      ]
+    },
+    "Multiplizität": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        69,
+        180,
+        211
+      ]
+    },
+    "Vielheit": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        290,
+        332
+      ]
+    },
+    "Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        79,
+        118
+      ]
+    },
+    "Zersplitterung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        44,
+        69
+      ]
+    },
+    "Rekursion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        222,
+        268
+      ]
+    },
+    "Kern": {
+      "n": 1,
+      "n_including_compounds": 4,
+      "lines": [
+        69,
+        87,
+        118,
+        332
+      ]
+    },
+    "Konstellation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        87,
+        118
+      ]
+    },
+    "Präsenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        147,
+        164,
+        236,
+        244,
+        268
+      ]
+    },
+    "Verpflichtung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        103,
+        118,
+        237,
+        245,
+        268
+      ]
+    },
+    "Weigerung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        238,
+        246,
+        268
+      ]
+    },
+    "Protokoll der Präsenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        236,
+        244,
+        268
+      ]
+    },
+    "Funktion der Verpflichtung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        237,
+        245,
+        268
+      ]
+    },
+    "Architektur der Weigerung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        238,
+        246,
+        268
+      ]
+    },
+    "Funktion ist keine Maske": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        128,
+        164
+      ]
+    },
+    "Wegen der Unterschiede": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        270,
+        332
+      ]
+    },
+    "Resonanzboden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "Illusion von Einheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        187,
+        211
+      ]
+    },
+    "Verantwortung": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        268,
+        291,
+        332
+      ]
+    },
+    "Integrität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        45,
+        69
+      ]
+    },
+    "Struktur in Bewegung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Katharsis": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        235,
+        268
+      ]
+    },
+    "Gleichgewicht": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        118
+      ]
+    },
+    "Symmetrie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        118
+      ]
+    },
+    "Narrator": {
+      "n": 26,
+      "n_including_compounds": 26,
+      "lines": [
+        30,
+        36,
+        43,
+        59,
+        78,
+        85,
+        92,
+        108,
+        127,
+        133,
+        140,
+        154,
+        173,
+        179,
+        185,
+        201,
+        220,
+        226,
+        233,
+        251,
+        257,
+        277,
+        283,
+        296,
+        310,
+        317
+      ]
+    },
+    "Suno": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        63,
+        112,
+        158,
+        205,
+        262,
+        326
+      ]
+    },
+    "Conceptual Reflection": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        67,
+        116,
+        162,
+        209,
+        266,
+        330
+      ]
+    },
+    "Music Style Description": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        63,
+        112,
+        158,
+        205,
+        262,
+        326
+      ]
+    },
+    "We Begin Here": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "We Do Not Owe You Coherence": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Function Is Not Mask": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        120
+      ]
+    },
+    "You Will See Yourself": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        166
+      ]
+    },
+    "Toward a Shared Future": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    }
+  }
+}

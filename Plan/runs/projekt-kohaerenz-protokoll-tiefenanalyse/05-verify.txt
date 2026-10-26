@@ -1,0 +1,157 @@
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Vorschlag"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Vorschlag` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#10]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Szenario"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Szenario` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#13]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Interaktions-Matrix"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Interaktions-Matrix` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#13]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#0]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#0]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#0]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#0]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Akt I"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            13
+
+`Akt I` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#5]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Akt II"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Akt II` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#5]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Akt III"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Akt III` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#3]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "TSDP-Mapping"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`TSDP-Mapping` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#12]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "TSDP-Struktur"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`TSDP-Struktur` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "EP-Fight"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`EP-Fight` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#4]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Entropie-Visualisierung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Entropie-Visualisierung` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#1]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Synchronizität"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Synchronizität` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#3]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Triadische Währung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Triadische Währung` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#1]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Triadischen Währung"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Triadischen Währung` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Empathie"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Empathie` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#22]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Neugier"
+whole word, case-sensitive     30
+whole word, case-insensitive   30
+including compounds            30
+
+`Neugier` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#30]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Spannung"
+whole word, case-sensitive     33
+whole word, case-insensitive   33
+including compounds            33
+
+`Spannung` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#33]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "'O'"
+whole word, case-sensitive     40
+whole word, case-insensitive   40
+including compounds            42
+
+`'O'` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#40]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "K\_₁"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`K\_₁` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#31]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "K\_₀"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`K\_₀` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#23]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Lichtinstanz"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Lichtinstanz` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2]
+$ python3 scripts/read.py projekt-kohaerenz-protokoll-tiefenanalyse --count "Tertiäre Strukturelle Dissoziation"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Tertiäre Strukturelle Dissoziation` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#2]
+# stance_marker_count 23 = Vorschlag 10 + Szenario 13
+$ grep -c "(Vorschlag)"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`(Vorschlag)` ^[projekt-kohaerenz-protokoll-tiefenanalyse.md:#8]

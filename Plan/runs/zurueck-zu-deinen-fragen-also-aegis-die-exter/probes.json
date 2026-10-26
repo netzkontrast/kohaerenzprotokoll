@@ -1,0 +1,199 @@
+{
+  "document": "zurueck-zu-deinen-fragen-also-aegis-die-exter",
+  "drive_id": "1GNa--5y8EyKaPQf-yL1A43aN-PklQvVnbKc0QhZ65xs",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 13,
+  "backslash_escapes": 2,
+  "typographic_marks": 6,
+  "ascii_quotes": 56,
+  "inflection_families": {
+    "selbs": [
+      "Selbstakzeptanz",
+      "Selbstfindung",
+      "Selbstliebe",
+      "Selbstschutz",
+      "Selbstständigkeit"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteils",
+      "Anteilswelten"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entscheidungen",
+      "Entscheidungsfreiheit"
+    ],
+    "syste": [
+      "System",
+      "Systems",
+      "Systemsicht"
+    ],
+    "album": [
+      "Album",
+      "Albums"
+    ],
+    "beisp": [
+      "Beispiel",
+      "Beispiele"
+    ],
+    "darst": [
+      "Darstellen",
+      "Darstellung"
+    ],
+    "entwi": [
+      "Entwicklung",
+      "Entwicklungspotenzial"
+    ],
+    "ersch": [
+      "Erscheinen",
+      "Erschöpfung"
+    ],
+    "etapp": [
+      "Etappe",
+      "Etappen"
+    ],
+    "helde": [
+      "Heldenreise",
+      "Heldenreisen"
+    ],
+    "hoffn": [
+      "Hoffnung",
+      "Hoffnungsträger"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepts"
+    ],
+    "krise": [
+      "Krise",
+      "Krisen"
+    ],
+    "metaa": [
+      "Metaalbum",
+      "Metaalbums"
+    ],
+    "metap": [
+      "Metaphern",
+      "Metaphorik"
+    ],
+    "neuke": [
+      "Neukennenlernen",
+      "Neukennenlernens"
+    ],
+    "parad": [
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "regel": [
+      "Regel",
+      "Regeln"
+    ],
+    "spieg": [
+      "Spiegelsong",
+      "Spiegelsongs"
+    ],
+    "trans": [
+      "Transformation",
+      "Transformationsmechanismus"
+    ],
+    "umbau": [
+      "Umbau",
+      "Umbaus"
+    ],
+    "verga": [
+      "Vergangenheit",
+      "Vergangenheitsverständnis"
+    ],
+    "verän": [
+      "Veränderung",
+      "Veränderungsprozesse"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ihre",
+      "Ihren"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Juna",
+      "Junas"
+    ],
+    [
+      "Meta",
+      "Metaalbum"
+    ],
+    [
+      "Meta",
+      "Metaphern"
+    ],
+    [
+      "Meta",
+      "Metaalbums"
+    ],
+    [
+      "Meta",
+      "Metaphorik"
+    ],
+    [
+      "Meta",
+      "Leitmetaphern"
+    ],
+    [
+      "Sich",
+      "Sicht"
+    ],
+    [
+      "Sich",
+      "Systemsicht"
+    ],
+    [
+      "Sich",
+      "Sicherheitsprotokolle"
+    ],
+    [
+      "Song",
+      "Songs"
+    ],
+    [
+      "Song",
+      "Spiegelsong"
+    ],
+    [
+      "Song",
+      "Spiegelsongs"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Welt",
+      "Anteilswelten"
+    ],
+    [
+      "Album",
+      "Albums"
+    ],
+    [
+      "Album",
+      "Metaalbum"
+    ],
+    [
+      "Album",
+      "Metaalbums"
+    ]
+  ]
+}

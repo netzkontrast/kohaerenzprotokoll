@@ -1,0 +1,14 @@
+# gutachterprofil-und-alternativen-ptbs-dis
+  lines                235  (frontmatter ends at 9)
+  body words           4406
+  headings             8   bold-only lines 20
+  table rows           9   code fences 0
+  question marks       4
+  backslash escapes    36
+  typographic marks    6   ascii quotes 96
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    17
+  repeated labels      none
+  longest line         1679 chars
+

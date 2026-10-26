@@ -1,0 +1,14 @@
+# ergaenze-aegis-protokoll-und-selbstrekusive-defini
+  lines                143  (frontmatter ends at 9)
+  body words           1198
+  headings             0   bold-only lines 6
+  table rows           0   code fences 0
+  question marks       5
+  backslash escapes    0
+  typographic marks    5   ascii quotes 24
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    8
+  repeated labels      none
+  longest line         517 chars
+

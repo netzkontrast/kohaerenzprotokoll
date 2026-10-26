@@ -1,0 +1,56 @@
+# counts for 41 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Seelen-Kohärenz-Protokoll         1 word     1 in   [15]
+  Seelen-Kohärenz-Programm          1 word     2 in   [17, 35]
+                                    1      as Seelen-Kohärenz-Programms
+  Kern-Bewusstsein                  1 word     2 in   [17, 22]
+                                    1      as Kern-Bewusstseins
+  Personas                         15 word    16 in   [17, 21, 22, 30, 37, 38]
+  Persona                           1 word    21 in   [17, 21, 22, 24, 25, 26]  <-- substring
+                                   15      as Personas
+                                    3      as Persona-Welten
+                                    1      as Persona-Realitäten
+  Kern-Personas                     1 word     1 in   [21]
+  Architekt                         1 word     1 in   [21]
+  Echo                              1 word     2 in   [19, 21]
+                                    1      as Echos
+  Wächter                           1 word     1 in   [21]
+  Funke                             1 word     1 in   [21]
+  Sucher                            1 word     1 in   [21]
+  Risse                             7 word     8 in   [17, 25, 35, 39, 50, 52]
+                                    1      as Risses
+  Realitätsrisse                    1 word     2 in   [21, 48]
+                                    1      as Realitätsrissen
+  Glitches                          2 word     2 in   [21, 25]
+  Intrusionen                       3 word     3 in   [22, 25]
+  Guardians                        13 word    13 in   [11, 17, 24, 30, 35, 38]
+  Hüter                             1 word     1 in   [17]
+  Überraum                          4 word     4 in   [17, 26, 28, 30]
+  Nexus                             1 word     1 in   [30]
+  Partnerin                        18 word    20 in   [11, 17, 23, 26, 38, 39]
+                                    1      as Partnerin-Mysterium
+                                    1      as Partnerin-Figur
+  Das Partnerin-Mysterium           1 word     1 in   [38]
+  LogOS                             2 word     2 in   [24, 36]
+  Mnemosyne                         2 word     2 in   [24, 36]
+  Cerberus                          2 word     2 in   [24, 36]
+  Kairos                            2 word     2 in   [24, 36]
+  Sophia                            2 word     2 in   [24, 36]
+  Meta-Narrator                     3 word     3 in   [24, 37]
+  Bruch der Realitäten              1 word     1 in   [26]
+  Integrations-Werkzeugen           1 word     1 in   [39]
+  Seele = Information               1 word     1 in   [50]
+  Jagd nach der Realität            2 word     2 in   [41, 51]
+  Das Außen                         1 word     1 in   [51]
+  Die Naht im Selbst                1 word     1 in   [41]
+  Echos im Zersplitterten Spiegel    1 word     1 in   [19]
+  Intervention aus dem Überraum     1 word     1 in   [28]
+  Multiplizität                     3 word     3 in   [30, 54, 55]
+  funktionale Kohärenz              1 word     1 in   [54]
+  Klarheit                          2 word     2 in   [23, 54]
+  Protagonisten-System              4 word     4 in   [30, 37, 53, 55]
+  Fragmentierung                    5 word     5 in   [11, 17, 21, 35, 53]
+  Heldenreise                       1 word     1 in   [43]

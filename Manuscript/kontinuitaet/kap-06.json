@@ -1,0 +1,75 @@
+{
+ "kapitel": 6,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Kael kennt die interne Prüfung nicht; er erlebt später ihre Folgen.",
+   "seit": 6,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "AEGIS' Selbstverlust steht als Differenz im Ich-Protokoll, ohne Gesamtauflösung.",
+   "seit": 6,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE ordnet den Anschluss Komp 734 zu, „seinem eigenen Ursprung“ (T:L131). Dass dort Kael angeschlossen ist, weiß AE nicht (T:L132). L: 734 = Ursprung von AE = der Anschluss. K: kennt die Prüfung nicht (dev:L233).",
+   "seit": 6,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[Genesis] AE: Ursprung 734 (T:L131), passend zu Kap 0",
+   "seit": 6,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[Anschluss / Kanal] AE: Der Sweep trifft andere (T:L134).",
+   "seit": 6,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[zehn Jahre] AE verliert einen früheren Prüfentscheid (T:L133).",
+   "seit": 6,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Nach dem Bericht; Sweep-Dauer offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [
+  {
+   "name": "Abwärmebudget",
+   "wert": "64 %",
+   "einheit": "Prozent der thermodynamischen Reserve",
+   "quelle": "Plan/storyform/clock-b.json (Schritt 48, Werte Vorschlag)",
+   "status": "proposal"
+  }
+ ],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  }
+ ]
+}

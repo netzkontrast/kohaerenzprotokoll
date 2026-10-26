@@ -1,0 +1,389 @@
+{
+  "document": "romanentwurf-ruf-des-abenteuers",
+  "drive_id": "1NoQAHpOUXcVq4s66GDatvxKBbyzszSNRnfrR6OCWSys",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Konstrukt-Stadt": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        22,
+        31,
+        35,
+        46,
+        53,
+        58,
+        73,
+        75,
+        87,
+        114,
+        141,
+        361,
+        369,
+        377,
+        405,
+        441
+      ]
+    },
+    "Resonanz-Landschaft": {
+      "n": 19,
+      "n_including_compounds": 19,
+      "lines": [
+        22,
+        23,
+        27,
+        46,
+        53,
+        58,
+        71,
+        72,
+        73,
+        75,
+        83,
+        88,
+        337,
+        351,
+        437,
+        441,
+        443,
+        445
+      ]
+    },
+    "Kern-Welt 2": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kern-Trauma": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        16,
+        17,
+        45
+      ]
+    },
+    "Kern-Traumas": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        17
+      ]
+    },
+    "Kernemotionen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        22,
+        74,
+        284,
+        285
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        36,
+        64
+      ]
+    },
+    "Mnemosynes": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Wächterin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Wächter (Guardian)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "LogOS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Risse": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        443
+      ]
+    },
+    "Glitches": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        35
+      ]
+    },
+    "Kind/Echo": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        22,
+        34,
+        48,
+        74,
+        154,
+        156,
+        158,
+        280,
+        281,
+        294,
+        443
+      ]
+    },
+    "Architekt": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        22,
+        254,
+        409,
+        417
+      ]
+    },
+    "Host": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        84,
+        98,
+        112,
+        126,
+        140,
+        154,
+        168,
+        182,
+        196,
+        210,
+        224,
+        238,
+        252,
+        266,
+        280,
+        294,
+        308,
+        322,
+        336,
+        350
+      ]
+    },
+    "Meta-Ebene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        445
+      ]
+    },
+    "DIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        74
+      ]
+    },
+    "Stimme in der Leere": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        317,
+        323,
+        427,
+        429
+      ]
+    },
+    "Betrayal": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        16,
+        17,
+        22,
+        23,
+        45,
+        71,
+        73,
+        127,
+        130,
+        155,
+        183,
+        187,
+        199,
+        223,
+        228,
+        240,
+        242,
+        441
+      ]
+    },
+    "Ruf des Abenteuers": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        16,
+        45,
+        53,
+        73,
+        326,
+        429,
+        441,
+        445
+      ]
+    },
+    "Gewohnte Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Gewohnten Welt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        16,
+        73
+      ]
+    },
+    "Verweigerung des Rufs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Zeit-Schleife": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        267,
+        279
+      ]
+    },
+    "Zeitschleife": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        417
+      ]
+    },
+    "Übergangsraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    },
+    "zerbrochenen Spiegels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kapitel 1": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        17,
+        23,
+        44,
+        58,
+        421,
+        445
+      ]
+    },
+    "Kapitel 2": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        13,
+        15,
+        58,
+        77,
+        441
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        16,
+        73,
+        441
+      ]
+    },
+    "Refusal of the Call": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        16
+      ]
+    },
+    "Call to Adventure": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        327
+      ]
+    },
+    "Traumlogik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        71,
+        441
+      ]
+    },
+    "pathetische Fallacy": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        441
+      ]
+    },
+    "pathetischen Fallacy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        32
+      ]
+    }
+  }
+}

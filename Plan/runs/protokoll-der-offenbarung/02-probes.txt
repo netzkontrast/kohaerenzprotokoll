@@ -1,0 +1,54 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      11
+  backslash escapes      933
+  typographic marks      21
+  ascii quotes           152
+
+# inflection families -- one term, several surfaces
+  syste    SYSTEM, SYSTEMANALYSE, SYSTEMFEHLER, SYSTEMINSTABILIT, SYSTEMPROTOKOLL, SYSTEMSTATUS, SYSTEMWARNUNG, System, Systemabsturz, Systemerhalt, Systemfehler, Systemkern, Systemkerne, Systems, Systemstimme, Systemstimmen
+  proto    PROTOKOLL, PROTOKOLLABSCHNITT, PROTOKOLLBEGINN, PROTOKOLLEINTRAG, PROTOKOLLIERT, PROTOKOLLIERUNG, PROTOKOLLSEKTION, Protokoll, Protokollbeginn, Protokolliert, Protokollierung, Protokolls
+  daten    DATENS, Daten, Datenarchiv, Datenpaket, Datensatz, Datenschein, Datenstrom, Datenströmen, Datenverarbeitung
+  fragm    FRAGMENT, FRAGMENTARISCHER, Fragment, Fragmente, Fragmenten, Fragmentiertes, Fragmentierung
+  selbs    SELBSTT, Selbst, Selbstbetrugs, Selbstkonfrontation, Selbstmitleid, Selbstoffenbarung, Selbstwert
+  stimm    STIMME, STIMMEN, Stimm, Stimme, Stimmen, Stimmfragmenten, Stimmung
+  klang    Klang, Klangbild, Klanglandschaft, Klangmasse, Klangteppich, Klangwand
+  antei    ANTEIL, ANTEILE, Anteil, Anteile, Anteilen
+  emoti    EMOTION, EMOTIONALE, Emotion, Emotionale, Emotionen
+  entsc    ENTSCHEIDUNG, ENTSCHEIDUNGSPHASE, Entscheidung, Entschlossenheit, Entschluss
+  erste    ERSTE, ERSTELLUNG, ERSTER, Erste, Erstellung
+  kontr    KONTROLLRAUM, Kontrolle, Kontrollraum, Kontrollraums, Kontrollverlust
+  proze    PROZESSE, Prozess, Prozesses, Prozessor, Prozessoren
+  speic    SPEICHEREINHEIT, Speicher, Speicherbank, Speichereinheiten, Speicherfragment
+  symbo    SYMBOLISCHER, Symbol, Symbole, Symbolik, Symbolkraft
+  absti    ABSTIEGS, ABSTIEGSPROTOKOLL, Abstieg, Abstiegsprotokoll
+  analy    ANALYSE, Analyse, Analysen, Analytischer
+  archi    ARCHIV, ARCHIVZUGRIFF, Archiv, Archive
+  dokum    DOKUMENTATION, DOKUMENTS, Dokument, Dokuments
+  fehle    FEHLERANALYSE, FEHLERLOGIK, Fehler, Fehleranalysen
+  klavi    Klavier, Klavierton, Klaviertöne, Klaviertönen
+  momen    MOMENT, Moment, Momente, Moments
+  schut    Schutt, Schutz, Schutzmechanismen, Schutzmechanismus
+  schwe    SCHWEIGEN, Schwebende, Schweigen, Schwellenwertüberschreitung
+
+# substring pairs -- never one term, often merged by accident
+  AKTE < Akte
+  AKTE < ARTEFAKTE
+  ALLE < Alle
+  ALLE < Fallens
+  ALLE < Alleinseins
+  Akte < ARTEFAKTE
+  Alle < Fallens
+  Alle < Alleinseins
+  Auch < Hauch
+  BILD < Bild
+  BILD < Klangbild
+  BILD < Bildschirm
+  BILD < Bildschirme
+  BILD < Spiegelbild
+  Beat < Beats
+  Bild < Klangbild
+  Bild < Bildschirm
+  Bild < Bildschirme
+  Bild < Spiegelbild
+  Blei < Bleibt

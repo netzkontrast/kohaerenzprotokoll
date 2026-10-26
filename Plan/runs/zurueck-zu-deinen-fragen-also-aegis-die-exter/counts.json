@@ -1,0 +1,511 @@
+{
+  "document": "zurueck-zu-deinen-fragen-also-aegis-die-exter",
+  "drive_id": "1GNa--5y8EyKaPQf-yL1A43aN-PklQvVnbKc0QhZ65xs",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Metaalbums": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        32,
+        106
+      ]
+    },
+    "Metaalbum-Konzepts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Kael-Systems": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        32
+      ]
+    },
+    "Kael": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        19,
+        32,
+        59,
+        90,
+        103,
+        104
+      ]
+    },
+    "Juna": {
+      "n": 7,
+      "n_including_compounds": 17,
+      "lines": [
+        17,
+        18,
+        19,
+        31,
+        32,
+        63,
+        67,
+        68,
+        81,
+        85,
+        86,
+        90,
+        94,
+        95,
+        103
+      ]
+    },
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Kernwelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Anteile": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        19,
+        25,
+        30,
+        32,
+        49,
+        54,
+        59,
+        72,
+        77
+      ]
+    },
+    "Anteil": {
+      "n": 2,
+      "n_including_compounds": 17,
+      "lines": [
+        17,
+        19,
+        25,
+        30,
+        31,
+        32,
+        41,
+        49,
+        50,
+        54,
+        59,
+        72,
+        76,
+        77
+      ]
+    },
+    "Anteilswelten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "DIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        40
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        40
+      ]
+    },
+    "Heldenreise": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        36,
+        40,
+        41,
+        59,
+        63
+      ]
+    },
+    "heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "heldinnenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Heldenreise pro Song": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        41
+      ]
+    },
+    "Spiegelsongs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        50
+      ]
+    },
+    "Spiegelsong-Begegnungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Spiegelsong-Transformation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    },
+    "Gast": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        50
+      ]
+    },
+    "Agency System": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        59,
+        72,
+        77
+      ]
+    },
+    "Agency Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        77
+      ]
+    },
+    "Album 12": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        67,
+        68
+      ]
+    },
+    "Album 13": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        31,
+        32,
+        68,
+        72,
+        76,
+        81,
+        95,
+        104
+      ]
+    },
+    "Album 13.13": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        81
+      ]
+    },
+    "Lex": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        58
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        58
+      ]
+    },
+    "Alex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Rhys": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        77
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59
+      ]
+    },
+    "Selene": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Sunyata": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Resonanzkonzept": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        59
+      ]
+    },
+    "Kennenlernphase": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        67
+      ]
+    },
+    "Wiedererkennen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Urvertrauen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Retraumatisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        18,
+        94
+      ]
+    },
+    "Kernkonflikt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        18
+      ]
+    },
+    "Paradoxon": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        18,
+        90,
+        95
+      ]
+    },
+    "Krisen-Paradoxons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Kael-Juna Krisen-Paradoxons": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "offenen Ruf": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        31,
+        68,
+        81
+      ]
+    },
+    "offenen Rufs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Hoffnungsträger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Meta-Plot": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        20
+      ]
+    },
+    "System-Umbau": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        103
+      ]
+    },
+    "Selbstliebe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        103
+      ]
+    },
+    "Kohärenz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        103,
+        104
+      ]
+    },
+    "Sicherheitsprotokolle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Songs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        40,
+        41,
+        76,
+        95,
+        104,
+        106
+      ]
+    },
+    "Song": {
+      "n": 6,
+      "n_including_compounds": 13,
+      "lines": [
+        24,
+        36,
+        40,
+        41,
+        59,
+        76,
+        95,
+        104,
+        106
+      ]
+    }
+  }
+}

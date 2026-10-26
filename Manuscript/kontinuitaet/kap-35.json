@@ -1,0 +1,71 @@
+{
+ "kapitel": 35,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er kann Widersprüche tragen, ohne jede Ontologie abschließend zu wissen.",
+   "seit": 35,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Change und funktionale Vielheit werden als Verhalten gezeigt, nicht als Heilungsformel.",
+   "seit": 35,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE steht bei 0 %, ein Teilkollaps (T:L442–L443).",
+   "seit": 35,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: Die Amnesie bricht auf (T:L441). Was er dabei erfährt, sagt der Absatz nicht.",
+   "seit": 35,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Beschlossener Vortex-Pivot, Ausführung offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [
+  {
+   "name": "Abwärmebudget",
+   "wert": "0 %",
+   "einheit": "Prozent der thermodynamischen Reserve",
+   "quelle": "Plan/storyform/clock-b.json (Schritt 48, Werte Vorschlag)",
+   "status": "proposal"
+  }
+ ],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Oblivion",
+   "art": "anteil",
+   "seit": 35,
+   "kanal": "Stimme",
+   "wie": "Die Wahl: weiterlöschen oder stehenlassen. Er hört auf, Kaels Amnesie bricht zusammen — der Pivot Inertia → Change.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

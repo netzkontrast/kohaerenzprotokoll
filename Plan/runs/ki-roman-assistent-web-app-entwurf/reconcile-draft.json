@@ -1,0 +1,136 @@
+{
+  "document": "ki-roman-assistent-web-app-entwurf",
+  "drive_id": "1Sxf0lnRd3_vczQ25BghgDn9eRsG5h-MZMyfbH0GWb4U",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 79,
+    "decisions": 83,
+    "decided_by_lookup": 62,
+    "needs_judgement": 21
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        103,
+        157
+      ],
+      "attribution": "",
+      "note": "the controlling force translated into CSS"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "eleven distinct parts"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        103
+      ],
+      "attribution": "",
+      "note": "chaos in the dual-kernel evaluation"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "a fragmented psyche of eleven parts"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        47
+      ],
+      "attribution": "",
+      "note": "a primary ANP of absolute logic"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        68
+      ],
+      "attribution": "",
+      "note": "a trickster child-EP"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        159
+      ],
+      "attribution": "",
+      "note": "amnesia as active barriers"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 66,
+      "decision": "occurrence",
+      "why": "interface vocabulary of a software design, or a barred line"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "interface vocabulary of a software design, or a barred line"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 147,
+      "decision": "occurrence",
+      "why": "interface vocabulary of a software design, or a barred line"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 63,
+      "decision": "occurrence",
+      "why": "interface vocabulary of a software design, or a barred line"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 29,
+      "decision": "occurrence",
+      "why": "interface vocabulary of a software design, or a barred line"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

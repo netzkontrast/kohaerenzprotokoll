@@ -1,0 +1,82 @@
+written_by: document-reader subagent (Sonnet), 2026-10-21, while reading, before any count
+
+The document is a concept paper for a music prelude of about five songs, built on relationship psychology; it names no figure, place or object of the novel's world. The terms below are therefore the document's own motifs and section labels, then the psychological concepts it applies (under the lens heading). Nothing here comes from outside the document.
+
+- Walking on Both Sides
+- Prelude
+- Preludes
+- Das Danach
+- Das Paradox
+- Der Trigger
+- Der Reparaturversuch
+- Seiltanz
+- Beziehungs-Labyrinth
+- Wendepunkt (Positiv)
+- Konflikt
+- Teufelskreis
+- Ich-Position
+- Tabula Rasa
+- Blank Slate
+- Heldenreise
+
+## lens
+
+- Bindungsverletzung
+- Bindungsverletzungen
+- Attachment Injury Resolution Model
+- AIRM
+- Emotionsfokussierte Paartherapie
+- Traumasensible Paartherapie
+- EFT
+- TSPT
+- Trauma-Reinszenierung
+- negativen Interaktionszyklen
+- Forderungs-Rückzugs-Muster
+- Verfolger-Distanzierer-Dynamik
+- Differenzierung des Selbst
+- Differenzierung
+- Fusion
+- emotionaler Cut-off
+- Enmeshment
+- Interdependenz
+- Co-Abhängigkeit
+- Fawn Response
+- Parentifizierung
+- Dissoziation
+- Depersonalisation
+- Derealisation
+- Identitätsalteration
+- K-PTBS
+- Bindungswippe
+- Crucible Approach
+- Vier Punkten der Balance
+- Solid Flexible Self
+- Quiet Mind – Calm Heart
+- Grounded Responding
+- Fundiertes Reagieren
+- Meaningful Endurance
+- Sinnhaftes Ausharren
+- korrigierende emotionale Erfahrung
+- korrigierende emotionale Erfahrungen
+- Anima/Animus
+- Anima
+- Animus
+- Individuation
+- Der Schatten in Beziehungen
+- Verwundeter Heiler
+- Fürsorger
+- Transformative Relationship Events
+- TREs
+- Narrative Phänomenologie
+- Co-Kreations-Narrativ
+- Misattunement
+- Trigger
+- Hypervigilanz
+- Schmelztiegel
+- Selbstvalidierung
+- Co-Regulationsfähigkeiten
+- Trauma-Trigger
+- Dissoziationsepisode
+- Bowensche Familientherapie
+- Machtkampf-/Individuationsphase
+- Ruhiger Geist – Ruhiges Herz

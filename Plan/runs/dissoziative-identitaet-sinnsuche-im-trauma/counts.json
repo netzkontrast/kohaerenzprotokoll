@@ -1,0 +1,603 @@
+{
+  "document": "dissoziative-identitaet-sinnsuche-im-trauma",
+  "drive_id": "1B0ISdaL8NFlacIkJnIGcttzS7E1s0zG9Xi32UZZ8e8Y",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Sinn Suche": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        11,
+        13,
+        16,
+        18,
+        25,
+        27,
+        30,
+        35,
+        59,
+        62,
+        64,
+        85,
+        86,
+        90,
+        97,
+        99,
+        107,
+        214,
+        224,
+        230,
+        231,
+        237,
+        239
+      ]
+    },
+    "Sinnsuche": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        69,
+        70,
+        181,
+        225
+      ]
+    },
+    "Sinnfindung": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        11,
+        16,
+        64,
+        74,
+        81,
+        85,
+        95,
+        213,
+        239
+      ]
+    },
+    "Kern der Wahrheit": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        24,
+        25,
+        27,
+        67,
+        178,
+        193,
+        214,
+        224
+      ]
+    },
+    "All is Lost": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        22,
+        67,
+        119,
+        179,
+        193,
+        224
+      ]
+    },
+    "All is lost": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Moment der Klarheit": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        97,
+        231
+      ]
+    },
+    "Together We Confide": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Together in Klarheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Freiheit zu sein": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        24,
+        25,
+        27,
+        214
+      ]
+    },
+    "Scherben der Erkenntnis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Unsere neue Welt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Feuerprobe": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        25
+      ]
+    },
+    "Weg zurück": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        27
+      ]
+    },
+    "Album 1": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        25,
+        67
+      ]
+    },
+    "Album 2": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        24,
+        25,
+        27,
+        90,
+        231
+      ]
+    },
+    "Album 3": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        224,
+        230,
+        231
+      ]
+    },
+    "Heldenreise": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        24
+      ]
+    },
+    "Bunker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        22
+      ]
+    },
+    "Kern-Selbst": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        24,
+        85,
+        90,
+        97,
+        181,
+        183,
+        196,
+        202
+      ]
+    },
+    "ICH": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        97
+      ]
+    },
+    "Kerntrauma": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        67
+      ]
+    },
+    "Kern-Traumaerinnerung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        24
+      ]
+    },
+    "Host": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        42,
+        127,
+        149,
+        179,
+        182,
+        183,
+        193,
+        199,
+        202,
+        203
+      ]
+    },
+    "Kind-Anteil": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        42,
+        90,
+        142,
+        182,
+        198
+      ]
+    },
+    "Verletzter Anteil": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        125,
+        180,
+        194
+      ]
+    },
+    "Zynischer Beschützer": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        126,
+        148,
+        180,
+        195,
+        201
+      ]
+    },
+    "Hoffnungsvoller Anteil": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147,
+        200
+      ]
+    },
+    "System Chor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        181,
+        197
+      ]
+    },
+    "Guardian": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        181,
+        183,
+        196,
+        202
+      ]
+    },
+    "Persecutor": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        126,
+        195
+      ]
+    },
+    "Samens im Gift": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Neu-Licht": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        135,
+        154
+      ]
+    },
+    "Reframing": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        75,
+        97,
+        135,
+        154,
+        182,
+        183,
+        202
+      ]
+    },
+    "Anteile": {
+      "n": 12,
+      "n_including_compounds": 19,
+      "lines": [
+        22,
+        24,
+        30,
+        41,
+        43,
+        62,
+        85,
+        90,
+        95,
+        97,
+        102,
+        181,
+        197,
+        223
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        85
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 6,
+      "n_including_compounds": 9,
+      "lines": [
+        30,
+        43,
+        62,
+        95,
+        97,
+        181,
+        197
+      ]
+    },
+    "Switching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Gartenpflege": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        230
+      ]
+    },
+    "Suno": {
+      "n": 7,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        16,
+        32,
+        58,
+        59,
+        62,
+        102,
+        103,
+        192,
+        212,
+        222,
+        223,
+        237
+      ]
+    },
+    "DIS": {
+      "n": 17,
+      "n_including_compounds": 22,
+      "lines": [
+        11,
+        16,
+        22,
+        29,
+        30,
+        35,
+        37,
+        62,
+        64,
+        75,
+        80,
+        81,
+        97,
+        102,
+        213,
+        230,
+        233,
+        237,
+        239
+      ]
+    },
+    "Dissoziativen Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "IFS": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        86,
+        90,
+        102,
+        194,
+        195,
+        196,
+        198,
+        200,
+        202,
+        213
+      ]
+    },
+    "Internal Family Systems": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Exile": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        90,
+        125,
+        142,
+        194,
+        198
+      ]
+    },
+    "Exiles": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "Firefighter": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        90,
+        195
+      ]
+    },
+    "Manager": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        90,
+        179,
+        193,
+        195
+      ]
+    },
+    "Managern": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        90
+      ]
+    },
+    "ST": {
+      "n": 3,
+      "n_including_compounds": 7,
+      "lines": [
+        86,
+        91,
+        126,
+        195,
+        198,
+        202,
+        213
+      ]
+    },
+    "Schematherapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Verletzliches Kind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        198
+      ]
+    },
+    "Gesunder Erwachsener": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Dissoziation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        54,
+        233
+      ]
+    },
+    "Depersonalisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        22,
+        30
+      ]
+    },
+    "Derealisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Amnesie": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        30,
+        67
+      ]
+    },
+    "Nachwirkungen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        16,
+        64,
+        66,
+        239
+      ]
+    }
+  }
+}

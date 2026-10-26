@@ -1,0 +1,149 @@
+# counts for 112 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             50 word    82 in   [24, 28, 30, 32, 47, 68]
+                                   20      as Kaels
+                                    4      as Kael-System
+                                    2      as Kael-Host
+                                    1      as Kael-Gesamtsystem
+  Juna                             19 word    20 in   [48, 81, 108, 116, 126, 154]
+                                    1      as Juna-Humanist
+  Juna/V                           15 word    15 in   [81, 108, 126, 154, 264, 340]
+  Juna / V                          2 word     2 in   [48, 116]
+  AEGIS                            30 word    37 in   [49, 136, 160, 170, 171, 172]
+                                    1      as AEGIS-Taktik
+                                    1      as AEGIS-Protokoll
+                                    1      as AEGIS-Präsenz
+                                    1      as AEGIS-Intrusionen
+  Lichtinstanz                      2 word     2 in   [206, 218]
+  Lia                              26 word    28 in   [28, 54, 256, 262, 282, 392]
+  Kiko                              9 word     9 in   [54, 262, 392, 403, 412, 430]
+  Lia/Kiko                          7 word     7 in   [262, 403, 412, 430, 846, 858]
+  Argus                            22 word    22 in   [58, 264, 499, 505, 531, 534]
+  Beschützer-Anteil                 1 word     1 in   [251]
+  Gesamtsystem                      2 word     5 in   [24, 30, 68, 262, 919]  <-- substring
+                                    1      as Gesamtsystems
+  Kael-Gesamtsystem                 1 word     2 in   [24, 30]
+                                    1      as Kael-Gesamtsystems
+  Host                             25 word    27 in   [28, 30, 47, 68, 78, 100]
+  Kael-Host                         2 word     2 in   [28, 262]
+  Katalysator                       8 word     9 in   [48, 81, 108, 116, 489, 720]
+                                    1      as Katalysatoren
+  Externer Katalysator              2 word     2 in   [48, 116]
+  Maske                             4 word     6 in   [55, 448, 460, 478, 487, 856]
+                                    1      as Masken-Anteil
+  EP-Fight                          4 word     4 in   [110, 246, 339, 385]
+  PKP                              82 word   101 in   [3, 15, 24, 32, 36, 46]
+  Phänotyp-Kohärenz-Protokolle      1 word     1 in   [24]
+  TSDP                              5 word    27 in   [20, 24, 40, 46, 73, 78]  <-- substring
+                                   12      as TSDP-Mapping
+                                    2      as TSDP-Struktur
+                                    2      as TSDP-Frakturierung
+                                    2      as TSDP-Fragmentierung
+  TSDP-Mapping                     12 word    12 in   [78, 80, 216, 261, 308, 355]
+  ANP                              16 word    34 in   [26, 28, 30, 47, 55, 57]  <-- substring
+  ANPs                              9 word     9 in   [26, 28, 30, 80, 172, 458]
+  EP                               13 word    45 in   [26, 28, 30, 47, 51, 52]  <-- substring
+  EPs                              18 word    18 in   [26, 28, 30, 80, 127, 145]
+  ISH                               6 word     8 in   [50, 216, 217, 245, 721, 818]
+  Kerntrauma                        5 word     6 in   [108, 397, 631, 642, 662, 751]
+                                    1      as Kerntraumas
+  Ontologische Prägung             13 word    13 in   [72, 120, 164, 210, 255, 302]
+  Kognitives Betriebssystem        13 word    13 in   [74, 122, 166, 212, 257, 304]
+  Phänotypische Schnittstelle      13 word    13 in   [85, 131, 176, 222, 268, 314]
+  Existenzielle Resonanz           13 word    13 in   [94, 140, 185, 231, 277, 323]
+  Interaktions-Matrix              13 word    13 in   [104, 149, 195, 240, 286, 333]
+  Kern-Direktive                   15 word    15 in   [46, 79, 127, 171, 217, 262]
+  Verbale Signatur                 13 word    13 in   [89, 135, 180, 226, 272, 318]
+  Textuelle Signatur               10 word    10 in   [90, 136, 181, 227, 319, 367]
+  Somatische Signatur               1 word     1 in   [273]
+  Farbpalette                      13 word    13 in   [98, 144, 189, 235, 281, 327]
+  Narrative Währung                13 word    13 in   [100, 145, 191, 236, 282, 329]
+  Triadische Währung                1 word     1 in   [698]
+  Währungs-Verlauf                  2 word     2 in   [863, 900]
+  Empathie                         22 word    22 in   [51, 53, 54, 59, 100, 282]
+  Neugier                          30 word    30 in   [47, 48, 50, 53, 55, 57]
+  Spannung                         33 word    33 in   [48, 49, 51, 52, 56, 58]
+  'O'                              40 word    42 in   [40, 100, 121, 202, 218, 244]
+  K\_₁                             31 word    31 in   [30, 79, 90, 112, 145, 172]
+  K\_₀                             23 word    23 in   [99, 170, 190, 247, 310, 338]
+  Overhead                          7 word     7 in   [30, 81, 201, 356, 388, 499]
+  Sünde gegen die Kohärenz          6 word     6 in   [30, 506, 551, 580, 847]
+  Riss                              7 word    14 in   [30, 90, 111, 156, 244, 341]
+                                    6      as Risse
+                                    1      as Rissen
+  Risse                             6 word     7 in   [30, 90, 689, 741, 873, 874]
+                                    1      as Rissen
+  Grauer Verfall                    3 word     3 in   [30, 189, 741]
+  Grauen Verfall                    2 word     2 in   [172, 551]
+  Nichts Rauschen                   4 word     4 in   [643, 674, 737, 896]
+  Stasis                            8 word     9 in   [30, 89, 153, 441, 505, 506]
+                                    1      as Stasis-Loop
+  Vagheit                           3 word     3 in   [30, 89, 551]
+  Kohärenz Protokoll                4 word     5 in   [3, 9, 687, 896, 904]
+  Anti-Entropie-Protokoll           4 word     4 in   [698, 762, 796, 811]
+  Expressive Typografie             4 word     4 in   [694, 698, 702, 772]
+  Typografische Anker               1 word     1 in   [778]
+  Baseline-Schrift                  7 word     7 in   [90, 319, 421, 606, 718, 722]
+  Anker-Raster                      2 word     2 in   [784, 814]
+  80/20-Regel                       1 word     1 in   [791]
+  Spot-Farbe                        5 word     6 in   [661, 662, 674, 757, 816, 817]
+  Glitch Text                       4 word     4 in   [746, 815, 991, 993]
+  Überlappender Text                1 word     1 in   [735]
+  Layout-Fragmentierung             1 word     1 in   [736]
+  Weißraum                          3 word     3 in   [737, 784]
+  Intrusion                        11 word    17 in   [81, 104, 111, 244, 292, 339]
+                                    1      as Intrusionen
+  Amnesie-Schranke                  2 word     2 in   [109, 110]
+  Vermeidungsprotokolle             1 word     1 in   [81]
+  Harmonie-Protokoll                2 word     2 in   [56, 505]
+  Selbst-Protokoll                  1 word     1 in   [78]
+  Going on with Normal Life         3 word     3 in   [28, 47, 79]
+  Boss-Phase                        1 word     1 in   [894]
+  Akt I                             5 word    13 in   [869, 879, 885, 889, 911, 912]  <-- substring
+  Zersplitterung                    4 word     4 in   [869, 911, 912, 913]
+  Metaebene                         5 word     5 in   [879, 914, 915, 916, 917]
+  Integration & Transzendenz        1 word     1 in   [889]
+  Lore                              2 word     2 in   [236, 859]
+  Hoffnung                         12 word    13 in   [54, 392, 408, 412, 430, 435]
+                                    1      as Hoffnung-Anteil
+  Kollaps                           7 word    10 in   [156, 190, 310, 341, 388, 643]
+  Introjekt                         3 word     4 in   [58, 589, 595, 596]
+                                    1      as Introjektion
+  Protector                         9 word     9 in   [51, 99, 261, 264, 292, 310]
+  Persecutor                        9 word     9 in   [58, 264, 531, 594, 596, 625]
+                                    1      as persecutors
+                                    1      as persecutor_parts
+  Caretaker                         2 word     2 in   [56, 504]
+  Fight                             7 word    11 in   [28, 52, 110, 246, 264, 308]
+  Flight                            3 word     3 in   [28, 54, 407]
+  Freeze                            7 word     9 in   [28, 54, 407, 420, 435, 440]
+                                    1      as Freeze-Reaktion
+  Tertiäre Strukturelle Dissoziation    2 word     2 in   [20, 24]
+  Strukturellen Dissoziation        1 word     1 in   [26]
+  Sekundären Dissoziation           1 word     1 in   [26]
+  Apparently Normal Part            2 word     3 in   [26, 78, 458]
+  Apparently Normal Parts           1 word     1 in   [26]
+  Emotional Parts                   2 word     2 in   [26, 925]
+  Internal Self-Helper              2 word     2 in   [50, 216]
+  Defense Cascade                   4 word     4 in   [54, 308, 407, 927]
+  Dissoziation                     11 word    11 in   [20, 24, 26, 57, 99, 469]
+  Masking                           3 word     3 in   [55, 459, 482]
+  Sublimation                       4 word     5 in   [53, 355, 380, 386, 848]
+  Gaslighting                      13 word    15 in   [49, 171, 195, 290, 293, 589]
+                                    1      as Gaslighting-Protokoll
+                                    1      as Gaslighting-Logik
+                                    1      as gaslighting_in_intimate_relationships
+  Synchronizität                    3 word     3 in   [48, 108, 126]
+  sinnvolle Koinzidenz              2 word     2 in   [126, 154]
+  autopoietisches System            2 word     2 in   [170, 839]
+  allopoietisches System            1 word     1 in   [170]
+  Entropie                          4 word    10 in   [30, 170, 202, 690, 696, 698]  <-- substring
+                                    1      as Entropie-Visualisierung
+  narrative Transportation          4 word     4 in   [690, 696, 774, 797]
+  Ergodic literature                1 word     1 in   [694]
+  Ergodisches Design                1 word     1 in   [702]
+  Color Foregrounding               1 word     1 in   [756]
+  Katharsis                         2 word     2 in   [895, 918]

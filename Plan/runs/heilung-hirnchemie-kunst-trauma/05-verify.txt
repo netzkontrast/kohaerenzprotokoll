@@ -1,0 +1,4 @@
+python3 scripts/read.py heilung-hirnchemie-kunst-trauma --count "Track"  -> case-sensitive 18
+python3 scripts/read.py heilung-hirnchemie-kunst-trauma --count "Album"  -> case-sensitive 3
+python3 scripts/read.py heilung-hirnchemie-kunst-trauma --count "AEGIS" / "Kael" / "Juna" / "Kernwunde" -> 0 each
+stance_marker_count 21 = 18 + 3

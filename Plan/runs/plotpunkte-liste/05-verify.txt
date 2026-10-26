@@ -1,0 +1,5 @@
+$ python3 scripts/read.py plotpunkte-liste --count (stance markers, absent names)
+Konflikt 1; Twist 1; Finale 1; Enthüllung 1; Neue Mission 1 (sum 5 = stance_marker_count)
+Kael 0; Juna 0; Nyx 0; AEGIS 0; Kap 0; Kernwunde 0 (each: whole word, case-sensitive, 0)
+`-\>` 1 (L34)
+census: 45 candidates, Zeros: 0 (census.py draft output)

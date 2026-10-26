@@ -1,0 +1,79 @@
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Lyrics"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Lyrics` ^[argus-chronist-der-wandlung.md:#13]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Musikstilbeschreibung"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Musikstilbeschreibung` ^[argus-chronist-der-wandlung.md:#13]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Kurze konzeptuelle Reflexion"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kurze konzeptuelle Reflexion` ^[argus-chronist-der-wandlung.md:#13]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Argus Male Voice"
+whole word, case-sensitive     41
+whole word, case-insensitive   41
+including compounds            41
+
+`Argus Male Voice` ^[argus-chronist-der-wandlung.md:#41]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Argus"
+whole word, case-sensitive     170
+whole word, case-insensitive   173
+including compounds            170
+
+`Argus` ^[argus-chronist-der-wandlung.md:#170]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Kael-System"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            7
+
+`Kael-System` ^[argus-chronist-der-wandlung.md:#3]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Etappe 3"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Etappe 3` ^[argus-chronist-der-wandlung.md:#2]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Etappe 8"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Etappe 8` ^[argus-chronist-der-wandlung.md:#0]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Sektor L"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Sektor L` ^[argus-chronist-der-wandlung.md:#2]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[argus-chronist-der-wandlung.md:#0]
+
+$ python3 scripts/read.py argus-chronist-der-wandlung --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[argus-chronist-der-wandlung.md:#0]
+
+stance_marker_count: 13 + 13 + 13 = 39 (Lyrics, Musikstilbeschreibung, Kurze konzeptuelle Reflexion)
+stage numbers (grep -no 'Etappe [0-9]*'): 1 2 3 3 4 5 6 7 9 10 11 12 13 (L138 L195 L252 L309 L367 L423 L480 L539 L594 L666 L723 L777 L830)

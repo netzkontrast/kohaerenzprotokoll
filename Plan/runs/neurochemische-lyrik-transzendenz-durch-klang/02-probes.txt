@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      74
+  backslash escapes      66
+  typographic marks      457
+  ascii quotes           2
+
+# inflection families -- one term, several surfaces
+  klang    Klang, Klangbasierte, Klangbasierten, Klangbühne, Klangfarbe, Klangfarben, Klangpalette, Klangspannung, Klangspektrums, Klangsplitter, Klangsprache, Klangüberladung
+  psych    Psyche, Psychedelic, Psychoakustik, Psychoakustische, Psychological, Psychologischer, Psychology
+  syste    System, Systematic, Systemkrise, Systemlast, Systems, Systemtheorie, Systemüberlastung
+  traum    Trauma, Traumaerfahrung, Traumaheilung, Traumas, Traumatic, Traumatisierungen, Traumaträger
+  wiede    Wiederanlauf, Wiedererleben, Wiedererlernen, Wiedererlernens, Wiederholungen, Wiederinszenierung, Wiederverbindung
+  emoti    Emotion, Emotional, Emotionale, Emotionaler, Emotionen, Emotions
+  neuro    Neuro, Neurochemie, Neurochemische, Neurochemisches, Neuroscience, Neurotransmitter
+  inter    Intercept, Interesse, Internal, Intervalle, Interventions
+  stimm    Stimme, Stimmen, Stimmenwechsel, Stimmung, Stimmungswechsel
+  stres    Stress, Stressbewältigung, Stressed, Stressful, Stresshormon
+  auftr    Auftrag, Auftraggeber, Auftraggebers, Auftrags
+  disso    Dissociative, Dissonante, Dissonanz, Dissoziation
+  gluta    Glutamat, Glutamate, Glutamatsturm, Glutamatsturms
+  hyper    Hypersensitivität, Hypervigilance, Hypervigilanter, Hypervigilanz
+  integ    Integration, Integrationsversuche, Integratoren, Integrierender
+  rhyth    Rhythm, Rhythmen, Rhythmic, Rhythmus
+  selbs    Selbst, Selbstbild, Selbstmitgefühl, Selbstmitgefühls
+  trans    Transactions, Transfusion, Transienten, Transzendenz
+  unter    Unterscheidung, Unterstützung, Untersuchung, Unterwerfung
+  acous    Acoustic, Acoustical, Acoustics
+  album    Album, Albumkonzepte, Albums
+  allta    Alltag, Alltagslebens, Alltagsmanager
+  analy    Analyse, Analysen, Analytics
+  antei    Anteile, Anteilen, Anteilwechsel
+  aufko    Aufkommen, Aufkommende, Aufkommender
+
+# substring pairs -- never one term, often merged by accident
+  Alte < Verhalten
+  Alte < Verhaltensschleifen
+  Atem < Atemzug
+  Atem < Einatem
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Keine
+  Eine < Seine
+  Eine < Anscheinend
+  Ende < Render
+  Ende < Treibende
+  Ende < Wendepunkt
+  Ende < Aufkommende
+  Ende < Aufkommender
+  Ende < Transzendenz
+  Ende < Überlappende
+  Ende < Integrierender
+  Ende < Tiefgreifender

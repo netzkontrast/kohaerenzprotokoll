@@ -1,0 +1,20 @@
+# Claims — every cited sentence beside its line
+
+Fill the last two columns of every row and save the file as `claims.md` beside this one. `python3 scripts/claims.py check <slug>` fails on an empty cell. Read the lines: `python3 scripts/read.py <slug> --from N --to N`, several in one call.
+
+- **who says it** — `document`, or `source: <who>` when the line reports another source;
+- **holds?** — `yes`, or `fixed` after you changed the sentence.
+
+| # | where | your sentence, up to its citation | line | its opening words | cues in the line | who says it | holds? |
+|---|---|---|---|---|---|---|---|
+| 1 | note — 1 · What kind of text this is, and how i <!--claim:50762b1e8c6488d58fc6475e894892c5aef372c65fe88bb08887be1742fbb7f1--> | - The document describes its last part as one that „geht über das rein Wissenschaftliche hinaus“ | L295 | Dieser letzte Teil geht über das rein Wissenschaftliche |  | document | yes |
+| 2 | note — 1 · What kind of text this is, and how i <!--claim:41c0499f388f0c32544e7c7da4b554ba935d5d84471554d5dd71a49134e4c683--> | The heading of that part reads „Vom Mechanismus zur Bedeutung: Eine philosophische und künstlerische Synthese“ | L291 | ## **Teil III: Vom Mechanismus zur Bedeutung: Eine |  | document | yes |
+| 3 | note — 2 · The keyword series <!--claim:426d7784f271409797d07a5dd1cbb71cb112a12b7f1eaf5fe950b722453d72be--> | - The document heads its keyword list „Die Heilungsreise: 13 thematische Schlüsselwörter“ | L358 | #### **6.1 Die Heilungsreise: 13 thematische Schlüsselwörter** |  | document | yes |
+| 4 | note — 2 · The keyword series <!--claim:0bdc9f2951637f87ca5cf0fa46283a2dac94005626bfd500ae6f714df1c503f0--> | - It calls the list the part that „stellt den Höhepunkt des gesamten Berichts dar“ | L362 | Diese Liste stellt den Höhepunkt des gesamten Berichts |  | document | yes |
+| 5 | note — 3 · Sound and image metaphors <!--claim:2a8f6c16a7f13aac977b80207bbc3d08e835c484822d01d490cb31683583d60f--> | - The document says this final section offers „spekulative Ideen zur Umsetzung der Konzepte des Berichts in ein künstlerisches Medium“ | L384 | Dieser abschließende Abschnitt bietet spekulative Ideen zur Umsetzung |  | document | yes |
+| 6 | note — 3 · Sound and image metaphors <!--claim:85d8a437365dcd3591a7a60683f2b202cf7b3f54bfbd548cc6652a5da387d197--> | - Its metaphor entries are bold-headed lines, among them „Klangliche Dissonanz und Harmonie“ | L386 | - **Klangliche Dissonanz und Harmonie:** Der dysregulierte Angstschaltkreis |  | document | yes |
+| 7 | note — 3 · Sound and image metaphors <!--claim:77b7c0ee5716511360ebdc78a523c5a2b089a682d1a4ca18b3a87789500c57a9--> | and „Visuals und Kitsch“ | L389 | - **Visuals und Kitsch:** Die Ästhetik des Traumas |  | document | yes |
+| 8 | census — Stance, read per passage <!--claim:2d2e95a0d92fabe2f27224f45cda35f180286d87ce9f5f9d77c9df18c27d543d--> | Teil III turns to the artistic use: it names itself as a part that „bietet eine reiche konzeptionelle Grundlage für den künstlerischen Ausdruck“ | L295 | Dieser letzte Teil geht über das rein Wissenschaftliche |  | document | yes |
+| 9 | census — Stance, read per passage <!--claim:a161f0084d742c15db2db22da44f1c6245c07c41db48e3f60c605f9873246a03--> | Its Sektion 6 is a proposal for artistic work: the keyword list is headed „Die Heilungsreise: 13 thematische Schlüsselwörter“ | L358 | #### **6.1 Die Heilungsreise: 13 thematische Schlüsselwörter** |  | document | yes |
+| 10 | census — Stance, read per passage <!--claim:8f3d1b4140721fef008f9fb25f82ae27ba2f7ad1ec30f6e3158696cac8d7cf9b--> | and is described as the part that „stellt den Höhepunkt des gesamten Berichts dar“ | L362 | Diese Liste stellt den Höhepunkt des gesamten Berichts |  | document | yes |
+| 11 | census — Stance, read per passage <!--claim:1d8e77dd6104fc5edabfabf6788805ca45e0bb4f62c3ac38f8c457fef567030b--> | The closing subsection calls its content „spekulative Ideen zur Umsetzung der Konzepte des Berichts in ein künstlerisches Medium“ | L384 | Dieser abschließende Abschnitt bietet spekulative Ideen zur Umsetzung |  | document | yes |

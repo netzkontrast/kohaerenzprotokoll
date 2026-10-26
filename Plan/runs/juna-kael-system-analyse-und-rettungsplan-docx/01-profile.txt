@@ -1,0 +1,14 @@
+# juna-kael-system-analyse-und-rettungsplan-docx
+  lines                516  (frontmatter ends at 9)
+  body words           13618
+  headings             1   bold-only lines 8
+  table rows           13   code fences 0
+  question marks       35
+  backslash escapes    4
+  typographic marks    40   ascii quotes 232
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    53
+  repeated labels      none
+  longest line         1483 chars
+

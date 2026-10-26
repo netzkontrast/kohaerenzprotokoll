@@ -1,0 +1,6 @@
+python3 scripts/read.py gutachten-grad-der-behinderung-bei-dis --count "Kommunikationstipp"  -> 1
+python3 scripts/read.py gutachten-grad-der-behinderung-bei-dis --count "Kap"  -> 0
+python3 scripts/read.py gutachten-grad-der-behinderung-bei-dis --count "AEGIS"  -> 0
+python3 scripts/read.py gutachten-grad-der-behinderung-bei-dis --count "Kael"  -> 0
+python3 scripts/read.py gutachten-grad-der-behinderung-bei-dis --count "Juna"  -> 0
+census: 17 candidates, 0 zeros (04-counts.txt)

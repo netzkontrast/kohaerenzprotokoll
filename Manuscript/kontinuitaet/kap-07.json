@@ -1,0 +1,60 @@
+{
+ "kapitel": 7,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er lernt, wann Präsenz auftritt, nicht wer am anderen Ende ist.",
+   "seit": 7,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Der Kanal zeigt eine Grenze, keine bewiesene Telepathie.",
+   "seit": 7,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] K: Die Präsenz im Anschluss hat sich verändert (T:L138). Er lernt, wann sie auftritt, nicht wer sie ist (dev:L274). L: Die Präsenz ist Juna (EW:L62, Vorschlag).",
+   "seit": 7,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K: Der Kontakt trägt kurz, für die Rückkehr braucht er Hilfe (T:L141). Das ist „keine bestätigte Weltregel“ (dev:L278).",
+   "seit": 7,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Nach Kap 6; Mara setzt eine lokale Rückkehrfrist.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Mara",
+   "art": "figur",
+   "seit": 7,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  }
+ ]
+}

@@ -1,0 +1,78 @@
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Wendepunkt (Positiv)"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Wendepunkt (Positiv)` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#3]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Konflikt:"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Konflikt:` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#4]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Tabelle"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            5
+
+`Tabelle` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#5]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Song"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            10
+
+`Song` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#4]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Song 5"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Song 5` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Walking on Both Sides"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Walking on Both Sides` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#11]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-3 --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[beziehungsheilung-nach-trauma-konzeptpapier-3.md:#0]
+stance_marker_count 7 = Konflikt: (4) + Wendepunkt (Positiv) (3)
+$ grep -nP "(?<![\w-])Song(?![\w-])" source
+314:  - **Song 1: Echos und Distanz ("Da
+324:  - **Song 2: Auf beiden Seiten gehe
+334:  - **Song 3: Der Schmelztiegel-Mome
+344:  - **Song 4: Zögerliche Brücken (

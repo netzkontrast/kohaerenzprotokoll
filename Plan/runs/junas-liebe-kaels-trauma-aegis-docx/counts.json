@@ -1,0 +1,1123 @@
+{
+  "document": "junas-liebe-kaels-trauma-aegis-docx",
+  "drive_id": "1kRkSGkoaD4ePBLK93hSfe-f8Oi9_sM69",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Juna": {
+      "n": 67,
+      "n_including_compounds": 157,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        23,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        43,
+        45,
+        47,
+        51,
+        53,
+        55,
+        57,
+        61,
+        65,
+        71,
+        75,
+        77,
+        79,
+        83,
+        89,
+        91,
+        95,
+        97,
+        99,
+        101,
+        103,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        127,
+        128,
+        129,
+        131,
+        133,
+        137,
+        141,
+        145,
+        149,
+        151,
+        153,
+        155,
+        159,
+        161,
+        163,
+        167,
+        171,
+        173,
+        180,
+        183,
+        189,
+        191,
+        198,
+        200,
+        201,
+        207,
+        209,
+        210,
+        211,
+        216,
+        219,
+        225,
+        228,
+        234,
+        237,
+        243,
+        245,
+        248,
+        252,
+        254,
+        255,
+        257,
+        261,
+        264,
+        266,
+        270,
+        272,
+        273,
+        275,
+        277,
+        279,
+        284,
+        286,
+        290,
+        292,
+        294,
+        296
+      ]
+    },
+    "Kael": {
+      "n": 82,
+      "n_including_compounds": 151,
+      "lines": [
+        17,
+        19,
+        21,
+        27,
+        29,
+        31,
+        35,
+        37,
+        39,
+        43,
+        45,
+        47,
+        49,
+        51,
+        53,
+        55,
+        57,
+        61,
+        63,
+        65,
+        75,
+        79,
+        81,
+        83,
+        89,
+        91,
+        95,
+        97,
+        99,
+        103,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        118,
+        126,
+        127,
+        128,
+        129,
+        131,
+        137,
+        139,
+        141,
+        145,
+        147,
+        149,
+        155,
+        157,
+        159,
+        161,
+        163,
+        171,
+        173,
+        174,
+        180,
+        182,
+        183,
+        189,
+        191,
+        192,
+        196,
+        198,
+        200,
+        201,
+        207,
+        210,
+        219,
+        225,
+        228,
+        234,
+        236,
+        237,
+        246,
+        254,
+        255,
+        264,
+        270,
+        273,
+        275,
+        279,
+        282,
+        290,
+        292
+      ]
+    },
+    "Junas": {
+      "n": 90,
+      "n_including_compounds": 90,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        23,
+        29,
+        31,
+        33,
+        35,
+        39,
+        43,
+        45,
+        47,
+        51,
+        57,
+        61,
+        65,
+        71,
+        75,
+        77,
+        79,
+        83,
+        91,
+        95,
+        97,
+        99,
+        105,
+        111,
+        112,
+        114,
+        116,
+        118,
+        120,
+        122,
+        124,
+        126,
+        127,
+        128,
+        129,
+        131,
+        133,
+        145,
+        149,
+        153,
+        155,
+        159,
+        161,
+        163,
+        167,
+        171,
+        173,
+        180,
+        183,
+        189,
+        198,
+        207,
+        211,
+        234,
+        248,
+        257,
+        261,
+        264,
+        266,
+        275,
+        277,
+        279,
+        284,
+        286,
+        290,
+        292,
+        294,
+        296
+      ]
+    },
+    "Kaels": {
+      "n": 69,
+      "n_including_compounds": 69,
+      "lines": [
+        19,
+        21,
+        27,
+        29,
+        31,
+        37,
+        39,
+        43,
+        45,
+        49,
+        53,
+        55,
+        57,
+        61,
+        79,
+        91,
+        97,
+        99,
+        107,
+        108,
+        111,
+        127,
+        128,
+        129,
+        147,
+        157,
+        159,
+        173,
+        174,
+        183,
+        191,
+        192,
+        196,
+        198,
+        200,
+        201,
+        210,
+        219,
+        225,
+        228,
+        234,
+        236,
+        237,
+        246,
+        255,
+        264,
+        273,
+        282,
+        290
+      ]
+    },
+    "AEGIS": {
+      "n": 64,
+      "n_including_compounds": 65,
+      "lines": [
+        19,
+        21,
+        27,
+        45,
+        61,
+        69,
+        71,
+        73,
+        75,
+        79,
+        83,
+        91,
+        106,
+        111,
+        126,
+        128,
+        131,
+        137,
+        149,
+        157,
+        159,
+        174,
+        180,
+        183,
+        192,
+        201,
+        205,
+        207,
+        209,
+        210,
+        212,
+        219,
+        228,
+        234,
+        237,
+        246,
+        255,
+        264,
+        270,
+        273,
+        282,
+        290,
+        292
+      ]
+    },
+    "AEGIS'": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        21,
+        69,
+        71,
+        73,
+        79,
+        83,
+        111,
+        159,
+        183,
+        205,
+        212,
+        255,
+        264,
+        270,
+        292
+      ]
+    },
+    "Autonomous Entropic Gatekeeper": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Externe Ebene": {
+      "n": 50,
+      "n_including_compounds": 50,
+      "lines": [
+        19,
+        57,
+        67,
+        71,
+        73,
+        75,
+        79,
+        81,
+        91,
+        99,
+        110,
+        141,
+        159,
+        167,
+        174,
+        183,
+        192,
+        201,
+        210,
+        212,
+        214,
+        218,
+        219,
+        221,
+        228,
+        237,
+        246,
+        252,
+        255,
+        257,
+        264,
+        273,
+        281,
+        282,
+        292
+      ]
+    },
+    "Externen Ebene": {
+      "n": 23,
+      "n_including_compounds": 23,
+      "lines": [
+        21,
+        57,
+        61,
+        79,
+        83,
+        91,
+        99,
+        108,
+        118,
+        128,
+        129,
+        131,
+        141,
+        149,
+        161,
+        210,
+        216,
+        273,
+        292
+      ]
+    },
+    "Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        71
+      ]
+    },
+    "Kern-Welten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        71
+      ]
+    },
+    "Simulation": {
+      "n": 32,
+      "n_including_compounds": 32,
+      "lines": [
+        17,
+        19,
+        21,
+        27,
+        73,
+        75,
+        79,
+        81,
+        91,
+        105,
+        107,
+        108,
+        112,
+        126,
+        127,
+        128,
+        137,
+        145,
+        147,
+        157,
+        171,
+        173,
+        174,
+        180,
+        189,
+        209,
+        257,
+        270,
+        290,
+        294,
+        296
+      ]
+    },
+    "Reboot": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        109
+      ]
+    },
+    "Anteile": {
+      "n": 15,
+      "n_including_compounds": 19,
+      "lines": [
+        27,
+        39,
+        53,
+        57,
+        81,
+        95,
+        159,
+        174,
+        183,
+        198,
+        200,
+        201,
+        202,
+        228
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        37
+      ]
+    },
+    "DIS": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        19,
+        25,
+        27,
+        37,
+        39,
+        43,
+        57,
+        106,
+        137,
+        157,
+        198
+      ]
+    },
+    "Dissoziativen Identitätsstörung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Anomalie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        83,
+        207
+      ]
+    },
+    "Katalysatorin": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        43,
+        47,
+        129
+      ]
+    },
+    "Schleier": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        11,
+        112,
+        155,
+        167,
+        173,
+        214,
+        218,
+        268,
+        272,
+        275,
+        284,
+        290,
+        294
+      ]
+    },
+    "Echo": {
+      "n": 27,
+      "n_including_compounds": 32,
+      "lines": [
+        11,
+        79,
+        105,
+        143,
+        147,
+        151,
+        155,
+        167,
+        176,
+        232,
+        234,
+        236,
+        238,
+        239,
+        248,
+        277,
+        279,
+        281,
+        284,
+        288,
+        290,
+        294,
+        296,
+        357
+      ]
+    },
+    "Das Echo": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        11,
+        105,
+        151,
+        155,
+        167,
+        236,
+        281,
+        290,
+        296
+      ]
+    },
+    "Leuchtturm": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        106,
+        149,
+        189,
+        191,
+        194,
+        294
+      ]
+    },
+    "Leuchtfeuer": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        129,
+        187
+      ]
+    },
+    "Anker": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        65,
+        91,
+        107,
+        163,
+        257,
+        290,
+        294
+      ]
+    },
+    "Der Anker": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "Der Leuchtturm in der Dunkelheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Die Brücke zwischen den Welten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Der rote Faden": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        109
+      ]
+    },
+    "Static on the Line": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        45,
+        63,
+        139,
+        161,
+        223,
+        227
+      ]
+    },
+    "Niemandsland": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        187,
+        189
+      ]
+    },
+    "Zeugin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Raum halten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Trauma": {
+      "n": 23,
+      "n_including_compounds": 31,
+      "lines": [
+        21,
+        25,
+        29,
+        45,
+        51,
+        55,
+        81,
+        91,
+        106,
+        112,
+        126,
+        127,
+        128,
+        129,
+        145,
+        180,
+        189,
+        225,
+        294,
+        301,
+        307,
+        317,
+        318,
+        326,
+        327,
+        338,
+        339,
+        378
+      ]
+    },
+    "Narrative Phase": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        171,
+        180,
+        189,
+        198,
+        207,
+        216,
+        225,
+        234,
+        243,
+        252,
+        261,
+        270,
+        279
+      ]
+    },
+    "Kernemotion/Atmosphäre": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        172,
+        181,
+        190,
+        199,
+        208,
+        217,
+        226,
+        235,
+        244,
+        253,
+        262,
+        271,
+        280
+      ]
+    },
+    "Zentrale Metaphern/Motive": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        173,
+        182,
+        191,
+        200,
+        209,
+        218,
+        227,
+        236,
+        245,
+        254,
+        263,
+        272,
+        281
+      ]
+    },
+    "Bezug zu Kaels System/AEGIS/Externe Ebene": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        174,
+        183,
+        192,
+        201,
+        210,
+        219,
+        228,
+        237,
+        246,
+        255,
+        264,
+        273,
+        282
+      ]
+    },
+    "Musikalische/Stilistische Anregungen": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        175,
+        184,
+        193,
+        202,
+        211,
+        220,
+        229,
+        238,
+        247,
+        256,
+        265,
+        274,
+        283
+      ]
+    },
+    "Lyrische Kernideen/Fragestellungen": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        176,
+        185,
+        194,
+        203,
+        212,
+        221,
+        230,
+        239,
+        248,
+        257,
+        266,
+        275,
+        284
+      ]
+    },
+    "Wo die Stille Namen trägt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        169
+      ]
+    },
+    "Der Garten jenseits des Schleiers": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        214
+      ]
+    },
+    "Das unendliche Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        277
+      ]
+    },
+    "Penelope": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        126,
+        131,
+        241,
+        245,
+        248,
+        294,
+        370,
+        371
+      ]
+    },
+    "Orpheus": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        127,
+        131,
+        241,
+        248,
+        294,
+        372,
+        373
+      ]
+    },
+    "Eurydike": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        127,
+        131,
+        245
+      ]
+    },
+    "Psyche und Eros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Entropie": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        21,
+        69,
+        71,
+        83,
+        212
+      ]
+    },
+    "Negentropie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        21,
+        71,
+        83
+      ]
+    },
+    "negentropisch": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        69,
+        71,
+        83,
+        212,
+        292,
+        296
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "ängstlichen Bindungsstil": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        43,
+        135,
+        137,
+        141,
+        149,
+        261
+      ]
+    },
+    "Co-Abhängigkeit": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        41,
+        43,
+        47,
+        63,
+        157
+      ]
+    },
+    "Ich-Du-Beziehung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        95,
+        99
+      ]
+    },
+    "Quantenverschränkung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        97,
+        236
+      ]
+    },
+    "Echoismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Panpsychismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Phänomenologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Dialektik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Witnessing": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        317,
+        318
+      ]
+    },
+    "Holding Space": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    }
+  }
+}

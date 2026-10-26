@@ -1,0 +1,56 @@
+# counts for 45 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Seelen-Kohärenz-Protokoll         2 word     2 in   [13, 133]
+  Roman-Blueprint                   1 word     1 in   [13]
+  Blueprint V5                      6 word     6 in   [15, 17, 78, 137, 141, 165]
+  Kernbewusstsein                   1 word     1 in   [17]
+  Partnerin                         4 word     4 in   [17, 141]
+  Personas                          3 word     3 in   [17, 137]
+  Architekt-Logik                   1 word     1 in   [17]
+  Echo-Emotion                      1 word     1 in   [17]
+  Wächter-Paranoia                  1 word     1 in   [17]
+  Funke-Kreativität                 1 word     1 in   [17]
+  Sucher-Wissen                     1 word     1 in   [17]
+  Architekt                         1 word     3 in   [17, 91, 137]  <-- substring
+                                    1      as Architekt-Logik
+  Echo                              2 word     3 in   [17, 137, 141]
+                                    1      as Echo-Emotion
+  Guardians                        23 word    23 in   [17, 23, 29, 30, 59, 67]
+  Systemhüter                       1 word     1 in   [141]
+  Systemadministratoren             1 word     1 in   [153]
+  LogOS                             1 word     1 in   [17]
+  Mnemosyne                         1 word     1 in   [17]
+  Cerberus                          1 word     1 in   [17]
+  Kairos                            1 word     1 in   [17]
+  Sophia                            1 word     1 in   [17]
+  Kern-Welten                       1 word     1 in   [17]
+  simulierten Welten                4 word     4 in   [23, 49, 107, 147]
+  Überwelt                          5 word     6 in   [23, 28, 29, 108, 119, 155]
+                                    1      as Überwelt-Zerfall
+  Guardian-Dimension                2 word     2 in   [23, 108]
+  externe Ebene                     6 word     6 in   [23, 71, 78, 109, 121, 167]
+  externen Ebene                    7 word     7 in   [30, 69, 87, 96, 141, 143]
+  Risse                             7 word     9 in   [17, 28, 30, 66, 85, 107]
+                                    2      as Rissen
+  Rissen                            2 word     2 in   [28, 107]
+  Glitches                          1 word     1 in   [17]
+  Guardian-Eingriffe                3 word     3 in   [28, 66, 85]
+  Guardian-Werkzeuge                1 word     1 in   [29]
+  Integrations-Werkzeuge            1 word     1 in   [17]
+  Seele=Info                        5 word     5 in   [17, 30, 67, 70, 97]
+  Seele = Information               1 word     1 in   [153]
+  systemische Blindheit             1 word     1 in   [17]
+  funktionalen Multiplizität        3 word     3 in   [17, 139, 165]
+  funktionale Multiplizität         1 word     1 in   [165]
+  Jagd auf Anteile                  2 word     2 in   [30, 68]
+  Suche nach der Realität           1 word     1 in   [29]
+  Systemfehler                      1 word     2 in   [28, 110]
+                                    1      as Systemfehlers
+  Zerbrechen der Überwelt           1 word     1 in   [155]
+  Heldinnenreise                    5 word     6 in   [28, 58, 65, 114, 119, 159]
+                                    1      as Heldinnenreise-Struktur
+  Heldenreise                       8 word     8 in   [30, 65, 68, 115, 121, 157]
+  Qualia                            3 word     3 in   [69, 143]

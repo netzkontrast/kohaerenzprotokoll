@@ -1,0 +1,183 @@
+{
+  "document": "gutachterprofil-und-alternativen-ptbs-dis",
+  "drive_id": "1JOi588vta1RM6fD0fNUOeNBoPLhSi55SDkMBbR7Qb44",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "KPTBS": {
+      "n": 31,
+      "n_including_compounds": 31,
+      "lines": [
+        17,
+        39,
+        45,
+        47,
+        53,
+        55,
+        57,
+        59,
+        61,
+        71,
+        75,
+        82,
+        97,
+        106,
+        126,
+        148,
+        149,
+        150,
+        151,
+        152,
+        165,
+        171,
+        176,
+        177,
+        195
+      ]
+    },
+    "DIS": {
+      "n": 29,
+      "n_including_compounds": 30,
+      "lines": [
+        17,
+        39,
+        45,
+        47,
+        53,
+        55,
+        57,
+        59,
+        61,
+        71,
+        75,
+        82,
+        97,
+        106,
+        126,
+        148,
+        149,
+        150,
+        151,
+        152,
+        165,
+        171,
+        176,
+        177,
+        195
+      ]
+    },
+    "PTBS": {
+      "n": 7,
+      "n_including_compounds": 39,
+      "lines": [
+        17,
+        39,
+        45,
+        47,
+        53,
+        55,
+        57,
+        59,
+        61,
+        65,
+        67,
+        69,
+        71,
+        75,
+        82,
+        97,
+        106,
+        124,
+        126,
+        148,
+        149,
+        150,
+        151,
+        152,
+        165,
+        171,
+        176,
+        177,
+        195
+      ]
+    },
+    "GdB": {
+      "n": 4,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        37,
+        39,
+        67,
+        115,
+        148,
+        149,
+        150,
+        151,
+        152,
+        167,
+        169,
+        189,
+        230,
+        231
+      ]
+    },
+    "Negativbefund": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "Psychotraumatologie": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        47,
+        61,
+        119,
+        126,
+        214
+      ]
+    },
+    "Struktureller Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        124
+      ]
+    },
+    "Störungen der Selbstorganisation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        177
+      ]
+    },
+    "Anknüpfungstatsachen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Traumafolgestörungen": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        31,
+        61,
+        82,
+        125,
+        199,
+        225
+      ]
+    }
+  }
+}

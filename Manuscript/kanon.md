@@ -16,6 +16,7 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 
 | id | Datum | Was gilt | Wo es steht |
 |---|---|---|---|
+| 030 | 2026-10-26 | Wie die Prosa entsteht: Eine Sitzung schreibt Szene für Szene auf Beats, die du freigibst, und du redigierst jede Szene vor der nächsten; Weichen werden je Kapitel gestellt; ein Briefing trennt Entschiedenes und Vorgeschlagenes; Kontinuität und Prosaregeln werden als Register geführt; Freigabe bleibt dein Wortlaut. | `Plan/decisions/030-the-writing-workshop.md` |
 | C6 | 2026-09-24 | Es gibt fünf Guardians: LogOS, Mnemosyne, Cerberus, Kairos und Sophia. Entschieden sind die Zahl und die Namen. Offen bleibt, wie sie zu den vier Kernwelten stehen (Q5), und der Erasure-Pol. | `Wiki/conflicts/c6-guardians-count-and-pairing.md` |
 | C9 | 2026-09-24 | Die Konstrukt-Stadt ist KW1, die erste Kernwelt, nicht die ganze Simulation. Ob KW1 auch Logos-Prime heißt, ist nicht entschieden. | `Wiki/conflicts/c9-konstrukt-stadt-scale.md` |
 | C8 | 2026-10-02 | AEGIS ist in Storyform B ein Do-er. | `Wiki/conflicts/c8-aegis-approach-storyform-b.md` |
@@ -32,6 +33,7 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 | W12 | 2026-10-05 | Die Genesis und Kaels Fragmentierungsnacht sind ein Ereignis auf zwei Ebenen. AEGIS stammt aus Komponente 734. Die Genesis hat vier Schritte: Einheit, Cluster, Trennungsprotokoll, Wir-AEGIS-plural, der vierte vollzogen in Kap 39. Kaels Verhältnis zu 734 regelt die Zeile Q7. | `Plan/weichen/w12-genesis.md` |
 | Q7 | 2026-10-05 | Kael ist das Cluster, das aus Komponente 734 herausgetrennt wurde. AEGIS und Kael haben einen Ursprung: AEGIS ging aus 734 hervor, Kael ist, was die Trennung aus 734 herausschnitt. Offen bleibt, was die Zahl 734 in Kaels Alltag bezeichnet. | `Wiki/questions/q7-what-734-names.md` |
 | Q8 | 2026-10-05 | Nach dem Vortex erlischt AEGIS-monolithisch, und AEGIS-plural entsteht, in Kap 39 mit dem vierten Schritt der Genesis. Storyform B läuft bis Kap 39, ihre Uhr ist das Abwärmebudget. In Kael übernimmt Oblivion AEGIS' Funktion, wählend statt automatisch löschend. Die Uhr von A sind die Rückzugsorte und die Risse. | `Wiki/questions/q8-aegis-after-the-vortex.md` |
+| W16 | 2026-10-26 | Ein Kapitel hat im Pilot Kap 1–3 3 000–5 000 Wörter, mehrere Szenen je Kapitel; nach Kap 3 wird nachgemessen. | `Plan/weichen/w16-laenge.md` |
 
 ## Freigegebene Kapitel
 

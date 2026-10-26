@@ -1,0 +1,14 @@
+# junas-liebe-kaels-trauma-aegis-docx
+  lines                388  (frontmatter ends at 9)
+  body words           10300
+  headings             1   bold-only lines 38
+  table rows           6   code fences 0
+  question marks       11
+  backslash escapes    13
+  typographic marks    58   ascii quotes 252
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    11
+  repeated labels      Bezug zu Kaels System/AEGIS/Externe Ebene x13, Kernemotion/Atmosphäre x13, Lyrische Kernideen/Fragestellungen x13, Musikalische/Stilistische Anregungen x13, Narrative Phase x13, Zentrale Metaphern/Motive x13
+  longest line         1398 chars
+

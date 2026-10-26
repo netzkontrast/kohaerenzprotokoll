@@ -1,0 +1,81 @@
+# every number stated in note and census, with the command
+$ read.py --count "Atmosphärische Prosa-Einleitung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Atmosphärische Prosa-Einleitung` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#1]
+$ read.py --count "Music Style Description"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Music Style Description` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#6]
+$ read.py --count "Conceptual Reflection"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Conceptual Reflection` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#6]
+$ read.py --count "Agency"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Agency` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#1]
+$ read.py --count "Handlungsfähigkeit"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Handlungsfähigkeit` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#10]
+$ read.py --count "Funktion der Verpflichtung"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Funktion der Verpflichtung` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#3]
+$ read.py --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#0]
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#0]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#0]
+$ read.py --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#0]
+$ read.py --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#0]
+$ read.py --count "Kern"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            4
+
+`Kern` ^[manifest-der-handlungsfaehigkeit-nachhall.md:#1]
+stance_marker_count 13 = 1 + 6 + 6 (Atmosphärische Prosa-Einleitung + Music Style Description + Conceptual Reflection)
+profile: 224 backslash escapes (01-profile.txt)

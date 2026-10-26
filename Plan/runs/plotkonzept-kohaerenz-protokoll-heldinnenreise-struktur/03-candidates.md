@@ -1,0 +1,106 @@
+written_by: document-reader subagent (Sonnet), 2026-10-21, while reading, before any count
+
+Read in full (L10 to L78). Phase and chapter outline with each chapter pairing a theme from a numbered list with album titles; the three parts follow a Heldinnenreise, a cyclical part and a Heldenreise. World codes Co₁ and McL and Ly are listed as written; their long forms and the other letter codes are left out by rule. Stage headings are listed as the outline writes them.
+
+- Kohärenz Protokoll
+- Heldinnenreise
+- Heldenreise
+- AEGIS
+- Kael
+- Juna
+- Potentialmeer
+- Kernwelten
+- Kernwelt
+- Moonshine-Link
+- Kael-Juna-Verbindung
+- K-J Verbindung
+- Cache Kohärenz Metapher
+- Cache Kohärenz
+- Risse
+- Bunker
+- Illusion der perfekten Welt
+- Zyklischer Erzählstil
+- autopoietische KI
+- Autopoiesis
+- Dissoziative Identitätsstörung
+- DID
+- Potentialität & Aktualität
+- Symmetrie
+- Gödel'sche Sätze
+- Kernwelten als Simulationen
+- Parakonsistente Logik
+- Monstrous Moonshine
+- Internal Family Systems
+- IFS
+- Holismus
+- Reduktionismus
+- Quanten-Nichtlokalität
+- Funktionale Multiplizität
+- KI-Ethik
+- Emergenz
+- Ontologie
+- Grenzen der Berechenbarkeit
+- Selbst-Schöpfung
+- Trauma
+- NET
+- Bewusstsein
+- Bindungsproblem
+- Identitätsparadoxien
+- Entropie
+- Posttraumatisches Wachstum
+- PTG
+- Irreduzibilität
+- Purge
+- Trigger
+- Album 1
+- Album 2
+- Album 3
+- Single
+- Mosaik-Herz
+- Scherben der Erkenntnis
+- Jetzt-Raum
+- Freiheit zu leben
+- Unsere Welt
+- Gartenpflege
+- Wir-Geflecht
+- Zerbrochene Fassade
+- Schattenwurf
+- Schatten
+- Flucht in die Betäubung
+- Wegkreuzung
+- Schritt ins Ungewisse
+- Autoren-Feder
+- Vor der Konfrontation
+- Angst des Kindes
+- Verbundensein
+- Freiheit zu sein
+- Unsere neue Welt
+- Together in Klarheit
+- Co₁
+- McL
+- Ly
+- Dissoziation
+- Passieren der Pforten der Verurteilung
+- Das Auge des Sturms
+- Falscher Erfolg
+- Wiedergeburt
+- Verrat
+- Desillusionierung
+- Der Bruch
+- Die Gewöhnliche Welt
+- Der Ruf zum Abenteuer
+- Die Weigerung
+- Begegnung mit dem Mentor
+- Überschreiten der ersten Schwelle
+- Die Feuerprobe
+- Die Belohnung
+- Der Rückweg
+- Die Auferstehung
+- Rückkehr mit dem Elixier
+- Zyklus 1
+- Zyklus 2
+- Zyklus 3
+- Kern der Wahrheit
+- Moonshine
+- Neue Balance
+- Neue Innere Welt
