@@ -43,6 +43,21 @@
   expect(ex.includes('manuscript.py approve kap-01 9 --words') && !ex.includes('freigegeben'), 'the export names the approval command and approves nothing');
   c.saveMark(scene.f, 1, { m: 'none', note: '' }); c.saveMark(scene.f, 7, { m: 'none' });
   expect(!c.state.dmarks[scene.f], 'a cleared mark leaves no trace');
+  // the start page (records.py): a record's address, answers kept by depth, the file that leaves the browser
+  if (d.records.records.length) {
+    const r0 = d.records.records[0];
+    c.state = { screen: 'now', rec: r0.id, answers: {} };
+    expect(c.unroute(c.route()).rec === r0.id && c.renderVals().now.hasRec && c.renderVals().now.rc.title === r0.t, 'a record has its address and its report card');
+    const open = r0.qs.filter((q) => !q.answer);
+    open.forEach((q) => c.saveAnswer(q.id, q.depth === 1 ? { yes: false } : q.depth === 2 ? { option: q.options[0][0] } : { words: 'Nur meine Worte.' }));
+    const f = c.answerFile(r0, c.state.answers, new Date(Date.UTC(2026, 9, 26, 18, 0, 0)));
+    expect(!open.length || (f && f.name === r0.id + '-20261026T180000Z.json' && f.body.by === 'author' && f.body.answers.length === open.length), 'every open question answered by depth goes into one answer file, named for its session and time, by the author');
+    const d3 = open.find((q) => q.depth === 3);
+    if (d3) { c.saveAnswer(d3.id, { words: '   ' }); expect(!c.answerFile(r0, c.state.answers).body.answers.some((x) => x.question === d3.id), 'a depth-3 answer without words is not exported'); }
+    const d1 = open.find((q) => q.depth === 1);
+    if (d1) { c.saveAnswer(d1.id, { yes: null }); expect(!c.state.answers[d1.id], 'clearing an answer leaves no trace'); }
+    expect(c.answerFile(r0, {}) === null, 'nothing answered, nothing to save');
+  }
   const original = d.selftests; d.selftests = [['not run', 'fixture', 'no run']];
   expect(c.renderVals().railChecks.find((x) => x.label === 'Self-tests').dot === '#9A9384', 'a skipped test is unknown, never a green pass');
   d.selftests = original;
