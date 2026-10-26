@@ -63,7 +63,8 @@ it is not; with node, every item is also taken to its address and back (below).
 On the website (not inside a canvas frame) the app keeps its state in the URL:
 `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
 `#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
-`#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024), and
+`#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024),
+`#/manuscript/schreibtisch[/kap-NN[/szene-N]]` (the Schreibtisch, decision 030), and
 `#/now/session/<id>` — one of the next sessions, opened with its prompt.
 Stable ids, never list positions, so a link survives a rebuild; the back button
 retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
@@ -702,7 +703,61 @@ def novel_export(md: "Renderer", manuscript: list, pidx: dict) -> dict:
     for ch in out["chapters"]:
         ch["findings"] = [j for j, x in enumerate(out["findings"])
                           if x["target"] == ch["id"] or (x["target"] == "opening" and ch["n"] <= 1)]
+    out["desk"] = desk_export(md, out)
     return out
+
+
+def desk_export(md: "Renderer", novel: dict) -> dict:
+    """The Schreibtisch (decision 030): the grid Kap 0–40, each chapter's briefing, scenes, open Weichen and
+    findings, and the prose-rule register. Rendered from the files; the marks per paragraph live in the
+    browser, and nothing here approves anything — the author's words do, through manuscript.py and weiche.py."""
+    import brief
+    import manuscript
+    import prose_rules
+    import weiche
+    rules = [{"id": r["id"], "x": r["text"], "status": r.get("status", ""), "scope": prose_rules.scope_text(r.get("scope", "alle")),
+              "check": (r.get("check") or {}).get("kind", ""), "src": r.get("source", ""), "words": r.get("words", "")}
+             for r in prose_rules.rows()] if prose_rules.REGISTER.exists() else []
+    widx = {w["id"]: i for i, w in enumerate(novel["weichen"])}
+    open_by: dict[int, list[dict]] = {}
+    for wid, path in weiche.sheets().items():
+        text = path.read_text(encoding="utf-8")
+        if weiche.frontmatter(text).get("status") == "beantwortet" or wid not in widx:
+            continue
+        ch = weiche.chapters_of(wid)
+        entry = {"i": widx[wid], "id": wid, "opts": [list(o) for o in weiche.options_of(text)]}
+        for c in sorted(set(ch["development"]) | set(ch["treatment"]) | set(ch["sheet"])):
+            open_by.setdefault(c, []).append(entry)
+    chapters = []
+    for n in range(0, 41):
+        title, _ = brief.treatment_paragraph(n)
+        folder = manuscript.folder_of(n)
+        bpath = folder / "briefing.md"
+        briefing, bhash = None, ""
+        if bpath.exists():
+            st, why = brief.status(n)
+            text = bpath.read_text(encoding="utf-8")
+            body, _ = subject._split(text)
+            _, lede, secs = md.sections(body)
+            m = re.search(r"^inputs_hash: (\w+)$", text, re.M)
+            bhash = m.group(1) if m else ""
+            briefing = {"f": bpath.relative_to(ROOT).as_posix(), "status": st, "why": why, "lede": lede, "sec": secs}
+        scenes = []
+        for sc in manuscript.scenes(n) if folder.is_dir() else []:
+            head = sc["head"]
+            k = int(re.sub(r"\D", "", head.get("szene", "") or "0") or 0)
+            scenes.append({"f": sc["path"].relative_to(ROOT).as_posix(), "k": k, "t": head.get("titel", ""),
+                           "status": head.get("status", ""), "w": sc["words"], "beats": sc["beats"], "beatsOn": head.get("beats_on", ""),
+                           "paras": [p for _, p in prose_rules.paragraphs(sc["prose"])], "checked": head.get("geprueft", ""),
+                           "checkStale": not head.get("geprueft_hash") or head["geprueft_hash"] != sc["prose_hash"],
+                           "briefingBehind": briefing is None or briefing["status"] != "current" or head.get("briefing", "") != bhash,
+                           "approved": head.get("freigegeben", "")})
+        own = next((c for c in novel["chapters"] if c["n"] == n), None)
+        chapters.append({"id": f"kap-{n:02d}", "n": n, "t": title or f"Kap {n}", "briefing": briefing, "scenes": scenes,
+                         "w": sum(x["w"] for x in scenes), "weichen": open_by.get(n, []),
+                         "drafts": own["drafts"] if own else [],
+                         "findings": [j for j, x in enumerate(novel["findings"]) if x["target"] == f"kap-{n:02d}" or (x["target"] == "opening" and n <= 1)]})
+    return {"rules": rules, "chapters": chapters, "words": list(manuscript.WORDS)}
 
 
 def export(checks: bool = True, fresh: bool = False) -> dict:
@@ -910,6 +965,8 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
     for path in sorted(MANUSCRIPT.rglob("*.md"), key=order) if MANUSCRIPT.is_dir() else []:
         if path.parent.name in CARDS or path.name == "kanon.md":
             continue  # cards and the canon ledger are the workspace's, below
+        if path.parent.name.startswith("kap-") and (path.name == "briefing.md" or path.name.startswith("szene-")):
+            continue  # the briefing and the scenes are the Schreibtisch's (decision 030), below
         text = path.read_text(encoding="utf-8")
         title, lede, secs = md.sections(_console(text))
         manuscript.append({"f": path.relative_to(ROOT).as_posix(), "part": path.parent.name if path.parent != MANUSCRIPT else "",
@@ -1170,6 +1227,15 @@ def agent_index(data: dict) -> list[dict]:
                "address": f"#/process/decisions/{d['id']}", "status": d["status"]} for d in data["decisions"]]
     items += [{"kind": "draft", "id": m["f"], "title": m["t"], "path": m["f"], "address": "#/manuscript/chapters"}
               for m in data["manuscript"]]
+    desk = data["novel"].get("desk") or {"chapters": [], "rules": []}
+    items += [{"kind": "briefing", "id": ch["id"], "title": f"Briefing Kap {ch['n']} — {ch['t']}", "path": ch["briefing"]["f"],
+               "address": f"#/manuscript/schreibtisch/{ch['id']}", "status": ch["briefing"]["status"]}
+              for ch in desk["chapters"] if ch["briefing"]]
+    items += [{"kind": "scene", "id": f"{ch['id']}/szene-{sc['k']}", "title": f"Kap {ch['n']} Szene {sc['k']} — {sc['t']}", "path": sc["f"],
+               "address": f"#/manuscript/schreibtisch/{ch['id']}/szene-{sc['k']}", "status": sc["status"], "words": sc["w"]}
+              for ch in desk["chapters"] for sc in ch["scenes"]]
+    items += [{"kind": "rule", "id": r["id"], "title": r["x"][:160], "path": "Manuscript/regeln.jsonl",
+               "address": "#/manuscript/schreibtisch/regeln", "status": r["status"]} for r in desk["rules"]]
     items += [{"kind": "session", "id": x["id"], "title": x["title"], "path": "NOW.md", "address": f"#/now/session/{x['id']}",
                "status": x["status"]} for x in data["sessions"]["sessions"]]
     return items
@@ -1193,7 +1259,7 @@ container without the author's decision.
   {n_ready} ready, {n_gated} waiting on the author.
 - [reading-questions.json](agents/reading-questions.json): additional reading prompts; editorial topics explored through shared lenses, not unresolved canon findings. Stable addresses: `#/questions/reading/<RQ-id>`.
 - [index.json](agents/index.json): {n_items} items (pages, conflicts, questions, records, decisions, drafts,
-  sessions), each with its repository path and its address in this app.
+  briefings, scenes, prose rules, sessions), each with its repository path and its address in this app.
 - [state.json](agents/state.json): every measurement `scripts/state.py` made for this snapshot, with how it was measured.
 - [data.json](agents/data.json): everything the app renders, as one document.
 - [static/](static/index.html): every wiki record as a plain HTML page — term pages, conflicts, questions, chapter
@@ -1206,7 +1272,9 @@ container without the author's decision.
 
 Open `Main.dc.html` with a hash: `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3`, `#/questions/agenda`,
 `#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
-`#/manuscript/<tab>[/<key>]`, `#/now/session/<id>`.
+`#/manuscript/<tab>[/<key>]`, `#/manuscript/schreibtisch[/kap-NN[/szene-N]]` (the Schreibtisch, decision 030: the briefing,
+the scenes, the open Weichen with a copyable answer prompt, the prose-rule register; marks per paragraph stay in the browser and
+approval is the author's words through `manuscript.py approve`), `#/now/session/<id>`.
 
 ## The next sessions
 
@@ -1448,6 +1516,32 @@ def check_data(data: dict) -> list[str]:
     for a in novel.get("approved", []):
         if not (MANUSCRIPT / a).exists():
             problems.append(f"Manuscript/kanon.md: approves {a}, which does not exist")
+    desk = novel.get("desk") or {}
+    if len(desk.get("chapters", [])) != 41:
+        problems.append("Schreibtisch: the grid is not Kap 0–40 — the panel would be empty or short")
+    for ch in desk.get("chapters", []):
+        if ch["briefing"]:
+            blocks(ch["briefing"]["lede"], f"briefing {ch['id']}")
+            for sec in ch["briefing"]["sec"]:
+                walk(sec[0], f"briefing {ch['id']}")
+                blocks(sec[3], f"briefing {ch['id']}")
+            if ch["briefing"]["status"] not in ("current", "behind"):
+                problems.append(f"briefing {ch['id']}: status {ch['briefing']['status']!r} is neither current nor behind")
+        if any(not 0 <= i < n_ms for i in ch["drafts"]) or any(not 0 <= j < len(novel["findings"]) for j in ch["findings"]):
+            problems.append(f"Schreibtisch {ch['id']}: points at a draft or finding the app does not hold")
+        for w in ch["weichen"]:
+            if not 0 <= w["i"] < len(novel["weichen"]) or novel["weichen"][w["i"]]["id"] != w["id"]:
+                problems.append(f"Schreibtisch {ch['id']}: open Weiche {w['id']} is not the sheet the app holds")
+        for sc in ch["scenes"]:
+            if sc["status"] not in ("beats", "entwurf", "redigiert", "freigegeben"):
+                problems.append(f"scene {sc['f']}: status {sc['status']!r} is not one the manuscript knows")
+            if sc["status"] == "freigegeben" and (sc["briefingBehind"] or sc["checkStale"]):
+                problems.append(f"scene {sc['f']}: approved, yet its briefing is behind or its check stale")
+            if sc["status"] != "beats" and not sc["paras"]:
+                problems.append(f"scene {sc['f']}: {sc['status']} with no paragraph — the marks would have nothing to mark")
+    for r in desk.get("rules", []):
+        if r["status"] not in ("offen", "bestätigt", "verworfen", "ersetzt"):
+            problems.append(f"rule {r['id']}: status {r['status']!r} is not one the register knows")
     for key, have in (("agenda.process — NOW.md § Questions for the author", data["agenda"]["process"]),
                       ("sessions — NOW.md § Half-done", data["sessions"]["sessions"])):
         if not have:
@@ -1781,6 +1875,18 @@ def selftest() -> tuple[list[str], list[str]]:
                 failures.append("a card claiming canon the ledger does not hold: not reported")
         else:
             unrun.append("no card in Manuscript/: the canon-claim case did not run")
+        broken = json.loads(json.dumps(data))
+        broken["novel"]["desk"]["chapters"] = []
+        if not any("the grid is not Kap 0–40" in p for p in check_data(broken)):
+            failures.append("an empty Schreibtisch grid: not reported")
+        broken = json.loads(json.dumps(data))
+        broken["novel"]["desk"]["chapters"][1]["scenes"] = [{"f": "Manuscript/kap-01/szene-1-x.md", "k": 1, "t": "x", "status": "freigegeben", "w": 1, "beats": "", "beatsOn": "",
+                                                            "paras": ["a"], "checked": "", "checkStale": False, "briefingBehind": True, "approved": "2026-10-26"}]
+        if not any("approved, yet its briefing is behind" in p for p in check_data(broken)):
+            failures.append("an approved scene whose briefing is behind: not reported")
+        broken["novel"]["desk"]["chapters"][1]["scenes"][0].update({"status": "entwurf", "paras": [], "briefingBehind": False})
+        if not any("no paragraph — the marks would have nothing to mark" in p for p in check_data(broken)):
+            failures.append("a drafted scene with no paragraph to mark: not reported")
         broken = json.loads(json.dumps(data))
         broken["sessions"]["sessions"] = []
         if not any("NOW.md § Half-done" in p for p in check_data(broken)):
