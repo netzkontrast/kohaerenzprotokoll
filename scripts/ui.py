@@ -1943,7 +1943,7 @@ def selftest() -> tuple[list[str], list[str]]:
             lost_js = COMPONENT.read_text(encoding="utf-8").replace(
                 "st.msel = key;", "st.msel = key + 'x';", 1)
             lost, _ = check_routes(data, lost_js)
-            if not any("cast " in p or "chapters " in p for p in lost):
+            if not any("cast " in p or "chapters " in p or "schreibtisch " in p for p in lost):
                 failures.append(f"an address that loses its workspace item: not reported — got {lost[:2]}")
         else:
             unrun.append("node absent: the syntax case did not run")
