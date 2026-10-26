@@ -80,6 +80,9 @@ jobs:
       - name: briefings current (brief.py check)
         if: always()
         run: python3 scripts/brief.py check
+      - name: manuscript well formed (manuscript.py verify)
+        if: always()
+        run: python3 scripts/manuscript.py verify
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open
