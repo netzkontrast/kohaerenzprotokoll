@@ -247,7 +247,7 @@ def seed(folder: Path | None = None, force: bool = False, today: str = "2026-10-
         if row.get("timing"):
             new["zeit"].append({"was": "Lage", "wert": row["timing"], "quelle": "Plan/storyform/development.json timing", "status": P})
         if row.get("knowledge"):
-            new["wissen"].append({"wer": "Kael", "fakt": row["knowledge"], "seit": n, "quelle": "Plan/storyform/development.json knowledge", "status": P})
+            new["wissen"].append({"wer": "Stand", "fakt": row["knowledge"], "seit": n, "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)", "status": P})
         if row.get("reader"):
             new["wissen"].append({"wer": "Leser", "fakt": row["reader"], "seit": n, "quelle": "Plan/storyform/development.json reader", "status": P})
         # the hand knowledge table

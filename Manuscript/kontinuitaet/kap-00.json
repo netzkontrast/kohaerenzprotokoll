@@ -34,10 +34,10 @@
    "status": "proposal"
   },
   {
-   "wer": "Kael",
+   "wer": "Stand",
    "fakt": "Kael tritt hier nicht als Wissensquelle auf.",
    "seit": 0,
-   "quelle": "Plan/storyform/development.json knowledge",
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
    "status": "proposal"
   },
   {

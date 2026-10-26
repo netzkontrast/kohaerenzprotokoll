@@ -68,6 +68,8 @@ SUITES = [
     ("Weichen, live", "std", ["scripts/weiche.py", "check"]),
     ("continuity: state, queries, register", "std", ["scripts/continuity.py", "selftest"]),
     ("continuity, live", "std", ["scripts/continuity.py", "register"]),
+    ("briefing: storypoints, paragraph, hash, Kap 1", "std", ["scripts/brief.py", "selftest"]),
+    ("briefings, live", "std", ["scripts/brief.py", "check"]),
     ("dramatica: chart, check, derivation", "std", ["scripts/dramatica.py", "selftest"]),
     ("storyform: refusals, provenance, NCP", "std", ["scripts/storyform.py", "selftest"]),
     ("storyform, live", "std", ["scripts/storyform.py", "--check"]),

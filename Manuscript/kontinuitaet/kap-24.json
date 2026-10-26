@@ -4,10 +4,10 @@
  "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
  "wissen": [
   {
-   "wer": "Kael",
+   "wer": "Stand",
    "fakt": "Kael kennt den Nutzen seines Filters, nicht sämtliche verlorenen Inhalte.",
    "seit": 24,
-   "quelle": "Plan/storyform/development.json knowledge",
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
    "status": "proposal"
   },
   {

@@ -4,10 +4,10 @@
  "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
  "wissen": [
   {
-   "wer": "Kael",
+   "wer": "Stand",
    "fakt": "Vorschlag der Ereignistabelle: Der Anschluss steht unter seiner eigenen Zeile (das Prüfergebnis aus Kap 6); den Anschluss löschen hieße, die zehn Jahre zu löschen. Kael ist der aus 734 herausgetrennte Teil, AEGIS stammt aus 734 (W12, Q7); Kael erfährt das hier nicht.",
    "seit": 12,
-   "quelle": "Plan/storyform/development.json knowledge",
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
    "status": "proposal"
   },
   {

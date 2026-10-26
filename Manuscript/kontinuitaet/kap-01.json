@@ -4,10 +4,10 @@
  "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
  "wissen": [
   {
-   "wer": "Kael",
+   "wer": "Stand",
    "fakt": "Kael ist der Teil, der aus Komponente 734 herausgetrennt wurde; AEGIS stammt aus 734 (W12, Q7, Schritt 47). Kael weiß das nicht. Ob die Zahl 734 in seinem Alltag seine Wohneinheit, seine Kennung oder beides bezeichnet, bleibt offen (Q7); Entwurf G zeigt sie als Wohneinheit, eine Option. Ob der Anschluss seine eigene Zeile bedeutet, weiß er noch nicht.",
    "seit": 1,
-   "quelle": "Plan/storyform/development.json knowledge",
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
    "status": "proposal"
   },
   {
