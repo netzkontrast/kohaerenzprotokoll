@@ -240,13 +240,15 @@ def check(path: Path, kap: int | None = None, register: list[dict] | None = None
 # --- the verbs ------------------------------------------------------------------------
 
 def set_status(rid: str, status: str, words: str, by: str = "author", today: str | None = None,
-               path: Path | None = None) -> dict:
+               path: Path | None = None, source: str = "") -> dict:
     if not words.strip():
         raise SystemExit("a rule's status is the author's: --words is required (P0, decision 030)")
     items = rows(path)
     for r in items:
         if r["id"] == rid:
             r.update(status=status, words=words, on=today or datetime.date.today().isoformat(), by=by)
+            if source:
+                r["answer_file"] = source
             save(items, path)
             return r
     raise SystemExit(f"no rule {rid}")
@@ -407,6 +409,22 @@ def main(argv: list[str]) -> int:
         r = next((x for x in rows() if x["id"] == rest[0]), None)
         print(json.dumps(r, ensure_ascii=False, indent=1) if r else f"no rule {rest[0]}")
         return 0 if r else 1
+    if verb in ("confirm", "reject") and rest and "--from-answer" in rest:
+        # The author's yes or no from a merged answer file (scripts/records.py), the words verbatim, the file as provenance.
+        import records
+        qid = opt("--question")
+        data = records.load()
+        q = records.questions(data).get(qid)
+        if q is None or f"rule:{rest[0]}" not in q.get("concerns", []):
+            raise SystemExit(f"{qid!r} is not a question about rule {rest[0]}")
+        a = records.answer_from(Path(opt("--from-answer")), qid, data)
+        if a.get("yes") is not (verb == "confirm"):
+            raise SystemExit(f"{a['file']} says {'ja' if a.get('yes') else 'nein'} to {rest[0]}; the verb must follow it ({'confirm' if a.get('yes') else 'reject'})")
+        words = a.get("words") or ("ja" if a.get("yes") else "nein")
+        r = set_status(rest[0], "bestätigt" if verb == "confirm" else "verworfen", words, "author", source=a["file"])
+        records.record_applied(a, qid, f"prose_rules.py {verb} {rest[0]}", f"Manuscript/regeln.jsonl {rest[0]} → {r['status']}")
+        print(json.dumps(r, ensure_ascii=False))
+        return 0
     if verb in ("confirm", "reject") and rest:
         print(json.dumps(set_status(rest[0], "bestätigt" if verb == "confirm" else "verworfen", opt("--words"), opt("--by", "author")), ensure_ascii=False))
         return 0

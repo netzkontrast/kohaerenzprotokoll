@@ -1,16 +1,16 @@
 {
  "@type": "Session",
  "id": "the-writing-workshop",
- "title": "Die Schreibwerkstatt — sechs Werkzeuge vor der ersten Szene",
+ "title": "Die Schreibwerkstatt — Pilot Kap 1–3",
  "started": "2026-10-26",
- "ended": "2026-10-26",
+ "ended": null,
  "branch": "claude/adoring-sagan-l2qtnq",
  "pr": 195,
- "mandate": "Die zehn Antworten des Autors vom 2026-10-26 (Entscheidung 030)",
+ "mandate": "Entscheidung 030 (die zehn Antworten des Autors vom 2026-10-26): Werkzeuge vor der ersten Szene, dann Szene für Szene auf freigegebenen Beats",
  "report": {
   "done": [
    {
-    "text": "prose_rules.py: das Register der Prosaregeln mit Status — 25 Regeln, 5 bestätigt, Prüfung je Entwurf",
+    "text": "prose_rules.py: das Register der Prosaregeln mit Status und der Prüfung je Entwurf",
     "refs": [
      "scripts/prose_rules.py",
      "Manuscript/regeln.jsonl"
@@ -23,14 +23,14 @@
     ]
    },
    {
-    "text": "continuity.py: vier Kontinuitätstabellen je Kapitel, 357 Zeilen vorbelegt",
+    "text": "continuity.py: vier Kontinuitätstabellen je Kapitel, vorbelegt aus Kanon, Storyforms und Treatment",
     "refs": [
      "scripts/continuity.py",
      "Manuscript/kontinuitaet/kap-01.json"
     ]
    },
    {
-    "text": "brief.py: das Briefing von Kap 1, aktuell, mit 11 offenen Weichen",
+    "text": "brief.py: das Briefing von Kap 1, mit den offenen Weichen vor der ersten Szene",
     "refs": [
      "scripts/brief.py",
      "Manuscript/kap-01/briefing.md"
@@ -51,20 +51,23 @@
   ],
   "thought": [
    {
-    "text": "Nichts wird freigegeben ohne deine Worte; ein Werkzeug schlägt vor, du entscheidest."
+    "text": "Nichts wird freigegeben ohne deine Worte; ein Werkzeug schlägt vor, du entscheidest (P0, Entscheidung 030)."
    },
    {
-    "text": "Die Werkzeuge stehen vor der ersten Szene, damit die erste Szene schon auf geprüftem Grund steht."
+    "text": "Annahme: offene Prosaregeln blockieren die erste Szene nicht — sie bleiben Rückfragen an jeden Entwurf; nur die Weichen im Briefing stehen „vor der ersten Szene“."
+   },
+   {
+    "text": "Offen: welche Weiche Kap 1 zuerst festlegt; die Reihenfolge der Fragen folgt den Abhängigkeiten in den Blättern, nicht einer Entscheidung."
    }
   ],
   "priorities": [
    {
     "rank": 1,
-    "text": "Die 11 offenen Weichen von Kap 1 beantworten"
+    "text": "Die offenen Weichen aus dem Briefing von Kap 1 beantworten, die blockierende zuerst"
    },
    {
     "rank": 2,
-    "text": "Die 18 offenen Prosaregeln bestätigen oder verwerfen"
+    "text": "Die offenen Prosaregeln für Kap 1 bestätigen oder verwerfen"
    },
    {
     "rank": 3,
@@ -88,5 +91,18 @@
   "what": "Briefing, Szenen mit Markierungen je Absatz, offene Weichen und Regeln mit Aufträgen zum Kopieren"
  },
  "questions": [],
- "follows": []
+ "follows": [],
+ "derive": {
+  "briefing": "Manuscript/kap-01/briefing.md",
+  "kapitel": 1
+ },
+ "runs": [
+  {
+   "on": "2026-10-26",
+   "what": "die sechs Werkzeuge gebaut und Kap 1 gebrieft",
+   "pr": 195,
+   "branch": "claude/adoring-sagan-l2qtnq"
+  }
+ ],
+ "updated": "2026-10-26T17:56:00Z"
 }

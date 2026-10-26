@@ -176,7 +176,7 @@ FREE = {"id": "free", "title": "", "md": "", "next": "", "status": "ready", "bec
 LABELS = {"head": "Header", "read": "Read first", "ask": "Your instruction", "task": "Task from NOW.md",
           "next": "Next step", "gate": "Gate", "files": "Files", "standing": "Standing instructions",
           "notes": "Binding notes", "rules": "Claim and app-refresh",
-          "report": "Last session's report", "decided": "Decided in the app", "open": "Open questions", "apps": "Session apps"}
+          "report": "Last session's report", "step": "Next allowed step", "decided": "Answers by status", "open": "Open questions", "apps": "Session apps"}
 
 
 def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "", extra: list[list[str]] | None = None) -> list[list[str]]:

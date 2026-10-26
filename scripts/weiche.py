@@ -97,6 +97,9 @@ def options_of(text: str) -> list[tuple[str, str]]:
     out = []
     for m in re.finditer(r"^(?:### |- \*\*)([A-Z](?:\d)?)\s*[—–-]\s*([^*\n]+)", body, re.M):
         out.append((m.group(1), m.group(2).strip().rstrip("*").strip()))
+    if not out:  # the table form of the 2026-09-30 sheets: | A — Title | Arbeitsweise | Gewinn | Preis |
+        for m in re.finditer(r"^\|\s*([A-Z](?:\d)?)\s*[—–-]\s*([^|\n]+?)\s*\|", body, re.M):
+            out.append((m.group(1), m.group(2).strip()))
     return out
 
 
@@ -170,7 +173,7 @@ def add_kanon_row(wid: str, date: str, what: str, where: str, kanon: Path | None
 
 
 def answer(wid: str, words: str, option: str = "", today: str | None = None, by: str = "author",
-           folder: Path | None = None, kanon: Path | None = None, status: str = "beantwortet") -> dict:
+           folder: Path | None = None, kanon: Path | None = None, status: str = "beantwortet", source: str = "") -> dict:
     if not words.strip():
         raise SystemExit("an answer records the author's words verbatim: --words is required (P0)")
     path = sheets(folder).get(wid)
@@ -181,14 +184,15 @@ def answer(wid: str, words: str, option: str = "", today: str | None = None, by:
     if meta.get("status") == "beantwortet" and status == "beantwortet":
         raise SystemExit(f"{wid} is already answered; a later answer is a correction — say so in the words and edit the sheet by hand")
     today = today or datetime.date.today().isoformat()
-    head = f"**{'Beantwortet' if status == 'beantwortet' else 'Vertagt'} {today}" + (f": {option}" if option else "") + f".** {words.strip()}"
+    prov = f" (Antwortdatei: `{source}`)" if source else ""
+    head = f"**{'Beantwortet' if status == 'beantwortet' else 'Vertagt'} {today}" + (f": {option}" if option else "") + f".** {words.strip()}{prov}"
     block = f"\n\n## Antwort\n\n{head}\n" if "\n## Antwort" not in text else f"\n\n{head}\n"
     text = set_front(text, "status", status).rstrip("\n") + block
     path.write_text(text, encoding="utf-8")
-    row = {"id": wid, "status": status, "on": today, "by": by, "option": option, "words": words.strip(),
+    row = {"id": wid, "status": status, "on": today, "by": by, "option": option, "words": words.strip(), "source": source,
            "sheet": path.relative_to(ROOT).as_posix() if path.is_relative_to(ROOT) else str(path)}
     if status == "beantwortet":
-        add_kanon_row(wid, today, (f"{option}: " if option else "") + words.strip(), row["sheet"], kanon)
+        add_kanon_row(wid, today, (f"{option}: " if option else "") + words.strip() + prov, row["sheet"], kanon)
     return row
 
 
@@ -367,6 +371,22 @@ def main(argv: list[str]) -> int:
         return 0
     if verb == "show" and rest:
         print(show(rest[0]))
+        return 0
+    if verb == "answer" and rest and "--from-answer" in rest:
+        # The author's answer from a merged answer file (scripts/records.py): the words verbatim, the file as provenance.
+        import records
+        qid = opt("--question")
+        data = records.load()
+        q = records.questions(data).get(qid)
+        if q is None or f"weiche:{rest[0]}" not in q.get("concerns", []):
+            raise SystemExit(f"{qid!r} is not a question about {rest[0]} — name the question the answer file answers")
+        a = records.answer_from(Path(opt("--from-answer")), qid, data)
+        if q.get("depth") == 2 and not a.get("option"):
+            raise SystemExit(f"{a['file']} names no option for {qid}")
+        words = a.get("words") or f"Option {a.get('option')} gewählt, ohne weitere Worte"
+        row = answer(rest[0], words, a.get("option", ""), opt("--on") or None, "author", source=a["file"])
+        records.record_applied(a, qid, f"weiche.py answer {rest[0]}", f"{row['sheet']}; Manuscript/kanon.md row {rest[0]}")
+        print(json.dumps(row, ensure_ascii=False))
         return 0
     if verb in ("answer", "defer") and rest:
         row = answer(rest[0], opt("--words"), opt("--option"), opt("--on") or None, opt("--by", "author"),
