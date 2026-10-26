@@ -1,0 +1,70 @@
+{
+ "kapitel": 18,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Kael erfährt einen Ausschnitt, nicht die abschließende Genesis-Erklärung.",
+   "seit": 18,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Die Schutzfunktion ist verständlich, ihre Folgen bleiben schädlich.",
+   "seit": 18,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[Genesis] L: Das Cluster der Genesis „schimmert nur“ (T:L254). K: ein Ausschnitt, keine Erklärung der Genesis (dev:L674).",
+   "seit": 18,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K: Der Rest erlaubt, den Kanal bewusst zu benutzen (T:L258).",
+   "seit": 18,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: erlebt die Nacht von innen, ohne Ursache (T:L254). Das Datum ist gelöscht (T:L257).",
+   "seit": 18,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Flashback innerhalb der Gegenwart; Umfang offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW2",
+   "art": "welt",
+   "seit": 14,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Oblivion",
+   "art": "anteil",
+   "seit": 18,
+   "kanal": "Stimme",
+   "wie": "Die Genesis-Rückblende ist die Fragmentierungsnacht von innen: Oblivion sieht zum ersten Mal, was er löscht.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

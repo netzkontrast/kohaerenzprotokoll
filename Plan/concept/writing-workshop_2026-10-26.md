@@ -42,7 +42,7 @@ Each is standard library, has an offline fixture, a selftest in `selftests.py`, 
 repository commits. Each writes only where the authority table of CLAUDE.md allows: nothing a tool writes is canon; the author's
 words are.
 
-### 3.1 `rules.py` — the prose-rule register
+### 3.1 `prose_rules.py` — the prose-rule register
 
 The sources are full of rules for the prose (the first sentence, no AEGIS voice in Kap 1, no metaphors in KW1, „Trennungsprotokoll“
 never on Kael's side, cold ozone once, no mention of amnesia …). Decision 006 says none binds until the author confirms it. Today they
@@ -149,7 +149,7 @@ register the approved chapter left.
 
 The author's answer 10: every tool before the first scene. Order, each a commit with its selftest:
 
-1. `rules.py` with the standing rules as checks (the first thing any draft is held to);
+1. `prose_rules.py` with the standing rules as checks (the first thing any draft is held to);
 2. `weiche.py`;
 3. `continuity.py` with the four tables seeded;
 4. `brief.py` for Kap 1 (it needs 1–3);

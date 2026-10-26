@@ -1,0 +1,66 @@
+{
+ "kapitel": 37,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Er weiß, was er gewonnen hat, nicht, dass es nicht reicht.",
+   "seit": 37,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Vorzeichen des Rauschens; B ist in diesem Kapitel nicht gewoben und wirkt nur als Echo.",
+   "seit": 37,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] Oblivion wählt, was vergessen wird (T:L464).",
+   "seit": 37,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Zwischen den beiden Vortex-Teilen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 37,
+   "kanal": "Stimme",
+   "wie": "Der falsche Friede: die Ordnung kehrt zurück, scheinbar.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Oblivion",
+   "art": "anteil",
+   "seit": 37,
+   "kanal": "Stimme",
+   "wie": "Oblivion wählt zum ersten Mal, was vergessen wird, statt automatisch zu löschen (Q8, Schritt 44); Vorschlag für den Ort, in development.json Kap 37.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

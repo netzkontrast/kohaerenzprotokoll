@@ -1,0 +1,59 @@
+{
+ "kapitel": 23,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Scheitern beweist nicht, dass Fürsorge wertlos ist.",
+   "seit": 23,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Moros bleibt eine Figur mit eigener Schutzlogik statt bloße Last.",
+   "seit": 23,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Nach dem Entzug aus KW2; Dauer offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW3",
+   "art": "welt",
+   "seit": 23,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Rhys",
+   "art": "anteil",
+   "seit": 23,
+   "kanal": "Stimme",
+   "wie": "Rhys versucht, Moros zu retten, und scheitert.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Moros",
+   "art": "anteil",
+   "seit": 23,
+   "kanal": "Stimme",
+   "wie": "Rhys versucht, Moros zu retten, und scheitert.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

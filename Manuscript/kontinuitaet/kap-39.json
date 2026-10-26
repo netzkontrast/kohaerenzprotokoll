@@ -1,0 +1,187 @@
+{
+ "kapitel": 39,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Er kennt seinen nächsten Schritt, nicht die endgültige Erklärung jeder Welt.",
+   "seit": 39,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Das Anfangsmotiv wird bezahlt: offener Rest bedeutet jetzt tragfähige Ordnung. Hier wird der vierte Schritt der Genesis vollzogen, Wir-AEGIS-plural (W12, Entscheidung 025 Schritt 42).",
+   "seit": 39,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE erlischt monolithisch und wird plural (T:L483).",
+   "seit": 39,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Genesis] Der vierte Schritt (T:L483)",
+   "seit": 39,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K hält die vereinbarte Verbindung (T:L482).",
+   "seit": 39,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: keine endgültige Erklärung jeder Welt (dev:L1528)",
+   "seit": 39,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Ende des vierten Akts; Coda außerhalb der Signposts.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Alex",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Rhys",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Selene",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Argus",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Nyx",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Isabelle",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Kiko",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Lia",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Moros",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Silas",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Oblivion",
+   "art": "anteil",
+   "seit": 39,
+   "kanal": "Stimme",
+   "wie": "Funktionale Multiplizität, das Wir; Juna in der Zukunft der beiden.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "kapitel": 12,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Vorschlag der Ereignistabelle: Der Anschluss steht unter seiner eigenen Zeile (das Prüfergebnis aus Kap 6); den Anschluss löschen hieße, die zehn Jahre zu löschen. Kael ist der aus 734 herausgetrennte Teil, AEGIS stammt aus 734 (W12, Q7); Kael erfährt das hier nicht.",
+   "seit": 12,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Anschluss aus Kap 1 und Person dürfen keine stillschweigende Gleichsetzung bleiben.",
+   "seit": 12,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[734 / Cluster] K: Der Anschluss steht unter seiner eigenen Zeile, bestätigt mit seinem Kürzel (T:L180–L181). Dass er das Cluster aus 734 ist, erfährt er hier nicht (dev:L428). L: kann es ableiten (0 + 6 + 12), der Text sagt es nicht.",
+   "seit": 12,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K: Den Anschluss löschen heißt, ihn selbst zu löschen (EW:L42, Vorschlag).",
+   "seit": 12,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: Den Anschluss löschen „hieße, die zehn Jahre zu löschen“ (T:L180–L181). Hier steht die Zahl zehn zum ersten Mal auf Kaels Seite.",
+   "seit": 12,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Das Fenster muss nachweislich noch vor ihm liegen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Nyx",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Spur",
+   "wie": "Knöchel, die bluten, und eine Wut ohne Erinnerung.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Spur; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

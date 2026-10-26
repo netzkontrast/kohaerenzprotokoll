@@ -1,0 +1,203 @@
+{
+ "kapitel": 0,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Junas Name (W7 empfiehlt Kap 11)",
+   "seit": 11,
+   "marker": [
+    "Juna"
+   ],
+   "quelle": "Plan/weichen/w7-schleier.md (Empfehlung)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "dass er das aus 734 herausgetrennte Cluster ist (W30 empfiehlt: am Vortex)",
+   "seit": 35,
+   "marker": [
+    "734"
+   ],
+   "quelle": "Plan/weichen/w30-734-auf-kaels-seite.md (Empfehlung B)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "die Zahl der gelöschten Jahre, zehn",
+   "seit": 12,
+   "marker": [
+    "zehn Jahre"
+   ],
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md Kap 12",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "Kael tritt hier nicht als Wissensquelle auf.",
+   "seit": 0,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Der Leser sieht eine Lücke, kennt ihre Ursache nicht. Der fehlende Datentyp `[DATENTYP_FEHLT]` ist der Anschluss, den Kap 1 zeigt.",
+   "seit": 0,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE erzählt Cluster und Trennungsprotokoll (T:L77). Es verliert einen eigenen Logbezug, welchen, ist offen (T:L71, dev:L27). 734 wird im Absatz nicht genannt. K: tritt nicht auf (dev:L23).",
+   "seit": 0,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[Genesis] AE + L: drei von vier Schritten, der vierte bleibt verschwiegen (T:L77)",
+   "seit": 0,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[Juna] L: Der fehlende Datentyp ist „ein Anschluss ohne Planeintrag“ (T:L78, dev:L24).",
+   "seit": 0,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[Anschluss / Kanal] AE verbucht `DATENTYP —` (T:L73).",
+   "seit": 0,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[zehn Jahre] AE: Die Begründung eines Abschlusses ist nicht mehr rekonstruierbar (T:L74). Ob diese Löschung die Nacht ist, bleibt offen (dev:L26).",
+   "seit": 0,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Vor Kap 1; Abstand offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [
+  {
+   "name": "Abwärmebudget",
+   "wert": "71 %",
+   "einheit": "Prozent der thermodynamischen Reserve",
+   "quelle": "Plan/storyform/clock-b.json (Schritt 48, Werte Vorschlag)",
+   "status": "proposal"
+  }
+ ],
+ "dinge": [
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Alex",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Rhys",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Selene",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Argus",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Nyx",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Isabelle",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Kiko",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Lia",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Moros",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Silas",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "Oblivion",
+   "art": "anteil",
+   "seit": 13,
+   "quelle": "Plan/storyform/anteile.json unnamed_until",
+   "status": "proposal"
+  },
+  {
+   "name": "AEGIS",
+   "art": "figur",
+   "seit": 0,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  },
+  {
+   "name": "Juna",
+   "art": "figur",
+   "seit": 4,
+   "quelle": "Manuscript/kanon.md C7: Kap 4, 11 erinnert; 17, 25 Spuren; 32 Gegenwart",
+   "status": "kanon"
+  }
+ ]
+}

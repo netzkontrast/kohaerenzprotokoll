@@ -1,0 +1,87 @@
+{
+ "kapitel": 31,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Kael begreift, dass Vergessen eine Handlung ist.",
+   "seit": 31,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "AEGIS begreift das Muster (B-OS Understanding) und entwirft dagegen (B-RS Conceptualizing).",
+   "seit": 31,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE begreift das Muster, ohne es zu halten (T:L394).",
+   "seit": 31,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] „Juna ist erreichbar“ (T:L396)",
+   "seit": 31,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] Oblivion löscht, Silas empfängt, das Signal bricht (T:L391–L393).",
+   "seit": 31,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: Vergessen ist eine Handlung (dev:L1192).",
+   "seit": 31,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Akt III, Mitte; Brücke, Spiegel-Alter-Szene.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Oblivion",
+   "art": "anteil",
+   "seit": 31,
+   "kanal": "Stimme",
+   "wie": "Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Silas",
+   "art": "anteil",
+   "seit": 31,
+   "kanal": "Stimme",
+   "wie": "Oblivion löscht schneller, als Silas empfängt — Landauer-Hitze.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

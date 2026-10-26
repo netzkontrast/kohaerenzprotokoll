@@ -1,0 +1,68 @@
+{
+ "kapitel": 16,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Kael erlebt nur die zugängliche Tür, nicht die Systemabsicht.",
+   "seit": 16,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Der zweite Riss im Ich wird an einer konkreten Maßnahme sichtbar.",
+   "seit": 16,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE ortet den Anschluss, „den es seit Kap 6 Komponente 734 zuordnet“ (T:L227). Es lernt die Anomalie kennen, ohne sie zu verstehen (T:L233).",
+   "seit": 16,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[Anschluss / Kanal] AE: Niemand hält den Anschluss, der Sweep scheitert trotzdem (T:L229).",
+   "seit": 16,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[zehn Jahre] AE: Wieder fehlt ein eigener Logbezug (T:L234).",
+   "seit": 16,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "AEGIS' Prüfzeit, keine festgelegte Reisedauer.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [
+  {
+   "name": "Abwärmebudget",
+   "wert": "47 %",
+   "einheit": "Prozent der thermodynamischen Reserve",
+   "quelle": "Plan/storyform/clock-b.json (Schritt 48, Werte Vorschlag)",
+   "status": "proposal"
+  }
+ ],
+ "dinge": [
+  {
+   "name": "KW2",
+   "art": "welt",
+   "seit": 14,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  }
+ ]
+}

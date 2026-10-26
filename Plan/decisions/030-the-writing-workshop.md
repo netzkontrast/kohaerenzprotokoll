@@ -22,7 +22,7 @@
    and the confirmed, checkable ones are checked by code.
 8. **A chapter in the pilot is 3,000–5,000 words** (W16, answered for the pilot; several scenes per chapter).
 9. **A scene is reviewed with marks per paragraph in the app; approval is the author's words**, recorded in `kanon.md`.
-10. **Every tool is built before the first scene**: `rules.py`, `weiche.py`, `continuity.py`, `brief.py`, `manuscript.py`,
+10. **Every tool is built before the first scene**: `prose_rules.py`, `weiche.py`, `continuity.py`, `brief.py`, `manuscript.py`,
     the Schreibtisch in the app (`Plan/concept/writing-workshop_2026-10-26.md`).
 
 ## What was rejected

@@ -1,0 +1,66 @@
+{
+ "kapitel": 9,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Kael kennt die Folgen seiner Signatur, nicht ihre ganze Ursache.",
+   "seit": 9,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Die Handlung ist mehr als ein zweites Konsolengespräch.",
+   "seit": 9,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: kennt die Folgen seiner Signatur, nicht die Ursache (dev:L330).",
+   "seit": 9,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Vollzug vor Schichtende; Abstand zu Kap 8 offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Körper",
+   "wie": "Kälte in den Händen; Ordnung, die sich verdoppelt.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Alex",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Körper",
+   "wie": "Der Körper wappnet sich, bevor Kael Gefahr sieht.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

@@ -1,0 +1,63 @@
+{
+ "kapitel": 32,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Er weiß jetzt, dass sie da ist; was beide wollen, verlangt Gespräch.",
+   "seit": 32,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Juna ist kein Lösungsobjekt oder Beweisstück für Kaels Ontologie.",
+   "seit": 32,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE sieht nur die Bewegung (T:L407).",
+   "seit": 32,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] Die erste Begegnung in der Gegenwart (T:L402). Silas erkennt sie zuerst (T:L403).",
+   "seit": 32,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Erste direkte Begegnung in der Gegenwart, beschlossen durch C7.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Silas",
+   "art": "anteil",
+   "seit": 32,
+   "kanal": "Stimme",
+   "wie": "Die erste Begegnung mit Juna in der Gegenwart: Silas erkennt sie, bevor Kael es tut.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

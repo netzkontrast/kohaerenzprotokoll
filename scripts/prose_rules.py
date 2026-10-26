@@ -29,13 +29,13 @@ Checks (`CHECKS`), each over the prose of one draft (frontmatter and the session
 | `erzaehlform` | the narration drifts from first person present: more third-person past markers than first-person present ones |
 
 Usage:
-    python3 scripts/rules.py list [--kap N] [--status offen]      # the register, in scope of a chapter
-    python3 scripts/rules.py show <id>
-    python3 scripts/rules.py confirm <id> --words "<the author's words>" [--by author]
-    python3 scripts/rules.py reject <id> --words "<the author's words>"
-    python3 scripts/rules.py check <draft.md> [--kap N] [--json]  # the checks of every rule in scope; exit 1 on a failure
-    python3 scripts/rules.py register                             # the register itself: ids, statuses, sources, checks (CI)
-    python3 scripts/rules.py selftest
+    python3 scripts/prose_rules.py list [--kap N] [--status offen]      # the register, in scope of a chapter
+    python3 scripts/prose_rules.py show <id>
+    python3 scripts/prose_rules.py confirm <id> --words "<the author's words>" [--by author]
+    python3 scripts/prose_rules.py reject <id> --words "<the author's words>"
+    python3 scripts/prose_rules.py check <draft.md> [--kap N] [--json]  # the checks of every rule in scope; exit 1 on a failure
+    python3 scripts/prose_rules.py register                             # the register itself: ids, statuses, sources, checks (CI)
+    python3 scripts/prose_rules.py selftest
 """
 
 from __future__ import annotations

@@ -1,0 +1,84 @@
+{
+ "kapitel": 13,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Er kennt die persönliche Bedeutung der Zeile; Junas Gegenwart ist noch nicht erreichbar.",
+   "seit": 13,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Die Wahl unterscheidet sich von Kap 1 durch Wissen, Urheberschaft und Endgültigkeit.",
+   "seit": 13,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] K: Selene sagt „Wenn sie auftaucht, ist es spät“ (T:L189). Junas Gegenwart ist unerreichbar (dev:L464).",
+   "seit": 13,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K: Die Rückfrage bleibt offen, für immer (T:L190).",
+   "seit": 13,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: kennt die persönliche Bedeutung der Zeile (dev:L464).",
+   "seit": 13,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Beschlossener Übergang 13/14; Kalenderdauer von Akt I offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Selene",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Stimme",
+   "wie": "Kaels Entscheidung, nicht mehr zu bestätigen (13/14); der Schleier fällt, die Stimmen bekommen Namen; Selene zum ersten Mal: „Wenn sie auftaucht, ist es spät.“",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Cerberus",
+   "art": "figur",
+   "seit": 13,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  },
+  {
+   "name": "Mnemosyne",
+   "art": "figur",
+   "seit": 13,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  }
+ ]
+}

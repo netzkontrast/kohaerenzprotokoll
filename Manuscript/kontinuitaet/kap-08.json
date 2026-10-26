@@ -1,0 +1,63 @@
+{
+ "kapitel": 8,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Er kennt die Signatur, nicht den handelnden Anteil.",
+   "seit": 8,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Das fürsorgliche Wir und die problematische Tat müssen beide sichtbar sein.",
+   "seit": 8,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: Sein Kürzel hat eine Löschung bestätigt, an die er sich nicht erinnert (T:L149).",
+   "seit": 8,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Zwischen Zugang und Vollzug des bestätigten Postens.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Rhys",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Satzbau",
+   "wie": "Ein „Wir“ im Satz; Fürsorge für einen Fremden, die nicht Kaels ist.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Satzbau; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Dorn",
+   "art": "figur",
+   "seit": 8,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  }
+ ]
+}

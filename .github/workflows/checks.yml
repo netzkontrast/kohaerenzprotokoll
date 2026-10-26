@@ -68,12 +68,15 @@ jobs:
       - name: full reads (fullread.py check)
         if: always()
         run: python3 scripts/fullread.py check
-      - name: prose rules (rules.py register)
+      - name: prose rules (prose_rules.py register)
         if: always()
-        run: python3 scripts/rules.py register
+        run: python3 scripts/prose_rules.py register
       - name: Weichen (weiche.py check)
         if: always()
         run: python3 scripts/weiche.py check
+      - name: continuity register (continuity.py register)
+        if: always()
+        run: python3 scripts/continuity.py register
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open

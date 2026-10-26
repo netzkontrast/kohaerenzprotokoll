@@ -1,0 +1,56 @@
+{
+ "kapitel": 29,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Kael",
+   "fakt": "Er weiß, dass die Angst ein Anteil ist, und wessen.",
+   "seit": 29,
+   "quelle": "Plan/storyform/development.json knowledge",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Der Leser sieht, was der Purge mit der Verbindung tut, bevor Kael es sieht.",
+   "seit": 29,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] Der Purge erreicht die Verbindung vor ihm (T:L376).",
+   "seit": 29,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "KW4 beginnt (Zeile Kernwelten).",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Kiko",
+   "art": "anteil",
+   "seit": 29,
+   "kanal": "Körper",
+   "wie": "Die Angst des Kindes, das letzte Aufflammen vor dem Weg.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}
