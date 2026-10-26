@@ -1,0 +1,670 @@
+{
+  "document": "kohaerenz-prozess",
+  "drive_id": "1jJk5Wuo2wyQC5Eh4wrKMwHRc7xEsoYVcL5rinWPh8r4",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael-System": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        17,
+        43,
+        49,
+        65,
+        245
+      ]
+    },
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        32,
+        43,
+        49,
+        65,
+        75,
+        175,
+        176,
+        245
+      ]
+    },
+    "Moros": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        29,
+        57,
+        59,
+        61,
+        175,
+        183
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        32,
+        75,
+        184,
+        188
+      ]
+    },
+    "Alex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        32,
+        75,
+        177
+      ]
+    },
+    "Lex": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        176,
+        267,
+        330
+      ]
+    },
+    "Rhys": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        178
+      ]
+    },
+    "Nyx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "Kiko": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        180
+      ]
+    },
+    "Lia": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        181
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        182
+      ]
+    },
+    "Argus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        185,
+        188
+      ]
+    },
+    "Partnerin": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        29,
+        43,
+        45,
+        49,
+        51,
+        53,
+        166,
+        179,
+        186
+      ]
+    },
+    "Kohärenz Prozess": {
+      "n": 5,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        23,
+        137,
+        168,
+        221,
+        243,
+        245
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17
+      ]
+    },
+    "The Agency System": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        19,
+        35,
+        81,
+        155
+      ]
+    },
+    "Systematic Agency": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        115,
+        139,
+        143,
+        145,
+        147,
+        151
+      ]
+    },
+    "Fragile Weave": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        175,
+        195
+      ]
+    },
+    "Alarm Rot": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        30,
+        63,
+        65,
+        69,
+        185
+      ]
+    },
+    "Diagnose-Tool": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        32,
+        71,
+        89,
+        97,
+        201
+      ]
+    },
+    "System-Scan": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "System-Update": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Patching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        202
+      ]
+    },
+    "Firewall-Konfiguration": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        203
+      ]
+    },
+    "Datenstrom-Management": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Chaotische Oszillationen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Systemabsturz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Blue Screen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Neuronale Neuvernetzung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Synaptische Plastizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        206
+      ]
+    },
+    "Bunker": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        194
+      ]
+    },
+    "Garten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        196
+      ]
+    },
+    "Mosaik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        197
+      ]
+    },
+    "Weben": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        115,
+        195
+      ]
+    },
+    "Dystopian": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        210,
+        212,
+        216
+      ]
+    },
+    "Clear": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        210,
+        212,
+        217
+      ]
+    },
+    "Ehrenrunden": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        221
+      ]
+    },
+    "Apparently Normal Parts": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Emotional Parts": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        57,
+        105
+      ]
+    },
+    "ANPs": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        53,
+        57,
+        67,
+        95,
+        107,
+        109,
+        111,
+        115,
+        176,
+        179,
+        180
+      ]
+    },
+    "EPs": {
+      "n": 24,
+      "n_including_compounds": 24,
+      "lines": [
+        17,
+        23,
+        53,
+        57,
+        67,
+        79,
+        80,
+        95,
+        105,
+        107,
+        109,
+        111,
+        115,
+        119,
+        123,
+        175,
+        176,
+        177,
+        196,
+        237
+      ]
+    },
+    "TSDP": {
+      "n": 16,
+      "n_including_compounds": 18,
+      "lines": [
+        17,
+        37,
+        57,
+        79,
+        95,
+        103,
+        105,
+        115,
+        121,
+        137,
+        147,
+        151,
+        162,
+        217,
+        237,
+        243,
+        294
+      ]
+    },
+    "Theorie der Strukturellen Dissoziation": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        37
+      ]
+    },
+    "Bindungstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        243
+      ]
+    },
+    "Netzwerktheorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        37,
+        93,
+        113,
+        243
+      ]
+    },
+    "Kybernetik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        149,
+        243
+      ]
+    },
+    "VSM": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        37,
+        91,
+        149,
+        151,
+        176
+      ]
+    },
+    "PCT": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        67,
+        91
+      ]
+    },
+    "Perceptual Control Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        67
+      ]
+    },
+    "Polyvagal-Theorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        37,
+        127
+      ]
+    },
+    "Somatic Experiencing": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        127
+      ]
+    },
+    "Chaos- und Komplexitätstheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Posthumanismus und Embodied Cognition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "IFS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119
+      ]
+    },
+    "Betrayal Trauma": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        47,
+        175,
+        186,
+        259,
+        295,
+        310
+      ]
+    },
+    "Betrayal Blindness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Rock Bottom": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        296
+      ]
+    },
+    "BELLAC-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Kollaps-Impuls": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        55,
+        57,
+        183
+      ]
+    },
+    "Synth Goth / Dystopian Future Synth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Dystopian-Clear Twist": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        210
+      ]
+    },
+    "Co-Bewusstsein": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        108,
+        113,
+        147
+      ]
+    },
+    "Amnesiebarrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        108
+      ]
+    },
+    "Metasystem": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        91,
+        149,
+        177
+      ]
+    },
+    "traumainformierten DIS-Therapie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        243
+      ]
+    },
+    "psychologischen Krisenintervention": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Suchttherapie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        37
+      ]
+    },
+    "Freeze/Submit/Collapse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        57,
+        131
+      ]
+    },
+    "Ventraler Vaguskomplex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        129
+      ]
+    },
+    "Sympathikus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        130,
+        133,
+        216
+      ]
+    },
+    "Dorsaler Vaguskomplex": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        131
+      ]
+    },
+    "funktionale Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Selbstermächtigung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        157
+      ]
+    }
+  }
+}

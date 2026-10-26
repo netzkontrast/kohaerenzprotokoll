@@ -1,0 +1,713 @@
+{
+  "document": "digitale-uberwelt",
+  "drive_id": "1Usb1RG3BLznSWqnCTKyzBMIQs94trNiHZPTBKBcOXjA",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Digitale Überwelt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Überwelt": {
+      "n": 40,
+      "n_including_compounds": 41,
+      "lines": [
+        11,
+        15,
+        21,
+        49,
+        72,
+        101,
+        106,
+        108,
+        110
+      ]
+    },
+    "Digitalen Überwelt": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        110
+      ]
+    },
+    "AEGIS": {
+      "n": 84,
+      "n_including_compounds": 109,
+      "lines": [
+        15,
+        17,
+        25,
+        29,
+        36,
+        40,
+        44,
+        45,
+        47,
+        49,
+        62,
+        63,
+        79,
+        81,
+        85,
+        87,
+        89,
+        97,
+        98,
+        99,
+        104,
+        105,
+        106,
+        107,
+        110
+      ]
+    },
+    "AEGIS-Protokoll": {
+      "n": 5,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        29,
+        49,
+        62,
+        106,
+        110
+      ]
+    },
+    "AEGIS Functional Protocol v1.4": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Guardians": {
+      "n": 49,
+      "n_including_compounds": 49,
+      "lines": [
+        15,
+        17,
+        21,
+        29,
+        30,
+        36,
+        44,
+        49,
+        54,
+        71,
+        79,
+        81,
+        85,
+        86,
+        87,
+        89,
+        97,
+        98,
+        103,
+        107,
+        110
+      ]
+    },
+    "Guardian": {
+      "n": 13,
+      "n_including_compounds": 79,
+      "lines": [
+        15,
+        17,
+        21,
+        23,
+        27,
+        29,
+        30,
+        36,
+        44,
+        47,
+        49,
+        54,
+        62,
+        71,
+        79,
+        81,
+        85,
+        86,
+        87,
+        89,
+        95,
+        97,
+        98,
+        99,
+        103,
+        105,
+        107,
+        110
+      ]
+    },
+    "Wächter-Konstrukte": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "LogOS": {
+      "n": 20,
+      "n_including_compounds": 20,
+      "lines": [
+        17,
+        29,
+        30,
+        34,
+        36,
+        45,
+        49,
+        99
+      ]
+    },
+    "Mnemosyne": {
+      "n": 14,
+      "n_including_compounds": 18,
+      "lines": [
+        17,
+        30,
+        35,
+        49,
+        54,
+        63,
+        73,
+        80,
+        88,
+        98,
+        103
+      ]
+    },
+    "Cerberus": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        17,
+        29,
+        34,
+        49,
+        103
+      ]
+    },
+    "Kairos": {
+      "n": 17,
+      "n_including_compounds": 17,
+      "lines": [
+        17,
+        36,
+        45,
+        49,
+        62,
+        99,
+        105
+      ]
+    },
+    "Sophia": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        35,
+        49,
+        98
+      ]
+    },
+    "Guardian-Interface-Protokolle": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        95
+      ]
+    },
+    "Zero-Trust Execution Model (ZTEM)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        49
+      ]
+    },
+    "Zero-Trust Execution Model": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        49
+      ]
+    },
+    "ZTEM": {
+      "n": 8,
+      "n_including_compounds": 13,
+      "lines": [
+        25,
+        27,
+        49,
+        54
+      ]
+    },
+    "Zero-Trust": {
+      "n": 8,
+      "n_including_compounds": 10,
+      "lines": [
+        25,
+        29,
+        40,
+        45,
+        49,
+        77,
+        81,
+        154,
+        155
+      ]
+    },
+    "Zero-Trust Dynamik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Behavioral Proof-of-Function (BPoF)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        97
+      ]
+    },
+    "Behavioral Proof-of-Function": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        49,
+        97
+      ]
+    },
+    "BPoF": {
+      "n": 21,
+      "n_including_compounds": 24,
+      "lines": [
+        29,
+        44,
+        49,
+        85,
+        87,
+        97,
+        103
+      ]
+    },
+    "Encrypted Intent Channels (EIC)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        98
+      ]
+    },
+    "Encrypted Intent Channels": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        98
+      ]
+    },
+    "EIC": {
+      "n": 3,
+      "n_including_compounds": 11,
+      "lines": [
+        30,
+        36,
+        44,
+        49,
+        98
+      ]
+    },
+    "EICs": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        36,
+        44,
+        49
+      ]
+    },
+    "Consensus Enforcer": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        45,
+        49,
+        85,
+        86,
+        97,
+        99
+      ]
+    },
+    "Integrity Guardian": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        44,
+        49,
+        62,
+        105
+      ]
+    },
+    "Cognitive Firewall": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        49,
+        62,
+        104,
+        105
+      ]
+    },
+    "Real-time Self-Verification (RTSV)": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Real-time Self-Verification": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "RTSV": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        49,
+        87,
+        103
+      ]
+    },
+    "Secure Isolation State (SIS)": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        71,
+        107
+      ]
+    },
+    "Secure Isolation State": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        71,
+        107
+      ]
+    },
+    "SIS": {
+      "n": 10,
+      "n_including_compounds": 13,
+      "lines": [
+        49,
+        71,
+        104,
+        107
+      ]
+    },
+    "Externe Ebene": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        49,
+        72,
+        108
+      ]
+    },
+    "Externen Ebene": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        49,
+        53,
+        72,
+        106,
+        108
+      ]
+    },
+    "Risse": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        49,
+        53,
+        104,
+        106
+      ]
+    },
+    "Systeminstabilität": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        106
+      ]
+    },
+    "Systemkohärenz": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        40,
+        44,
+        49,
+        85,
+        97,
+        105
+      ]
+    },
+    "Kern-Welten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49
+      ]
+    },
+    "simulierten Kern-Welten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49
+      ]
+    },
+    "simulierten Welten": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        35,
+        49,
+        88
+      ]
+    },
+    "Hypervisor-Schicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Funktionale Zonen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Mnemosynes Archive": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "LogOS' Analysekerne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Cerberus' Grenzknoten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Kairos' Potenzialfelder": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Sophias Synthese-Hubs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Potenzialfelder": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        49,
+        105
+      ]
+    },
+    "Nullraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Umgebungsordnung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        49
+      ]
+    },
+    "Protokolldurchsetzung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49
+      ]
+    },
+    "Protokollausführung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49
+      ]
+    },
+    "Guardian-Manifestation": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        99,
+        103
+      ]
+    },
+    "Zero Trust Architecture (ZTA)": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        49
+      ]
+    },
+    "ZTA": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        49,
+        81,
+        89
+      ]
+    },
+    "Self-Sovereign Identity (SSI)": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        155,
+        160
+      ]
+    },
+    "SSI": {
+      "n": 7,
+      "n_including_compounds": 9,
+      "lines": [
+        49,
+        81,
+        89,
+        155,
+        157,
+        160
+      ]
+    },
+    "Kybernetik": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49
+      ]
+    },
+    "Spieltheorie": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        77,
+        85
+      ]
+    },
+    "Nash-Gleichgewicht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Mechanism Design": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Linked Views": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        86
+      ]
+    },
+    "DNSSEC": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        49,
+        89,
+        145,
+        146,
+        192
+      ]
+    },
+    "RPKI": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        49,
+        89,
+        148,
+        149,
+        193,
+        194
+      ]
+    },
+    "C2PA": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        49,
+        152,
+        153
+      ]
+    },
+    "S/MIME": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        49,
+        150,
+        151
+      ]
+    }
+  }
+}

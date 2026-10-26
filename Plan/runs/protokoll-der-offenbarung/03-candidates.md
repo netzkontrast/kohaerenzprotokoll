@@ -1,0 +1,48 @@
+written_by: document-reader subagent (Sonnet), 2026-10-21, while reading, before any count
+
+The document is an album concept: fourteen song entries, each with an introductory prose, lyrics with sound cues and a style description for a music generator. Part names in the lyrics are mostly earlier names and are not listed. The list holds the world's places and objects, the document's own section titles and the labels of its voices.
+
+- Bunker
+- Bunkers
+- Eingangsraum
+- Kontrollraum
+- Vestibül
+- Riss
+- Risse
+- Speicherbank
+- Systemkerne
+- Matrix
+- Siegel
+- Das System
+- Systemstimme
+- Systemstimmen
+- Kollektivstimme
+- Anteile
+- Anteilen
+- KERN-EINHEIT
+- KERNFRAGMENT
+- Kael-System-Core
+- Argus
+- Kiko
+- Lia
+- Protokollbeginn
+- Logbucheintrag
+- Kernschmelze
+- Abstiegsprotokoll
+- Systemfehler
+- Weichenstellung
+- SWITCH-PROTOKOLL
+- Direktive
+- Übermittlung
+- Kinderstimmen-Archiv
+- Materielle Zeugen
+- Mosaik der Stimmen
+- Logik der Emotion
+- Sektion Trauma
+- Chronik der Entfremdung
+- Erste Risse
+- Dystopian Future Synth
+- Clear Twist
+- Schutzmechanismen
+- Dissoziationsstruktur
+- Latenz

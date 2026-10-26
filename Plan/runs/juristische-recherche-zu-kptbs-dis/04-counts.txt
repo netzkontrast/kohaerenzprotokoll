@@ -1,0 +1,25 @@
+# counts for 13 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  kPTBS                            79 word    84 in   [15, 21, 23, 27, 36, 77]
+                                    1      as kPTBS-Diagnose
+  PTBS                             36 word   121 in   [15, 21, 23, 27, 36, 56]  <-- substring
+                                    1      as PTBS-Diagnose
+  DIS                              65 word    66 in   [15, 21, 23, 27, 77, 82]
+  DSO                              14 word    17 in   [23, 77, 86, 161, 162, 163]
+  ICD-11                           47 word    50 in   [17, 23, 36, 86, 92, 110]
+                                    2      as ICD-11-Kriterien
+  Störungen der Selbstorganisation    9 word     9 in   [23, 77, 86, 92, 161, 162]
+  Psychotraumatologie               4 word     4 in   [77, 84, 289]
+  Dissoziation                      5 word    10 in   [77, 165, 194, 195, 200, 309]
+                                    5      as Dissoziation-Forum
+                                    3      as dissoziation-forum
+  Identitätswechsel                 6 word     7 in   [93, 165, 195, 197, 198, 202]
+                                    1      as Identitätswechseln
+  Verdecktheit                      4 word     4 in   [185, 189, 307, 311]
+  Chronizität                      16 word    16 in   [21, 65, 66, 123, 127, 128]
+  Multimorbidität                  15 word    15 in   [15, 19, 42, 43, 95, 115]
+  Synergieeffekte                   7 word    18 in   [19, 42, 45, 115, 119, 214]  <-- substring
+                                   11      as Synergieeffekten

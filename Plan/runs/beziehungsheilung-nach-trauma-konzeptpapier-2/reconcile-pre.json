@@ -1,0 +1,380 @@
+{
+  "document": "beziehungsheilung-nach-trauma-konzeptpapier-2",
+  "step": "reconcile-pre",
+  "at": "2026-10-21",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-21",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 74,
+  "decisions": 66,
+  "same_surface": {
+    "trigger": [
+      "Der Trigger",
+      "Trigger"
+    ]
+  },
+  "decided_mechanically": 56,
+  "needs_judgement": 10,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [],
+    "new_term": [
+      {
+        "candidate": "Walking on Both Sides"
+      },
+      {
+        "candidate": "Das Danach"
+      },
+      {
+        "candidate": "Das Paradox"
+      },
+      {
+        "candidate": "Der Reparaturversuch"
+      },
+      {
+        "candidate": "Seiltanz"
+      },
+      {
+        "candidate": "Beziehungs-Labyrinth"
+      },
+      {
+        "candidate": "Wendepunkt (Positiv)"
+      },
+      {
+        "candidate": "Konflikt"
+      },
+      {
+        "candidate": "Teufelskreis"
+      },
+      {
+        "candidate": "Ich-Position"
+      },
+      {
+        "candidate": "Tabula Rasa"
+      },
+      {
+        "candidate": "Blank Slate"
+      },
+      {
+        "candidate": "Heldenreise"
+      },
+      {
+        "candidate": "Attachment Injury Resolution Model"
+      },
+      {
+        "candidate": "AIRM"
+      },
+      {
+        "candidate": "Emotionsfokussierte Paartherapie"
+      },
+      {
+        "candidate": "Traumasensible Paartherapie"
+      },
+      {
+        "candidate": "EFT"
+      },
+      {
+        "candidate": "TSPT"
+      },
+      {
+        "candidate": "Trauma-Reinszenierung"
+      },
+      {
+        "candidate": "negativen Interaktionszyklen"
+      },
+      {
+        "candidate": "Forderungs-Rückzugs-Muster"
+      },
+      {
+        "candidate": "Verfolger-Distanzierer-Dynamik"
+      },
+      {
+        "candidate": "Fusion"
+      },
+      {
+        "candidate": "emotionaler Cut-off"
+      },
+      {
+        "candidate": "Enmeshment"
+      },
+      {
+        "candidate": "Interdependenz"
+      },
+      {
+        "candidate": "Co-Abhängigkeit"
+      },
+      {
+        "candidate": "Fawn Response"
+      },
+      {
+        "candidate": "Parentifizierung"
+      },
+      {
+        "candidate": "Derealisation"
+      },
+      {
+        "candidate": "Identitätsalteration"
+      },
+      {
+        "candidate": "K-PTBS"
+      },
+      {
+        "candidate": "Bindungswippe"
+      },
+      {
+        "candidate": "Crucible Approach"
+      },
+      {
+        "candidate": "Vier Punkten der Balance"
+      },
+      {
+        "candidate": "Solid Flexible Self"
+      },
+      {
+        "candidate": "Quiet Mind – Calm Heart"
+      },
+      {
+        "candidate": "Grounded Responding"
+      },
+      {
+        "candidate": "Fundiertes Reagieren"
+      },
+      {
+        "candidate": "Meaningful Endurance"
+      },
+      {
+        "candidate": "Sinnhaftes Ausharren"
+      },
+      {
+        "candidate": "Der Schatten in Beziehungen"
+      },
+      {
+        "candidate": "Verwundeter Heiler"
+      },
+      {
+        "candidate": "Fürsorger"
+      },
+      {
+        "candidate": "Transformative Relationship Events"
+      },
+      {
+        "candidate": "TREs"
+      },
+      {
+        "candidate": "Narrative Phänomenologie"
+      },
+      {
+        "candidate": "Co-Kreations-Narrativ"
+      },
+      {
+        "candidate": "Misattunement"
+      },
+      {
+        "candidate": "Hypervigilanz"
+      },
+      {
+        "candidate": "Schmelztiegel"
+      },
+      {
+        "candidate": "Selbstvalidierung"
+      },
+      {
+        "candidate": "Co-Regulationsfähigkeiten"
+      },
+      {
+        "candidate": "Bowensche Familientherapie"
+      },
+      {
+        "candidate": "Ruhiger Geist – Ruhiges Herz"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Prelude  /  Preludes",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Der Trigger  /  Trauma-Trigger",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Bindungsverletzung  /  Bindungsverletzungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Differenzierung des Selbst  /  Differenzierung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Dissoziation  /  Dissoziationsepisode",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "korrigierende emotionale Erfahrung  /  korrigierende emotionale Erfahrungen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anima/Animus  /  Anima",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anima/Animus  /  Animus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Individuation  /  Machtkampf-/Individuationsphase",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Depersonalisation",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 271,
+      "already_read": false
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 17,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

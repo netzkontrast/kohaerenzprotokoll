@@ -1,0 +1,14 @@
+# ki-roman-assistent-web-app-entwurf
+  lines                238  (frontmatter ends at 9)
+  body words           4371
+  headings             15   bold-only lines 5
+  table rows           17   code fences 0
+  question marks       8
+  backslash escapes    38
+  typographic marks    54   ascii quotes 38
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    47
+  repeated labels      none
+  longest line         1030 chars
+

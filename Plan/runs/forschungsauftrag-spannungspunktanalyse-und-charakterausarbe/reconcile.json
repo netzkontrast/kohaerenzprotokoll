@@ -1,0 +1,223 @@
+{
+  "document": "forschungsauftrag-spannungspunktanalyse-und-charakterausarbe",
+  "drive_id": "1Wl83N2BDD-y8BzPM0ZauAxeH1JHOs9J4jma--mpABzg",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; the candidate `Alex` dropped and recounted by the session because its count row printed an earlier name; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-545/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 59,
+    "decided_by_lookup": 50,
+    "needs_judgement": 9
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A research brief profiling eleven parts of Kael's system under TSDP: each part's type, role and notes, AEGIS as their counterpart, Juna/V as their secure bond and the Kernwelten by their codes went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        35,
+        53,
+        197,
+        225
+      ],
+      "attribution": "",
+      "note": "AEGIS as the parts' counterpart"
+    },
+    {
+      "page": "alex",
+      "lines": [
+        151,
+        161
+      ],
+      "attribution": "",
+      "note": "a protector ANP and crisis manager"
+    },
+    {
+      "page": "argus",
+      "lines": [
+        205,
+        207,
+        215
+      ],
+      "attribution": "",
+      "note": "a metacognitive part, the watchful eye"
+    },
+    {
+      "page": "cache-kohaerenz",
+      "lines": [
+        35
+      ],
+      "attribution": "",
+      "note": "the problem clearest in the host"
+    },
+    {
+      "page": "isabelle",
+      "lines": [
+        125
+      ],
+      "attribution": "",
+      "note": "control as a survival strategy"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        89,
+        179,
+        226
+      ],
+      "attribution": "",
+      "note": "Juna/V as the parts' secure bond"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        25,
+        27,
+        35
+      ],
+      "attribution": "",
+      "note": "the host, AEGIS's primary interaction partner"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        197,
+        224
+      ],
+      "attribution": "",
+      "note": "the Kernwelten by their codes"
+    },
+    {
+      "page": "kiko",
+      "lines": [
+        79,
+        81,
+        89
+      ],
+      "attribution": "",
+      "note": "a child-EP carrying early trauma feelings"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        187,
+        189,
+        197
+      ],
+      "attribution": "",
+      "note": "the rationalist who embodies AEGIS's way"
+    },
+    {
+      "page": "lia",
+      "lines": [
+        97,
+        99
+      ],
+      "attribution": "",
+      "note": "a playful child-EP of bonding ambivalence"
+    },
+    {
+      "page": "moros",
+      "lines": [
+        133,
+        143
+      ],
+      "attribution": "",
+      "note": "freeze, surrender and collapse"
+    },
+    {
+      "page": "nyx",
+      "lines": [
+        61,
+        63,
+        71
+      ],
+      "attribution": "",
+      "note": "a fight-oriented EP holding the trauma rage"
+    },
+    {
+      "page": "rhys",
+      "lines": [
+        169,
+        171,
+        179
+      ],
+      "attribution": "",
+      "note": "the caring connector"
+    },
+    {
+      "page": "selene",
+      "lines": [
+        43,
+        45,
+        53
+      ],
+      "attribution": "",
+      "note": "memory protection with integration potential"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        15
+      ],
+      "attribution": "",
+      "note": "the brief's frame"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "each of the eleven profiles is read on its part's page from its field lines; the profile headings give earlier names and are not cited; `Juna/V` read on juna as the brief writes it; the world codes are not expanded; Isabelle's profile is read only from its note line; the title is an occurrence of `Kohärenz` (J9)",
+  "sweep": [
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 147,
+      "decision": "reading",
+      "why": "the profile heading gives an earlier name and is not cited; read from L151–L161"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "alex",
+      "surface": "Alex",
+      "line": 147,
+      "decision": "reading",
+      "why": "the profile heading gives an earlier name and is not cited; read from L151–L161"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    }
+  ],
+  "not_promoted": [
+    "ANP, EP, Kind-EP, Paradoxon X, the PP codes, the field labels, Juna/V as a surface, the lenses"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

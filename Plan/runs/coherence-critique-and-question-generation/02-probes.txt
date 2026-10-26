@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      50
+  backslash escapes      118
+  typographic marks      35
+  ascii quotes           674
+
+# inflection families -- one term, several surfaces
+  syste    System, Systematisiert, Systematisierung, Systemfehler, Systemischer, Systems
+  überl    Überleben, Überlebens, Überlebenskampf, Überlebenslogik, Überlebenslösung
+  autor    Autor, Autorenabsicht, Autorennotiz, Autors
+  fragm    Fragment, Fragmentation, Fragmente, Fragmentierung
+  kohär    Kohärenz, Kohärenzanalyse, Kohärenzpunkt, Kohärenztheorie
+  simul    Simulation, Simulationshypothese, Simulationsumgebung, Simulationsumgebungen
+  struk    Struktur, Strukturanalyse, Strukturanpassung, Strukturelle
+  analy    Analyse, Analysen, Analysis
+  bewus    Bewusstsein, Bewusstseins, Bewusstseinsfragments
+  diese    Diese, Dieser, Dieses
+  inter    Internal, Interrogating, Interrogative
+  perfo    Performative, Performativen, Performatives
+  probl    Problem, Probleme, Problems
+  reali    Realität, Realitäten, Realitätsmodell
+  schre    Schrecken, Schreibblockaden, Schreibprozess
+  signa    Signal, Signatur, Signaturen
+  unvol    Unvollständigkeit, Unvollständigkeitssatz, Unvollständigkeitssätzen
+  algor    Algorithmische, Algorithmischer
+  antag    Antagonist, Antagonisten
+  autho    Author, Authors
+  bedro    Bedrohung, Bedrohungen
+  bogen    Bogen, Bogens
+  chara    Character, Charakter
+  defin    Definition, Definitionen
+  dokum    Dokument, Dokumente
+
+# substring pairs -- never one term, often merged by accident
+  Code < Codes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Echo < Echoschrei
+  Eine < Seine
+  Ende < Abschließende
+  Form < Format
+  Form < Formen
+  Form < Performative
+  Form < Performativen
+  Form < Performatives
+  Form < Transformation
+  Form < Informationsfragmentierung
+  Jede < Jedes
+  Kael < Kaels
+  Kern < Kernprinzip
+  Main < Domain
+  Meta < Metapher

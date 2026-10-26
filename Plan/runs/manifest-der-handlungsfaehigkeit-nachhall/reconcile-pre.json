@@ -1,0 +1,306 @@
+{
+  "document": "manifest-der-handlungsfaehigkeit-nachhall",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 38,
+  "decisions": 35,
+  "same_surface": {},
+  "decided_mechanically": 28,
+  "needs_judgement": 7,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Multiplizität",
+        "page": "multiplizitaet",
+        "readings": 186
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 83
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Nachhall"
+      },
+      {
+        "candidate": "Resonanzraum"
+      },
+      {
+        "candidate": "Ein Protokoll des Bleibens"
+      },
+      {
+        "candidate": "Agency"
+      },
+      {
+        "candidate": "Vielheit"
+      },
+      {
+        "candidate": "Zersplitterung"
+      },
+      {
+        "candidate": "Rekursion"
+      },
+      {
+        "candidate": "Konstellation"
+      },
+      {
+        "candidate": "Funktion ist keine Maske"
+      },
+      {
+        "candidate": "Wegen der Unterschiede"
+      },
+      {
+        "candidate": "Resonanzboden"
+      },
+      {
+        "candidate": "Illusion von Einheit"
+      },
+      {
+        "candidate": "Verantwortung"
+      },
+      {
+        "candidate": "Struktur in Bewegung"
+      },
+      {
+        "candidate": "Katharsis"
+      },
+      {
+        "candidate": "Gleichgewicht"
+      },
+      {
+        "candidate": "Symmetrie"
+      },
+      {
+        "candidate": "Narrator"
+      },
+      {
+        "candidate": "Suno"
+      },
+      {
+        "candidate": "Conceptual Reflection"
+      },
+      {
+        "candidate": "Music Style Description"
+      },
+      {
+        "candidate": "We Begin Here"
+      },
+      {
+        "candidate": "We Do Not Owe You Coherence"
+      },
+      {
+        "candidate": "Function Is Not Mask"
+      },
+      {
+        "candidate": "You Will See Yourself"
+      },
+      {
+        "candidate": "Toward a Shared Future"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Manifest der Handlungsfähigkeit  /  Handlungsfähigkeit",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Präsenz  /  Protokoll der Präsenz",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Verpflichtung  /  Funktion der Verpflichtung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Weigerung  /  Architektur der Weigerung",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kern",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "dualkerneltheoriedkt",
+            "page": "dkt"
+          },
+          {
+            "surface": "kernwelt",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kernwelten",
+            "page": "kern-welten"
+          },
+          {
+            "surface": "kohaerenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernel",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "koharenzkernelk1",
+            "page": "kohaerenz-kernel"
+          },
+          {
+            "surface": "kollapskernel",
+            "page": "kollaps-kernel"
+          },
+          {
+            "surface": "kollapskernelk0",
+            "page": "kollaps-kernel"
+          }
+        ]
+      },
+      {
+        "candidate": "Präsenz",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "gartenderstillenprasenz",
+            "page": "garten-der-stillen-praesenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Integrität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "integritatvondatenstrukturen",
+            "page": "aegis-metriken"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

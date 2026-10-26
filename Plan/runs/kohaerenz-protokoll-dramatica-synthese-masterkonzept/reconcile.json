@@ -1,0 +1,92 @@
+{
+  "document": "kohaerenz-protokoll-dramatica-synthese-masterkonzept",
+  "drive_id": "1S_LbLJbYYLDVQ-qqfFbZ80SHWOOFrFLWDVmUQM1Krag",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; light pass at reconciliation; no readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 75,
+    "decisions": 76,
+    "decided_by_lookup": 61,
+    "needs_judgement": 15
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A dossier mapping the project onto a story-structure theory whose passages are mixed with personal and diagnostic material about a real person: read as a light pass, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "light pass (decision 028): the document mixes the novel with personal material about a real person; every term of the novel is an occurrence only; nothing harvested",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 229,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    },
+    {
+      "page": "kiko",
+      "surface": "Kiko",
+      "line": 147,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 17,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    },
+    {
+      "page": "lex",
+      "surface": "Lex",
+      "line": 119,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 21,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 55,
+      "decision": "occurrence",
+      "why": "light pass: personal material mixed with the novel; not harvested"
+    }
+  ],
+  "not_promoted": [
+    "everything: personal material is mixed with the novel"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

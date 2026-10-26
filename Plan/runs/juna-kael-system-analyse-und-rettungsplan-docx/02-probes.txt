@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      53
+  backslash escapes      4
+  typographic marks      40
+  ascii quotes           232
+
+# inflection families -- one term, several surfaces
+  syste    System, SystemArbeit, Systembalance, Systeme, Systemen, Systemfehler, Systemgleichgewichts, Systemidentität, Systemische, Systemkohärenz, Systemmitglieder, Systempflege, Systemrolle, Systemrollen, Systems, Systemstruktur, Systemtheoretisch, Systemtheorie, Systemtreffen, Systemverhaltens, Systemversagen
+  selbs    Selbstabwertung, Selbstakzeptanz, Selbstaufgabe, Selbstberuhigungsstrategien, Selbstfürsorge, Selbstkritik, Selbstliebe, Selbstmitgefühl, Selbstreflexion, Selbstregulation, Selbstschutz, Selbstschutzes, Selbstverantwortung, Selbstverständnis, Selbstvorwürfe, Selbstwert, Selbstwertgefühls, Selbstwirksamkeit, Selbstzweifel
+  traum    TRAUMAFOLGEST, Trauma, Traumaerinnerungen, Traumafolgestörungen, Traumaforschung, Traumaopfern, Traumapsychologie, Traumas, Traumasensible, Traumata, Traumatherapie, Traumatisch, Traumatisierung, Traumatisierungsgrade, Traumazentrum
+  bezie    Beziehung, Beziehungen, Beziehungsbasis, Beziehungsdynamik, Beziehungserfahrungen, Beziehungsform, Beziehungsfähigkeit, Beziehungsgestaltung, Beziehungskrise, Beziehungsmuster, Beziehungsstrategien
+  psych    Psychedelic, Psychiatrische, Psychoanalytische, Psychoedukation, Psychological, Psychologie, Psychologische, Psychology, Psychotherapeutische, Psychotherapie, Psychotherapy
+  inter    Interaktion, Interaktionen, Interaktionsmuster, Interdisziplinäre, Interessen, International, Interne, Internet, Intervention, Interventionen
+  vertr    Vertrauen, Vertrauens, Vertrauensbruch, Vertrauensbruchs, Vertrauensbrüche, Vertrauensbrüchen, Vertrauensfrage, Vertrauensverlust, Vertrauensverlustes
+  wiede    Wieder, Wiederaufbau, Wiedererkennen, Wiedererkennens, Wiedererweckung, Wiedergutmachung, Wiederherstellung, Wiederholung, Wiedervereinigung
+  bindu    Bindung, Bindungs, Bindungsbedürfnisse, Bindungsstil, Bindungsstörungen, Bindungstheorie, Bindungstypen, Bindungsängsten
+  krise    Krise, Krisen, Krisenbeiträge, Krisenbewältigung, Krisenbeziehungen, Krisendynamik, Krisendynamiken, Krisenreaktion
+  schul    Schuld, Schuldabwehr, Schuldgefühle, Schuldgefühlen, Schuldigen, Schuldvermeidung, Schuldzuweisung, Schuldzuweisungen
+  verst    Verstanden, Verstecken, Verstrickung, Verständnis, Verständnisses, Verstärkter, Verstärktes, Verstärkung
+  verän    Veränderung, Veränderungen, Veränderungsarbeit, Veränderungsbemühungen, Veränderungsbereitschaft, Veränderungsprozess, Veränderungsprozessen, Veränderungsprozesses
+  allta    Alltags, Alltagsbewältigung, Alltagsfassade, Alltagsfunktionen, Alltagsfunktionieren, Alltagsleben, Alltagslebens
+  persö    Persönlichkeit, Persönlichkeitsanteile, Persönlichkeitsbildung, Persönlichkeitsstruktur, Persönlichkeitsstörung, Persönlichkeitsveränderung, Persönlichkeitszustände
+  disso    DISSOCIATION, Dissociation, Dissociative, Dissoziation, Dissoziative, Dissoziativen
+  entsc    Entscheidung, Entscheidungen, Entscheidungsfindung, Entschlossenheit, Entschuldigung, Entschuldigungsrituale
+  ident    Identifikation, Identifizierung, Identitaetsstoerung, Identity, Identitätsstruktur, Identitätsstörung
+  motiv    Motiv, Motivation, Motivationen, Motivatoren, Motive, Motiven
+  trans    Transcendence, Transcript, Transformation, Transparenz, Transzendenz, Transzendenzfähigkeit
+  verha    Verhalten, Verhaltens, Verhaltensmuster, Verhaltensweisen, Verhaltensänderung, Verhaltensänderungen
+  abweh    Abwehr, Abwehrmechanismen, Abwehrmechanismus, Abwehrprozesse, Abwehrstrategien
+  antei    Anteil, Anteile, Anteilen, Anteils, Anteilsname
+  funkt    Funktionalität, Funktionelle, Funktionen, Funktionieren, Funktionsfähigkeit
+  gesch    Geschehen, Geschehene, Geschichte, Geschichten, Geschick
+
+# substring pairs -- never one term, often merged by accident
+  Alle < Parallel
+  Alle < Alleinsein
+  Alle < Challenges
+  Bild < Fortbildung
+  Bild < Persönlichkeitsbildung
+  Bild < Persoenlichkeitsbildung
+  Bund < Verbundenheit
+  Call < Medically
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Dies < Studies
+  EINE < Eine
+  EINE < KEINE
+  EINE < Keine
+  EINE < Weinen
+  EINE < Allgemeine
+  EINE < Einerseits
+  Eine < KEINE
+  Eine < Keine

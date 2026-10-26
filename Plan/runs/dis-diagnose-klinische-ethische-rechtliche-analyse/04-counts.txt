@@ -1,0 +1,22 @@
+# counts for 13 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  DIS                              75 word    94 in   [11, 15, 17, 19, 23, 25]
+  Dissoziative Identitätsstörung   11 word    11 in   [11, 15, 23, 27, 37, 39]
+  Partielle DIS                     2 word     2 in   [37, 48]
+  Switch                            1 word     1 in   [44]
+  Anteile                           1 word     2 in   [106, 110]
+                                    1      as Anteilen
+  Pluralpronomen                    3 word     3 in   [106, 110, 112]
+  SCID-D                            8 word     8 in   [73, 88, 100, 102, 257, 275]
+  DES-II                            2 word     2 in   [73, 100]
+  FDS                               2 word     2 in   [100, 104]
+  ISSTD                            12 word    16 in   [15, 27, 64, 66, 68, 71]
+                                    3      as ISSTD-Leitlinien
+                                    1      as ISSTD-Betonung
+  GdB                               7 word    13 in   [202, 204, 208, 210, 212, 214]
+  Dokumentationspflicht             6 word     6 in   [15, 19, 158, 192, 240, 298]
+  Sorgfaltspflicht                 12 word    12 in   [15, 19, 134, 138, 142, 146]
+                                    1      as sorgfaltspflicht-behandlungsfehler

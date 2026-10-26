@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      92
+  backslash escapes      150
+  typographic marks      169
+  ascii quotes           64
+
+# inflection families -- one term, several surfaces
+  stimm    Stimm, Stimmbeschreibungen, Stimme, Stimmen, Stimmigkeit, Stimmungsbeschreibungen, Stimmzuweisungen
+  schut    Schutt, Schutz, Schutzanteile, Schutzfunktion, Schutzmechanismen, Schutzmustern
+  traum    Trauma, Traumaerinnerung, Traumaheilung, Traumakonfrontation, Traumas, Traumaverarbeitung
+  absch    Abschirmung, Abschließende, Abschnitt, Abschnitte, Abschnitten
+  promp    Prompt, Promptfragment, Prompting, Promptings, Prompts
+  überl    Überleben, Überlebens, Überlebensleistung, Überlebensstrategien, Überlegungen
+  album    Album, Albumkontext, Albumkontexte, Albumreihe
+  allta    Alltag, Alltags, Alltagsanteil, Alltagslebens
+  antei    Anteil, Anteile, Anteilen, Anteils
+  effek    Effekt, Effekte, Effekten, Effektive
+  hoffn    Hoffnung, Hoffnungs, Hoffnungslosigkeit, Hoffnungsvoller
+  kontr    Kontrapunkt, Kontrast, Kontraste, Kontrolle
+  momen    Moment, Momente, Momenten, Moments
+  musik    Musik, Musikgeneratoren, Musikgenerierung, Musikstücke
+  unter    Untermalung, Unterschiedliche, Unterstützt, Unterstützung
+  besch    Beschreibungen, Beschützer, Beschützers
+  bewus    Bewusstheit, Bewusstsein, Bewusstseins
+  dialo    Dialog, Dialoge, Dialogs
+  diese    Diese, Dieser, Dieses
+  ergeb    Ergebnis, Ergebnisse, Ergebnissen
+  führu    Führung, Führungsinstanz, Führungskompetenz
+  harmo    Harmonie, Harmonien, Harmonik
+  heilu    Heilung, Heilungsprozess, Heilungsreise
+  ident    Identität, Identitätsstörung, Identitätszustände
+  instr    Instrumente, Instrumentierung, Instrumentierungs
+
+# substring pairs -- never one term, often merged by accident
+  Atem < Atemzug
+  Chor < Chorus
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Echo < Echos
+  Eine < Verfeinerung
+  Ende < Strafenden
+  Ende < Wendepunkt
+  Ende < Abschließende
+  Fakt < Fakten
+  Form < Formulierungen
+  Gift < Gifts
+  Idee < Ideen
+  Kern < Kerntrauma
+  Kind < Kindes
+  Kind < Kinderstimme
+  Leid < Leidens
+  Lied < Liedes
+  Lied < Bindeglied

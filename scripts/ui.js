@@ -76,6 +76,7 @@ class Component extends DCLogic {
 
   go(screen, extra) {
     const patch = { screen: screen, q: '' };
+    if (extra && 'page' in extra && !('wth' in extra)) patch.wth = null; // a selected thought belongs to its page
     if (extra) Object.keys(extra).forEach((k) => { patch[k] = extra[k]; });
     this.setState(patch);
   }
@@ -93,7 +94,7 @@ class Component extends DCLogic {
     const e = encodeURIComponent;
     let tail = '';
     if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
-    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s) + (s.wview ? '/' + s.wview : '');
+    else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s) + (s.wth ? '/g/' + e(s.wth) : s.wview ? '/' + s.wview : '');
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
     else if (screen === 'questions' && s.qt === 'reading') tail = 'reading' + (s.rqi ? '/' + e(s.rqi) : s.rt ? '/' + e(s.rt) : '');
     else if (screen === 'questions' && s.ques != null) tail = s.ques === -1 ? 'agenda' : D.questions[s.ques].id;
@@ -105,7 +106,7 @@ class Component extends DCLogic {
       tail = n.k + '/' + e(id);
     } else if (screen === 'manuscript') {
       tail = s.mtab || 'overview';
-      if (s.msel) tail += '/' + e(s.msel);
+      if (s.msel) tail += '/' + (s.mtab === 'schreibtisch' ? String(s.msel).split('/').map(e).join('/') : e(s.msel));
     } else if (screen === 'process') {
       const ptab = s.ptab || 'loop';
       tail = ptab;
@@ -122,9 +123,17 @@ class Component extends DCLogic {
     const parts = hash.slice(2).split('/').map((x) => { try { return decodeURIComponent(x); } catch (err) { return x; } });
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
-    const st = { screen: screen, q: '', page: null, wview: null, qt: null, ques: null, rqi: null, rt: '' };
+    const st = { screen: screen, q: '', page: null, wview: null, wth: null, qt: null, ques: null, rqi: null, rt: '' };
     if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
-    else if (screen === 'wiki' && parts[1]) { const i = at(D.pages, 's', parts[1]); if (i >= 0) { st.page = i; if (['term', 'readings', 'promotion'].includes(parts[2])) st.wview = parts[2]; } }
+    else if (screen === 'wiki' && parts[1]) {
+      const i = at(D.pages, 's', parts[1]);
+      st.wth = null;
+      if (i >= 0) {
+        st.page = i;
+        if (['term', 'gedanken', 'readings', 'promotion'].includes(parts[2])) st.wview = parts[2];
+        else if (parts[2] === 'g' && D.pages[i].th.some((t) => t.id === parts[3])) { st.wview = 'gedanken'; st.wth = parts[3]; }
+      }
+    }
     else if (screen === 'conflicts' && parts[1]) { const i = at(D.conflicts, 'id', parts[1]); if (i >= 0) st.conf = i; }
     else if (screen === 'questions' && parts[1]) {
       if (parts[1] === 'reading') { st.qt = 'reading'; st.rqi = null; st.rt = ''; if (D.readingById[parts[2]]) { st.rqi = parts[2]; st.rt = D.pages[D.readingById[parts[2]].owner].s; st.rqpage = Math.floor((+parts[2].slice(-3) - 1) / 25); st.rq = ''; st.rc = ''; st.rkind = ''; st.rstatus = ''; st.rmentions = false; } else if (at(D.pages, 's', parts[2]) >= 0) st.rt = parts[2]; return st; }
@@ -141,7 +150,8 @@ class Component extends DCLogic {
     } else if (screen === 'manuscript' && parts[1]) {
       if (this.novelTabs().some((t) => t[0] === parts[1])) {
         st.mtab = parts[1];
-        if (parts[2] && this.novelEntries(parts[1]).some((x) => x.key === parts[2])) st.msel = parts[2];
+        const key = parts[1] === 'schreibtisch' && parts[3] ? parts[2] + '/' + parts[3] : parts[2];
+        if (key && this.novelEntries(parts[1]).some((x) => x.key === key)) st.msel = key;
       }
     } else if (screen === 'process' && parts[1]) {
       st.ptab = parts[1];
@@ -161,6 +171,7 @@ class Component extends DCLogic {
       if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {}, psed: saved.psed || {} });
     } catch (err) { /* no storage: start empty */ }
     try { const notes = JSON.parse(window.localStorage.getItem('kp-reading-notes-v1') || '{}'); if (notes && typeof notes === 'object' && !Array.isArray(notes)) this.setState({ rnotes: notes }); } catch (err) { /* notes are optional */ }
+    try { const marks = JSON.parse(window.localStorage.getItem('kp-desk-marks-v1') || '{}'); if (marks && typeof marks === 'object' && !Array.isArray(marks)) this.setState({ dmarks: marks }); } catch (err) { /* marks are optional */ }
     this._onHash = () => {
       const st = this.unroute(window.location.hash);
       if (st && window.location.hash !== this.route()) { this._fromUrl = true; this.setState(st); }
@@ -397,6 +408,12 @@ class Component extends DCLogic {
     (rs || []).forEach((r) => {
       if (typeof r === 'string') { out.push({ isT: true, x: r }); return; }
       const t = r[0];
+      if (t === 'th') {
+        // a thought on a thought page: selects it, under its own address #/wiki/<slug>/g/<id>
+        if (flat) out.push({ isT: true, x: r[1] });
+        else out.push({ isL: true, x: r[1], go: () => this.setState({ wth: r[2], wview: 'gedanken' }) });
+        return;
+      }
       if (t === 'l') {
         const idx = r[2];
         if (flat) out.push({ isT: true, x: r[1] });
@@ -458,6 +475,37 @@ class Component extends DCLogic {
     return out;
   }
 
+  thoughtSecs(p, sel) {
+    // The thought page as sections by kind (fullread.KINDS); a selected thought first, with what it differs from.
+    const KINDS = [['kurz', 'Kurz'], ['decided', 'Was das Projekt entschieden hat'], ['definition', 'Was es ist'], ['function', 'Was es im Roman tut'],
+      ['mechanism', 'Wie es wirkt'], ['origin', 'Woher es kommt'], ['evolution', 'Wie sich das Bild verändert hat'], ['relation', 'Bezüge zu anderen Begriffen'],
+      ['differ', 'Wo die Quellen auseinandergehen'], ['prose', 'In der Prosa'], ['open', 'Offen']];
+    const STANCE = { asserts: '', proposes: ' schlägt vor', questions: ' fragt', rejects: ' verwirft', reports: ' berichtet' };
+    const D = this.kp();
+    const byId = {};
+    p.th.forEach((t) => { byId[t.id] = t; });
+    const item = (t) => {
+      const runs = [['th', t.id, t.id], ' [' + t.tag + '] ' + t.x];
+      // one reference chip per source, so a long list wraps between them on a narrow screen
+      if (t.src.length) { runs.push(' — '); t.src.forEach((x, j) => runs.push(j ? ' ' : '', ['r', [[x[0], 'L' + x[1] + STANCE[x[2]]]]])); }
+      t.inv.forEach((i) => runs.push(' · ', ['l', D.pages[i].t, i]));
+      if (t.dif.length) { runs.push(' · anders als '); t.dif.forEach((d, j) => runs.push(j ? ', ' : '', ['th', d, d])); }
+      if (t.from.length) { runs.push(' · aus '); t.from.forEach((d, j) => runs.push(j ? ', ' : '', ['th', d, d])); }
+      return runs;
+    };
+    const out = [];
+    const chosen = sel && byId[sel];
+    if (chosen) {
+      const related = chosen.dif.concat(p.th.filter((t) => t.dif.includes(chosen.id)).map((t) => t.id)).filter((x, i, a) => byId[x] && a.indexOf(x) === i);
+      out.push([['Gedanke ' + chosen.id], -1, '', [['ul', [item(chosen)]]].concat(related.length ? [['p', ['Steht in Spannung zu:']], ['ul', related.map((x) => item(byId[x]))]] : [])]);
+    }
+    KINDS.forEach(([k, title]) => {
+      const mine = p.th.filter((t) => t.k === k);
+      if (mine.length) out.push([[title + ' · ' + mine.length], -1, '', [['ul', mine.map(item)]]]);
+    });
+    return out;
+  }
+
   chip(x, kind) {
     const k = {
       ink: ['#1C1B18', '#FBFAF6', '#1C1B18'],
@@ -472,7 +520,7 @@ class Component extends DCLogic {
   // list, the reader and the address all read the same thing. Only canon and working drafts: canon is
   // what Manuscript/kanon.md lists; a wiki page is a link out, never content.
   novelTabs() {
-    return [['overview', 'Overview'], ['chapters', 'Chapters'], ['cast', 'Cast'], ['world', 'World'], ['plot', 'Plot'], ['decisions', 'Decisions'], ['findings', 'Findings']];
+    return [['overview', 'Overview'], ['schreibtisch', 'Schreibtisch'], ['chapters', 'Chapters'], ['cast', 'Cast'], ['world', 'World'], ['plot', 'Plot'], ['decisions', 'Decisions'], ['findings', 'Findings']];
   }
 
   novelDecided(w) {
@@ -515,6 +563,17 @@ class Component extends DCLogic {
       const done = all.filter((o) => this.novelDecided(o.w));
       if (open.length) { out.push({ group: 'Weichen — open' }); open.forEach((o) => out.push({ key: o.w.id, kind: 'weiche', ref: o.i })); }
       if (done.length) { out.push({ group: 'Weichen — decided' }); done.forEach((o) => out.push({ key: o.w.id, kind: 'weiche', ref: o.i })); }
+    } else if (tab === 'schreibtisch') {
+      const K = N.desk;
+      out.push({ group: 'Das Register' });
+      out.push({ key: 'regeln', kind: 'rules', ref: 0 });
+      const begun = K.chapters.filter((c) => c.briefing || c.scenes.length);
+      const rest = K.chapters.filter((c) => !(c.briefing || c.scenes.length));
+      if (begun.length) {
+        out.push({ group: 'Begonnen — Briefing oder Szenen' });
+        begun.forEach((c) => { out.push({ key: c.id, kind: 'desk', ref: c.n }); c.scenes.forEach((sc) => out.push({ key: c.id + '/szene-' + sc.k, kind: 'scene', ref: c.n, k: sc.k })); });
+      }
+      if (rest.length) { out.push({ group: 'Noch nicht begonnen' }); rest.forEach((c) => out.push({ key: c.id, kind: 'desk', ref: c.n })); }
     } else if (tab === 'findings') {
       const idx = N.findings.map((x, j) => j);
       const own = idx.filter((j) => !N.findings[j].legacy);
@@ -543,6 +602,32 @@ class Component extends DCLogic {
     if (!this.routable()) return;
     try { window.localStorage.setItem('kp-reading-notes-v1', JSON.stringify(next)); this.setState({ noteStorage: 'Im Browser gespeichert' }); }
     catch (err) { this.setState({ noteStorage: 'Speichern im Browser fehlgeschlagen. Bitte exportieren.' }); }
+  }
+
+  // The Schreibtisch's marks per paragraph (decision 030, the author's answer 9): „passt / Frage / falsch“ and a
+  // note, kept in this browser only and exported as one text the author pastes into a session. No mark approves
+  // anything — approval is the author's words through manuscript.py approve.
+  saveMark(f, i, patch) {
+    const all = Object.assign({}, this.st().dmarks || {});
+    const scene = Object.assign({}, all[f] || {});
+    const entry = Object.assign({}, scene[i] || {}, patch);
+    if (!entry.note && (!entry.m || entry.m === 'none')) delete scene[i]; else scene[i] = entry;
+    if (Object.keys(scene).length) all[f] = scene; else delete all[f];
+    this.setState({ dmarks: all, markStorage: 'Nur für diesen Besuch gespeichert' });
+    if (!this.routable()) return;
+    try { window.localStorage.setItem('kp-desk-marks-v1', JSON.stringify(all)); this.setState({ markStorage: 'Im Browser gespeichert' }); }
+    catch (err) { this.setState({ markStorage: 'Speichern im Browser fehlgeschlagen. Bitte exportieren.' }); }
+  }
+
+  marksExport(ch, sc, marks) {
+    const D = this.kp();
+    const mine = (marks || {})[sc.f] || {};
+    const LABEL = { passt: 'passt', frage: 'Frage', falsch: 'falsch' };
+    const rows = sc.paras.map((x, i) => ({ i: i, x: x, m: mine[i] })).filter((r) => r.m && (r.m.m in LABEL || r.m.note));
+    const head = '# Kap ' + ch.n + ' Szene ' + sc.k + (sc.t ? ' — ' + sc.t : '') + ' — Markierungen\n\nStand: ' + D.meta.commit + ' · Datei: ' + sc.f + ' · Status: ' + sc.status + ' · ' + sc.w + ' Wörter\n\n';
+    const body = rows.length ? rows.map((r) => '## ¶' + (r.i + 1) + ' — ' + (LABEL[r.m.m] || 'Notiz') + '\n\n> ' + r.x.split('\n')[0].slice(0, 160) + (r.x.length > 160 ? ' …' : '') + '\n\n' + (r.m.note ? r.m.note + '\n\n' : '')).join('') : 'Keine Markierung.\n\n';
+    const tail = 'Markierungen sind keine Freigabe. Die Freigabe sind deine Worte:\n\n    python3 scripts/manuscript.py approve ' + ch.id + ' ' + sc.k + ' --words "…"\n';
+    return head + body + tail;
   }
 
   readingExport(rows, notes) {
@@ -856,6 +941,7 @@ class Component extends DCLogic {
     const cl = { list: [], head: '', sub: '' };
     const cr = { hasNp: false, q: [], pos: [], decided: false, status: '', pages: [], pagesN: 0, qs: [], hasQs: false, path: '', first: '', src: '' };
     const nv = { tabs: [], isOverview: false, tiles: [] };
+    const desk = { on: false, isRules: false, isChapter: false, isScene: false, rules: [], hasRules: false, weichen: [], hasWeichen: false, actions: [], hasActions: false, paras: [], hasParas: false, nMarks: 0, storage: '', export: null, copy: null, copyLabel: '', cmd: '' };
     const workshop = is.workshop ? this.questionWorkshop() : { tabs: this.questionTabs(), active: false };
     const ql = { list: [], agenda: { bg: 'transparent', bd: 'transparent', go: null, cur: undefined } };
     const qr = { isQ: false, isAgenda: false, raised: [], raisedN: 0, docs: [], docsN: 0, conf: [], hasConf: false, path: '', decided: [], counts: '', intro: [] };
@@ -874,6 +960,7 @@ class Component extends DCLogic {
       const idx = D.pageOrder.filter((i) => {
         const p = D.pages[i];
         if (wf === 'terms' && !p.tp) return false;
+        if (wf === 'read' && !p.th.length) return false;
         if (wf === 'reviewed' && p.st !== 'reviewed') return false;
         if (wf === 'candidates' && p.st === 'reviewed') return false;
         if (wf === 'approved' && p.tp !== 'approved') return false;
@@ -889,10 +976,10 @@ class Component extends DCLogic {
         const p = D.pages[i];
         const on = i === sel;
         return {
-          t: p.t, meta: (p.tp ? 'Begriffsseite · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.st === 'reviewed' ? 'Promoviert · Lesarten geprüft' : 'Kandidat') + ' · ' + p.rd + ' Lesarten' + (p.waiting ? ' · neue Lesarten' : ''),
+          t: p.t, meta: (p.th.length ? 'Gedankenseite · ' + p.th.length + ' Gedanken · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.tp ? 'Begriffsseite · ' + (p.tp === 'approved' ? 'bestätigt' : 'Entwurf') : p.st === 'reviewed' ? 'Promoviert · Lesarten geprüft' : 'Kandidat') + ' · ' + p.rd + ' Lesarten' + (p.waiting ? ' · neue Lesarten' : ''),
           hasC: p.cx.length > 0, cids: p.cx.map((c) => D.conflicts[c].id).join(' '),
           bg: on ? '#FBFAF6' : 'transparent', bd: on ? '#C9C0AC' : 'transparent', cur: on ? 'true' : undefined,
-          go: () => this.setState({ page: i, wview: null }),
+          go: () => this.setState({ page: i, wview: null, wth: null }),
         };
       });
       w.empty = w.list.length === 0;
@@ -905,6 +992,7 @@ class Component extends DCLogic {
       w.filters = [
         fl('all', 'Alle', D.pages.length),
         fl('terms', 'Begriffsseiten', cnt((p) => !!p.tp)),
+        fl('read', 'Ganz gelesen', cnt((p) => p.th.length > 0)),
         fl('reviewed', 'Promoviert', cnt((p) => p.st === 'reviewed')),
         fl('candidates', 'Kandidaten', cnt((p) => p.st !== 'reviewed')),
         fl('approved', 'Bestätigt', cnt((p) => p.tp === 'approved')),
@@ -922,9 +1010,9 @@ class Component extends DCLogic {
       w.onQ = (e) => this.setState({ wq: e.target.value });
 
       const p = D.pages[sel];
-      const view = s.wview || (p.tp ? 'term' : 'readings');
+      const view = s.wview || (p.th.length ? 'gedanken' : p.tp ? 'term' : 'readings');
       w.view = view;
-      w.views = [['term', 'Begriffsseite'], ['readings', 'Quellenlesarten'], ['promotion', 'Promotion & Stand']].map(([key, label]) => ({ label: label, on: view === key, go: () => this.setState({ wview: key }), disabled: key === 'term' && !p.tp }));
+      w.views = [['gedanken', 'Gedanken'], ['term', 'Begriffsseite'], ['readings', 'Quellenlesarten'], ['promotion', 'Promotion & Stand']].map(([key, label]) => ({ label: label, on: view === key, go: () => this.setState({ wview: key, wth: null }), disabled: (key === 'term' && !p.tp) || (key === 'gedanken' && !p.th.length) }));
       w.questions = () => this.go('questions', { qt: 'reading', rt: p.s, rqi: null, rqpage: 0 });
       const chips = [this.chip(p.st || 'candidate', 'ink'), this.chip(p.src + ' sources'), this.chip(p.rd + (p.rd === 1 ? ' reading' : ' readings'))];
       if (p.tp) chips.unshift(this.chip('Begriffsseite · ' + p.tp, 'blue'));
@@ -940,18 +1028,25 @@ class Component extends DCLogic {
           'Kandidatenseite: ' + (p.st === 'reviewed' ? 'vom Autor geprüft und promoviert' : 'noch nicht promoviert') + (p.reviewed ? ' · ' + p.reviewed : '') + '.',
           'Begriffsseite: ' + (p.tp === 'approved' ? 'vom Autor bestätigt' : p.tp ? 'deutscher Entwurf, Bestätigung steht aus' : 'noch nicht ausgearbeitet') + '.',
           p.waiting + ' neue Lesarten warten seit der Prüfung. ' + (p.termBehind ? 'Die Begriffsseite bezieht sich auf einen älteren Kandidatenstand.' : 'Kein Rückstand der Begriffsseite festgestellt.'),
+          ...(p.fr ? ['Vollständige Lektüre: ' + p.fr.refs + ' Belegstellen, ' + Object.entries(p.fr.states).filter((x) => x[1]).map((x) => x[1] + ' ' + x[0]).join(', ') + '; ' + p.th.length + ' Gedanken; '
+            + (p.fr.open ? p.fr.open + ' noch ohne Zustand; ' : '') + (p.fr.problems ? p.fr.problems + ' Problem(e) in fullread.py check' : 'fullread.py check ohne Befund') + (p.fr.behind ? '; die Kandidatenseite hat sich seither bewegt' : '') + '.',
+            'Ein Wort des Autors promoviert die Kandidatenseite und bestätigt die Gedankenseite zugleich (promote.py apply).'] : []),
           'Promotion bestätigt die Prüfung der Quellenlesarten. Sie macht keine Lesart zum Romankanon.',
           'Kanonentscheidungen stehen in Manuscript/kanon.md, den Entscheidungen und beantworteten Weichen.',
         ];
-        rd.secs = this.secs(null, [[['Prüfung und Bestätigung'], -1, '', [['ul', text.map((x) => [x])]]], [['Nächster Arbeitsschritt'], -1, '', [['p', [p.st === 'reviewed' ? (p.tp ? 'Die Begriffsseite lesen, neue Lesarten vergleichen und eine Empfehlung zur Bestätigung vorbereiten.' : 'Aus den geprüften Lesarten eine deutsche Begriffsseite ausarbeiten.') : 'Quellen und offene Konflikte prüfen; anschließend die Promotion dem Autor vorlegen.']], ['p', ['Prüfbogen: python3 scripts/promote.py sheet ' + p.s]], ['p', ['Begriffsseite: python3 scripts/terms.py finds ' + p.s]]]]], uid + '-promotion-' + sel);
+        rd.secs = this.secs(null, [[['Prüfung und Bestätigung'], -1, '', [['ul', text.map((x) => [x])]]], [['Nächster Arbeitsschritt'], -1, '', [['p', [p.th.length && p.st !== 'reviewed' ? 'Die Gedankenseite lesen (Ansicht Gedanken) und dem Autor vorlegen; sein Wort promoviert die Kandidatenseite und bestätigt die Gedankenseite.' : p.st === 'reviewed' ? (p.tp ? 'Die Begriffsseite lesen, neue Lesarten vergleichen und eine Empfehlung zur Bestätigung vorbereiten.' : 'Aus den geprüften Lesarten eine deutsche Begriffsseite ausarbeiten.') : 'Die Kandidatenseite ganz lesen (python3 scripts/fullread.py plan ' + p.s + ', Skill full-read) und die Gedankenseite dem Autor vorlegen.']], ['p', ['Prüfbogen: python3 scripts/promote.py sheet ' + p.s]], ['p', ['Begriffsseite: python3 scripts/terms.py finds ' + p.s]]]]], uid + '-promotion-' + sel);
         rd.key += ':promotion';
+      } else if (view === 'gedanken' && p.th.length) {
+        rd.secs = this.secs(null, this.thoughtSecs(p, s.wth), uid + '-th-' + sel);
+        rd.key += ':th:' + (s.wth || '');
       } else if (view === 'term' && !p.tp) {
         rd.secs = this.secs(null, [[['Noch keine Begriffsseite'], -1, '', [['p', ['Für diesen Begriff ist noch keine ausgearbeitete Begriffsseite vorhanden. Unter Quellenlesarten stehen die bisherigen Befunde; unter Promotion & Stand der nächste Schritt.']]]]], uid + '-empty-' + sel);
       }
       rd.key += ':' + view;
       if (view === 'promotion') rd.kicker = 'Promotionsstand · ' + p.t;
+      if (view === 'gedanken') rd.kicker = 'Gedankenseite · Wiki/terms/' + p.s + '.md · vollständige Lektüre';
       rd.hasSub = true;
-      rd.sub = view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? 'Zwei Schritte: Quellenlesarten prüfen, anschließend die Begriffsseite bestätigen.' : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
+      rd.sub = view === 'gedanken' ? 'Jeder Gedanke einmal, mit allen Quellen, die ihn tragen, und ihrer Haltung. Ein Klick auf die Kennung gibt dem Gedanken seine Adresse.' : view === 'term' ? 'Deutsch ausgearbeiteter Begriff. Quellenbehauptungen, Vorschläge, Lücken und Autorentscheidungen bleiben gekennzeichnet.' : view === 'promotion' ? (p.th.length ? 'Ein Akt: Der Autor prüft die Gedankenseite; sein Wort promoviert die Kandidatenseite und bestätigt die Gedankenseite zugleich.' : 'Die Kandidatenseite wird ganz gelesen; die Gedankenseite ist, was der Autor prüft.') : 'Jede Quelle behält ihre eigene Lesart. Unterschiede werden sichtbar gehalten.';
       wr.toc = rd.secs.filter((x) => x.hasHead).map((x) => {
         let label = x.label;
         if (x.hasSig) {
@@ -1033,7 +1128,7 @@ class Component extends DCLogic {
       const chDrafts = N.chapters.reduce((n, c) => n + c.drafts.length, 0);
       const openW = N.weichen.filter((w) => !this.novelDecided(w));
       const own = N.findings.filter((x) => !x.legacy);
-      const counts = { overview: '', chapters: N.chapters.length, cast: cards('figuren'), world: cards('welt'), plot: plots.length, decisions: openW.length + ' open', findings: N.findings.length };
+      const counts = { overview: '', schreibtisch: N.desk.chapters.filter((c) => c.briefing || c.scenes.length).length + ' begonnen', chapters: N.chapters.length, cast: cards('figuren'), world: cards('welt'), plot: plots.length, decisions: openW.length + ' open', findings: N.findings.length };
       nv.tabs = this.novelTabs().map((t) => ({
         label: t[1] + (counts[t[0]] !== '' ? ' · ' + counts[t[0]] : ''), on: mtab === t[0], bd: mtab === t[0] ? '#B0341E' : 'transparent',
         fw: mtab === t[0] ? 600 : 400, fg: mtab === t[0] ? '#1C1B18' : '#4A463E', go: () => this.setState({ mtab: t[0], msel: null }),
@@ -1077,8 +1172,11 @@ class Component extends DCLogic {
         const firsts = entries.filter((x) => !x.group);
         const selKey = s.msel && firsts.some((x) => x.key === s.msel) ? s.msel : (firsts.length ? firsts[0].key : null);
         const sel = (k) => () => this.setState({ msel: k });
-        pl.head = { chapters: nOf(N.chapters.length, 'chapter', 'chapters') + ' begun', cast: cards('figuren') + ' cards — the cast', world: cards('welt') + ' cards — the world', plot: plots.length + ' plot drafts', decisions: N.kanon.length + ' canon · ' + openW.length + ' Weichen open', findings: N.findings.length + ' findings' }[mtab];
+        const K = N.desk;
+        const begunK = K.chapters.filter((c) => c.briefing || c.scenes.length).length;
+        pl.head = { schreibtisch: begunK + ' von 41 Kapiteln begonnen', chapters: nOf(N.chapters.length, 'chapter', 'chapters') + ' begun', cast: cards('figuren') + ' cards — the cast', world: cards('welt') + ' cards — the world', plot: plots.length + ' plot drafts', decisions: N.kanon.length + ' canon · ' + openW.length + ' Weichen open', findings: N.findings.length + ' findings' }[mtab];
         pl.sub = {
+          schreibtisch: 'Der Schreibtisch (Entscheidung 030): das Regelregister, je Kapitel das Briefing, die Szenen, die offenen Weichen. Markierungen bleiben im Browser; die Freigabe sind deine Worte.',
           chapters: 'Each chapter folder with its drafts and the findings that read them. A draft is canon only when Manuscript/kanon.md lists it.',
           cast: 'One card per figure: what you decided, what the drafts make of it, what is open. The wiki holds the research.',
           world: 'One card per place, rule or mechanism, built like the cast cards.',
@@ -1101,6 +1199,19 @@ class Component extends DCLogic {
             const c = N.cards[x.ref];
             const n = occOf(c);
             return item(c.kanon.length ? c.kanon.join(' ') : '—', c.t, n ? nOf(n, 'mention', 'mentions') + ' in ' + nOf(c.occ.length, 'draft', 'drafts') : 'in no draft yet', on, sel(x.key), c.kanon.length ? '#1C1B18' : '#B0341E');
+          }
+          if (x.kind === 'rules') {
+            const nOpen = K.rules.filter((r) => r.status === 'offen').length;
+            return item('§', 'Die Prosaregeln', K.rules.length + ' Regeln · ' + nOpen + ' offen · ' + K.rules.filter((r) => r.status === 'bestätigt').length + ' bestätigt', on, sel(x.key), nOpen ? '#B0341E' : '#1C1B18');
+          }
+          if (x.kind === 'desk') {
+            const c = K.chapters[x.ref];
+            const b = c.briefing ? (c.briefing.status === 'current' ? 'Briefing aktuell' : 'Briefing veraltet') : 'kein Briefing';
+            return item(String(c.n), c.t, b + ' · ' + nOf(c.scenes.length, 'Szene', 'Szenen') + (c.w ? ' · ' + this.fmt(c.w) + ' Wörter' : '') + (c.weichen.length ? ' · ' + c.weichen.length + ' Weichen offen' : ''), on, sel(x.key), c.scenes.length ? '#2B4C8C' : c.briefing ? '#B0341E' : '#9A9384');
+          }
+          if (x.kind === 'scene') {
+            const sc = K.chapters[x.ref].scenes.find((y) => y.k === x.k);
+            return item('S' + sc.k, sc.t || 'Szene ' + sc.k, sc.status + ' · ' + this.fmt(sc.w) + ' Wörter' + (sc.briefingBehind ? ' · Briefing veraltet' : '') + (sc.checkStale && sc.status !== 'beats' ? ' · ungeprüft' : ''), on, sel(x.key), sc.status === 'freigegeben' ? '#1C1B18' : '#B0341E');
           }
           if (x.kind === 'ledger') return item('§', 'The canon ledger', N.kanon.length + ' decisions · ' + N.approved.length + ' chapters approved', on, sel(x.key), '#1C1B18');
           const w = N.weichen[x.ref];
@@ -1132,6 +1243,81 @@ class Component extends DCLogic {
             chips: (c.kanon.length ? c.kanon.map((k) => this.chip('canon · ' + k, 'ink')) : [this.chip('nothing decided', 'rubric')]).concat([this.chip(c.wiki >= 0 ? 'in the sources' : 'invented in a draft')]),
             secs: this.secs(c.lede, c.sec.concat(extra), uid + '-c' + cur.ref), maxW: 720, key: 'mc:' + cur.key,
           };
+        } else if (cur && cur.kind === 'rules') {
+          const st = (r) => r.status === 'bestätigt' ? ['b', r.status] : r.status === 'offen' ? ['c', r.status] : r.status;
+          const table = ['tb', [['Regel'], ['Status'], ['Gilt'], ['Prüfung'], ['Text']], K.rules.map((r) => [[['b', r.id]], [st(r)], [r.scope], [r.check || '— (eine Person liest)'], [r.x]]), 'lllll', 'minmax(0, 0.5fr) minmax(0, 0.7fr) minmax(0, 0.9fr) minmax(0, 0.9fr) minmax(0, 4fr)'];
+          rd = {
+            kicker: 'Schreibtisch · Manuscript/regeln.jsonl', title: 'Die Prosaregeln', tsz: 40, hasSub: true,
+            sub: 'Was die Quellen über die Prosa sagen, als Register mit Status. Eine Regel gilt, wenn du sie bestätigt hast; die prüfbaren prüft prose_rules.py, die anderen liest eine Person.',
+            chips: [this.chip(K.rules.filter((r) => r.status === 'offen').length + ' offen', 'rubric'), this.chip(K.rules.filter((r) => r.status === 'bestätigt').length + ' bestätigt', 'ink'), this.chip(K.rules.filter((r) => r.check).length + ' mechanisch geprüft')],
+            secs: this.secs(null, [[['Das Register'], -1, '', [table]]], uid + '-rules'), maxW: 1060, key: 'dk:rules',
+          };
+          desk.on = true; desk.isRules = true;
+          desk.rules = K.rules.filter((r) => r.status === 'offen').map((r) => {
+            const prompt = r.id + ' — ' + r.x + '\n\nQuelle: ' + r.src + ' · gilt: ' + r.scope + '\n\nBestätigen oder verwerfen, mit deinen Worten:\n\n    python3 scripts/prose_rules.py confirm ' + r.id + ' --words "…"\n    python3 scripts/prose_rules.py reject ' + r.id + ' --words "…"\n';
+            const id = 'rule:' + r.id;
+            return { id: r.id, x: r.x, src: r.src + ' · ' + r.scope, copy: () => this.copy(id, prompt), copyLabel: s.copied === id ? 'Kopiert' : s.copied === 'fail:' + id ? 'Kopieren fehlgeschlagen' : 'Auftrag kopieren' };
+          });
+          desk.hasRules = desk.rules.length > 0;
+        } else if (cur && cur.kind === 'desk') {
+          const c = K.chapters[cur.ref];
+          const inRange = c.w >= K.words[0] && c.w <= K.words[1];
+          const secsB = c.briefing ? this.secs(c.briefing.lede, c.briefing.sec, uid + '-dk' + c.n)
+            : this.secs(null, [[['Kein Briefing'], -1, '', [['p', ['Das Briefing ist der Vertrag jeder Szene. Es entsteht aus den Quellen, dem Kanon und den Weichen:']], ['pre', 'python3 scripts/brief.py kap ' + c.n]]]], uid + '-dk' + c.n);
+          rd = {
+            kicker: 'Schreibtisch · Manuscript/' + c.id + '/', title: 'Kap ' + c.n + ' — ' + c.t, tsz: c.t.length > 40 ? 30 : 36, hasSub: false, sub: '',
+            chips: [c.briefing ? this.chip(c.briefing.status === 'current' ? 'Briefing aktuell' : 'Briefing veraltet', c.briefing.status === 'current' ? 'ink' : 'rubric') : this.chip('kein Briefing', 'rubric'),
+              this.chip(nOf(c.scenes.length, 'Szene', 'Szenen') + (c.scenes.length ? ' · ' + this.fmt(c.w) + ' Wörter' : '')), this.chip(c.scenes.length ? (inRange ? 'W16 ✓' : 'W16: ' + K.words[0] + '–' + K.words[1]) : 'noch keine Szene', c.scenes.length && !inRange ? 'rubric' : 'plain'),
+              this.chip(c.weichen.length + ' Weichen offen', c.weichen.length ? 'rubric' : 'plain')],
+            secs: secsB, maxW: 760, key: 'dk:' + c.id,
+          };
+          desk.on = true; desk.isChapter = true;
+          desk.weichen = c.weichen.map((wv) => {
+            const w = N.weichen[wv.i];
+            const opts = wv.opts.length ? wv.opts.map((o) => '  ' + o[0] + ' — ' + o[1]).join('\n') : '  (die Optionen stehen im Blatt)';
+            const prompt = 'Weiche ' + w.id + ' — ' + w.t.replace(/`/g, '') + '\n\nBlatt: ' + w.f + (w.rec ? ' · empfohlen ' + w.rec : '') + '\n\nOptionen:\n' + opts + '\n\nAntwort mit deinen Worten (schreibt die Antwort ins Blatt und die Zeile in kanon.md):\n\n    python3 scripts/weiche.py answer ' + w.id + ' --option X --words "…"\n';
+            const id = 'weiche:' + c.id + ':' + w.id;
+            return { id: w.id, t: w.t.replace(/`/g, ''), rec: w.rec ? 'empfohlen ' + w.rec : 'keine Empfehlung', go: () => this.setState({ mtab: 'decisions', msel: w.id }), copy: () => this.copy(id, prompt), copyLabel: s.copied === id ? 'Kopiert' : s.copied === 'fail:' + id ? 'Kopieren fehlgeschlagen' : 'Antwortauftrag kopieren' };
+          });
+          desk.hasWeichen = desk.weichen.length > 0;
+          desk.actions = c.scenes.map((sc) => ({ t: 'Szene ' + sc.k + (sc.t ? ' — ' + sc.t : '') + ' · ' + sc.status, go: () => this.setState({ msel: c.id + '/szene-' + sc.k }) }))
+            .concat(c.drafts.map((i) => ({ t: 'Entwurf ' + draftId(D.manuscript[i]) + ' · ' + this.fmt(D.manuscript[i].w) + ' Wörter — ein Pol, keine Basis', go: () => this.setState({ mtab: 'chapters', msel: D.manuscript[i].f }) })))
+            .concat(c.findings.map((j) => ({ t: 'Befund · ' + N.findings[j].skill + ' ' + N.findings[j].date, go: () => this.setState({ mtab: 'findings', msel: N.findings[j].f }) })));
+          desk.hasActions = desk.actions.length > 0;
+          desk.cmd = (c.briefing ? (c.briefing.status === 'current' ? '# das Briefing ist aktuell' : '# ' + c.briefing.why + '\npython3 scripts/brief.py kap ' + c.n) : 'python3 scripts/brief.py kap ' + c.n)
+            + '\n# die nächste Szene, auf von dir freigegebenen Beats:\npython3 scripts/manuscript.py beats ' + c.id + ' ' + (c.scenes.length + 1) + ' --words "…" --beats "…"';
+        } else if (cur && cur.kind === 'scene') {
+          const c = K.chapters[cur.ref];
+          const sc = c.scenes.find((y) => y.k === cur.k);
+          const marks = (s.dmarks || {})[sc.f] || {};
+          const secsS = [[['Beats' + (sc.beatsOn ? ' (freigegeben ' + sc.beatsOn + ')' : '')], -1, '', [['q', [sc.beats || '—']]]]];
+          rd = {
+            kicker: 'Schreibtisch · ' + sc.f, title: 'Kap ' + c.n + ' Szene ' + sc.k + (sc.t ? ' — ' + sc.t : ''), tsz: 34, hasSub: false, sub: '',
+            chips: [this.chip(sc.status, sc.status === 'freigegeben' ? 'ink' : 'rubric'), this.chip(this.fmt(sc.w) + ' Wörter'),
+              this.chip(sc.briefingBehind ? 'Briefing veraltet' : 'Briefing aktuell', sc.briefingBehind ? 'rubric' : 'plain'),
+              this.chip(sc.status === 'beats' ? 'noch keine Prosa' : sc.checkStale ? 'ungeprüft seit der letzten Änderung' : 'geprüft: ' + sc.checked, sc.status !== 'beats' && sc.checkStale ? 'rubric' : 'plain')],
+            secs: this.secs(null, secsS, uid + '-sc' + c.n + '-' + sc.k), maxW: 760, key: 'dk:' + c.id + '/' + sc.k,
+          };
+          desk.on = true; desk.isScene = true;
+          const MARKS = [['passt', 'passt', '#2B4C8C'], ['frage', 'Frage', '#8A6A00'], ['falsch', 'falsch', '#B0341E']];
+          desk.paras = sc.paras.map((x, i) => {
+            const m = marks[i] || {};
+            return {
+              n: i + 1, ph: 'Notiz zu ¶' + (i + 1), x: x, hasNote: !!(m.m || m.note), note: m.note || '',
+              bd: m.m === 'falsch' ? '#B0341E' : m.m === 'frage' ? '#8A6A00' : m.m === 'passt' ? '#2B4C8C' : '#DDD6C6',
+              marks: MARKS.map((mk) => ({ label: mk[1], on: m.m === mk[0] ? 'true' : 'false', bg: m.m === mk[0] ? mk[2] : '#FBFAF6', fg: m.m === mk[0] ? '#FBFAF6' : '#1C1B18', go: () => this.saveMark(sc.f, i, { m: m.m === mk[0] ? 'none' : mk[0] }) })),
+              onNote: (e) => this.saveMark(sc.f, i, { note: e.target.value }),
+            };
+          });
+          desk.hasParas = desk.paras.length > 0;
+          desk.nMarks = Object.keys(marks).filter((i) => +i < sc.paras.length).length;
+          desk.storage = s.markStorage || 'Markierungen bleiben lokal in diesem Browser; der Export sichert sie als Datei.';
+          const text = this.marksExport(c, sc, s.dmarks || {});
+          const cid = 'marks:' + sc.f;
+          desk.export = () => this.download(c.id + '-szene-' + sc.k + '-markierungen.md', text);
+          desk.copy = () => this.copy(cid, text);
+          desk.copyLabel = s.copied === cid ? 'Kopiert' : s.copied === 'fail:' + cid ? 'Kopieren fehlgeschlagen' : 'Markierungen kopieren';
+          desk.cmd = 'python3 scripts/manuscript.py check ' + c.id + ' ' + sc.k + '\npython3 scripts/manuscript.py approve ' + c.id + ' ' + sc.k + ' --words "…"';
         } else if (cur && cur.kind === 'ledger') {
           rd = {
             kicker: 'Canon · ' + N.ledger.f, title: N.ledger.t || 'Kanon', tsz: 40, hasSub: true,
@@ -1537,7 +1723,7 @@ class Component extends DCLogic {
       ids: { search: uid + '-search', wq: uid + '-wq', cq: uid + '-cq' },
       q: q, onQ: onQ, onQKey: onQKey, sr: sr,
       now: now, rd: rd, readerRef: this._refCb,
-      workshop: workshop, w: w, wr: wr, cl: cl, cr: cr, nv: nv, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
+      workshop: workshop, w: w, wr: wr, cl: cl, cr: cr, nv: nv, desk: desk, ql: ql, qr: qr, pl: pl, proc: proc, loop: loop, chk: chkv,
       g: g, cp: cp,
     };
   }

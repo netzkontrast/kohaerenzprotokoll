@@ -1,0 +1,380 @@
+{
+  "document": "erstelle-eine-liste-mit-allen-plot-points-formu",
+  "drive_id": "1kSyY4U4DkPHoYfpHzr6REwfBCCFBbc0CVh6Oq80L5C8",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Seelen-Kohärenz-Protokoll": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Seelen-Kohärenz-Programm": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        35
+      ]
+    },
+    "Kern-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        22
+      ]
+    },
+    "Personas": {
+      "n": 15,
+      "n_including_compounds": 16,
+      "lines": [
+        17,
+        21,
+        22,
+        30,
+        37,
+        38,
+        39,
+        43,
+        48,
+        49,
+        50,
+        51,
+        54
+      ]
+    },
+    "Persona": {
+      "n": 1,
+      "n_including_compounds": 21,
+      "lines": [
+        17,
+        21,
+        22,
+        24,
+        25,
+        26,
+        30,
+        37,
+        38,
+        39,
+        43,
+        48,
+        49,
+        50,
+        51,
+        54
+      ]
+    },
+    "Kern-Personas": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Echo": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        21
+      ]
+    },
+    "Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Funke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Sucher": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Risse": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        17,
+        25,
+        35,
+        39,
+        50,
+        52,
+        53
+      ]
+    },
+    "Realitätsrisse": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        48
+      ]
+    },
+    "Glitches": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        21,
+        25
+      ]
+    },
+    "Intrusionen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        22,
+        25
+      ]
+    },
+    "Guardians": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        11,
+        17,
+        24,
+        30,
+        35,
+        38,
+        39,
+        51
+      ]
+    },
+    "Hüter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "Überraum": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        26,
+        28,
+        30
+      ]
+    },
+    "Nexus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        30
+      ]
+    },
+    "Partnerin": {
+      "n": 18,
+      "n_including_compounds": 20,
+      "lines": [
+        11,
+        17,
+        23,
+        26,
+        38,
+        39,
+        43,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        59
+      ]
+    },
+    "Das Partnerin-Mysterium": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "LogOS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        36
+      ]
+    },
+    "Mnemosyne": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        36
+      ]
+    },
+    "Cerberus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        36
+      ]
+    },
+    "Kairos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        36
+      ]
+    },
+    "Sophia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        24,
+        36
+      ]
+    },
+    "Meta-Narrator": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        24,
+        37
+      ]
+    },
+    "Bruch der Realitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Integrations-Werkzeugen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Seele = Information": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Jagd nach der Realität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        41,
+        51
+      ]
+    },
+    "Das Außen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        51
+      ]
+    },
+    "Die Naht im Selbst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        41
+      ]
+    },
+    "Echos im Zersplitterten Spiegel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Intervention aus dem Überraum": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        28
+      ]
+    },
+    "Multiplizität": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        30,
+        54,
+        55
+      ]
+    },
+    "funktionale Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        54
+      ]
+    },
+    "Klarheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        54
+      ]
+    },
+    "Protagonisten-System": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        30,
+        37,
+        53,
+        55
+      ]
+    },
+    "Fragmentierung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        17,
+        21,
+        35,
+        53
+      ]
+    },
+    "Heldenreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    }
+  }
+}

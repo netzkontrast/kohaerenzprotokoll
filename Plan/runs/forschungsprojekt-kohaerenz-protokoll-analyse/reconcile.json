@@ -1,0 +1,78 @@
+{
+  "document": "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "drive_id": "1-qPPEdRi0rRqNSrz7jjkTCn-n09kdS9mdV7Y-uH6XiY",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; light pass at reconciliation; no readings",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 38,
+    "decisions": 39,
+    "decided_by_lookup": 34,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A closing report whose every passage on the novel is mixed with research on a real person's diagnosis: read as a light pass, so nothing went on a page.",
+  "new_readings": [],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "light pass (decision 028): the whole body mixes the novel's world with research on a real person's diagnosis and working practice, so every term of the novel is an occurrence only; nothing harvested",
+  "sweep": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 267,
+      "decision": "occurrence",
+      "why": "in a passage mixed with research on a real person's diagnosis; light pass"
+    },
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 37,
+      "decision": "occurrence",
+      "why": "in a passage mixed with research on a real person's diagnosis; light pass"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "in a passage mixed with research on a real person's diagnosis; light pass"
+    },
+    {
+      "page": "risse",
+      "surface": "Risse",
+      "line": 232,
+      "decision": "occurrence",
+      "why": "in a passage mixed with research on a real person's diagnosis; light pass"
+    },
+    {
+      "page": "tsdp",
+      "surface": "TSDP",
+      "line": 19,
+      "decision": "occurrence",
+      "why": "in a passage mixed with research on a real person's diagnosis; light pass"
+    }
+  ],
+  "not_promoted": [
+    "everything: every passage on the novel is mixed with personal material"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      11
+  backslash escapes      83
+  typographic marks      14
+  ascii quotes           126
+
+# inflection families -- one term, several surfaces
+  story    Story, Storybeat, Storybeats, Storypoint, Storypoints, Storytelling
+  syste    System, Systemic, Systemische, Systems
+  agent    Agent, Agentic, Agents
+  analy    Analyse, Analysis, Analyze
+  conse    Consensual, Consequence, Consequently
+  direc    Directed, Directives, Director
+  proto    Protocol, Protocols, Protokoll
+  trans    Transformers, Transit, Translating
+  adapt    Adaptations, Adapters
+  apply    Apply, Applying
+  archi    Architectural, Architecture
+  chron    Chronic, Chronically
+  claud    CLAUDE, Claude
+  compu    Computational, Computer
+  const    Constitution, Constraint
+  conve    Conversational, Conversely
+  creat    Create, Creatively
+  deter    Determination, Deterministic
+  disso    Dissociation, Dissociative
+  enfor    Enforcement, Enforces
+  execu    Execution, Executors
+  exist    Existential, Existenz
+  funct    Function, Functions
+  gemin    GEMINI, Gemini
+  hyper    Hyperactivity, Hypergraph
+
+# substring pairs -- never one term, often merged by accident
+  Code < Encodes
+  Data < Database
+  JSON < JSONL
+  Main < Domain
+  Main < Maintenance
+  Post < PostToolUse
+  Spec < Perspectives
+  Tool < Tools
+  Tool < PreToolUse
+  Tool < PostToolUse
+  Agent < Agents
+  Agent < Agentic
+  Agent < Subagent
+  Apply < Applying
+  Graph < Hypergraph
+  Layer < Players
+  Model < Models
+  Novel < NovelOS
+  SKILL < Skills
+  Story < Storybeat

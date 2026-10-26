@@ -1,0 +1,14 @@
+# kohaerenz-protokoll-dramatica-synthese-masterkonzept
+  lines                278  (frontmatter ends at 9)
+  body words           4804
+  headings             26   bold-only lines 6
+  table rows           0   code fences 0
+  question marks       11
+  backslash escapes    29
+  typographic marks    206   ascii quotes 8
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    52
+  repeated labels      Integration x8, Analyse x4, Begründung x4, Zuordnung x4
+  longest line         1087 chars
+

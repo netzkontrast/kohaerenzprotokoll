@@ -1,0 +1,21 @@
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Kurze konzeptuelle Reflexion"
+`Kurze konzeptuelle Reflexion` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#13]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Musikstilbeschreibung (für Suno)"
+`Musikstilbeschreibung (für Suno)` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#13]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Vocal Hint"
+`Vocal Hint` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#24]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Gast"
+`Gast` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#11]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Etappe"
+`Etappe` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#16]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Echokammer"
+`Echokammer` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#11]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "AEGIS"
+`AEGIS` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#0]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Kap"
+`Kap` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#0]
+$ read.py juna-resilienz-zyklus-konzeptentwicklung --count "Kernwunde"
+`Kernwunde` ^[juna-resilienz-zyklus-konzeptentwicklung.md:#0]
+stance_marker_count = 13+13+24 = 50
+thirteen songs: grep -c '^\*\*12\.' ->
+13

@@ -1,0 +1,110 @@
+$ read.py --count "AEGIS"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`AEGIS` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#6]
+$ read.py --count "Kael"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kael` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#6]
+$ read.py --count "Juna"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Juna` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#3]
+$ read.py --count "Konstrukt-Stadt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Konstrukt-Stadt` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#1]
+$ read.py --count "Cache Kohärenz"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Cache Kohärenz` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#1]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kohärenz Protokoll` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#1]
+$ read.py --count "TSDP"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`TSDP` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#2]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#0]
+$ read.py --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#0]
+$ read.py --count "ehem."
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`ehem.` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#11]
+$ read.py --count "wahrscheinlich"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`wahrscheinlich` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#4]
+$ read.py --count "möglicherweise"
+whole word, case-sensitive     8
+whole word, case-insensitive   8
+including compounds            8
+
+`möglicherweise` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#8]
+$ read.py --count "könnte"
+whole word, case-sensitive     9
+whole word, case-insensitive   13
+including compounds            9
+
+`könnte` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#9]
+$ read.py --count "Könnte"
+whole word, case-sensitive     4
+whole word, case-insensitive   13
+including compounds            4
+
+`Könnte` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#4]
+$ read.py --count "Aktionssystem"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Aktionssystem` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#11]
+$ read.py --count "Notizen"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Notizen` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#12]
+$ read.py --count "V"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            41
+
+`V` ^[uberarbeitete-liste-der-anteile-von-kael-tsdp-basiert.md:#3]
+# stance_marker_count 4+8+9+4 = 25
+# V alone 3 vs in 41 -> 38 inside words (census 04-counts)

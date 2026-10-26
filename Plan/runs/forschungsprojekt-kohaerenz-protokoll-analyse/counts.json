@@ -1,0 +1,402 @@
+{
+  "document": "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "drive_id": "1-qPPEdRi0rRqNSrz7jjkTCn-n09kdS9mdV7Y-uH6XiY",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 10,
+      "n_including_compounds": 11,
+      "lines": [
+        15,
+        43,
+        92,
+        99,
+        146,
+        172,
+        175,
+        176,
+        206,
+        230,
+        234
+      ]
+    },
+    "Juna": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        148,
+        175
+      ]
+    },
+    "AEGIS": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        76,
+        91,
+        146,
+        172,
+        206,
+        216,
+        234
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        43,
+        76,
+        127,
+        197
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        43,
+        76,
+        127
+      ]
+    },
+    "Moros": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        43,
+        76,
+        126,
+        196
+      ]
+    },
+    "Logos-Prime": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        76
+      ]
+    },
+    "Alters": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        63,
+        91,
+        99,
+        146
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 8,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        15,
+        25,
+        71,
+        109,
+        145,
+        154,
+        179,
+        230,
+        244
+      ]
+    },
+    "Kohärenz Protokolls": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        11,
+        25,
+        109
+      ]
+    },
+    "Dual Kernel Theory": {
+      "n": 9,
+      "n_including_compounds": 10,
+      "lines": [
+        15,
+        19,
+        25,
+        27,
+        245,
+        246,
+        252,
+        253,
+        254,
+        255
+      ]
+    },
+    "DKT": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        25,
+        27,
+        29,
+        47,
+        53,
+        145,
+        230
+      ]
+    },
+    "K\\_1": {
+      "n": 16,
+      "n_including_compounds": 16,
+      "lines": [
+        29,
+        31,
+        33,
+        35,
+        37,
+        41,
+        43,
+        63,
+        105,
+        145,
+        148,
+        166,
+        196,
+        232
+      ]
+    },
+    "K\\_0": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        29,
+        39,
+        41,
+        43,
+        47,
+        49,
+        63,
+        148,
+        166,
+        177,
+        197,
+        232
+      ]
+    },
+    "Buffering Capacity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        45,
+        47,
+        49
+      ]
+    },
+    "Dead Universe Theory": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        51,
+        53,
+        257
+      ]
+    },
+    "DUT": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        51,
+        53,
+        57,
+        257
+      ]
+    },
+    "Mosaik": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        83,
+        111,
+        197,
+        230
+      ]
+    },
+    "Monolith to Mosaic": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        155
+      ]
+    },
+    "Gravitationsarchitektur": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        111,
+        117,
+        163
+      ]
+    },
+    "Ergosphäre": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Ereignishorizont": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        117,
+        220
+      ]
+    },
+    "Singularität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "Photon Sphere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        216
+      ]
+    },
+    "Algorithmische Melancholie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        91
+      ]
+    },
+    "Maximal-Plotter": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        103,
+        232
+      ]
+    },
+    "Writer's Bible": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        145,
+        232
+      ]
+    },
+    "Golden Sources": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        49,
+        137,
+        187,
+        215,
+        240
+      ]
+    },
+    "Agentive Narrative": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        96,
+        131,
+        135,
+        164,
+        196
+      ]
+    },
+    "Funktionale Multiplizität": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        87
+      ]
+    },
+    "Final Fusion": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        85,
+        87,
+        91
+      ]
+    },
+    "Resonanz-Kodex": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        21,
+        105,
+        181,
+        185,
+        187,
+        189,
+        232,
+        240
+      ]
+    },
+    "Dialetheism-Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "Agential Realism": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        59
+      ]
+    },
+    "Agential Cut": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        19,
+        61,
+        63
+      ]
+    },
+    "Autopoiesis": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        11,
+        35,
+        81,
+        230
+      ]
+    },
+    "Strange Attractor": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    }
+  }
+}

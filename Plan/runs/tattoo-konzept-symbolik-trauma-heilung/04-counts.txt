@@ -1,0 +1,62 @@
+# counts for 38 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                             5 word     8 in   [90, 106, 216, 260, 309, 322]
+                                    1      as AEGIS-Musters
+                                    1      as AEGIS-Muster
+                                    1      as AEGIS-Geometrie
+  Kael                              7 word     8 in   [122, 128, 135, 154, 158, 159]
+                                    1      as Kaels
+  System Kael                       2 word     2 in   [122, 128]
+  Selene                            5 word     6 in   [136, 165, 169, 170, 289, 298]
+                                    1      as Selenes
+  Nyx                               7 word     7 in   [137, 176, 180, 181, 236, 307]
+  Kiko                              6 word     6 in   [138, 180, 187, 191, 192, 298]
+  Lia                               5 word     6 in   [139, 180, 198, 202, 203, 298]
+  Isabelle                          5 word     5 in   [140, 209, 213, 214, 309]
+  Moros                             5 word     5 in   [141, 220, 224, 225, 289]
+  Rhys                              6 word     6 in   [143, 242, 246, 247, 307, 360]
+  Lex                               5 word     5 in   [144, 253, 257, 258, 320]
+  Argus                             6 word     6 in   [145, 264, 268, 269, 320]
+  Cache Kohärenz                    1 word     1 in   [158]
+  ANP                              17 word    21 in   [82, 106, 135, 136, 142, 143]
+  ANPs                              2 word     2 in   [82, 106]
+  EP                               12 word    22 in   [82, 136, 137, 138, 139, 140]
+  EPs                               3 word     3 in   [82, 158, 257]
+  Primärer ANP                      4 word     4 in   [135, 144, 154, 253]
+  Sekundärer ANP                    4 word     4 in   [142, 143, 231, 242]
+  TSDP                              5 word     7 in   [40, 66, 106, 122, 134, 381]
+                                    2      as TSDP-Analyse
+  Die Wachsende Landkarte           2 word     2 in   [13, 22]
+  Archetypal Matrix                 1 word     1 in   [128]
+  Chromatische Signatur             1 word     1 in   [134]
+  Formensprache                     4 word     4 in   [82, 124, 134, 260]
+  Schlüsselsymbol                  11 word    12 in   [134, 159, 170, 181, 192, 203]
+                                    1      as Schlüsselsymbole
+  Kerntrauma                        1 word     1 in   [48]
+  Anteile                          10 word    13 in   [50, 90, 122, 124, 180, 235]
+                                    2      as Anteilen
+  Anteil                            6 word    21 in   [50, 82, 90, 114, 122, 124]  <-- substring
+                                   10      as Anteile
+                                    2      as Anteilen
+                                    2      as Anteils
+  Pantheon                          2 word     2 in   [118, 122]
+  Axis Mundi                        5 word     5 in   [28, 32, 50, 287]
+  Kintsugi                         21 word    21 in   [36, 40, 50, 171, 172, 226]
+                                    1      as kintsugi-the-beauty-of-brokenness-540c8addcc0d
+  Labyrinth                         7 word    13 in   [44, 48, 50, 145, 269, 283]
+                                    5      as Labyrinths
+                                    1      as Labyrinth-Linien
+  Negativraum                       3 word     4 in   [106, 141, 161, 227]
+                                    1      as Negativraums
+  Surrealismus                      2 word     2 in   [114]
+  co-consciousness                  1 word     1 in   [358]
+  Dissoziation                      3 word     3 in   [40, 58, 114]
+  Fragmentierung                    7 word     7 in   [40, 58, 66, 74, 90, 348]
+  Archetyp                          6 word    29 in   [118, 128, 134, 149, 159, 170]  <-- substring
+                                   14      as Archetypal
+                                    5      as Archetype
+                                    3      as Archetypes
+                                    2      as archetypes

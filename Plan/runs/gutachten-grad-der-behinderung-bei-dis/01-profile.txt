@@ -1,0 +1,14 @@
+# gutachten-grad-der-behinderung-bei-dis
+  lines                398  (frontmatter ends at 9)
+  body words           4358
+  headings             29   bold-only lines 2
+  table rows           14   code fences 0
+  question marks       9
+  backslash escapes    82
+  typographic marks    159   ascii quotes 6
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    36
+  repeated labels      none
+  longest line         940 chars
+

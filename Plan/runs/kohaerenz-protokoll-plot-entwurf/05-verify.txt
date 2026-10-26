@@ -1,0 +1,52 @@
+$ read.py --count "Plot-Ereignis(se)"
+whole word, case-sensitive     16
+`Plot-Ereignis(se)` ^[kohaerenz-protokoll-plot-entwurf.md:#16]
+$ read.py --count "Konzeptionelle Klärung"
+whole word, case-sensitive     16
+`Konzeptionelle Klärung` ^[kohaerenz-protokoll-plot-entwurf.md:#16]
+$ read.py --count "Charakter-/System-Entwicklung"
+whole word, case-sensitive     16
+`Charakter-/System-Entwicklung` ^[kohaerenz-protokoll-plot-entwurf.md:#16]
+$ read.py --count "Welt-Interaktion"
+whole word, case-sensitive     17
+`Welt-Interaktion` ^[kohaerenz-protokoll-plot-entwurf.md:#17]
+$ read.py --count "Thematischer Fokus"
+whole word, case-sensitive     16
+`Thematischer Fokus` ^[kohaerenz-protokoll-plot-entwurf.md:#16]
+$ read.py --count "Narrative Funktion"
+whole word, case-sensitive     16
+`Narrative Funktion` ^[kohaerenz-protokoll-plot-entwurf.md:#16]
+$ read.py --count "Frage"
+whole word, case-sensitive     14
+`Frage` ^[kohaerenz-protokoll-plot-entwurf.md:#14]
+$ read.py --count "Schritt"
+whole word, case-sensitive     26
+`Schritt` ^[kohaerenz-protokoll-plot-entwurf.md:#26]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     1
+`Kapitel` ^[kohaerenz-protokoll-plot-entwurf.md:#1]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+`Kap` ^[kohaerenz-protokoll-plot-entwurf.md:#0]
+$ read.py --count "Klimax"
+whole word, case-sensitive     13
+`Klimax` ^[kohaerenz-protokoll-plot-entwurf.md:#13]
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+`Juna` ^[kohaerenz-protokoll-plot-entwurf.md:#0]
+$ read.py --count "Nyx"
+whole word, case-sensitive     0
+`Nyx` ^[kohaerenz-protokoll-plot-entwurf.md:#0]
+$ read.py --count "Isabelle"
+whole word, case-sensitive     0
+`Isabelle` ^[kohaerenz-protokoll-plot-entwurf.md:#0]
+$ read.py --count "Offenes Ende"
+whole word, case-sensitive     1
+`Offenes Ende` ^[kohaerenz-protokoll-plot-entwurf.md:#1]
+$ read.py --count "end list"
+whole word, case-sensitive     44
+`end list` ^[kohaerenz-protokoll-plot-entwurf.md:#44]
+$ read.py --count "Verhindert sein Nicht-Sein"
+whole word, case-sensitive     4
+`Verhindert sein Nicht-Sein` ^[kohaerenz-protokoll-plot-entwurf.md:#4]
+sum of the six labels: 16+16+16+17+16+16 = 97

@@ -1,0 +1,190 @@
+{
+  "document": "im-finale-wendet-sich-fuer-persona-der-partnerin-z",
+  "drive_id": "1R76-PUw9a4KpNSyIvAeEiUq2dv3NTRqzIHzBdCD8wik",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 5,
+  "backslash_escapes": 0,
+  "typographic_marks": 3,
+  "ascii_quotes": 34,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemalarm",
+      "Systematik",
+      "Systemkollaps",
+      "Systemreparatur",
+      "Systemstabilität"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitäts",
+      "Realitätsrisse",
+      "Realitätszweifel"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser",
+      "Dieses"
+    ],
+    "perso": [
+      "Person",
+      "Persona",
+      "Personas"
+    ],
+    "seele": [
+      "Seele",
+      "Seelen",
+      "Seelenessenz"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtungen"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins"
+    ],
+    "episo": [
+      "Episode",
+      "Episoden"
+    ],
+    "figur": [
+      "Figur",
+      "Figuren"
+    ],
+    "gefüh": [
+      "Gefühl",
+      "Gefühle"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Geschichte"
+    ],
+    "infor": [
+      "Information",
+      "Informationsmodell"
+    ],
+    "insta": [
+      "Instabilität",
+      "Instabilitäten"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikten"
+    ],
+    "progr": [
+      "Programm",
+      "Programms"
+    ],
+    "präse": [
+      "Präsenz",
+      "Präsenzen"
+    ],
+    "repar": [
+      "Reparatur",
+      "Reparaturversuche"
+    ],
+    "suche": [
+      "Suche",
+      "Sucher"
+    ],
+    "werkz": [
+      "Werkzeuge",
+      "Werkzeugen"
+    ],
+    "zusam": [
+      "Zusammenfassung",
+      "Zusammenhangs"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Wiederkehrende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsmodell"
+    ],
+    [
+      "Halt",
+      "Halts"
+    ],
+    [
+      "Halt",
+      "Schaltzentrale"
+    ],
+    [
+      "Kern",
+      "Kerns"
+    ],
+    [
+      "Plot",
+      "Plots"
+    ],
+    [
+      "Riss",
+      "Risse"
+    ],
+    [
+      "Riss",
+      "Realitätsrisse"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Welt",
+      "Welten"
+    ],
+    [
+      "Über",
+      "Überraum"
+    ],
+    [
+      "Diese",
+      "Dieser"
+    ],
+    [
+      "Diese",
+      "Dieses"
+    ],
+    [
+      "Figur",
+      "Figuren"
+    ]
+  ]
+}

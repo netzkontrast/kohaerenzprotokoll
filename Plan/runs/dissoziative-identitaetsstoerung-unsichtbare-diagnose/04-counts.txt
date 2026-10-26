@@ -1,0 +1,47 @@
+# counts for 29 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Dissoziative Identitätsstörung    7 word     7 in   [211, 215, 220, 232, 238, 301]
+  DIS                              69 word    79 in   [15, 17, 19, 21, 25, 27]
+  Anteilspersönlichkeiten           2 word     2 in   [15, 57]
+  Anteile                           7 word    10 in   [21, 55, 57, 59, 79, 101]
+                                    3      as Anteilen
+  Identitätszustände                8 word    12 in   [55, 77, 79, 97, 101, 107]
+                                    4      as Identitätszuständen
+  Kompartmentalisierung             3 word     3 in   [21, 107]
+  Traumagedächtnis                  1 word     2 in   [99, 101]
+                                    1      as Traumagedächtnissysteme
+  Ich-Schwäche                      3 word     3 in   [109, 115, 117]
+  Spaltung                          5 word     5 in   [107, 109, 111, 117]
+  Dissoziation                     16 word    17 in   [43, 87, 93, 105, 111, 115]
+                                    1      as dissoziationsbewusst
+                                    1      as Dissoziation-Forum
+                                    1      as dissoziation-forum
+  strukturelle Dissoziation         1 word     1 in   [117]
+  protektive Dissoziation           1 word     1 in   [87]
+  Amnesie                           8 word    12 in   [15, 41, 43, 55, 69, 79]
+                                    4      as Amnesien
+  Scham                            15 word    17 in   [15, 56, 75, 109, 113, 137]
+                                    1      as Schamgefühle
+                                    1      as schambedingte
+                                    1      as Schambedingte
+  Unsichtbarkeit                   31 word    31 in   [11, 15, 17, 19, 21, 29]
+  Fragmentierung                    7 word     8 in   [56, 59, 99, 107, 115, 163]
+                                    1      as Fragmentierungsgefühlen
+  Verheimlichung                    5 word     5 in   [56, 87, 113, 151, 163]
+  Maskierung                        1 word     1 in   [81]
+  Iatrogenese-Hypothese             1 word     1 in   [27]
+  ANP                               2 word     3 in   [107]
+  EP                                2 word     3 in   [107]
+  HPA-Achse                         2 word     4 in   [99, 103, 251]
+                                    1      as HPA-Achsen-Dysregulation
+                                    1      as HPA-Achsen-Aktivität
+  Epigenetik                        2 word     2 in   [23, 203]
+  Default Mode Network              1 word     1 in   [107]
+  SCID-D                            6 word     6 in   [37, 41, 93, 185, 225]
+  Beschwerdenvalidierung            1 word     1 in   [137]
+  Retraumatisierung                 2 word     2 in   [113, 173]
+  Psychoedukation                   1 word     1 in   [183]
+  Gegenübertragung                  1 word     1 in   [185]

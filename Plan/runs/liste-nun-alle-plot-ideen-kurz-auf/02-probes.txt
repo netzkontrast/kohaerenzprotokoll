@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      17
+  backslash escapes      0
+  typographic marks      1
+  ascii quotes           46
+
+# inflection families -- one term, several surfaces
+  inter    Interaktion, Interface, Interferenzen, Interne, Interner, Intervention
+  syste    System, Systembruch, Systemintegrität, Systemproblem, Systems, Systemstabilität
+  erinn    Erinnerung, Erinnerungen, Erinnerungs, Erinnerungslandschaft, Erinnerungsszene
+  reali    Realität, Realitäten, Realitätsbrüche, Realitätsriss
+  wiede    Wiederauftauchen, Wiederkehr, Wiederkehrende, Wiedersehen
+  absch    Abschließende, Abschluss, Abschnitt
+  archi    Archipel, Architekt, Architektens
+  beoba    Beobachtend, Beobachter, Beobachtung
+  bezie    Beziehung, Beziehungsarbeit, Beziehungskrise
+  bibli    Bibliothek, Bibliothekar, Bibliotheksgänge
+  brück    Brücke, Brücken, Brückenplänen
+  episo    Episode, Episoden, Episodisches
+  feind    Feind, Feindbilder, Feinde
+  gesam    Gesamt, Gesamtes, Gesamtzielsetzung
+  konfl    Konflikt, Konflikte, Konfliktpotenzial
+  konze    Konzentration, Konzept, Konzeptionelle
+  perso    Person, Persona, Personas
+  repar    Reparatur, Reparaturversuch, Reparaturversuche
+  risse    Risse, Rissen, Risses
+  struk    Struktur, Strukturfehler, Strukturierungs
+  suche    Suche, Sucher, Suchers
+  überw    Überwachung, Überwachungsmonitor, Überwachungssystems
+  abweh    Abwehr, Abwehrreaktion
+  akzep    Akzeptanz, Akzeptieren
+  alarm    Alarm, Alarmzustand
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Dieser
+  Echo < Echos
+  Ende < Fehlende
+  Ende < Wissende
+  Ende < Transzendenz
+  Ende < Abschließende
+  Ende < Unvollendeten
+  Ende < Übergreifende
+  Ende < Wiederkehrende
+  Ende < Regelzitierender
+  Fall < Anfall
+  Form < Formen
+  Kern < Kernschmelze
+  Loop < Loops
+  Lose < Zeitlose
+  Meta < Metapher
+  Meta < Metaphorik
+  Meta < Metamorphen
+  Plan < Fluchtplan
+  Plot < Subplot

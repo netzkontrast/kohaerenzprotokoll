@@ -1,0 +1,14 @@
+# dissoziative-identitaetsstoerung-unsichtbare-diagnose
+  lines                326  (frontmatter ends at 9)
+  body words           6433
+  headings             11   bold-only lines 14
+  table rows           21   code fences 0
+  question marks       13
+  backslash escapes    32
+  typographic marks    146   ascii quotes 0
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    12
+  repeated labels      none
+  longest line         1397 chars
+

@@ -1,0 +1,43 @@
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            14
+
+`Kap` ^[coherence-critique-and-question-generation.md:#0]
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[coherence-critique-and-question-generation.md:#0]
+$ read.py --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[coherence-critique-and-question-generation.md:#0]
+$ read.py --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[coherence-critique-and-question-generation.md:#0]
+$ read.py --count "Kritik & Kohärenzanalyse"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            10
+
+`Kritik & Kohärenzanalyse` ^[coherence-critique-and-question-generation.md:#10]
+$ read.py --count "Interrogative Fragen für die Revision"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Interrogative Fragen für die Revision` ^[coherence-critique-and-question-generation.md:#9]
+$ read.py --count "Empfehlung"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            7
+
+`Empfehlung` ^[coherence-critique-and-question-generation.md:#5]
+stance_marker_count 24 = 10 + 9 + 5 (the three counts above)

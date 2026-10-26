@@ -1,0 +1,63 @@
+{
+ "kapitel": 3,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Eine Tat ist nachweisbar, ihr Zeitpunkt und Motiv bleiben offen.",
+   "seit": 3,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Beleg und Schlussfolgerung bleiben unterscheidbar.",
+   "seit": 3,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[Juna] L: „Eine Wärme, die nicht in die Stadt passt“ (T:L108), **neu**",
+   "seit": 3,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: Ein Messzeichen, an das er sich nicht erinnert (dev:L134). Eine Tat ist nachweisbar, Zeitpunkt und Motiv sind offen (dev:L137).",
+   "seit": 3,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Nach dem Fristergebnis aus Kap 2; Dauer offen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Kiko",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Spur",
+   "wie": "Die Zeit stockt; Kael findet sich am Boden eines Korridors.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Spur; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

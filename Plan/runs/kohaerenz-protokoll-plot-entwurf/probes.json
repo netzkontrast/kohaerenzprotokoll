@@ -1,0 +1,286 @@
+{
+  "document": "kohaerenz-protokoll-plot-entwurf",
+  "drive_id": "1v8DtEA3PW3TZEgcIdFCkt4utWlmchPFAe7vfhtcdthk",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 66,
+  "backslash_escapes": 0,
+  "typographic_marks": 40,
+  "ascii_quotes": 250,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemdynamik",
+      "Systeme",
+      "Systemebene",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systemkollaps",
+      "Systemkonflikt",
+      "Systemkrise",
+      "Systems",
+      "Systemschock",
+      "Systemweite",
+      "Systemzusammenbruch"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsflut",
+      "Informationskanäle",
+      "Informationsmanipulation",
+      "Informationsparadigma",
+      "Informationssystemen",
+      "Informationsübertragung"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmas",
+      "Paradigmen",
+      "Paradigmenwechsel",
+      "Paradoxie",
+      "Paradoxien",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstakzeptanz",
+      "Selbstentdeckung",
+      "Selbsterhaltung",
+      "Selbstgefühl",
+      "Selbstintegration",
+      "Selbstintegrationsmechanismen",
+      "Selbstorganisation"
+    ],
+    "daten": [
+      "Daten",
+      "Datenextraktion",
+      "Datenfilterung",
+      "Datenpakete",
+      "Datenpaketen",
+      "Datenpunkten"
+    ],
+    "integ": [
+      "Integration",
+      "Integrationsalgorithmen",
+      "Integrationsfähigkeit",
+      "Integrationsprotokolle",
+      "Integrationsprozess",
+      "Integrität"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interne",
+      "Interventionsschwelle",
+      "Interventionsversuchen"
+    ],
+    "kontr": [
+      "Kontrast",
+      "Kontroll",
+      "Kontrolle",
+      "Kontrolleur",
+      "Kontrollmechanismen",
+      "Kontrollverlust"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzepte",
+      "Konzepten",
+      "Konzeptionell",
+      "Konzeptionelle",
+      "Konzeptions"
+    ],
+    "entwi": [
+      "Entwickelt",
+      "Entwicklung",
+      "Entwicklungsauftrag",
+      "Entwicklungsauftrags",
+      "Entwicklungsbögen"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionalität",
+      "Funktionieren",
+      "Funktionsweise"
+    ],
+    "model": [
+      "Modeling",
+      "Modell",
+      "Modelle",
+      "Modellen",
+      "Modellierung"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialitäten",
+      "Potentialmeer",
+      "Potentialmeers"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebenen",
+      "Realitätsfluktuation",
+      "Realitätsverzerrungen"
+    ],
+    "stabi": [
+      "Stabiler",
+      "Stabilisator",
+      "Stabilisierung",
+      "Stabilisierungsstrategien",
+      "Stabilität"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen",
+      "Strukturierung",
+      "Strukturlöschungen"
+    ],
+    "unter": [
+      "Unterschied",
+      "Unterschiede",
+      "Unterstützen",
+      "Unterstützern",
+      "Unterstützung"
+    ],
+    "wahrn": [
+      "Wahrnehmung",
+      "Wahrnehmungs",
+      "Wahrnehmungsfilter",
+      "Wahrnehmungshorizonts",
+      "Wahrnehmungsschwelle"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinszustand",
+      "Bewusstseinszustands"
+    ],
+    "fragm": [
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierte",
+      "Fragmentierung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsfähigkeit",
+      "Handlungslinie"
+    ],
+    "mögli": [
+      "Mögliche",
+      "Möglichen",
+      "Möglicherweise",
+      "Möglichkeit"
+    ],
+    "proto": [
+      "Proto",
+      "Protokoll",
+      "Protokolle",
+      "Protokolls"
+    ],
+    "proze": [
+      "Prozedur",
+      "Prozess",
+      "Prozesse",
+      "Prozesses"
+    ],
+    "versc": [
+      "Verschiebung",
+      "Verschränkung",
+      "Verschwimmen",
+      "Verschärfung"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Falle"
+    ],
+    [
+      "Alle",
+      "Fallende"
+    ],
+    [
+      "Alle",
+      "Parallel"
+    ],
+    [
+      "Alle",
+      "Parallele"
+    ],
+    [
+      "Auch",
+      "Eintauchen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Eine",
+      "Keine"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Verfeinerte"
+    ],
+    [
+      "Ende",
+      "Fallende"
+    ],
+    [
+      "Ende",
+      "Folgenden"
+    ],
+    [
+      "Ende",
+      "Steigende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Anstoßendes"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Übergreifende"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Formulierung"
+    ]
+  ]
+}

@@ -1,0 +1,232 @@
+{
+  "document": "roman-blueprint-seelen-kohaerenz-protokoll",
+  "drive_id": "1Q0_EYvmBgr9qDE_0jls5FCSwDyDSXzRx5zZeeOpGZjw",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 72,
+    "decisions": 77,
+    "decided_by_lookup": 43,
+    "needs_judgement": 34
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        66,
+        155
+      ],
+      "attribution": "",
+      "note": "Cerberus: a world's Guardian and a reading of the Partnerin"
+    },
+    {
+      "page": "grenzfeste",
+      "lines": [
+        66,
+        73
+      ],
+      "attribution": "",
+      "note": "world 3 of the Wächter and Cerberus"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        39,
+        120,
+        152,
+        168
+      ],
+      "attribution": "",
+      "note": "system keepers whose blindness to the Partnerin is systemic"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        67,
+        156
+      ],
+      "attribution": "",
+      "note": "Kairos: a world's Guardian and a reading of the Partnerin"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        59
+      ],
+      "attribution": "",
+      "note": "four worlds as the focus personas' subjective realities"
+    },
+    {
+      "page": "kohaerenz-programm",
+      "lines": [
+        166
+      ],
+      "attribution": "",
+      "note": "the Seelen-Kohärenz-Protokoll as the simulation's failing control element"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        64,
+        71
+      ],
+      "attribution": "",
+      "note": "world 1 of the Architekt and LogOS"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        64,
+        153
+      ],
+      "attribution": "",
+      "note": "LogOS: a world's Guardian and a reading of the Partnerin"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        65,
+        154
+      ],
+      "attribution": "",
+      "note": "Mnemosyne: a world's Guardian and a reading of the Partnerin"
+    },
+    {
+      "page": "moeglichkeits-garten",
+      "lines": [
+        67,
+        74
+      ],
+      "attribution": "",
+      "note": "world 4 of the Funke, the Sucher, Kairos and Sophia"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        95,
+        100,
+        145
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as the possible positive outcome"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        130,
+        168
+      ],
+      "attribution": "",
+      "note": "the Nexus as meta-reality of Part 2"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        35,
+        47,
+        158,
+        742
+      ],
+      "attribution": "",
+      "note": "a split-off core soul part whose reintegration is the solution"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        27,
+        80,
+        145
+      ],
+      "attribution": "",
+      "note": "five core personas who must stay distinct"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        65,
+        72
+      ],
+      "attribution": "",
+      "note": "world 2 of the Echo and Mnemosyne"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        166,
+        169
+      ],
+      "attribution": "",
+      "note": "cracks as symptoms of the Partnerin's absence"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        67,
+        157
+      ],
+      "attribution": "",
+      "note": "Sophia: a world's Guardian who fails at the Partnerin anomaly"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        130,
+        152,
+        168
+      ],
+      "attribution": "",
+      "note": "the Überraum as the Guardians' domain"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 807,
+      "decision": "occurrence",
+      "why": "a theme word in a plot point's focus"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 47,
+      "decision": "occurrence",
+      "why": "the fragmented logic's collision with wholeness; not the page's term (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 691,
+      "decision": "occurrence",
+      "why": "the personas' false hypothesis of a higher plane, not the paged term"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

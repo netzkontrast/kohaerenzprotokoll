@@ -1,0 +1,218 @@
+{
+  "document": "comprehensive-systemic-architectural-and-psychological-conte",
+  "drive_id": "1RMHzmZy84biJmKn7pQ4RyqFxXGMXtSbS2gfbhBtaoLI",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Minimal Being": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        57
+      ]
+    },
+    "NovelOS": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        61,
+        63,
+        78
+      ]
+    },
+    "Narrative Triad Architecture": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Narrative Director": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Knowledge Hypergraph": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "context rot": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        7,
+        63,
+        71
+      ]
+    },
+    "Narrative Context Protocol": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        70,
+        76,
+        78
+      ]
+    },
+    "NCP": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        70,
+        76,
+        78,
+        87
+      ]
+    },
+    "Universal Narrative Model": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "UNM": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "Subtext": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        80
+      ]
+    },
+    "Storytelling": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        78,
+        87
+      ]
+    },
+    "Perspectives": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Dynamics": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        49,
+        83,
+        87
+      ]
+    },
+    "Players": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Storypoints": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Storybeats": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85
+      ]
+    },
+    "Overviews": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Moments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Dramatica Theory": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Story Mind": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Ghost": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Objective Story Throughline": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        74
+      ]
+    },
+    "Main Character": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        82,
+        84,
+        85
+      ]
+    },
+    "Obstacle Character": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    },
+    "Story Outcome": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        83
+      ]
+    }
+  }
+}

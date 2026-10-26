@@ -1,0 +1,14 @@
+# liste-nun-alle-plot-ideen-kurz-auf
+  lines                207  (frontmatter ends at 9)
+  body words           2202
+  headings             0   bold-only lines 5
+  table rows           0   code fences 0
+  question marks       8
+  backslash escapes    0
+  typographic marks    1   ascii quotes 46
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    17
+  repeated labels      none
+  longest line         850 chars
+

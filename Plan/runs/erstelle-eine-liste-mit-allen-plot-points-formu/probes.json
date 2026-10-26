@@ -1,0 +1,207 @@
+{
+  "document": "erstelle-eine-liste-mit-allen-plot-points-formu",
+  "drive_id": "1kSyY4U4DkPHoYfpHzr6REwfBCCFBbc0CVh6Oq80L5C8",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 6,
+  "backslash_escapes": 0,
+  "typographic_marks": 1,
+  "ascii_quotes": 36,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemen",
+      "Systemfehler",
+      "Systemreparatur",
+      "Systems"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsrisse",
+      "Realitätsrissen"
+    ],
+    "erken": [
+      "Erkenntnis",
+      "Erkenntnisse",
+      "Erkenntnissen"
+    ],
+    "gesch": [
+      "Geschehen",
+      "Geschichte",
+      "Geschichten"
+    ],
+    "lösun": [
+      "Lösung",
+      "Lösungsversuch",
+      "Lösungsversuche"
+    ],
+    "perso": [
+      "Person",
+      "Persona",
+      "Personas"
+    ],
+    "repar": [
+      "Reparatur",
+      "Reparaturversuche",
+      "Reparaturversuchen"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationsgrenzen",
+      "Simulationsstruktur"
+    ],
+    "beoba": [
+      "Beobachter",
+      "Beobachtung"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins"
+    ],
+    "diese": [
+      "Diese",
+      "Dieser"
+    ],
+    "entsc": [
+      "Entscheidend",
+      "Entscheidung"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungslandschaft"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzen"
+    ],
+    "figur": [
+      "Figur",
+      "Figuren"
+    ],
+    "guard": [
+      "Guardian",
+      "Guardians"
+    ],
+    "infor": [
+      "Information",
+      "Informationseinheiten"
+    ],
+    "insta": [
+      "Instabilität",
+      "Instabilitäten"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations"
+    ],
+    "inter": [
+      "Interface",
+      "Intervention"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollebene"
+    ],
+    "persp": [
+      "Perspektive",
+      "Perspektivwechsel"
+    ],
+    "progr": [
+      "Programm",
+      "Programms"
+    ],
+    "risse": [
+      "Risse",
+      "Risses"
+    ],
+    "rätse": [
+      "Rätsel",
+      "Rätsels"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationseinheiten"
+    ],
+    [
+      "Idee",
+      "Ideen"
+    ],
+    [
+      "Kern",
+      "Kernproblem"
+    ],
+    [
+      "Plot",
+      "Plots"
+    ],
+    [
+      "Über",
+      "Überraum"
+    ],
+    [
+      "Über",
+      "Übergänge"
+    ],
+    [
+      "Diese",
+      "Dieser"
+    ],
+    [
+      "Figur",
+      "Figuren"
+    ],
+    [
+      "Figur",
+      "Randfiguren"
+    ],
+    [
+      "Reise",
+      "Heldenreise"
+    ],
+    [
+      "Risse",
+      "Risses"
+    ],
+    [
+      "Risse",
+      "Realitätsrisse"
+    ],
+    [
+      "Risse",
+      "Realitätsrissen"
+    ],
+    [
+      "Seele",
+      "Seelen"
+    ],
+    [
+      "Seins",
+      "Bewusstseins"
+    ],
+    [
+      "Sicht",
+      "Einsicht"
+    ]
+  ]
+}

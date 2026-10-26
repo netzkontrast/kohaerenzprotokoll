@@ -1,0 +1,62 @@
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Fokus"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            13
+
+`Fokus` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#11]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Psychologische Themen"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Psychologische Themen` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#4]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Musikalische Stimmung"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Musikalische Stimmung` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#4]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Wendepunkt (Positiv)"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Wendepunkt (Positiv)` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#3]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Walking on Both Sides"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            11
+
+`Walking on Both Sides` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#11]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#0]
+$ python3 scripts/read.py beziehungsheilung-nach-trauma-konzeptpapier-2 --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[beziehungsheilung-nach-trauma-konzeptpapier-2.md:#0]
+stance_marker_count 22 = 11 + 4 + 4 + 3 (Fokus, Psychologische Themen, Musikalische Stimmung, Wendepunkt (Positiv)), whole word, case-sensitive
+census: 75 candidates, 24 glued reference numbers (01-profile.txt), end-list comments L310 L316 L320 L326 L330 L336 L340

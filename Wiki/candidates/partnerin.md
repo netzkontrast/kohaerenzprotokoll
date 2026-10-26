@@ -1,10 +1,10 @@
 ---
 term: Partnerin
 status: candidate
-sources: 14
-readings: 14
+sources: 21
+readings: 21
 conflict: none
-ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten"]
+ingested: ["guardians-und-kern-welten-konzept", "aegis-persona-and-manifest-generation", "romanprojekt-kohaerenz-protokoll-leitfragen", "outline", "roman-entwicklung-kohaerenz-protokoll-json", "roman-entwicklung-kohaerenz-und-leitfragen", "romananalyse-kohaerenz-plot-kritik", "plan-zur-subplot-integration-fuer-den-roman-erweitert-und-ve", "kohaerenz-protokoll-plotideen-generierung", "welten", "monstergruppe-babygruppe-und-kael", "monstergruppe-babymonstergruppe-fragmentierung-erzaehlung", "roman-kapitel-1-erstellung-analyse", "monstergruppe-aegis-und-narrative-moeglichkeiten", "erstelle-eine-liste-mit-allen-plot-points-formu", "plotpunkte-liste", "liste-nun-alle-plot-ideen-kurz-auf", "roman-blueprint-seelen-kohaerenz-protokoll", "recherche-kohaerenz-protokoll", "im-finale-wendet-sich-fuer-persona-der-partnerin-z", "parakonsistente-logik-im-seelen-protokoll"]
 gathered: "2026-09-17"
 ---
 
@@ -43,11 +43,39 @@ requiring reintegration — which is precisely what Mnemosyne cannot see ^[guard
 This is the document's stated purpose ^[guardians-und-kern-welten-konzept.md:L17] and its closing claim ^[guardians-und-kern-welten-konzept.md:L137]. The
 five blindnesses are five different failures to perceive one thing.
 
+## Reading — `erstelle-eine-liste-mit-allen-plot-points-formu`, 2025-04-17, the plot summary (V4) — the partner figure as anchor, mystery and the bond the ending lives
+
+The plot summary (V4) makes the partner figure the thread of its earlier plot idea. In every Part-1 episode „ist auch die **Partnerin** präsent, angepasst an die jeweilige Realität“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L23], and „Sie fungiert als emotionaler Anker“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L23]. At the end of Part 1 „Die Verbindung zur Partnerin wird dabei scheinbar getrennt oder massiv gestört.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L26] In Part 2 the Guardians find no data and treat her „als irrelevante Anomalie oder subjektive Projektion“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L38]. In Part 3 „Die Partnerin taucht wieder auf, aber die Verbindung ist gestört.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L49]; after the revelation „Die Partnerin scheint dieser Logik nicht zu unterliegen.“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L50] The final integration finds a way „die **transzendente Verbindung zur Partnerin bewusst zu leben und zu integrieren**“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L54]. The closing line calls her „die Partnerin-Figur als durchgehender roter Faden und Katalysator“ ^[erstelle-eine-liste-mit-allen-plot-points-formu.md:L59]. Proposals of a plan, not canon.
+
+## Reading — `plotpunkte-liste`, 2025-04-17, the plot-points list (V4) — one guise per episode, the anomaly, and the transcendent partner of the finale
+
+The plot-points list (V4) gives the partner figure a guise in each early episode: „Partnerin als Kollegin präsent.“ ^[plotpunkte-liste.md:L17], „Partnerin als stabiler Anker am Ufer.“ ^[plotpunkte-liste.md:L18], „Partnerin als rätselhafte Bibliothekarin.“ ^[plotpunkte-liste.md:L20]. In one episode a persona „wird in Realitätssturm von Partnerin gerettet/unterstützt“ ^[plotpunkte-liste.md:L23]. At the collapse comes „scheinbare Trennung von/Destabilisierung der Partnerin“ ^[plotpunkte-liste.md:L25]. In Part 3 „**Partnerin taucht wieder auf**, Beziehung ist in Krise.“ ^[plotpunkte-liste.md:L40]; the „Partnerin-Mysterium vertieft sich“ ^[plotpunkte-liste.md:L41], and after the revelation „Partnerin scheint eine Ausnahme zu sein.“ ^[plotpunkte-liste.md:L42] The finale makes possible „eine **bewusste, akzeptierende Beziehung zur transzendenten Partnerin**“ ^[plotpunkte-liste.md:L46]. Plot points of a plan, not canon.
+
+## Reading — `liste-nun-alle-plot-ideen-kurz-auf`, 2025-04-17, the plot blueprint (V3) — missing from the Guardians' data, reappearing in crisis, the central thread
+
+The plot blueprint (V3) makes Part 2's focus include „fehlende Daten zur Partnerin“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L154] and the „**Etablierung Partnerin-Mysterium auf Meta-Ebene**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L174]. When the Guardians hand out tools, „Die Partnerin wird als irrelevant für die Systemstabilität ignoriert.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L184] In Part 3 „**Die Partnerin taucht in dieser Welt wieder auf**, verändert, distanziert.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L194], with the first signs of the „**Beziehungskrise**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L191]. The hunt endangers the „**Verbindung zur Partnerin**“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L195]. The closing note says the blueprint „integriert nun auch die Partnerin-Idee als zentralen Faden.“ ^[liste-nun-alle-plot-ideen-kurz-auf.md:L206] A plan's proposals, not canon.
+
+## Reading — `roman-blueprint-seelen-kohaerenz-protokoll`, 2025-04-17, the soul blueprint (V5) — a split-off core soul part whose reintegration is the solution
+
+The soul blueprint (V5) makes the Partnerin the cause the Guardians cannot see: „die Abspaltung der Partnerin“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L35]. „Die Partnerin repräsentiert das fundamentale Prinzip der "Verbindung/Ganzheit".“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L47] Its character table gives „\*\*Die Partnerin\*\* | Abgespaltener Kern-Seelenanteil; Verbindung/Ganzheit“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L158] and „ihre Reintegration ist die Lösung (T3)“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L158]. The twist: „Die Partnerin ist kein externes Ziel, sondern der fehlende Kern des eigenen fragmentierten Selbst.“ ^[roman-blueprint-seelen-kohaerenz-protokoll.md:L742] A plan's proposals, not canon.
+
+## Reading — `recherche-kohaerenz-protokoll`, 2025-04-17, the research commission — the split-off part whose absence the Guardians do not understand
+
+The research commission restates a core consciousness fragmented „durch die Abspaltung eines essenziellen Teils ("Partnerin" - Symbol für Verbindung/Ganzheit)“ ^[recherche-kohaerenz-protokoll.md:L17]. The Guardians miss „die wahre Ursache (fehlende Partnerin)“ ^[recherche-kohaerenz-protokoll.md:L17]. A restated plan, not canon.
+
+## Reading — `im-finale-wendet-sich-fuer-persona-der-partnerin-z`, 2025-04-17, the narrative plot summary (V4) — a constant across the realities, an anomaly to the Guardians
+
+The narrative plot summary (V4) calls the Partnerin „Eine mysteriöse Konstante“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L19] who „von den Guardians nicht erfasst werden kann“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L19]. In Part 1 „Inmitten dieses Chaos ist die Partnerin eine Konstante“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L23], and at the break „die Verbindung zur Partnerin wird abrupt gestört“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L23]. In Part 3 „taucht die Partnerin wieder auf, aber die Beziehung ist durch den Bruch und die Enthüllungen in einer Krise“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L31], and „bleibt die Partnerin eine Anomalie, die diesem Informationsmodell zu widersprechen scheint“ ^[im-finale-wendet-sich-fuer-persona-der-partnerin-z.md:L31]. A summary of a plan, not canon.
+
 ## Reading — `welten`, 2025-04-20, the world-concept reply — the Partnerin as Julia, and the piece Sophia lacks
 
 The reply gives `Partnerin` as the name for Julia in the frame of its premise (L29) and ties it to the connection AEGIS cannot grasp: „die Natur und Bedeutung der Kael-Julia-Verbindung“ ^[welten.md:L46], written with the word in parentheses and straight quotes (L46). It writes of `Partnerin-Echos`, which it calls „subtile Manifestationen der Präsenz/Abwesenheit Julias“ ^[welten.md:L77] or of the K-J connection.
 
 In the Guardians' list it makes the Partnerin the missing piece of Sophia's picture: she synthesises the other Guardians' data, but „ohne das entscheidende fehlende Puzzlestück“ ^[welten.md:L69] (the true nature of the Partnerin or K-J connection) she reaches an incomplete or wrong overall picture, „kommt sie dennoch zu einem unvollständigen oder falschen Gesamtbild“ ^[welten.md:L69].
+
+## Reading — `parakonsistente-logik-im-seelen-protokoll`, 2025-04-21, the paraconsistent-logic report — the anomaly the system cannot classify
+
+The paraconsistent-logic report proposes an explanation for „das Unvermögen der Guardians, die Partnerin zu erkennen oder zu verarbeiten“ ^[parakonsistente-logik-im-seelen-protokoll.md:L228]. In the C-system view, „Die Partnerin könnte einen Widerspruch A∧¬A verkörpern“ ^[parakonsistente-logik-im-seelen-protokoll.md:L233]. A report's proposal, not canon.
 
 ## Reading — `monstergruppe-babygruppe-und-kael`, 2025-04-23, the Monster-group analogy report — Juna named as Kael's Partnerin
 

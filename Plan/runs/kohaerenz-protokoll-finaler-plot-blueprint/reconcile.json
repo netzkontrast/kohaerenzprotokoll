@@ -1,0 +1,198 @@
+{
+  "document": "kohaerenz-protokoll-finaler-plot-blueprint",
+  "drive_id": "1P9MwBm7UKvgPuXeqCrMsPbd-Az-KWZKkPnbSUxtZU-k",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-537/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 139,
+    "decisions": 141,
+    "decided_by_lookup": 113,
+    "needs_judgement": 28
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A plot blueprint that declares itself final and ready to write: what it proposes for AEGIS's Reboot and v1.5, the Guardians, Kael's abilities and journey, the Nexus, the Kernwelten, the Potentialmeer, entropy and emergence went on existing pages as a plan's proposals.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        15,
+        41,
+        51,
+        56,
+        228,
+        269
+      ],
+      "attribution": "",
+      "note": "a failsafe Reboot, pattern recognition without understanding, and v1.5's limits"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        23,
+        111,
+        115,
+        372
+      ],
+      "attribution": "",
+      "note": "the island as self-organising, the abilities and the ending as emergence"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        56,
+        227,
+        228,
+        269
+      ],
+      "attribution": "",
+      "note": "AEGIS misreads Kael's striving as entropy"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        241,
+        256,
+        257,
+        356
+      ],
+      "attribution": "",
+      "note": "AEGIS's agents who turn, split, and ally with Kael"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        42,
+        200,
+        214,
+        284,
+        300,
+        356
+      ],
+      "attribution": "",
+      "note": "abilities emerging from integration, the Nexus, and the final choice"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        103,
+        244,
+        272,
+        293,
+        357
+      ],
+      "attribution": "",
+      "note": "the Kernwelten as psyche, battlefield and collapsing architecture"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        300
+      ],
+      "attribution": "",
+      "note": "functional multiplicity as parts cooperating"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        193,
+        207,
+        214,
+        241
+      ],
+      "attribution": "",
+      "note": "the search for the Nexus and the entry that ends Part 1"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        23,
+        83,
+        270,
+        272
+      ],
+      "attribution": "",
+      "note": "the sea of pure possibility around AEGIS's domain"
+    },
+    {
+      "page": "protokoll-v14",
+      "lines": [
+        41,
+        52,
+        200
+      ],
+      "attribution": "",
+      "note": "the v1.4 protocols' failure and the Reboot"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        127
+      ],
+      "attribution": "",
+      "note": "the glitch in logic of the first step"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Kaels` read on kael; `v1.4` read on protokoll-v14 by the sentence; Mustererkennung is AEGIS's learning, read on aegis; the Kohärenz-Insel and the title are occurrences of `Kohärenz` (J9); the bond partner is named only by an earlier name and the blueprint does not make the identity plain, so juna gets no reading; the 42 lines holding an earlier name or a person's name are not cited, so alters, did and ueberwelt get none",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "an earlier name; the blueprint does not make the identity plain"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 27,
+      "decision": "reading",
+      "why": "read on kael from lines without an earlier name"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "realitaetsebenen",
+      "surface": "Realitätsebene",
+      "line": 23,
+      "decision": "occurrence",
+      "why": "a hint at other planes of reality, not the paged term"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 40,
+      "decision": "occurrence",
+      "why": "on a line with an earlier name; not cited"
+    }
+  ],
+  "not_promoted": [
+    "Kohärenz-Insel and its parts, K-J compounds, Gleichzeitigkeit, Instrumente der Ordnung, PMAS, CCPP, RIVE, SARM, OBP, v1.5, Reboot, Loyalisten, Zweifler, Welle von Unmöglichkeit, the step titles in German and English, the theory lenses"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

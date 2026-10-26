@@ -69,11 +69,17 @@ MDLINK = re.compile(r"\]\(([^)\s]+)\)")
 TICKED = re.compile(r"`[^`]+`")
 GERMAN = re.compile(r"\b(der|die|das|und|ist|nicht|ein|eine|von|mit|für|auf|den|dem|sie|wie|oder|keine|steht)\b", re.I)
 ENGLISH = re.compile(r"\b(the|and|is|of|to|that|with|for|on|which|are|not|it|this)\b", re.I)
+DERIVED = re.compile(r"\(aus g-\d{3,}")  # a thought page's [D] names the thoughts it is derived from
 QUOTED = re.compile(r"„[^“\"]*[“\"]")
 FINDS_IN = ["Plan/decisions", "Plan/weichen", "Manuscript/kanon.md", "Manuscript/figuren", "Manuscript/welt",
             "Plan/storyform", "Wiki/conflicts", "Wiki/questions"]
 
 sys.path.insert(0, str(ROOT / "scripts"))
+
+
+def thought_sections() -> list[str]:
+    from fullread import SECTIONS as thought
+    return thought
 
 
 # --- reading a page --------------------------------------------------------
@@ -171,10 +177,16 @@ def problems_of(path: Path, ledger_rows: list[dict] | None = None, docs: set[str
     if meta.get("status") not in ("draft", "approved"):
         fail.append(f"status {meta.get('status')!r} is neither draft nor approved")
 
+    # A thought page (form: gedanken, fullread.py) is written by the full read *before* promotion and is what the
+    # author reviews (the author's answers of 2026-10-23): its draft needs no reviewed candidate; fullread.py check
+    # holds it to its run.
+    thought_page = meta.get("form") == "gedanken"
     cand = candidates / f"{meta.get('candidate', slug)}.md"
     reviews = [r for r in rows if r.get("page") == meta.get("candidate", slug) and r.get("layer", "candidates") == "candidates"]
     if not cand.exists():
         fail.append(f"no candidate page {cand.name}")
+    elif thought_page and meta.get("status") == "draft":
+        pass
     else:
         ctext = cand.read_text(encoding="utf-8")
         if not promote.is_reviewed(ctext) or not reviews or reviews[-1].get("action") != "promote":
@@ -190,8 +202,9 @@ def problems_of(path: Path, ledger_rows: list[dict] | None = None, docs: set[str
 
     found = sections(body_of(text))
     names = [n for n, _ in found]
-    if names != SECTIONS:
-        fail.append(f"sections are {names}, not {SECTIONS}")
+    want = thought_sections() if thought_page else SECTIONS
+    if names != want:
+        fail.append(f"sections are {names}, not {want}")
     prose = []
     for name, lines in found:
         if name == "Autor-Notizen":
@@ -200,7 +213,7 @@ def problems_of(path: Path, ledger_rows: list[dict] | None = None, docs: set[str
                 fail.append("## Autor-Notizen holds the author's block exactly once")
             continue
         items = bullets(lines)
-        if not items and name in SECTIONS:
+        if not items and name in want:
             fail.append(f"## {name} is empty — write `- [L] …` when nothing is known")
         for no, tag, item in items:
             where = f"L{no} (## {name})"
@@ -225,7 +238,7 @@ def problems_of(path: Path, ledger_rows: list[dict] | None = None, docs: set[str
             if tag == "K" and not any(decided(t) for t in links):
                 fail.append(f"{where}: [K] links no decision of the author's (a decision file, an answered Weiche, "
                             f"kanon.md or a decided conflict)")
-            if tag == "D" and not links and not TICKED.search(item):
+            if tag == "D" and not links and not TICKED.search(item) and not (thought_page and DERIVED.search(item)):
                 fail.append(f"{where}: [D] does not name what it is derived from (a link, or a path or command in backticks)")
             prose.append(QUOTED.sub(" ", CITE.sub(" ", TICKED.sub(" ", item))))
 
@@ -485,6 +498,23 @@ def selftest() -> int:
             results.append(("an edit after approval fails", any("changed since" in x for x in f)))
             f, _ = run(good.replace(AUTHOR_CLOSE, ""))
             results.append(("a broken author block fails", any("author's block" in x for x in f)))
+            front = good.split("\n# T\n", 1)[0].replace("by: session", "by: session\nform: gedanken")
+            body = ["", "# T", ""]
+            for name in thought_sections():
+                body += [f"## {name}", ""]
+                if name == "Autor-Notizen":
+                    body += [AUTHOR_OPEN, AUTHOR_CLOSE, ""]
+                elif name == "Kurz":
+                    body += ["- [D] (g-002) Kurz gesagt ist es x (aus g-001).", ""]
+                else:
+                    body += ["- [S] (g-001) Die Quelle sagt, dass es x ist. — „x\" ^[doc.md:L1]", ""]
+            thought = front + "\n".join(body)
+            f, _ = run(thought, [])
+            results.append(("a thought page's draft needs no reviewed candidate", f == []))
+            f, _ = run(thought.replace("## Wie es wirkt", "## Mechanik"), [])
+            results.append(("a thought page with a wrong section fails", any("sections are" in x for x in f)))
+            f, _ = run(thought.replace("status: draft", "status: approved"), [])
+            results.append(("an approved thought page still needs its reviewed candidate", any("not reviewed" in x for x in f)))
         finally:
             ROOT = saved
     try:

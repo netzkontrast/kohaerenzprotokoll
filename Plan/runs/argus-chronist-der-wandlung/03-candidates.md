@@ -1,0 +1,78 @@
+written_by: document-reader subagent (Sonnet), 2026-10-12, while reading, before any count
+
+The document is a concept text for one album of thirteen songs, each song a stage of a figure's inner journey. It marks each song with the template fields a) Titel, b) Lyrics, c) Musikstilbeschreibung, d) Kurze konzeptuelle Reflexion; the lyrics carry stage labels in square brackets. Song-title candidates are listed once as written in the song headings and table. No chapters are named.
+
+- Argus
+- Kael
+- Kael-System
+- Juna
+- Selene
+- Lex
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Panoptikum des Systems
+- Panoptikum
+- Leuchtturmwärter
+- Archivar der Narben
+- Astronom innerer Konstellationen
+- Astronom
+- Chronist der Wandlung
+- Chronist
+- Junas Gleichung
+- Elixier
+- Host
+- Album 10
+- Kohärenz
+- Illusion der perfekten Beobachtung
+- Weg der Prüfungen
+- Abstieg
+- spirituelle Dürre
+- Tod des Alten
+- Beobachtung mit Urteil trennt; Bezeugen mit Mitgefühl integriert
+- Bezeugen mit Mitgefühl
+- Beobachtung mit Urteil trennt
+- Kollateralschaden-Report
+- Logikfehler aufgedeckt
+- Emotionale Landkarte
+- Ursachenforschung
+- Validierung der Angst
+- Muster im Chaos
+- Die Funktion der Fassade
+- Beschreibung der Leere
+- Dialog der Weisen
+- Feedback für den Host
+- Der mitfühlende Blick
+- Systemwohlbefinden
+- Systemfluss
+- Effizienz-Index
+- Sektor L
+- Datentier
+- Mandala
+- Tempel
+- Systemheilung
+- Suno AI
+- Synth Goth
+- Dystopian Future Synth
+- IDM
+- Progressive Electronic
+- weisen Narren
+- Argus Male Voice
+- Schutzfunktion
+- Kritiker
+- systemische Verantwortung
+- Ko-Bewusstseins
+
+## lens
+
+- Heldinnenreise
+- ANP
+- EP
+- EP-Anteile
+- TSDP
+- Theorie der strukturellen Dissoziation
+- Metakognition

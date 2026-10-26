@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      12
+  backslash escapes      88
+  typographic marks      19
+  ascii quotes           48
+
+# inflection families -- one term, several surfaces
+  behan    Behandelnde, Behandelnden, Behandler, Behandlung, Behandlungen, Behandlungs, Behandlungsalternativen, Behandlungsfehler, Behandlungsfehlern, Behandlungsnotwendigkeit, Behandlungsprozess, Behandlungsunterlagen, Behandlungsvertrag
+  psych    Psyche, Psychiater, Psychiatrie, Psychiatrische, Psychisch, Psychische, Psychology, Psychosomatische, Psychotherapeuten, Psychotherapeutenjournal, Psychotherapeutenkammer, Psychotherapie
+  ident    Identit, Identität, Identitäten, Identitätsalteration, Identitätsdiffusion, Identitätsstruktur, Identitätsstörung, Identitätsunsicherheiten, Identitätsverwirrung, Identitätswechsel, Identitätszustände
+  patie    Patie, Patient, Patienten, Patientenakte, Patientendossier, Patientenrecht, Patientenrechte, Patientenrechtegesetz, Patientenwürde, Patientin, Patientinnen
+  unter    Unterbrechung, Unterlagen, Unterlassen, Unterlassung, Unterrichtsfächern, Unterschreitung, Unterschätzung, Untersuchung, Untersuchungen, Untersuchungsergebnisse, Untersuchungsergebnissen
+  inter    Interaktionsmuster, Interaktionsstile, Interessen, International, Internet, Interventionen, Interview, Interviewführung, Interviewing, Interviews
+  beric    Bericht, Berichte, Berichten, Berichterstattung, Berichtigung, Berichtigungen, Berichtigungsansprüche, Berichtigungsersuchens, Berichtigungsforderungen
+  geset    Gesetz, Gesetzbuch, Gesetzbuches, Gesetzbuchs, Gesetze, Gesetzes, Gesetzesstelle, Gesetzgebung, Gesetzlich
+  stand    Standard, Standarddiagnostik, Standarddiagnostikverfahren, Standardinterviews, Standards, Standarduntersuchung, Standarduntersuchungen, Standardverfahren, Stands
+  dokum    Dokument, Dokumentation, Dokumentationsanforderungen, Dokumentationspflicht, Dokumentationspflichten, Dokumente, Dokuments
+  traum    Trauma, Traumafolgestörungen, Traumageschichte, Traumata, Traumatisierung, Traumatisierungen, Traumen
+  disso    Dissociation, Dissociative, Dissoziation, Dissoziations, Dissoziative, Dissoziativen
+  klini    Klini, Klinik, Kliniker, Klinikern, Klinikers, Klinische
+  aufkl    Aufklärung, Aufklärungen, Aufklärungsgesprächen, Aufklärungspflicht, Aufklärungspflichten
+  diagn    Diagnose, Diagnosefehler, Diagnosen, Diagnosestellung, Diagnostik
+  grund    GRUNDS, Grundlage, Grundlagen, Grundsätze, Grundverordnung
+  selbs    Selbst, Selbstbezeichnungen, Selbstgefährdung, Selbstregulation, Selbstzweifel
+  verha    Verhalten, Verhaltens, Verhaltensbeobachtungen, Verhaltensstörung, Verhaltensweisen
+  verso    VERSORGUNGSMEDIZINISCHE, Versorgung, Versorgungsamtes, Versorgungsmedizin, Versorgungsmedizinische
+  absch    Abschnitt, Abschnitten, Abschrift, Abschriften
+  arztb    Arztbericht, Arztbrief, Arztbriefe, Arztbriefen
+  bunde    Bundesministerium, Bundesregierung, Bundesrepublik, Bundesversorgungsgesetzes
+  durch    Durchführung, Durchgangsärzte, Durchgangsärztinnen, Durchsetzungskraft
+  einsc    Einschaltung, Einschränkung, Einschätzung, Einschätzungen
+  gesun    Gesundheit, Gesundheitsstörungen, Gesundheitswesens, Gesundheitszustandes
+
+# substring pairs -- never one term, often merged by accident
+  ALIT < Realität
+  ALIT < Realitäten
+  Akte < Fakten
+  Akte < Aktenlage
+  Akte < Akteneinsicht
+  Akte < Patientenakte
+  Arzt < Arztes
+  Arzt < Arztbrief
+  Arzt < Arztbriefe
+  Arzt < Facharztes
+  Arzt < Arztbericht
+  Arzt < Arztbriefen
+  Arzt < Arzthaftung
+  Arzt < Arztpflichten
+  Arzt < Facharztstandard
+  Arzt < Arzthaftungsrecht
+  Arzt < Facharztstandards
+  Arzt < Arzthaftungsrechtliche
+  Auch < Brauch
+  Auch < Missbrauch

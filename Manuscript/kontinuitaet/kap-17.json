@@ -1,0 +1,73 @@
+{
+ "kapitel": 17,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Juna verändert ihr Leben; ihr gesamtes Motiv bleibt unbekannt.",
+   "seit": 17,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Ihre Autonomie wird über Wirkung gezeigt, ohne neue direkte Begegnung.",
+   "seit": 17,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] K: Juna lebt weiter und hat sich den Ort genommen. Er kommt darin nicht vor (T:L242–L245).",
+   "seit": 17,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: „Er will wissen, was gelöscht wurde“ (T:L247).",
+   "seit": 17,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Junas Gegenwart läuft unabhängig von Kaels Zeit.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW2",
+   "art": "welt",
+   "seit": 14,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Kiko",
+   "art": "anteil",
+   "seit": 17,
+   "kanal": "Stimme",
+   "wie": "Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Lia",
+   "art": "anteil",
+   "seit": 17,
+   "kanal": "Stimme",
+   "wie": "Die erste Erasure-Welle (Zyklus 1): Kiko erstarrt; Lia will Juna halten und wegstoßen — die Trennung im Inneren.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

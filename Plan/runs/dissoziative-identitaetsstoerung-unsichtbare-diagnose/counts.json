@@ -1,0 +1,387 @@
+{
+  "document": "dissoziative-identitaetsstoerung-unsichtbare-diagnose",
+  "drive_id": "1Um24fSP8BkJn7LPscGAjq2hI8Giosqr05rIzLlYYqW8",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Dissoziative Identitätsstörung": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        211,
+        215,
+        220,
+        232,
+        238,
+        301,
+        302
+      ]
+    },
+    "DIS": {
+      "n": 69,
+      "n_including_compounds": 79,
+      "lines": [
+        15,
+        17,
+        19,
+        21,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        39,
+        41,
+        43,
+        54,
+        63,
+        64,
+        65,
+        66,
+        67,
+        71,
+        73,
+        75,
+        81,
+        85,
+        87,
+        91,
+        95,
+        97,
+        99,
+        107,
+        113,
+        117,
+        123,
+        125,
+        127,
+        131,
+        133,
+        139,
+        141,
+        143,
+        145,
+        147,
+        151,
+        157,
+        159,
+        167,
+        169,
+        171,
+        173,
+        175,
+        177,
+        183,
+        185,
+        187,
+        191,
+        223,
+        235,
+        238,
+        262,
+        305
+      ]
+    },
+    "Anteilspersönlichkeiten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        57
+      ]
+    },
+    "Anteile": {
+      "n": 7,
+      "n_including_compounds": 10,
+      "lines": [
+        21,
+        55,
+        57,
+        59,
+        79,
+        101,
+        111,
+        157,
+        163,
+        183
+      ]
+    },
+    "Identitätszustände": {
+      "n": 8,
+      "n_including_compounds": 12,
+      "lines": [
+        55,
+        77,
+        79,
+        97,
+        101,
+        107,
+        109,
+        113,
+        117,
+        151,
+        173
+      ]
+    },
+    "Kompartmentalisierung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        107
+      ]
+    },
+    "Traumagedächtnis": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        99,
+        101
+      ]
+    },
+    "Ich-Schwäche": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        109,
+        115,
+        117
+      ]
+    },
+    "Spaltung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        107,
+        109,
+        111,
+        117
+      ]
+    },
+    "Dissoziation": {
+      "n": 16,
+      "n_including_compounds": 17,
+      "lines": [
+        43,
+        87,
+        93,
+        105,
+        111,
+        115,
+        117,
+        119,
+        177,
+        183,
+        199,
+        219,
+        229,
+        248
+      ]
+    },
+    "strukturelle Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        117
+      ]
+    },
+    "protektive Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Amnesie": {
+      "n": 8,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        41,
+        43,
+        55,
+        69,
+        79,
+        87,
+        101,
+        107,
+        131,
+        141,
+        236
+      ]
+    },
+    "Scham": {
+      "n": 15,
+      "n_including_compounds": 17,
+      "lines": [
+        15,
+        56,
+        75,
+        109,
+        113,
+        137,
+        147,
+        149,
+        151,
+        157,
+        163,
+        183,
+        187
+      ]
+    },
+    "Unsichtbarkeit": {
+      "n": 31,
+      "n_including_compounds": 31,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        21,
+        29,
+        31,
+        47,
+        53,
+        87,
+        95,
+        97,
+        107,
+        113,
+        115,
+        119,
+        123,
+        145,
+        147,
+        151,
+        153,
+        159,
+        167,
+        171,
+        177,
+        191
+      ]
+    },
+    "Fragmentierung": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        56,
+        59,
+        99,
+        107,
+        115,
+        163,
+        181
+      ]
+    },
+    "Verheimlichung": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        56,
+        87,
+        113,
+        151,
+        163
+      ]
+    },
+    "Maskierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        81
+      ]
+    },
+    "Iatrogenese-Hypothese": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "ANP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        107
+      ]
+    },
+    "EP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        107
+      ]
+    },
+    "HPA-Achse": {
+      "n": 2,
+      "n_including_compounds": 4,
+      "lines": [
+        99,
+        103,
+        251
+      ]
+    },
+    "Epigenetik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        23,
+        203
+      ]
+    },
+    "Default Mode Network": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "SCID-D": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        37,
+        41,
+        93,
+        185,
+        225
+      ]
+    },
+    "Beschwerdenvalidierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        137
+      ]
+    },
+    "Retraumatisierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        113,
+        173
+      ]
+    },
+    "Psychoedukation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        183
+      ]
+    },
+    "Gegenübertragung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        185
+      ]
+    }
+  }
+}

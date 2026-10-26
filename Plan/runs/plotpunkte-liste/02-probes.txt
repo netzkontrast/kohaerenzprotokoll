@@ -1,0 +1,45 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      3
+  backslash escapes      0
+  typographic marks      0
+  ascii quotes           18
+
+# inflection families -- one term, several surfaces
+  reali    Realität, Realitäten, Realitätsriss, Realitätssturm
+  repar    Reparatur, Reparaturversuch, Reparaturversuche
+  erleb    Erleben, Erlebt
+  glitc    Glitch, Glitches
+  guard    Guardian, Guardians
+  integ    Integration, Integrations
+  intru    Intrusion, Intrusionen
+  konze    Konzept, Konzeptionelle
+  logik    Logik, Logikfehler
+  perso    Persona, Personas
+  risse    Risse, Risses
+  seele    Seele, Seelen
+  syste    System, Systembruch
+  werkz    Werkzeuge, Werkzeugen
+  wächt    Wächter, Wächters
+
+# substring pairs -- never one term, often merged by accident
+  Echo < Echos
+  Info < Information
+  Riss < Risse
+  Riss < Risses
+  Riss < Realitätsriss
+  Teil < Teilerfolg
+  Bruch < Systembruch
+  Logik < Logikfehler
+  Risse < Risses
+  Seele < Seelen
+  Fehler < Logikfehler
+  Glitch < Glitches
+  System < Systembruch
+  Konzept < Detailkonzept
+  Konzept < Konzeptionelle
+  Persona < Personas
+  Störung < Zerstörung
+  Wächter < Wächters
+  Guardian < Guardians
+  Realität < Realitäten

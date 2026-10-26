@@ -1,0 +1,159 @@
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Narrative Phase"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Narrative Phase` ^[junas-liebe-kaels-trauma-aegis-docx.md:#13]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Kernemotion/Atmosphäre"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Kernemotion/Atmosphäre` ^[junas-liebe-kaels-trauma-aegis-docx.md:#13]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Zentrale Metaphern/Motive"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Zentrale Metaphern/Motive` ^[junas-liebe-kaels-trauma-aegis-docx.md:#13]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Bezug zu Kaels System/AEGIS/Externe Ebene"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Bezug zu Kaels System/AEGIS/Externe Ebene` ^[junas-liebe-kaels-trauma-aegis-docx.md:#13]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Musikalische/Stilistische Anregungen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Musikalische/Stilistische Anregungen` ^[junas-liebe-kaels-trauma-aegis-docx.md:#13]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Lyrische Kernideen/Fragestellungen"
+whole word, case-sensitive     13
+whole word, case-insensitive   13
+including compounds            13
+
+`Lyrische Kernideen/Fragestellungen` ^[junas-liebe-kaels-trauma-aegis-docx.md:#13]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "könnte"
+whole word, case-sensitive     32
+whole word, case-insensitive   32
+including compounds            41
+
+`könnte` ^[junas-liebe-kaels-trauma-aegis-docx.md:#32]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "DIS"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            11
+
+`DIS` ^[junas-liebe-kaels-trauma-aegis-docx.md:#10]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Dissoziativen Identitätsstörung"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dissoziativen Identitätsstörung` ^[junas-liebe-kaels-trauma-aegis-docx.md:#1]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Anteile"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            19
+
+`Anteile` ^[junas-liebe-kaels-trauma-aegis-docx.md:#15]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Alters"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Alters` ^[junas-liebe-kaels-trauma-aegis-docx.md:#2]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Überwelt"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Überwelt` ^[junas-liebe-kaels-trauma-aegis-docx.md:#2]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Externe Ebene"
+whole word, case-sensitive     50
+whole word, case-insensitive   50
+including compounds            50
+
+`Externe Ebene` ^[junas-liebe-kaels-trauma-aegis-docx.md:#50]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Externen Ebene"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            23
+
+`Externen Ebene` ^[junas-liebe-kaels-trauma-aegis-docx.md:#23]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Static on the Line"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Static on the Line` ^[junas-liebe-kaels-trauma-aegis-docx.md:#6]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Der Anker"
+whole word, case-sensitive     1
+whole word, case-insensitive   3
+including compounds            1
+
+`Der Anker` ^[junas-liebe-kaels-trauma-aegis-docx.md:#1]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Der Leuchtturm in der Dunkelheit"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der Leuchtturm in der Dunkelheit` ^[junas-liebe-kaels-trauma-aegis-docx.md:#1]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Der rote Faden"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Der rote Faden` ^[junas-liebe-kaels-trauma-aegis-docx.md:#1]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Negentropie"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Negentropie` ^[junas-liebe-kaels-trauma-aegis-docx.md:#4]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Entropie"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            8
+
+`Entropie` ^[junas-liebe-kaels-trauma-aegis-docx.md:#7]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Dialektik"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Dialektik` ^[junas-liebe-kaels-trauma-aegis-docx.md:#1]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Reboot"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Reboot` ^[junas-liebe-kaels-trauma-aegis-docx.md:#2]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[junas-liebe-kaels-trauma-aegis-docx.md:#0]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[junas-liebe-kaels-trauma-aegis-docx.md:#0]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[junas-liebe-kaels-trauma-aegis-docx.md:#0]
+$ python3 scripts/read.py junas-liebe-kaels-trauma-aegis-docx --count "Referenzen"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Referenzen` ^[junas-liebe-kaels-trauma-aegis-docx.md:#1]
+stance_marker_count 78 = 6 x 13
+$ grep -c '' Sources/drive/junas-liebe-kaels-trauma-aegis-docx.md
+387

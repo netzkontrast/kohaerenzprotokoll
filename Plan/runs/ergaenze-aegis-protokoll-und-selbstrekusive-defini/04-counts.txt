@@ -1,0 +1,62 @@
+# counts for 51 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            25 word    32 in   [15, 26, 31, 35, 46, 50]
+                                    2      as AEGIS-Protokoll
+                                    1      as AEGIS-Perspektive
+                                    1      as AEGIS-Protokolle
+                                    1      as AEGIS-Definition
+  Autonomous Entropic Gatekeeper for Integrity Systems    2 word     2 in   [35, 55]
+  Entropic Gatekeeper               3 word     4 in   [35, 55, 112, 129]
+  Überwelt                          3 word     4 in   [27, 36, 42, 46]
+                                    1      as Überwelt-Perspektive
+  Entropie                          6 word     6 in   [37, 38, 42, 46, 129]
+                                    1      as entropie-managende
+  universal reboot                  3 word     3 in   [15, 26, 129]
+  Kontrollkern                      2 word     2 in   [36, 55]
+  Systemkohärenz                    2 word     2 in   [37, 99]
+  nützliche Komplexität             1 word     1 in   [38]
+  nicht-lokale Nicht-Existenz       2 word     2 in   [26, 112]
+  Risse                             1 word     1 in   [46]
+  AEGIS Functional Protocol v1.4    1 word     1 in   [51]
+  System Identity Layer             1 word     1 in   [55]
+  Zero-Trust Execution Model (ZTEM)    1 word     1 in   [56]
+  Zero-Trust Execution Model        1 word     1 in   [56]
+  ZTEM                              1 word     1 in   [56]
+  Real-time self-verification (RTSV)    1 word     1 in   [60]
+  RTSV                              1 word     1 in   [60]
+  Behavioral Proof-of-Function (BPoF)    1 word     1 in   [61]
+  BPoF                              1 word     1 in   [61]
+  Encrypted Intent Channels (EIC)    1 word     1 in   [62]
+  EIC                               1 word     1 in   [62]
+  Role in System Topology           1 word     1 in   [66]
+  Integrity Guardian                1 word     1 in   [70]
+  Cognitive Firewall                1 word     1 in   [71]
+  Consensus Enforcer                1 word     1 in   [72]
+  Ontologische Positionierung       1 word     1 in   [76]
+  Self-Verification Interface (SVI)    1 word     1 in   [77]
+  SVI                               1 word     1 in   [77]
+  Logische Konsistenzanalyse (LCA)    1 word     1 in   [81]
+  LCA                               1 word     1 in   [81]
+  Redundanzfreie Informationskapselung (RIK)    1 word     1 in   [82]
+  RIK                               1 word     1 in   [82]
+  Dynamic Role Instancing (DRI)     1 word     1 in   [83]
+  DRI                               1 word     1 in   [83]
+  Failover & Recovery               1 word     1 in   [87]
+  Secure Isolation State (SIS)      1 word     1 in   [87]
+  SIS                               1 word     1 in   [87]
+  External Interface Constraints    1 word     1 in   [88]
+  Rekursive Signatur                1 word     1 in   [103]
+  Rekursionssperre                  1 word     1 in   [100]
+  Autoverifikation                  1 word     1 in   [100]
+  Nicht-Adressierbarkeit            1 word     1 in   [100]
+  Nullantwortparadigma              1 word     1 in   [101]
+  Kommunikationsprotokoll           1 word     1 in   [101]
+  Ontologische Position             1 word     2 in   [76, 102]
+  Regelverletzungsschranke          1 word     1 in   [102]
+  Handlungsträger                   1 word     1 in   [66]
+  Funktionsbasierte Existenz        1 word     1 in   [37]
+  Meta-Erzähler                     1 word     1 in   [23]
+  Gedankenreise                     5 word     5 in   [24, 110, 126, 138]

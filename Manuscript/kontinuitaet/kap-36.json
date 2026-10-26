@@ -1,0 +1,66 @@
+{
+ "kapitel": 36,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Kael versteht Juna ohne Worte.",
+   "seit": 36,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Kaels Wandel ist die Vortex-Inversion (B-RS Becoming).",
+   "seit": 36,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] Juna verbindet wieder, gegen seinen Schnitt (T:L452).",
+   "seit": 36,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Vortex 1, Ende.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Moros",
+   "art": "anteil",
+   "seit": 36,
+   "kanal": "Stimme",
+   "wie": "Moros' Drachenkampf; Selene als Architektin.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Selene",
+   "art": "anteil",
+   "seit": 36,
+   "kanal": "Stimme",
+   "wie": "Moros' Drachenkampf; Selene als Architektin.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

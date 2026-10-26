@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      8
+  backslash escapes      0
+  typographic marks      5
+  ascii quotes           24
+
+# inflection families -- one term, several surfaces
+  syste    System, Systeme, Systemgenesis, Systeminkonsistenz, Systemkohärenz, Systemkonsistenz, Systemnützlichkeit, Systemphasen, Systemprotokolle, Systems, Systemsicherheit, Systemzustand
+  inter    Interaktionen, Interface, Intern, Interpretation, Intervall
+  proto    Protocol, Protokoll, Protokolle, Protokollen, Protokolliert
+  infor    Informationen, Informationsdurchfluss, Informationsfreigabe, Informationskapselung
+  kapit    Kapitel, Kapitelentwurf, Kapitelentwurfs, Kapitelstruktur
+  reche    Recherche, Rechercheaufgaben, Rechercheergebnisse, Rechercheergebnissen
+  einle    Einleitung, Einleitungskapitel, Einleitungskapitels
+  exist    Existentes, Existenz, Existenzbegriff
+  funkt    Funktion, Funktionsaussagen, Funktionsbasierte
+  handl    Handlung, Handlungskoherenz, Handlungsträger
+  ident    Identity, Identitäts, Identitätssystems
+  insta    Instancing, Instanz, Instanzen
+  struk    Struktur, Strukturelle, Strukturen
+  zugri    Zugriff, Zugriffs, Zugriffsrechte
+  alter    Alternative, Alternativen
+  ausfo    Ausformulierung, Ausformulierungsauftrag
+  ausga    Ausgabeformat, Ausgangspunkt
+  bewer    Bewerten, Bewertung
+  defin    Definition, Definitionen
+  entro    Entropic, Entropie
+  entwu    Entwurf, Entwurfs
+  funct    Function, Functional
+  gatek    Gatekeeper, Gatekeepers
+  hande    Handeln, Handelt
+  haupt    Hauptaufgabe, Hauptteil
+
+# substring pairs -- never one term, often merged by accident
+  Ihre < Ihren
+  Teil < Hauptteil
+  Ziel < Zielmenge
+  Ziel < Potenziell
+  Model < Modell
+  Natur < Signatur
+  Nicht < Nichts
+  Rolle < Rollen
+  Roman < Romans
+  Reboot < Reboots
+  Selbst < Selbstdefinition
+  System < Systeme
+  System < Systems
+  System < Kernsystem
+  System < Subsysteme
+  System < Systemphasen
+  System < Systemgenesis
+  System < Systemzustand
+  System < Systemkohärenz
+  System < Systemkonsistenz

@@ -1,0 +1,689 @@
+{
+  "document": "beziehungsheilung-nach-trauma-konzeptpapier-3",
+  "drive_id": "1rqc1C9d8uD-Eahys_pzAqx29Sp81vnmm2Culsthu57A",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Walking on Both Sides": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        13,
+        17,
+        21,
+        79,
+        160,
+        230,
+        234,
+        277,
+        281,
+        287
+      ]
+    },
+    "Prelude": {
+      "n": 12,
+      "n_including_compounds": 21,
+      "lines": [
+        11,
+        17,
+        25,
+        156,
+        230,
+        252,
+        270,
+        272,
+        273,
+        274,
+        275,
+        277,
+        279,
+        281,
+        298,
+        310,
+        312
+      ]
+    },
+    "K-PTBS": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        33,
+        34,
+        69
+      ]
+    },
+    "PTBS": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        31,
+        33,
+        34,
+        69,
+        394,
+        439
+      ]
+    },
+    "Difficulties with Self Organization": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "DSO": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Bindungstheorie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        41
+      ]
+    },
+    "Bindungsstil": {
+      "n": 4,
+      "n_including_compounds": 12,
+      "lines": [
+        25,
+        41,
+        43,
+        51,
+        53,
+        55,
+        301,
+        377
+      ]
+    },
+    "Bindungsstile": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        25,
+        41,
+        43,
+        51,
+        53,
+        55,
+        377
+      ]
+    },
+    "desorganisierten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Bindungswippe": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Dissoziation": {
+      "n": 19,
+      "n_including_compounds": 21,
+      "lines": [
+        25,
+        34,
+        63,
+        67,
+        69,
+        71,
+        75,
+        77,
+        79,
+        206,
+        242,
+        302,
+        338,
+        339,
+        379,
+        382
+      ]
+    },
+    "Depersonalisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Derealisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Amnesie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        69
+      ]
+    },
+    "Dissoziationsepisode": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        302,
+        338
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        288,
+        319
+      ]
+    },
+    "Co-Abhängigkeit": {
+      "n": 22,
+      "n_including_compounds": 23,
+      "lines": [
+        83,
+        85,
+        87,
+        89,
+        91,
+        101,
+        156,
+        175,
+        185,
+        188,
+        191,
+        206,
+        291,
+        308,
+        329,
+        387,
+        391,
+        392,
+        393,
+        394
+      ]
+    },
+    "Parentifizierung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        395
+      ]
+    },
+    "Fawn Response": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        396
+      ]
+    },
+    "Bindungsverletzung": {
+      "n": 1,
+      "n_including_compounds": 9,
+      "lines": [
+        105,
+        109,
+        134,
+        136,
+        138,
+        156,
+        228,
+        290,
+        349
+      ]
+    },
+    "Trauma-Reinszenierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        126
+      ]
+    },
+    "Interaktionszyklen": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        51,
+        124,
+        128,
+        156
+      ]
+    },
+    "Forderungs-Rückzugs-Muster": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "Verfolger-Distanzierer-Dynamik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        130
+      ]
+    },
+    "EFT": {
+      "n": 12,
+      "n_including_compounds": 14,
+      "lines": [
+        132,
+        138,
+        148,
+        224,
+        304,
+        348,
+        401,
+        402,
+        413,
+        416
+      ]
+    },
+    "TSPT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Attachment Injury Resolution Model": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        138,
+        401
+      ]
+    },
+    "AIRM": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        138,
+        140,
+        228,
+        304,
+        348,
+        401
+      ]
+    },
+    "Tabula Rasa": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        150,
+        152
+      ]
+    },
+    "Blank Slate": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        152,
+        417,
+        418
+      ]
+    },
+    "Differenzierung": {
+      "n": 37,
+      "n_including_compounds": 43,
+      "lines": [
+        25,
+        158,
+        160,
+        162,
+        164,
+        166,
+        171,
+        173,
+        175,
+        177,
+        179,
+        185,
+        189,
+        190,
+        193,
+        195,
+        204,
+        206,
+        208,
+        215,
+        219,
+        230,
+        277,
+        306,
+        312,
+        329,
+        339,
+        348,
+        349,
+        425,
+        436
+      ]
+    },
+    "Fusion": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        169,
+        171,
+        175,
+        185,
+        188,
+        204,
+        206,
+        230,
+        291,
+        339
+      ]
+    },
+    "Enmeshment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        175
+      ]
+    },
+    "Cut-off": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        169,
+        171,
+        185,
+        188,
+        190,
+        191,
+        206,
+        230
+      ]
+    },
+    "Crucible Approach": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        195,
+        215,
+        436
+      ]
+    },
+    "Solid Flexible Self": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        230
+      ]
+    },
+    "Quiet Mind – Calm Heart": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        198,
+        230
+      ]
+    },
+    "Grounded Responding": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        199
+      ]
+    },
+    "Meaningful Endurance": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        200,
+        211,
+        230
+      ]
+    },
+    "Vier Punkte der Balance": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        193
+      ]
+    },
+    "Trigger": {
+      "n": 16,
+      "n_including_compounds": 21,
+      "lines": [
+        36,
+        79,
+        118,
+        128,
+        132,
+        187,
+        210,
+        230,
+        277,
+        288,
+        300,
+        305,
+        334,
+        339,
+        358
+      ]
+    },
+    "Misattunement": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        292
+      ]
+    },
+    "Heldenreise": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        246,
+        250,
+        260
+      ]
+    },
+    "Anima": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        254,
+        263,
+        454
+      ]
+    },
+    "Animus": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        254,
+        263
+      ]
+    },
+    "Der Schatten in Beziehungen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        256
+      ]
+    },
+    "Verwundeter Heiler": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "Individuationsreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        263
+      ]
+    },
+    "Transformationsreise": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        262
+      ]
+    },
+    "Transformative Relationship Events": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        273
+      ]
+    },
+    "Narrative Phänomenologie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        274
+      ]
+    },
+    "Co-Kreations-Narrativ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        275
+      ]
+    },
+    "RCI-Modell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        258
+      ]
+    },
+    "Seiltanz": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        240,
+        330
+      ]
+    },
+    "Das Beziehungs-Labyrinth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        241
+      ]
+    },
+    "Bindungsgeister": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        39
+      ]
+    },
+    "Wendepunkt": {
+      "n": 5,
+      "n_including_compounds": 9,
+      "lines": [
+        274,
+        296,
+        298,
+        304,
+        305,
+        306,
+        307,
+        308,
+        312
+      ]
+    },
+    "Konflikt": {
+      "n": 10,
+      "n_including_compounds": 36,
+      "lines": [
+        41,
+        47,
+        48,
+        63,
+        71,
+        77,
+        79,
+        89,
+        94,
+        128,
+        130,
+        164,
+        171,
+        187,
+        190,
+        195,
+        210,
+        230,
+        256,
+        272,
+        277,
+        281,
+        287,
+        292,
+        296,
+        298,
+        300,
+        301,
+        302,
+        303,
+        304,
+        338,
+        410
+      ]
+    },
+    "Das Danach": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        314
+      ]
+    },
+    "Das Paradox": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        287,
+        324
+      ]
+    },
+    "Der Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        334
+      ]
+    },
+    "Der Reparaturversuch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        344
+      ]
+    },
+    "Schmelztiegel-Moment": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        334
+      ]
+    }
+  }
+}

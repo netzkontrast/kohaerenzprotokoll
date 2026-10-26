@@ -1,0 +1,147 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+The document is a plot blueprint in three parts: core questions answered (Teil 1), an overview table and 39 plot steps in seven fields each (Teil 2), and a closing coherence check (Teil 3). It is German prose with English chapter titles beside the German ones, and the plot steps are grouped into ranges (1.6 - 1.12, 2.1 - 2.3). Candidates below are written as the document spells them. Chapter titles with a slash are listed by part. The lens terms (theories the document applies to the world) follow under their own heading.
+
+- AEGIS
+- Kaels
+- Guardians
+- Kohärenz-Insel
+- Kohärenz-Insel-Essenz
+- Potentialmeer
+- Nexus
+- Kernwelten
+- Welle von Unmöglichkeit
+- Risse
+- K-J-Paradoxon
+- K-J-Resonanz
+- K-J-Bond-Verlust Trigger
+- K-J-Bond
+- K-J-Verbindung
+- K-J-Einheit
+- Gleichzeitigkeit
+- Instrumente der Ordnung
+- Funktionale Multiplizität
+- PMAS
+- CCPP
+- RIVE
+- SARM
+- OBP
+- Ontological Boundary Protocol
+- Core Cognitive & Purpose Protocols
+- v1.4
+- v1.5
+- Reboot
+- Einsamkeit
+- Zweck
+- Alters
+- DID
+- Dissoziativen Identitätsstörung
+- Glitches
+- EST
+- Environmental Storytelling
+- Entropie
+- Wendepunkt der Guardians
+- Loyalisten
+- Zweifler
+- Ordnungshüter
+- Seinsform
+- Wahrnehmungslücke
+- Inhärente Einheit
+- Alternative Prinzipien
+- sub-protokollarisch
+- Failsafe
+- Mustererkennung
+- Kernmandat
+- Primärziel
+- Verstärkte Grenzdurchsetzung
+- Verbesserte Prädiktive Modellierung
+- Schnellere Bedrohungsreaktion
+- Scheitern an Einsamkeit/Zweck
+- Paradoxon-Auflösung
+- Zugang zum Potentialmeer
+- Neue Schnittstelle
+- Veränderung von AEGIS
+- Funken
+- Heldenreise
+- Integrationsreise
+- Separation
+- Transzendenz
+- ontologischen Blindheit
+- Point of No Return
+- Midpoint
+- System-GAU
+- falsche Auflösung
+- Auge des Sturms
+- Das Zersplitterte Echo
+- Phantom im Spiegel
+- Die Metaebene
+- Der Fehlgeleitete Reparaturversuch
+- Die Heldenreise
+- Der Fehler in der Logik
+- Das Ufer im Nebel
+- Die Mauern der Wachsamkeit
+- Die widersprüchlichen Karten
+- Der blockierte Funke
+- Eintritt in den Nexus
+- Die Jäger der Ordnung
+- Risse im Protokoll
+- Die Welle
+- Im Auge des Sturms
+- Die Kartographie der Seele
+- Das Geisterprotokoll
+- Die Stille im Kern
+- Die Gleichung der Trennung
+- Jenseits der Grenze
+- Die Gemeinsame Jagd
+- Offenes Ende
+- The Glitch in Logic
+- The Shore in the Fog
+- The Walls of Vigilance
+- The Contradictory Maps
+- The Blocked Spark
+- Entering the Nexus
+- Hunters of Order
+- Cracks in the Protocol
+- The Wave
+- Eye of the Storm
+- Mapping the Soul
+- The Ghost Protocol
+- The Silence at the Core
+- The Equation of Separation
+- Beyond the Boundary
+- The Joint Hunt
+- Simultaneity
+- Glitchen
+- Glitchende
+
+## lens
+
+- Informationstheorie
+- Radikaler Konstruktivismus
+- Konstruktivismus
+- Systemtheorie
+- Autopoiesis
+- Kontrolltheorie
+- Kybernetik
+- Chaostheorie
+- Nichtlineare Dynamik
+- Complex Adaptive Systems
+- CAS
+- Semiotik
+- Spieltheorie
+- Existenzialismus
+- Komplexitätstheorie
+- Katastrophentheorie
+- Erkenntnistheorie
+- Lernpsychologie
+- Entwicklungspsychologie
+- Maschinelles Lernen
+- Kognitive Dissonanz
+- Hermeneutik
+- Bewusstseinsphilosophie
+- Selbstorganisation
+- Resilienz
+- Emergenz
+- Transhumanismus/Posthumanismus
+- Gödel'sche Unvollständigkeitssätze
+- Homöostase

@@ -1,0 +1,204 @@
+{
+  "document": "liste-nun-alle-plot-ideen-kurz-auf",
+  "drive_id": "1ET0d9ViEmnPl85doGpTnNsgx1jZ27ICPPvthL4tHUZI",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 59,
+    "decisions": 62,
+    "decided_by_lookup": 42,
+    "needs_judgement": 20
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "cerberus",
+      "lines": [
+        43,
+        96,
+        167,
+        173
+      ],
+      "attribution": "",
+      "note": "Cerberus assigned to one persona's reality, then one chapter in Part 2"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        22,
+        37,
+        145,
+        162,
+        184,
+        198
+      ],
+      "attribution": "",
+      "note": "assigned observers in Part 1, analysts and tool-givers in Part 2"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        44,
+        128,
+        167,
+        173
+      ],
+      "attribution": "",
+      "note": "Kairos assigned to one persona's reality, then one chapter in Part 2"
+    },
+    {
+      "page": "kohaerenz-programm",
+      "lines": [
+        21,
+        146,
+        162
+      ],
+      "attribution": "",
+      "note": "the Seelen-Kohärenz-Programm that fails at the break"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        41,
+        64,
+        167,
+        173
+      ],
+      "attribution": "",
+      "note": "LogOS assigned to one persona's reality, then one chapter in Part 2"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        42,
+        80,
+        167,
+        173
+      ],
+      "attribution": "",
+      "note": "Mnemosyne assigned to one persona's reality, then one chapter in Part 2"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        173,
+        200
+      ],
+      "attribution": "",
+      "note": "the Guardians confront the personas with their multiplicity; the finale's functional multiplicity"
+    },
+    {
+      "page": "nexus",
+      "lines": [
+        156,
+        161
+      ],
+      "attribution": "",
+      "note": "the red alarm in the Nexus opens Part 2"
+    },
+    {
+      "page": "partnerin",
+      "lines": [
+        154,
+        174,
+        184,
+        191,
+        194,
+        195,
+        206
+      ],
+      "attribution": "",
+      "note": "missing from the Guardians' data, reappearing in crisis, the central thread"
+    },
+    {
+      "page": "personas",
+      "lines": [
+        22,
+        53,
+        94,
+        135,
+        143,
+        171
+      ],
+      "attribution": "",
+      "note": "five personas, each the focus of an episode and the intruder in others"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        21,
+        65,
+        129,
+        131,
+        198
+      ],
+      "attribution": "",
+      "note": "cracks from a display glitch to the first large crack and the hunt's new cracks"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        45,
+        112,
+        167,
+        173
+      ],
+      "attribution": "",
+      "note": "Sophia assigned to one persona's reality, then one chapter in Part 2"
+    },
+    {
+      "page": "ueberraum",
+      "lines": [
+        22,
+        26,
+        146,
+        152
+      ],
+      "attribution": "",
+      "note": "the meta-reality where the alarm sounds and the Guardians act"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 184,
+      "decision": "occurrence",
+      "why": "„interne Kohärenz“ of the tools, not the page's term (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 173,
+      "decision": "reading",
+      "why": "the Guardians confront the personas with their multiplicity; read on the page"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

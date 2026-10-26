@@ -1,0 +1,491 @@
+{
+  "document": "protokoll-der-offenbarung",
+  "drive_id": "1LYlPFiolMRizl-SAkvJQvYk0b9fY4aalv7voXyLrmFM",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Bunker": {
+      "n": 10,
+      "n_including_compounds": 22,
+      "lines": [
+        15,
+        21,
+        50,
+        257,
+        290,
+        300,
+        311,
+        320,
+        338,
+        416,
+        579,
+        659,
+        698,
+        710,
+        717,
+        813,
+        907,
+        988,
+        1053,
+        1089,
+        1102,
+        1111
+      ]
+    },
+    "Bunkers": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        21,
+        257,
+        311,
+        338,
+        579,
+        659,
+        698,
+        717,
+        813,
+        907,
+        988,
+        1053
+      ]
+    },
+    "Eingangsraum": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        21,
+        67,
+        497,
+        813,
+        907,
+        988,
+        1053
+      ]
+    },
+    "Kontrollraum": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        98,
+        140,
+        160,
+        179
+      ]
+    },
+    "Vestibül": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Riss": {
+      "n": 4,
+      "n_including_compounds": 6,
+      "lines": [
+        94,
+        100,
+        116,
+        273,
+        579,
+        595
+      ]
+    },
+    "Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        100
+      ]
+    },
+    "Speicherbank": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        59,
+        79
+      ]
+    },
+    "Systemkerne": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        21
+      ]
+    },
+    "Matrix": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        56,
+        76
+      ]
+    },
+    "Siegel": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        21,
+        148,
+        988
+      ]
+    },
+    "Das System": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        11,
+        98,
+        179,
+        257,
+        338,
+        416,
+        497,
+        540,
+        561,
+        579,
+        621,
+        641,
+        659,
+        688,
+        736,
+        813,
+        907,
+        988
+      ]
+    },
+    "Systemstimme": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        29,
+        75,
+        106,
+        187,
+        265,
+        346,
+        424,
+        505,
+        587,
+        667,
+        744,
+        821,
+        915,
+        996,
+        1061
+      ]
+    },
+    "Systemstimmen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Kollektivstimme": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        1066,
+        1073,
+        1078,
+        1101,
+        1128
+      ]
+    },
+    "Anteile": {
+      "n": 13,
+      "n_including_compounds": 15,
+      "lines": [
+        35,
+        173,
+        303,
+        410,
+        497,
+        511,
+        573,
+        653,
+        826,
+        901,
+        995,
+        1012,
+        1038,
+        1066,
+        1128
+      ]
+    },
+    "Anteilen": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        35,
+        1128
+      ]
+    },
+    "KERN-EINHEIT": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        589,
+        645
+      ]
+    },
+    "KERNFRAGMENT": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        267
+      ]
+    },
+    "Kael-System-Core": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Argus": {
+      "n": 6,
+      "n_including_compounds": 19,
+      "lines": [
+        64,
+        66,
+        111,
+        113,
+        126,
+        144,
+        146,
+        192,
+        193,
+        430,
+        432,
+        447,
+        463,
+        551,
+        763,
+        883,
+        884,
+        995,
+        1020
+      ]
+    },
+    "Kiko": {
+      "n": 2,
+      "n_including_compounds": 6,
+      "lines": [
+        659,
+        672,
+        677,
+        682,
+        730,
+        760
+      ]
+    },
+    "Lia": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        659,
+        672,
+        702,
+        730,
+        868,
+        869,
+        1022,
+        1096
+      ]
+    },
+    "Protokollbeginn": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        17,
+        23
+      ]
+    },
+    "Logbucheintrag": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        94,
+        100,
+        141,
+        161
+      ]
+    },
+    "Kernschmelze": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        253,
+        259
+      ]
+    },
+    "Abstiegsprotokoll": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        575,
+        581
+      ]
+    },
+    "Systemfehler": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        412,
+        416,
+        418
+      ]
+    },
+    "Weichenstellung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        412,
+        416,
+        418
+      ]
+    },
+    "SWITCH-PROTOKOLL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        427
+      ]
+    },
+    "Direktive": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        21,
+        493,
+        497,
+        499
+      ]
+    },
+    "Übermittlung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        1049,
+        1053,
+        1055
+      ]
+    },
+    "Kinderstimmen-Archiv": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        655,
+        661
+      ]
+    },
+    "Materielle Zeugen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        809,
+        815
+      ]
+    },
+    "Mosaik der Stimmen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        984,
+        990
+      ]
+    },
+    "Logik der Emotion": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        732,
+        738
+      ]
+    },
+    "Sektion Trauma": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        253,
+        259
+      ]
+    },
+    "Chronik der Entfremdung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        334,
+        340
+      ]
+    },
+    "Erste Risse": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        94,
+        100
+      ]
+    },
+    "Dystopian Future Synth": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        15,
+        55,
+        92,
+        173,
+        332,
+        410,
+        491,
+        573,
+        653,
+        730,
+        807,
+        901,
+        982,
+        1047,
+        1128
+      ]
+    },
+    "Clear Twist": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        92,
+        807
+      ]
+    },
+    "Schutzmechanismen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        152
+      ]
+    },
+    "Dissoziationsstruktur": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        145
+      ]
+    },
+    "Latenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        45
+      ]
+    }
+  }
+}

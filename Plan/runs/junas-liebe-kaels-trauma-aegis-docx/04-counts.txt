@@ -1,0 +1,84 @@
+# counts for 61 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Juna                             67 word   157 in   [11, 15, 17, 19, 21, 23]  <-- substring
+                                   90      as Junas
+  Kael                             82 word   151 in   [17, 19, 21, 27, 29, 31]
+                                   69      as Kaels
+  Junas                            90 word    90 in   [15, 17, 19, 21, 23, 29]
+  Kaels                            69 word    69 in   [19, 21, 27, 29, 31, 37]
+  AEGIS                            64 word    65 in   [19, 21, 27, 45, 61, 69]
+                                    1      as AEGIS-Kontrolle
+  AEGIS'                           18 word    18 in   [21, 69, 71, 73, 79, 83]
+  Autonomous Entropic Gatekeeper    1 word     1 in   [19]
+  Externe Ebene                    50 word    50 in   [19, 57, 67, 71, 73, 75]
+  Externen Ebene                   23 word    23 in   [21, 57, 61, 79, 83, 91]
+  Überwelt                          2 word     2 in   [19, 71]
+  Kern-Welten                       2 word     2 in   [19, 71]
+  Simulation                       32 word    32 in   [17, 19, 21, 27, 73, 75]
+  Reboot                            2 word     2 in   [17, 109]
+  Anteile                          15 word    19 in   [27, 39, 53, 57, 81, 95]
+                                    4      as Anteilen
+  Alters                            2 word     2 in   [19, 37]
+  DIS                              10 word    11 in   [19, 25, 27, 37, 39, 43]
+  Dissoziativen Identitätsstörung    1 word     1 in   [19]
+  Anomalie                          3 word     3 in   [19, 83, 207]
+  Katalysatorin                     4 word     4 in   [29, 43, 47, 129]
+  Schleier                         14 word    15 in   [11, 112, 155, 167, 173, 214]
+                                    1      as Schleiers
+  Echo                             27 word    32 in   [11, 79, 105, 143, 147, 151]
+                                    2      as Echos
+                                    1      as Echoismus
+                                    1      as Echoism
+                                    1      as Echoist
+  Das Echo                          9 word     9 in   [11, 105, 151, 155, 167, 236]
+  Leuchtturm                        8 word     8 in   [106, 149, 189, 191, 194, 294]
+  Leuchtfeuer                       3 word     3 in   [15, 129, 187]
+  Anker                            10 word    10 in   [17, 65, 91, 107, 163, 257]
+  Der Anker                         1 word     1 in   [107]
+  Der Leuchtturm in der Dunkelheit    1 word     1 in   [106]
+  Die Brücke zwischen den Welten    1 word     1 in   [108]
+  Der rote Faden                    1 word     1 in   [109]
+  Static on the Line                6 word     6 in   [45, 63, 139, 161, 223, 227]
+  Niemandsland                      2 word     2 in   [187, 189]
+  Zeugin                            1 word     1 in   [51]
+  Raum halten                       1 word     1 in   [53]
+  Trauma                           23 word    31 in   [21, 25, 29, 45, 51, 55]
+                                    6      as Traumas
+                                    1      as Traumata
+                                    1      as traumatisierten
+                                    1      as traumatischer
+  Narrative Phase                  13 word    13 in   [171, 180, 189, 198, 207, 216]
+  Kernemotion/Atmosphäre           13 word    13 in   [172, 181, 190, 199, 208, 217]
+  Zentrale Metaphern/Motive        13 word    13 in   [173, 182, 191, 200, 209, 218]
+  Bezug zu Kaels System/AEGIS/Externe Ebene   13 word    13 in   [174, 183, 192, 201, 210, 219]
+  Musikalische/Stilistische Anregungen   13 word    13 in   [175, 184, 193, 202, 211, 220]
+  Lyrische Kernideen/Fragestellungen   13 word    13 in   [176, 185, 194, 203, 212, 221]
+  Wo die Stille Namen trägt         1 word     1 in   [169]
+  Der Garten jenseits des Schleiers    1 word     1 in   [214]
+  Das unendliche Echo               1 word     1 in   [277]
+  Penelope                          8 word     8 in   [126, 131, 241, 245, 248, 294]
+                                    1      as penelope-queen-ithaca
+  Orpheus                           7 word     7 in   [127, 131, 241, 248, 294, 372]
+                                    1      as orpheus-and-eurydice-a-timeless-tale-of-love-loss-and-the-power-of-music
+  Eurydike                          3 word     3 in   [127, 131, 245]
+  Psyche und Eros                   1 word     1 in   [128]
+  Entropie                          7 word     8 in   [19, 21, 69, 71, 83, 212]
+                                    1      as Entropieverständnis
+  Negentropie                       4 word     4 in   [19, 21, 71, 83]
+  negentropisch                     3 word     6 in   [69, 71, 83, 212, 292, 296]
+                                    2      as negentropischer
+                                    1      as negentropische
+  Strukturellen Dissoziation        1 word     1 in   [19]
+  ängstlichen Bindungsstil          5 word     6 in   [43, 135, 137, 141, 149, 261]
+  Co-Abhängigkeit                   6 word     6 in   [41, 43, 47, 63, 157]
+  Ich-Du-Beziehung                  2 word     2 in   [95, 99]
+  Quantenverschränkung              2 word     2 in   [97, 236]
+  Echoismus                         1 word     1 in   [105]
+  Panpsychismus                     1 word     1 in   [73]
+  Phänomenologie                    1 word     1 in   [73]
+  Dialektik                         1 word     1 in   [21]
+  Witnessing                        3 word     3 in   [51, 317, 318]
+  Holding Space                     1 word     1 in   [53]

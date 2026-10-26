@@ -1,0 +1,316 @@
+{
+  "document": "kohaerenz-protokoll-finaler-plot-blueprint",
+  "drive_id": "1P9MwBm7UKvgPuXeqCrMsPbd-Az-KWZKkPnbSUxtZU-k",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 26,
+  "backslash_escapes": 60,
+  "typographic_marks": 39,
+  "ascii_quotes": 240,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemagenten",
+      "Systemanalyse",
+      "Systemanomalien",
+      "Systembeschreibung",
+      "Systemdiagramme",
+      "Systemdysfunktion",
+      "Systeme",
+      "Systemebene",
+      "Systemebenen",
+      "Systementwicklung",
+      "Systemerhalt",
+      "Systemerhaltung",
+      "Systemfehler",
+      "Systemgrenzen",
+      "Systeminstabilität",
+      "Systeminstabilitäten",
+      "Systemische",
+      "Systemkollaps",
+      "Systemkomponenten",
+      "Systemkonsolen",
+      "Systemlogik",
+      "Systemreaktionen",
+      "Systems",
+      "Systemstabilität",
+      "Systemtheorie",
+      "Systemversagen",
+      "Systemversagens",
+      "Systemzusammenbruch",
+      "Systemzusammenbrüche"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbsterhaltung",
+      "Selbsterkenntnis",
+      "Selbstermächtigung",
+      "Selbsterschaffung",
+      "Selbstgefühl",
+      "Selbstheilung",
+      "Selbstorganisation",
+      "Selbstreflexion",
+      "Selbststabilisierung",
+      "Selbstvertrauen",
+      "Selbstwahrnehmung"
+    ],
+    "infor": [
+      "Information",
+      "Informationen",
+      "Informationsbeschaffung",
+      "Informationsblockaden",
+      "Informationsdisplays",
+      "Informationsebene",
+      "Informationslogik",
+      "Informationssystem",
+      "Informationstheorie",
+      "Informationsverarbeitung",
+      "Informationszugänge"
+    ],
+    "reali": [
+      "Realität",
+      "Realitätsaspekte",
+      "Realitätsdeutung",
+      "Realitätsdeutungen",
+      "Realitätsebene",
+      "Realitätsebenen",
+      "Realitätsgrenzen",
+      "Realitätsmodelle",
+      "Realitätsverschiebung",
+      "Realitätsveränderungen",
+      "Realization"
+    ],
+    "inter": [
+      "Interaktion",
+      "Interaktionen",
+      "Interface",
+      "Interfaces",
+      "Intern",
+      "Interpretation",
+      "Intervention",
+      "Interventionen"
+    ],
+    "daten": [
+      "Daten",
+      "Datenbanken",
+      "Datenerfassung",
+      "Datenfehler",
+      "Datenmuster",
+      "Datenpunkte",
+      "Datenströme"
+    ],
+    "kontr": [
+      "Kontraproduktivität",
+      "Kontrolle",
+      "Kontrollfunktion",
+      "Kontrollmechanismen",
+      "Kontrollsystems",
+      "Kontrolltheorie",
+      "Kontrollverlust"
+    ],
+    "berei": [
+      "Bereich",
+      "Bereiche",
+      "Bereichen",
+      "Bereitet",
+      "Bereitschaft",
+      "Bereitstellung"
+    ],
+    "integ": [
+      "Integration",
+      "Integrations",
+      "Integrationsprozess",
+      "Integrationsreise",
+      "Integrationsziel",
+      "Integrierte"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konfliktdynamik",
+      "Konflikte",
+      "Konfliktrahmen",
+      "Konfliktrahmens",
+      "Konflikts"
+    ],
+    "fragm": [
+      "Fragment",
+      "Fragmentation",
+      "Fragmente",
+      "Fragmenten",
+      "Fragmentierung"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungen",
+      "Handlungsebene",
+      "Handlungsimpuls",
+      "Handlungssynopsis"
+    ],
+    "parad": [
+      "Paradigma",
+      "Paradigmenwechsel",
+      "Paradox",
+      "Paradoxon",
+      "Paradoxons"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potentials",
+      "Potenzial"
+    ],
+    "proto": [
+      "Protocol",
+      "Protocols",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen"
+    ],
+    "zusta": [
+      "Zustand",
+      "Zustandes",
+      "Zustands",
+      "Zustandsänderungen",
+      "Zustandsüberwachung"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitsauftrag",
+      "Arbeitsauftrags",
+      "Arbeitsplatz"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakterprofilen",
+      "Charakterzustand"
+    ],
+    "durch": [
+      "Durchbruchs",
+      "Durchdringung",
+      "Durchlebt",
+      "Durchsetzung"
+    ],
+    "fehle": [
+      "Fehlen",
+      "Fehler",
+      "Fehleranalyse",
+      "Fehlermeldungen"
+    ],
+    "gleic": [
+      "Gleichgewicht",
+      "Gleichung",
+      "Gleichzeitig",
+      "Gleichzeitigkeit"
+    ],
+    "glitc": [
+      "Glitch",
+      "Glitchen",
+      "Glitchende",
+      "Glitches"
+    ],
+    "grenz": [
+      "Grenzdurchsetzung",
+      "Grenze",
+      "Grenzen",
+      "Grenzkontrolle"
+    ],
+    "konze": [
+      "Konzepten",
+      "Konzeptionell",
+      "Konzeptionelle",
+      "Konzeptionellen"
+    ],
+    "ordnu": [
+      "Ordnung",
+      "Ordnungsherstellung",
+      "Ordnungshüter",
+      "Ordnungsparameter"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Eine",
+      "Seine"
+    ],
+    [
+      "Eine",
+      "Verfeinerte"
+    ],
+    [
+      "Ende",
+      "Blenden"
+    ],
+    [
+      "Ende",
+      "Steigende"
+    ],
+    [
+      "Ende",
+      "Aufbauende"
+    ],
+    [
+      "Ende",
+      "Glitchende"
+    ],
+    [
+      "Ende",
+      "Wendepunkt"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Fall",
+      "Notfall"
+    ],
+    [
+      "Fall",
+      "Zerfall"
+    ],
+    [
+      "Fall",
+      "Notfallmechanismus"
+    ],
+    [
+      "Fehl",
+      "Fehlen"
+    ],
+    [
+      "Fehl",
+      "Fehler"
+    ],
+    [
+      "Fehl",
+      "Befehle"
+    ],
+    [
+      "Fehl",
+      "Befehlen"
+    ]
+  ]
+}

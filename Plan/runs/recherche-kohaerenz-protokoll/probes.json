@@ -1,0 +1,236 @@
+{
+  "document": "recherche-kohaerenz-protokoll",
+  "drive_id": "1aFTP-B5Hb3OBIaGpgFa4KMP0S1cyKRlvUsR-ld9LCtA",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 16,
+  "backslash_escapes": 0,
+  "typographic_marks": 1,
+  "ascii_quotes": 68,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systemadministratoren",
+      "Systeme",
+      "Systemen",
+      "Systemfehler",
+      "Systemfehlers",
+      "Systemhüter",
+      "Systemlogik",
+      "Systems"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstseins",
+      "Bewusstseinsebene",
+      "Bewusstseinsebenen",
+      "Bewusstseinsphilosophie",
+      "Bewusstwerdung"
+    ],
+    "konze": [
+      "Konzept",
+      "Konzeptdokument",
+      "Konzeptdokuments",
+      "Konzepte",
+      "Konzepten",
+      "Konzepts"
+    ],
+    "reche": [
+      "Recherche",
+      "Rechercheaufgaben",
+      "Rechercheauftrag",
+      "Rechercheergebnisse",
+      "Recherchefragen",
+      "Recherchiere"
+    ],
+    "thera": [
+      "Therapeuten",
+      "Therapie",
+      "Therapieansatz",
+      "Therapieansätzen",
+      "Therapiesuche"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotions",
+      "Emotionsregulation"
+    ],
+    "inter": [
+      "Interaktionen",
+      "Intern",
+      "Interpretationsebenen",
+      "Interventionen"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsebenen",
+      "Realitätsrisse"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "besch": [
+      "Beschreibe",
+      "Beschreibung",
+      "Beschützer"
+    ],
+    "fragm": [
+      "Fragmenten",
+      "Fragmentiertes",
+      "Fragmentierung"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionen"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozess",
+      "Heilungsweg"
+    ],
+    "innen": [
+      "Innenwelt",
+      "Innenwelten",
+      "Innenweltkommunikation"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphorisch"
+    ],
+    "perso": [
+      "Person",
+      "Persona",
+      "Personas"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychologie",
+      "Psychologisch"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationsplot"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumata",
+      "Traumaverarbeitung"
+    ],
+    "welte": [
+      "Welten",
+      "Weltenlogik",
+      "Weltenwechsel"
+    ],
+    "alter": [
+      "Alter",
+      "Alters"
+    ],
+    "amnes": [
+      "Amnesie",
+      "Amnesien"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitstitel"
+    ],
+    "archi": [
+      "Architekt",
+      "Architektur"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungskonflikt"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Weitreichende"
+    ],
+    [
+      "Ende",
+      "Wiederkehrende"
+    ],
+    [
+      "Info",
+      "Information"
+    ],
+    [
+      "Info",
+      "Kontextinformationen"
+    ],
+    [
+      "Info",
+      "Informationsverarbeitung"
+    ],
+    [
+      "Kern",
+      "Kernthemen"
+    ],
+    [
+      "Kern",
+      "Kernkonzept"
+    ],
+    [
+      "Kern",
+      "Kernelemente"
+    ],
+    [
+      "Kern",
+      "Kernbewusstsein"
+    ],
+    [
+      "Neue",
+      "Neues"
+    ],
+    [
+      "Plot",
+      "Plotpunkte"
+    ],
+    [
+      "Plot",
+      "Plotpunkten"
+    ],
+    [
+      "Plot",
+      "Simulationsplot"
+    ],
+    [
+      "Teil",
+      "Teile"
+    ],
+    [
+      "Teil",
+      "Teils"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ]
+  ]
+}

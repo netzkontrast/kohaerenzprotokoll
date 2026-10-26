@@ -1,0 +1,14 @@
+# dialetheismus-im-kohaerenz-protokoll
+  lines                408  (frontmatter ends at 9)
+  body words           7789
+  headings             2   bold-only lines 31
+  table rows           15   code fences 0
+  question marks       32
+  backslash escapes    82
+  typographic marks    24   ascii quotes 98
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    100
+  repeated labels      Atmosphäre x4, Logik x4, Manifestation x4, Umgang mit Widerspruch x4
+  longest line         1062 chars
+

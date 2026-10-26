@@ -1,0 +1,14 @@
+# parakonsistente-logik-im-seelen-protokoll
+  lines                386  (frontmatter ends at 9)
+  body words           6362
+  headings             2   bold-only lines 15
+  table rows           25   code fences 0
+  question marks       12
+  backslash escapes    132
+  typographic marks    12   ascii quotes 124
+  invisible characters U+200Bx16
+  math symbol lines    25
+  glued ref numbers    35
+  repeated labels      C-Systeme x4, FDE x4, PL (Allgemein) x4
+  longest line         1019 chars
+

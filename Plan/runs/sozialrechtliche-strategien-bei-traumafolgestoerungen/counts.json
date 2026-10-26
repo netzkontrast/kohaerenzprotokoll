@@ -1,0 +1,362 @@
+{
+  "document": "sozialrechtliche-strategien-bei-traumafolgestoerungen",
+  "drive_id": "1j1q0i2FzWNNSpSmIVlwHlfHJskmXPZjhV9f6glWJqsY",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "kPTBS": {
+      "n": 61,
+      "n_including_compounds": 62,
+      "lines": [
+        11,
+        17,
+        21,
+        23,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        47,
+        53,
+        57,
+        61,
+        81,
+        83,
+        90,
+        98,
+        104,
+        130,
+        152,
+        162,
+        168,
+        174,
+        181,
+        190,
+        192,
+        199,
+        201,
+        207,
+        215,
+        217,
+        223,
+        235,
+        243,
+        279,
+        303,
+        304,
+        339,
+        343,
+        358,
+        364,
+        365,
+        370,
+        394,
+        407,
+        418
+      ]
+    },
+    "DIS": {
+      "n": 57,
+      "n_including_compounds": 59,
+      "lines": [
+        11,
+        17,
+        21,
+        23,
+        27,
+        29,
+        31,
+        63,
+        67,
+        71,
+        75,
+        79,
+        81,
+        83,
+        91,
+        92,
+        98,
+        104,
+        112,
+        122,
+        130,
+        152,
+        168,
+        174,
+        181,
+        190,
+        192,
+        199,
+        201,
+        215,
+        217,
+        223,
+        224,
+        235,
+        244,
+        279,
+        303,
+        304,
+        339,
+        343,
+        358,
+        364,
+        365,
+        370,
+        394,
+        407,
+        418,
+        427,
+        433
+      ]
+    },
+    "DSO": {
+      "n": 21,
+      "n_including_compounds": 30,
+      "lines": [
+        21,
+        23,
+        47,
+        57,
+        83,
+        90,
+        104,
+        106,
+        122,
+        152,
+        155,
+        160,
+        162,
+        224,
+        235,
+        243,
+        303,
+        328,
+        358,
+        362,
+        395,
+        407,
+        457
+      ]
+    },
+    "PTBS": {
+      "n": 14,
+      "n_including_compounds": 79,
+      "lines": [
+        11,
+        17,
+        21,
+        23,
+        27,
+        29,
+        31,
+        33,
+        37,
+        41,
+        47,
+        53,
+        55,
+        57,
+        61,
+        81,
+        83,
+        90,
+        98,
+        104,
+        130,
+        152,
+        162,
+        168,
+        174,
+        181,
+        190,
+        192,
+        199,
+        201,
+        207,
+        215,
+        217,
+        223,
+        235,
+        243,
+        279,
+        303,
+        304,
+        339,
+        343,
+        358,
+        364,
+        365,
+        370,
+        394,
+        399,
+        407,
+        418,
+        445,
+        446,
+        491
+      ]
+    },
+    "Hypervigilanz": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        45,
+        207,
+        225
+      ]
+    },
+    "Dissoziation": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        224,
+        358,
+        425,
+        433
+      ]
+    },
+    "Amnesien": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        67,
+        71,
+        112,
+        182,
+        224,
+        342
+      ]
+    },
+    "Flashbacks": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        43
+      ]
+    },
+    "Trigger": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        61,
+        190
+      ]
+    },
+    "Persönlichkeitszustände": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        67,
+        91,
+        92
+      ]
+    },
+    "Depersonalisation": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        180,
+        363
+      ]
+    },
+    "Derealisation": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        180,
+        363
+      ]
+    },
+    "Identitätswechsel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        180,
+        225
+      ]
+    },
+    "Selbstorganisation": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        21,
+        23,
+        47,
+        57,
+        90,
+        104,
+        152,
+        160,
+        191,
+        243,
+        303,
+        358,
+        362,
+        395
+      ]
+    },
+    "Emotionsregulation": {
+      "n": 2,
+      "n_including_compounds": 7,
+      "lines": [
+        49,
+        90,
+        98,
+        106,
+        108,
+        162,
+        168
+      ]
+    },
+    "Komorbiditäten": {
+      "n": 18,
+      "n_including_compounds": 18,
+      "lines": [
+        17,
+        21,
+        29,
+        96,
+        98,
+        168,
+        258,
+        262,
+        303,
+        304,
+        328,
+        358,
+        364,
+        365,
+        395,
+        407
+      ]
+    },
+    "Wiedererleben": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        43,
+        90
+      ]
+    },
+    "Vermeidung": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        44,
+        90,
+        98,
+        109
+      ]
+    }
+  }
+}
