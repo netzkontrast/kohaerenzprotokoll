@@ -1,0 +1,73 @@
+# counts for 56 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Juna                            102 word   121 in   [15, 17, 19, 28, 79, 80]
+                                   18      as Junas
+                                    1      as Juna-Lieder
+  Kael                              7 word    13 in   [15, 17, 82, 84, 106, 124]
+                                    3      as Kaels
+                                    2      as Kael-Systems
+                                    1      as Kael-System
+  Lex                               9 word     9 in   [155, 157, 178, 188, 210, 226]
+  Alex                              6 word     6 in   [229, 231, 252, 301, 302]
+  Rhys                              9 word     9 in   [304, 306, 327, 337, 360, 377]
+  Nyx                               8 word     8 in   [380, 382, 394, 403, 445, 453]
+  Kiko                              7 word     8 in   [456, 458, 470, 479, 503, 529]
+                                    1      as Kikos
+  Lia                               6 word     7 in   [532, 534, 546, 555, 605, 606]
+  Isabelle                          5 word     6 in   [608, 610, 622, 682, 683]
+                                    1      as Isabelles
+  Moros                             7 word     7 in   [685, 687, 699, 726, 758, 759]
+  Selene                            5 word     6 in   [761, 763, 775, 834, 835]
+                                    1      as Selenes
+  Argus                             7 word     7 in   [837, 839, 851, 879, 910, 911]
+  Kael-Systems                      2 word     2 in   [15, 17]
+  Kael-System                       1 word     3 in   [15, 17, 911]  <-- substring
+                                    2      as Kael-Systems
+  Spiegel der Resilienz             4 word     4 in   [11, 13, 15, 17]
+  zerbrochene Spiegel               6 word     6 in   [17, 80, 108, 153, 927]
+  Zerbrochener Spiegel              1 word     1 in   [152]
+  Echokammer                       11 word    11 in   [15, 129, 152, 153, 189, 211]
+  Labyrinth der Erinnerung          3 word     3 in   [17, 302, 378]
+  Labyrinth der Zeit                3 word     3 in   [261, 283, 931]
+  Schatten des Verlusts             6 word     6 in   [442, 454, 490, 513, 530, 932]
+  Schwert der Eigenständigkeit      5 word     5 in   [606, 683, 702, 759, 944]
+  Berggipfel                        3 word     3 in   [759, 834, 835]
+  Blick vom Berggipfel              1 word     1 in   [759]
+  Heldinnenreise                    3 word     3 in   [17, 80, 153]
+  Etappe                           16 word    16 in   [80, 153, 227, 302, 378, 454]
+  Verlassenes Ufer                  5 word     5 in   [21, 23, 45, 61, 980]
+  Mein Eigenes Ufer                 4 word     4 in   [913, 915, 980]
+  Elixiers                          1 word     1 in   [980]
+  Elixier-Teil                      1 word     1 in   [952]
+  Externe Inkonsistenz              2 word     2 in   [171, 227]
+  Externe Variable                  2 word     2 in   [246, 302]
+  Stille Leitung                    4 word     4 in   [82, 84, 113, 133]
+  Kalte Analyse                     4 word     4 in   [155, 157, 186, 208]
+  Argwöhnischer Blick               4 word     4 in   [229, 231, 260, 282]
+  Tiefe Resonanz                    4 word     4 in   [304, 306, 335, 358]
+  Gefährliche Intensität            4 word     4 in   [380, 382, 411, 434]
+  Kindliche Sehnsucht               4 word     4 in   [456, 458, 487, 510]
+  Widersprüchliche Signale          4 word     4 in   [532, 534, 563, 586]
+  Eisige Abwehr                     4 word     4 in   [608, 610, 640, 663]
+  Unergründliche Tiefe              4 word     4 in   [685, 687, 716, 739]
+  Spirituelle Verbindung            4 word     4 in   [761, 763, 792, 815]
+  Veränderte Signatur               4 word     4 in   [837, 839, 868, 891]
+  Spiegelbild der Ablehnung         2 word     2 in   [625, 683]
+  Junas Stille                      1 word     1 in   [153]
+  Junas Flaschenpost                1 word     1 in   [606]
+  Flaschenpost                      2 word     2 in   [542, 606]
+  Urvertrauen                       2 word     3 in   [17, 116, 135]
+                                    1      as Urvertrauens
+  Suno                             13 word    13 in   [79, 152, 226, 301, 377, 453]
+  Gast                             11 word    11 in   [152, 226, 301, 377, 453, 529]
+  Juna Female Voice                49 word    49 in   [28, 93, 97, 105, 122, 127]
+  Vocal Hint                       24 word    24 in   [79, 152, 226, 301, 377, 453]
+  Transformed                      15 word    15 in   [152, 226, 301, 377, 453, 529]
+  Selbstgespräch                    2 word     2 in   [913, 915]
+  Bindungsstil                      2 word     3 in   [15, 80, 683]
+                                    1      as Bindungsstils
+  Resilienz                         5 word     6 in   [11, 13, 15, 17, 199]
+                                    1      as Resilienzfaktoren

@@ -24,6 +24,25 @@
   c.state = { screen: 'questions', qt: 'reading', rt: 'aegis', rqi: 'RQ-aegis-100' };
   const back = c.unroute(c.route()); expect(back.rqi === 'RQ-aegis-100' && back.rqpage === 3, 'a deep link opens its question and page');
   const base = c.unroute('#/wiki/aegis'); expect(base.wview === null, 'browser history does not leak the previous wiki layer');
+  // the Schreibtisch (decision 030): the grid, a chapter's address, a scene's address with its chapter, marks
+  const K = d.novel.desk;
+  expect(K.chapters.length === 41 && c.novelEntries('schreibtisch').filter((x) => x.kind === 'desk').length === 41, 'the Schreibtisch lists Kap 0–40, every chapter once');
+  c.state = { screen: 'manuscript', mtab: 'schreibtisch', msel: 'kap-01' };
+  const dk = c.renderVals();
+  expect(dk.desk.isChapter && dk.rd.title.indexOf('Kap 1') === 0 && c.unroute(c.route()).msel === 'kap-01', 'a chapter of the Schreibtisch has its address and its briefing');
+  expect(dk.desk.weichen.every((w) => w.copyLabel && typeof w.copy === 'function'), 'every open Weiche of the chapter hands over a copyable answer prompt');
+  expect(c.unroute('#/manuscript/schreibtisch/kap-99/szene-1') === null || !c.unroute('#/manuscript/schreibtisch/kap-99/szene-1').msel, 'a scene address of a chapter that is not there opens nothing');
+  c.state = { screen: 'manuscript', mtab: 'schreibtisch', msel: 'regeln' };
+  const rl = c.renderVals();
+  expect(rl.desk.isRules && rl.rd.secs.length === 1 && rl.desk.rules.length === K.rules.filter((r) => r.status === 'offen').length, 'the register shows every rule and a prompt for each open one');
+  const scene = { f: 'Manuscript/kap-01/szene-9-fixture.md', k: 9, t: 'Fixture', status: 'entwurf', w: 12, beats: 'b', beatsOn: '', paras: ['Erster Absatz.', 'Zweiter Absatz.'], checked: '', checkStale: true, briefingBehind: false, approved: '' };
+  c.state = { screen: 'manuscript', mtab: 'schreibtisch', dmarks: {} };
+  c.saveMark(scene.f, 1, { m: 'falsch', note: 'hier nicht' }); c.saveMark(scene.f, 7, { m: 'frage' });
+  const ex = c.marksExport(K.chapters[1], scene, c.state.dmarks);
+  expect(ex.includes('¶2 — falsch') && ex.includes('hier nicht') && !ex.includes('¶8'), 'a mark on a paragraph that is not there stays out of the export');
+  expect(ex.includes('manuscript.py approve kap-01 9 --words') && !ex.includes('freigegeben'), 'the export names the approval command and approves nothing');
+  c.saveMark(scene.f, 1, { m: 'none', note: '' }); c.saveMark(scene.f, 7, { m: 'none' });
+  expect(!c.state.dmarks[scene.f], 'a cleared mark leaves no trace');
   const original = d.selftests; d.selftests = [['not run', 'fixture', 'no run']];
   expect(c.renderVals().railChecks.find((x) => x.label === 'Self-tests').dot === '#9A9384', 'a skipped test is unknown, never a green pass');
   d.selftests = original;

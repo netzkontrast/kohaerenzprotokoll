@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      12
+  backslash escapes      32
+  typographic marks      146
+  ascii quotes           0
+
+# inflection families -- one term, several surfaces
+  traum    Trauma, Traumabearbeitung, Traumadynamik, Traumafolgestörung, Traumafolgestörungen, Traumagedächtnis, Traumagedächtnissysteme, Traumageschichte, Traumas, Traumata, Traumatic, Traumatische, Traumatisierung, Traumaüberlebende, Traumen
+  ident    Identifizierung, Identit, Identitatsstorung, Identity, Identität, Identitätsalteration, Identitätsstruktur, Identitätsstörung, Identitätsverwirrung, Identitätsverwirrungen, Identitätsveränderungen, Identitätszustand, Identitätszustände, Identitätszuständen
+  psych    Psychiatric, Psychiatrie, Psychiatrische, Psychiatry, Psychisch, Psychische, Psychoanalytic, Psychodynamik, Psychodynamische, Psychodynamischen, Psychoedukation, Psychose, Psychotherapie
+  sozia    Sozialer, Sozialgericht, Sozialgerichte, Sozialgerichtsbarkeit, Sozialgerichtsurteile, Sozialleistungssystem, Sozialmedizinische, Sozialrecht, Sozialrechtliche, Sozialrechtlichen, Sozialrechts, Sozialrechtssystem, Sozialverhaltens
+  sympt    Symptomatik, Symptomausprägung, Symptomdarstellungen, Symptome, Symptomen, Symptomexpression, Symptommanagement, Symptompräsentation, Symptomstörung
+  inter    Interaktion, Interaktionen, Interdisziplinäre, Internalisierung, Interpretation, Interpretationen, Interview, Interviewer
+  neuro    Neuroanatomie, Neurobiologie, Neurobiologische, Neurobiologischen, Neuroendocrine, Neuroimaging, Neuroinflammation, Neurosen
+  selbs    Selbst, Selbstauskünfte, Selbstberichten, Selbstbeurteilungsfragebögen, Selbsthilfe, Selbstsystem, Selbstwahrnehmung, Selbstzustände
+  disso    Dissociation, Dissociative, Dissoziale, Dissoziation, Dissoziative, Dissoziativen, Dissoziativer
+  klini    Klinik, Kliniken, Kliniker, Klinikern, Klinisch, Klinische, Klinischen
+  unter    Unterlagen, Unterscheidung, Unterschätzung, Unterstützung, Unterstützungssystemen, Untersuchung, Untersuchungen
+  diagn    Diagnose, Diagnosen, Diagnosestellung, Diagnostik, Diagnostiker, Diagnostische
+  gesun    Gesundheit, Gesundheits, Gesundheitsbeeinträchtigungen, Gesundheitseinrichtungen, Gesundheitsstörungen, Gesundheitssystem
+  rente    Rente, Rentenansprüchen, Rentenarten, Rentenbegutachtungen, Rentenleistungen, Rentenversicherung
+  besch    Beschreibung, Beschreibungen, Beschwerden, Beschwerdenvalidierung, Beschwerdevalidierung
+  bewei    Beweise, Beweislast, Beweismittel, Beweismitteln, Beweisstandards
+  bunde    Bundesportal, Bundesregierung, Bundesrepublik, Bundesverfassungsgericht, Bundesärztekammer
+  exper    Experiences, Experten, Expertenempfehlung, Expertise, Expertisen
+  frage    Frage, Fragebogen, Fragebögen, Fragen, Fragetechnik
+  gedäc    Gedächtnis, Gedächtnislücken, Gedächtnisprozessen, Gedächtnissystem, Gedächtnissystems
+  grund    Grundlage, Grundlagen, Grundstein, Grundsätze, Grundsätzen
+  recht    Recht, Rechtlicher, Rechts, Rechtsgutachten, Rechtsprechung
+  stres    Stress, Stressachse, Stressreaktion, Stressreaktionssystems, Stressvulnerabilität
+  aktiv    Aktives, Aktivierung, Aktivierungsmuster, Aktivität
+  antei    Anteil, Anteile, Anteilen, Anteilspersönlichkeiten
+
+# substring pairs -- never one term, often merged by accident
+  Auch < Missbrauch
+  Auch < Missbrauchstätern
+  Auch < Missbrauchserfahrungen
+  Axis < Praxis
+  Axis < Praxisbeispiel
+  Bild < Bildung
+  Bild < Ausbildung
+  Bild < Fortbildung
+  Bild < Störungsbildes
+  Bild < Ausbildungsdefiziten
+  Bild < Ausbildungsprogrammen
+  Bund < Bundesportal
+  Bund < Bundesrepublik
+  Bund < Bundesregierung
+  Bund < Bundesärztekammer
+  Bund < Bundesverfassungsgericht
+  Dies < Diese
+  Dies < Dieser
+  Eine < Einen
+  Eine < Keine

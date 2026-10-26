@@ -1,0 +1,80 @@
+# counts for 53 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                             10 word    96 in   [11, 15, 19, 21, 23, 25]  <-- substring
+                                   51      as Kael-System
+                                   31      as Kael-Systems
+                                    2      as Kaels
+  Juna                             87 word   164 in   [11, 15, 17, 19, 21, 23]
+                                   75      as Junas
+                                    1      as Juna-Kael-System-Dynamik
+                                    1      as Juna-Kael-Dynamik
+  Lex                               2 word     2 in   [69, 76]
+  Rhys                             12 word    12 in   [69, 78, 152, 184, 216, 221]
+  Nyx                               2 word     2 in   [69, 79]
+  Kiko                              2 word     2 in   [69, 80]
+  Lia                               2 word     2 in   [69, 81]
+  Isabelle                          2 word     2 in   [69, 82]
+  Moros                            20 word    20 in   [15, 25, 27, 29, 33, 69]
+  Selene                           12 word    12 in   [69, 84, 152, 184, 221, 223]
+  Argus                             3 word     3 in   [69, 85, 287]
+  Kael-System                      51 word    83 in   [11, 15, 19, 21, 23, 25]
+                                   31      as Kael-Systems
+  Anteile                          81 word   118 in   [15, 29, 53, 63, 65, 69]
+                                   34      as Anteilen
+  Anteil                           10 word   141 in   [15, 27, 29, 47, 53, 63]  <-- substring
+                                   81      as Anteile
+                                   34      as Anteilen
+                                    4      as Anteils
+                                    1      as Anteilsname
+  Kollaps-Anteil                    4 word     6 in   [27, 29, 83, 135, 292, 338]
+                                    1      as Kollaps-Anteils
+                                    1      as Kollaps-Anteilen
+  ANPs                             18 word    18 in   [27, 29, 31, 65, 87, 99]
+  EPs                              32 word    32 in   [29, 31, 65, 75, 87, 99]
+  EPf                               8 word     8 in   [65, 78, 79, 80, 81, 82]
+  EPc                               7 word     8 in   [65, 76, 77, 83, 85, 101]
+  Todessog                          4 word     4 in   [33, 148, 150, 154]
+  Urvertrauen                       9 word    17 in   [23, 59, 61, 93, 105, 107]
+                                    8      as Urvertrauens
+  Wiedererkennen                    5 word     9 in   [61, 105, 107, 109, 111, 139]
+                                    4      as Wiedererkennens
+  bis allerspätestens               4 word     4 in   [139, 318, 347]
+  transzendente Verbindung          2 word     2 in   [105, 338]
+  Zwänge                            7 word     7 in   [15, 35, 37, 63, 65, 87]
+  System-Umbau                      2 word     4 in   [280, 282, 284, 294]
+                                    2      as System-Umbaus
+  Systemkohärenz                    4 word     4 in   [138, 219, 288]
+  Ko-Bewusstsein                    3 word     6 in   [138, 180, 188, 191, 289, 345]
+                                    3      as Ko-Bewusstseins
+  Talking Through                   1 word     1 in   [186]
+  Inneren Landkarte                 1 word     1 in   [187]
+  Systemtreffen                     1 word     1 in   [184]
+  Host                              6 word     6 in   [75, 152, 156, 158, 166]
+  Switches                          3 word     3 in   [47, 97, 197]
+  Liebe ohne Forderungen            4 word     4 in   [267, 278, 346]
+  Offenhalten der Trennung          4 word     4 in   [296, 300, 306, 347]
+  Phobien                          24 word    27 in   [67, 69, 73, 87, 99, 134]
+  Sicherheitsprotokollen            1 word     1 in   [287]
+  Phase 0                           2 word     2 in   [123, 125]
+  Phase 1                           3 word     3 in   [144, 178, 344]
+  Rettungsplan                      1 word     1 in   [121]
+  Transzendenz                     10 word    11 in   [121, 123, 140, 296, 298, 312]
+                                    1      as Transzendenzfähigkeit
+  Täterintrojekte                   2 word     2 in   [101, 248]
+  Ahnung von Selbstliebe            2 word     2 in   [280, 292]
+  Selbstliebe                      10 word    10 in   [138, 278, 280, 292, 314, 346]
+  TSDP                              5 word    15 in   [27, 63, 65, 69, 73, 134]  <-- substring
+                                    8      as TSDP-Analyse
+                                    1      as TSDP-basierte
+                                    1      as TSDP-Modell
+  Apparently Normal Parts           2 word     2 in   [27, 65]
+  Emotional Parts                   3 word     3 in   [29, 65, 380]
+  Strukturellen Dissoziation        3 word     3 in   [65, 134, 334]
+  Bindungstheorie                   3 word     3 in   [131, 334, 367]
+  Sekundärtraumatisierung           4 word     4 in   [21, 45, 49, 133]
+  Helfererschöpfung                 3 word     3 in   [21, 45, 133]
+  Paradoxe Interventionen           2 word     2 in   [136, 397]
+  Titration                         2 word     2 in   [189, 351]

@@ -1,0 +1,31 @@
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Primäres Ziel"
+`Primäres Ziel` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#1]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Bereitgestellter Kontext"
+`Bereitgestellter Kontext` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#1]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Rechercheaufgaben"
+`Rechercheaufgaben` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#2]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Hauptaufgabe"
+`Hauptaufgabe` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#1]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Angeforderte Ausgabeformat"
+`Angeforderte Ausgabeformat` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#1]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Kael"
+`Kael` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#0]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Juna"
+`Juna` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#0]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Nyx"
+`Nyx` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#0]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "AEGIS"
+`AEGIS` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#25]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Überwelt"
+`Überwelt` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#3]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Entropie"
+`Entropie` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#6]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Gedankenreise"
+`Gedankenreise` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#5]
+$ read.py ergaenze-aegis-protokoll-und-selbstrekusive-defini --count "Entropic Gatekeeper"
+`Entropic Gatekeeper` ^[ergaenze-aegis-protokoll-und-selbstrekusive-defini.md:#3]
+$ stance_marker_count: 1+1+2+1+1 = 6
+$ grep -n "1200-1500\|800-1200" drive
+15:Ausformulierung eines Entwurfs für das Einleitungskapitel (ca. 1200-1500 Worte) eines Romans. Dieses Kapitel soll den Leser unmittelbar fesseln, eine einzigartige Atmosphäre etablieren und den Übergang von einer meta-narrativen Betrachtung der Leere zur Initialisierung eines komplexen digitalen Systems (AEGIS) mittels eines "universal reboot" gestalten, dargestellt aus der Perspektive dieses Systems. Die Recherche dient der fundierten Vorbereitung dieses Entwurfs.
+119:  - **Formulieren Sie einen Entwurf für das Einleitungskapitel (ca. 800-1200 Worte).**
+$ bold-only lines: 6 (01-profile.txt)

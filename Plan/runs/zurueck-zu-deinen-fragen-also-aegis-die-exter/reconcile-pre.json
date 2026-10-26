@@ -1,0 +1,401 @@
+{
+  "document": "zurueck-zu-deinen-fragen-also-aegis-die-exter",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 56,
+  "decisions": 56,
+  "same_surface": {
+    "heldenreise": [
+      "Heldenreise",
+      "heldenreise"
+    ],
+    "heldinnenreise": [
+      "Heldinnenreise",
+      "heldinnenreise"
+    ]
+  },
+  "decided_mechanically": 36,
+  "needs_judgement": 20,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kael",
+        "page": "kael",
+        "readings": 408
+      },
+      {
+        "candidate": "Juna",
+        "page": "juna",
+        "readings": 353
+      },
+      {
+        "candidate": "AEGIS",
+        "page": "aegis",
+        "readings": 423
+      },
+      {
+        "candidate": "Kernwelten",
+        "page": "kern-welten",
+        "readings": 278
+      },
+      {
+        "candidate": "Lex",
+        "page": "lex",
+        "readings": 209
+      },
+      {
+        "candidate": "Alex",
+        "page": "alex",
+        "readings": 122
+      },
+      {
+        "candidate": "Rhys",
+        "page": "rhys",
+        "readings": 136
+      },
+      {
+        "candidate": "Nyx",
+        "page": "nyx",
+        "readings": 208
+      },
+      {
+        "candidate": "Kiko",
+        "page": "kiko",
+        "readings": 192
+      },
+      {
+        "candidate": "Lia",
+        "page": "lia",
+        "readings": 109
+      },
+      {
+        "candidate": "Isabelle",
+        "page": "isabelle",
+        "readings": 85
+      },
+      {
+        "candidate": "Moros",
+        "page": "moros",
+        "readings": 125
+      },
+      {
+        "candidate": "Selene",
+        "page": "selene",
+        "readings": 144
+      },
+      {
+        "candidate": "Argus",
+        "page": "argus",
+        "readings": 96
+      },
+      {
+        "candidate": "Kohärenz",
+        "page": "kohaerenz",
+        "readings": 83
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Metaalbums"
+      },
+      {
+        "candidate": "Metaalbum-Konzepts"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "Heldinnenreise"
+      },
+      {
+        "candidate": "Gast"
+      },
+      {
+        "candidate": "Album 12"
+      },
+      {
+        "candidate": "parakonsistente Logik"
+      },
+      {
+        "candidate": "Sunyata"
+      },
+      {
+        "candidate": "Resonanzkonzept"
+      },
+      {
+        "candidate": "Kennenlernphase"
+      },
+      {
+        "candidate": "Wiedererkennen"
+      },
+      {
+        "candidate": "Urvertrauen"
+      },
+      {
+        "candidate": "Retraumatisierung"
+      },
+      {
+        "candidate": "Kernkonflikt"
+      },
+      {
+        "candidate": "Hoffnungsträger"
+      },
+      {
+        "candidate": "Meta-Plot"
+      },
+      {
+        "candidate": "System-Umbau"
+      },
+      {
+        "candidate": "Selbstliebe"
+      },
+      {
+        "candidate": "Sicherheitsprotokolle"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Kael-Systems  /  Kael",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael  /  Kael-Juna Krisen-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Juna  /  Kael-Juna Krisen-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteile  /  Anteil",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Anteil  /  Anteilswelten",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Heldenreise  /  Heldenreise pro Song",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Heldenreise pro Song  /  Song",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Spiegelsongs  /  Songs",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Spiegelsongs  /  Song",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Spiegelsong-Begegnungen  /  Song",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Spiegelsong-Transformation  /  Song",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Agency System  /  Agency Systems",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Album 13  /  Album 13.13",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Paradoxon  /  Krisen-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Paradoxon  /  Kael-Juna Krisen-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Krisen-Paradoxons  /  Kael-Juna Krisen-Paradoxons",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "offenen Ruf  /  offenen Rufs",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Songs  /  Song",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Kael-Systems",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      },
+      {
+        "candidate": "Kael-Juna Krisen-Paradoxons",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "juna",
+            "page": "juna"
+          },
+          {
+            "surface": "kael",
+            "page": "kael"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

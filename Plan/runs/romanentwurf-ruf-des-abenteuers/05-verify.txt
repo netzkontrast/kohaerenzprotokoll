@@ -1,0 +1,85 @@
+$ read.py romanentwurf-ruf-des-abenteuers --count "Setting"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Setting` ^[romanentwurf-ruf-des-abenteuers.md:#20]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Handlung"
+whole word, case-sensitive     22
+whole word, case-insensitive   22
+including compounds            22
+
+`Handlung` ^[romanentwurf-ruf-des-abenteuers.md:#22]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Innerer Konflikt"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Innerer Konflikt` ^[romanentwurf-ruf-des-abenteuers.md:#20]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Äußere Manifestation"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Äußere Manifestation` ^[romanentwurf-ruf-des-abenteuers.md:#20]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Plot-Fortschritt"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Plot-Fortschritt` ^[romanentwurf-ruf-des-abenteuers.md:#20]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Thematischer Fokus"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            21
+
+`Thematischer Fokus` ^[romanentwurf-ruf-des-abenteuers.md:#21]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Charaktere"
+whole word, case-sensitive     21
+whole word, case-insensitive   21
+including compounds            22
+
+`Charaktere` ^[romanentwurf-ruf-des-abenteuers.md:#21]
+$ read.py romanentwurf-ruf-des-abenteuers --count "vielleicht"
+whole word, case-sensitive     24
+whole word, case-insensitive   27
+including compounds            24
+
+`vielleicht` ^[romanentwurf-ruf-des-abenteuers.md:#24]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Host"
+whole word, case-sensitive     20
+whole word, case-insensitive   20
+including compounds            20
+
+`Host` ^[romanentwurf-ruf-des-abenteuers.md:#20]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[romanentwurf-ruf-des-abenteuers.md:#0]
+$ read.py romanentwurf-ruf-des-abenteuers --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[romanentwurf-ruf-des-abenteuers.md:#0]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kael` ^[romanentwurf-ruf-des-abenteuers.md:#0]
+$ read.py romanentwurf-ruf-des-abenteuers --count "LogOS"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`LogOS` ^[romanentwurf-ruf-des-abenteuers.md:#1]
+$ read.py romanentwurf-ruf-des-abenteuers --count "Wächterin"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Wächterin` ^[romanentwurf-ruf-des-abenteuers.md:#1]
+stance_marker_count = 20+22+20+20+20+21+21 = 144

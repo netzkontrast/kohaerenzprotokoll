@@ -1,0 +1,105 @@
+{
+  "document": "ergaenze-aegis-protokoll-und-selbstrekusive-defini",
+  "drive_id": "1qUJ1gNZDFraU3A1NZw16rdzSB2quMEESh0FAS1HEQ7k",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-548/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 51,
+    "decisions": 51,
+    "decided_by_lookup": 39,
+    "needs_judgement": 12
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A commissioning brief for an opening chapter: its context on AEGIS, the reboot, the recursive self-definition, entropy, the Überwelt and its cracks went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        26,
+        35,
+        36,
+        37,
+        38,
+        98,
+        103
+      ],
+      "attribution": "",
+      "note": "a non-anthropomorphic control core that reboots, and its recursive self-definition"
+    },
+    {
+      "page": "entropie",
+      "lines": [
+        37,
+        38,
+        46
+      ],
+      "attribution": "",
+      "note": "AEGIS regulates the passage from order to entropy"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "digital entropy as cracks"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        46
+      ],
+      "attribution": "",
+      "note": "a purely digital, rigidly structured world"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "`Entropic Gatekeeper` read on aegis; L27 (earlier names) and the protocol text L51–L94 (clinical vocabulary about identity systems) are not cited, so aegis-teilfunktionen, kael and juna get no reading; the flattened formula is not quoted; `Kohärenz` in the protocol text is an occurrence",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "an earlier name; not cited"
+    },
+    {
+      "page": "kael",
+      "surface": "(an earlier name)",
+      "line": 27,
+      "decision": "occurrence",
+      "why": "an earlier name; not cited"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 87,
+      "decision": "occurrence",
+      "why": "in the protocol text, which is not cited"
+    }
+  ],
+  "not_promoted": [
+    "universal reboot, nicht-lokale Nicht-Existenz, the protocol's acronyms, Ontologische Position, Rekursive Signatur, the opening's four parts"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

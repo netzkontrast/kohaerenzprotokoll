@@ -1,0 +1,14 @@
+# ki-gestuetzter-roman-assistent-projektplanung
+  lines                296  (frontmatter ends at 9)
+  body words           3388
+  headings             25   bold-only lines 0
+  table rows           19   code fences 0
+  question marks       0
+  backslash escapes    115
+  typographic marks    4   ascii quotes 282
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    27
+  repeated labels      none
+  longest line         911 chars
+

@@ -1,0 +1,14 @@
+# juna-kael-system-krisenanalyse-und-rettungsplan
+  lines                272  (frontmatter ends at 9)
+  body words           8614
+  headings             0   bold-only lines 26
+  table rows           22   code fences 0
+  question marks       9
+  backslash escapes    60
+  typographic marks    25   ascii quotes 154
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    24
+  repeated labels      Strategien x4, Ziele x4
+  longest line         1722 chars
+

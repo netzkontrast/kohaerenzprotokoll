@@ -1,0 +1,76 @@
+{
+ "kapitel": 20,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Argus liefert einen Befund, aber keine Entscheidung für alle.",
+   "seit": 20,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Keine endlose Stimmenkonferenz: Die Uneinigkeit hat eine sichtbare Folge.",
+   "seit": 20,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K: Er muss zwei Zugänge schützen, den Kanal und den Rest (T:L274).",
+   "seit": 20,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Unmittelbare Folge der Ortung aus Kap 19.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW2",
+   "art": "welt",
+   "seit": 14,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Argus",
+   "art": "anteil",
+   "seit": 20,
+   "kanal": "Stimme",
+   "wie": "Argus bemerkt AEGIS' Fehler als Erster (Zyklus 2).",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 20,
+   "kanal": "Stimme",
+   "wie": "Lex und Nyx im maximalen Konflikt.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Nyx",
+   "art": "anteil",
+   "seit": 20,
+   "kanal": "Stimme",
+   "wie": "Lex und Nyx im maximalen Konflikt.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

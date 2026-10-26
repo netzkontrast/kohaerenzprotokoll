@@ -1,0 +1,228 @@
+{
+  "document": "liste-nun-alle-plot-ideen-kurz-auf",
+  "drive_id": "1ET0d9ViEmnPl85doGpTnNsgx1jZ27ICPPvthL4tHUZI",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 17,
+  "backslash_escapes": 0,
+  "typographic_marks": 1,
+  "ascii_quotes": 46,
+  "inflection_families": {
+    "inter": [
+      "Interaktion",
+      "Interface",
+      "Interferenzen",
+      "Interne",
+      "Interner",
+      "Intervention"
+    ],
+    "syste": [
+      "System",
+      "Systembruch",
+      "Systemintegrität",
+      "Systemproblem",
+      "Systems",
+      "Systemstabilität"
+    ],
+    "erinn": [
+      "Erinnerung",
+      "Erinnerungen",
+      "Erinnerungs",
+      "Erinnerungslandschaft",
+      "Erinnerungsszene"
+    ],
+    "reali": [
+      "Realität",
+      "Realitäten",
+      "Realitätsbrüche",
+      "Realitätsriss"
+    ],
+    "wiede": [
+      "Wiederauftauchen",
+      "Wiederkehr",
+      "Wiederkehrende",
+      "Wiedersehen"
+    ],
+    "absch": [
+      "Abschließende",
+      "Abschluss",
+      "Abschnitt"
+    ],
+    "archi": [
+      "Archipel",
+      "Architekt",
+      "Architektens"
+    ],
+    "beoba": [
+      "Beobachtend",
+      "Beobachter",
+      "Beobachtung"
+    ],
+    "bezie": [
+      "Beziehung",
+      "Beziehungsarbeit",
+      "Beziehungskrise"
+    ],
+    "bibli": [
+      "Bibliothek",
+      "Bibliothekar",
+      "Bibliotheksgänge"
+    ],
+    "brück": [
+      "Brücke",
+      "Brücken",
+      "Brückenplänen"
+    ],
+    "episo": [
+      "Episode",
+      "Episoden",
+      "Episodisches"
+    ],
+    "feind": [
+      "Feind",
+      "Feindbilder",
+      "Feinde"
+    ],
+    "gesam": [
+      "Gesamt",
+      "Gesamtes",
+      "Gesamtzielsetzung"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte",
+      "Konfliktpotenzial"
+    ],
+    "konze": [
+      "Konzentration",
+      "Konzept",
+      "Konzeptionelle"
+    ],
+    "perso": [
+      "Person",
+      "Persona",
+      "Personas"
+    ],
+    "repar": [
+      "Reparatur",
+      "Reparaturversuch",
+      "Reparaturversuche"
+    ],
+    "risse": [
+      "Risse",
+      "Rissen",
+      "Risses"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturfehler",
+      "Strukturierungs"
+    ],
+    "suche": [
+      "Suche",
+      "Sucher",
+      "Suchers"
+    ],
+    "überw": [
+      "Überwachung",
+      "Überwachungsmonitor",
+      "Überwachungssystems"
+    ],
+    "abweh": [
+      "Abwehr",
+      "Abwehrreaktion"
+    ],
+    "akzep": [
+      "Akzeptanz",
+      "Akzeptieren"
+    ],
+    "alarm": [
+      "Alarm",
+      "Alarmzustand"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Echos"
+    ],
+    [
+      "Ende",
+      "Fehlende"
+    ],
+    [
+      "Ende",
+      "Wissende"
+    ],
+    [
+      "Ende",
+      "Transzendenz"
+    ],
+    [
+      "Ende",
+      "Abschließende"
+    ],
+    [
+      "Ende",
+      "Unvollendeten"
+    ],
+    [
+      "Ende",
+      "Übergreifende"
+    ],
+    [
+      "Ende",
+      "Wiederkehrende"
+    ],
+    [
+      "Ende",
+      "Regelzitierender"
+    ],
+    [
+      "Fall",
+      "Anfall"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Kern",
+      "Kernschmelze"
+    ],
+    [
+      "Loop",
+      "Loops"
+    ],
+    [
+      "Lose",
+      "Zeitlose"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Meta",
+      "Metaphorik"
+    ],
+    [
+      "Meta",
+      "Metamorphen"
+    ],
+    [
+      "Plan",
+      "Fluchtplan"
+    ],
+    [
+      "Plot",
+      "Subplot"
+    ]
+  ]
+}

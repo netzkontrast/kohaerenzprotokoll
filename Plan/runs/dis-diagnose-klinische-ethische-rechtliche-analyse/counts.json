@@ -1,0 +1,232 @@
+{
+  "document": "dis-diagnose-klinische-ethische-rechtliche-analyse",
+  "drive_id": "1z_NCfOK4flrQUQu7PoVMv58LkzCLqW9RsBHXdlx3o8E",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "DIS": {
+      "n": 75,
+      "n_including_compounds": 94,
+      "lines": [
+        11,
+        15,
+        17,
+        19,
+        23,
+        25,
+        27,
+        29,
+        31,
+        33,
+        35,
+        37,
+        39,
+        41,
+        48,
+        54,
+        66,
+        70,
+        75,
+        79,
+        90,
+        94,
+        96,
+        102,
+        104,
+        112,
+        116,
+        118,
+        122,
+        126,
+        128,
+        132,
+        142,
+        146,
+        152,
+        166,
+        170,
+        179,
+        181,
+        189,
+        190,
+        191,
+        198,
+        212,
+        216,
+        220,
+        224,
+        228,
+        230,
+        232,
+        234,
+        238,
+        240,
+        243,
+        253,
+        257,
+        269,
+        271,
+        275,
+        278,
+        279,
+        283,
+        284,
+        295,
+        306,
+        309
+      ]
+    },
+    "Dissoziative Identitätsstörung": {
+      "n": 11,
+      "n_including_compounds": 11,
+      "lines": [
+        11,
+        15,
+        23,
+        27,
+        37,
+        39,
+        116,
+        299,
+        300,
+        305,
+        307
+      ]
+    },
+    "Partielle DIS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        37,
+        48
+      ]
+    },
+    "Switch": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        44
+      ]
+    },
+    "Anteile": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        106,
+        110
+      ]
+    },
+    "Pluralpronomen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        106,
+        110,
+        112
+      ]
+    },
+    "SCID-D": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        73,
+        88,
+        100,
+        102,
+        257,
+        275,
+        283
+      ]
+    },
+    "DES-II": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        73,
+        100
+      ]
+    },
+    "FDS": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        100,
+        104
+      ]
+    },
+    "ISSTD": {
+      "n": 12,
+      "n_including_compounds": 16,
+      "lines": [
+        15,
+        27,
+        64,
+        66,
+        68,
+        71,
+        75,
+        83,
+        90,
+        98,
+        110,
+        128,
+        142,
+        234,
+        304
+      ]
+    },
+    "GdB": {
+      "n": 7,
+      "n_including_compounds": 13,
+      "lines": [
+        202,
+        204,
+        208,
+        210,
+        212,
+        214,
+        224,
+        247,
+        285,
+        343,
+        344,
+        345
+      ]
+    },
+    "Dokumentationspflicht": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        15,
+        19,
+        158,
+        192,
+        240,
+        298
+      ]
+    },
+    "Sorgfaltspflicht": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        19,
+        134,
+        138,
+        142,
+        146,
+        181,
+        190,
+        236,
+        238,
+        318,
+        319
+      ]
+    }
+  }
+}

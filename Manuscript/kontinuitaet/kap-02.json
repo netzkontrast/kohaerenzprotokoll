@@ -1,0 +1,94 @@
+{
+ "kapitel": 2,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er kennt eine Regelverletzung, noch nicht seine gelöschte Vergangenheit.",
+   "seit": 2,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Der Leser kann zwei widersprechende Belege vergleichen.",
+   "seit": 2,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "AEGIS",
+   "fakt": "[734 / Cluster] AE prüft: „ZUORDNUNG UNKLAR — WIRD GEPRÜFT“ (K2:L20). K: —",
+   "seit": 2,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] K: Auf der Bank lag ein Posten ohne Datentyp (K2:L48–L55). Ob er mit Juna zu tun hat, ist offen (KD:L283–L284).",
+   "seit": 2,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K: Der Schmerz zeigt „wie gestern“ (K2:L28). Die Frist ist das Wartungsfenster (K2:L22, T:L93).",
+   "seit": 2,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: kennt eine Regelverletzung, nicht seine Vergangenheit (dev:L104). Er fragt: „Wo war ich?“ (K2:L186).",
+   "seit": 2,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Unmittelbar nach Kap 1; das Fristergebnis zeigen.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Lex",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Körper",
+   "wie": "Kälte in den Händen; Ordnung, die sich verdoppelt.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Alex",
+   "art": "anteil",
+   "seit": 13,
+   "kanal": "Körper",
+   "wie": "Der Körper wappnet sich, bevor Kael Gefahr sieht.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Körper; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Kollegin",
+   "art": "figur",
+   "seit": 2,
+   "quelle": "Manuscript/plot/treatment.md, erste Nennung (Vorschlag)",
+   "status": "proposal"
+  }
+ ]
+}

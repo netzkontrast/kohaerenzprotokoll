@@ -1,0 +1,86 @@
+# counts for 60 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Seelen-Kohärenz-Protokoll         1 word     1 in   [17]
+  Seelen-Kohärenz-Programm          2 word     2 in   [21, 146]
+  Kohärenz-Programm                 1 word     3 in   [21, 146, 162]  <-- substring
+  Risse                             8 word    10 in   [21, 154, 162, 174, 184, 195]
+                                    1      as Rissen
+                                    1      as Risses
+  Riss                              2 word    13 in   [21, 65, 129, 154, 162, 174]  <-- substring
+                                    8      as Risse
+                                    1      as Rissige
+                                    1      as Rissen
+                                    1      as Risses
+  Guardians                        21 word    21 in   [11, 21, 22, 32, 37, 53]
+  Guardian                         10 word    32 in   [11, 21, 22, 32, 37, 53]  <-- substring
+                                   21      as Guardians
+                                    1      as Guardian-Logik
+  Wissende Hüter                    1 word     1 in   [22]
+  Hüter                             3 word     3 in   [22, 154, 167]
+  Simulation                        8 word     9 in   [21, 22, 154, 172, 173, 174]
+  Überraum                          9 word     9 in   [22, 26, 145, 146, 152, 161]
+  Meta-Narrator                     4 word     4 in   [26, 135, 162, 171]
+  Meta-Erzähler                     1 word     1 in   [22]
+  M/R/P                             1 word     2 in   [22, 26]
+                                    1      as M/R/P-Modi
+  Architekt                        10 word    11 in   [22, 41, 55, 60, 62, 65]
+                                    1      as Architektens
+  Echo                             13 word    16 in   [22, 42, 51, 62, 65, 71]
+                                    3      as Echos
+  Wächter                          11 word    14 in   [22, 32, 43, 62, 87, 92]
+                                    1      as Wächter-Archetyp
+                                    1      as Wächters
+                                    1      as Wächter-Festung
+  Funke                             9 word    11 in   [22, 33, 44, 94, 97, 113]
+                                    2      as Funkes
+  Sucher                            9 word    10 in   [22, 45, 78, 81, 103, 108]
+                                    1      as Suchers
+  Das Glitch-Kind                   4 word     4 in   [31, 79, 81, 127]
+  Glitch-Kind                       5 word     5 in   [31, 79, 81, 83, 127]
+  Der Beobachter im Mantel          3 word     3 in   [32, 63, 95]
+  Der Rote Vogel                    3 word     3 in   [33, 111, 127]
+  LogOS                             4 word     4 in   [41, 64, 160, 173]
+  Mnemosyne                         4 word     4 in   [42, 80, 160, 173]
+  Cerberus                          4 word     4 in   [43, 96, 160, 173]
+  Kairos                            4 word     4 in   [44, 128, 160, 173]
+  Sophia                            4 word     4 in   [45, 112, 160, 173]
+  Kognitive Stadt                   2 word     2 in   [61, 193]
+  Nexus                             2 word     2 in   [156, 161]
+  Partnerin                        17 word    23 in   [154, 173, 174, 184, 185, 191]
+                                    2      as Partnerin-Mysterium
+                                    2      as Partnerin-Subplot
+                                    1      as Partnerin-Mysteriums
+                                    1      as Partnerin-Idee
+  Integrations-Werkzeuge            1 word     1 in   [184]
+  Protagonisten-System              2 word     2 in   [146, 171]
+  funktionaler Multiplizität        1 word     1 in   [200]
+  Klarheit                          1 word     1 in   [200]
+  Seele=Info                        4 word     4 in   [173, 174, 191, 196]
+  Jagd nach der Realität            2 word     2 in   [189, 197]
+  HJ                               10 word    16 in   [53, 59, 75, 91, 107, 123]
+  Personas                         27 word    28 in   [11, 21, 22, 53, 62, 78]
+  Intrusion                         9 word    13 in   [11, 21, 53, 62, 67, 78]
+                                    3      as Intrusionen
+  Intrusionen                       3 word     4 in   [21, 53, 67, 135]
+  Meta-Realität                     5 word     5 in   [22, 195, 196, 197, 200]
+  Archetypen                        5 word     5 in   [11, 21, 27, 53, 135]
+  Persona-Realitäten                3 word     3 in   [27, 53, 146]
+  Glitches                          2 word     2 in   [53, 63]
+  Blueprint V3                      1 word     1 in   [13]
+  Blueprint V4                      1 word     1 in   [206]
+  Echos im Zersplitterten Spiegel    1 word     1 in   [51]
+  Intervention aus dem Überraum     1 word     1 in   [152]
+  Die Naht im Selbst                1 word     1 in   [189]
+  Die Stadt der Unvollendeten Brücken    1 word     1 in   [55]
+  Der Nebelsee der Wiederkehr       1 word     1 in   [71]
+  Die Festung der Flüsternden Wände    1 word     1 in   [87]
+  Die Bibliothek der Widersprüchlichen Karten    1 word     1 in   [103]
+  Der Garten der Metamorphen Skulpturen    1 word     1 in   [119]
+  Roter Alarm im Nexus              1 word     1 in   [156]
+  Bruch der Realitäten              1 word     1 in   [136]
+  Archipel                          1 word     1 in   [200]
+  System-Admin                      1 word     1 in   [41]
+  Heldenreise                       1 word     1 in   [21]

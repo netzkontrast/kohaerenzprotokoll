@@ -1,0 +1,60 @@
+{
+ "kapitel": 11,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er weiß, dass Beziehung und drohende Trennung existierten.",
+   "seit": 11,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Juna handelt. Genesis und Fragmentierungsnacht sind ein Ereignis auf zwei Ebenen (W12, Entscheidung 025 Schritt 42); Kap 11 zeigt davon nur den Rand.",
+   "seit": 11,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[Genesis] L: Genesis und Nacht sind ein Ereignis, Kap 11 zeigt nur den Rand (dev:L392).",
+   "seit": 11,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] K: Juna gibt den Ort her (T:L171). Er weiß, dass es eine Beziehung und eine drohende Trennung gab (dev:L391).",
+   "seit": 11,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] K: „Er weiß jetzt, dass es ein Davor gab“ (T:L175). Das Davor reißt am Anruf ab (T:L173). Siehe KD P1.",
+   "seit": 11,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Erinnerte Vergangenheit, nicht Junas erste Begegnung in der Gegenwart.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW1",
+   "art": "welt",
+   "seit": 1,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  }
+ ]
+}

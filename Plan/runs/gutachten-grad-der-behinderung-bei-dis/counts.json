@@ -1,0 +1,182 @@
+{
+  "document": "gutachten-grad-der-behinderung-bei-dis",
+  "drive_id": "1-SgRZAxgeHo8c_wDU6prvQgCOaYm8rxSyel9EGlSVCw",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Dissoziative Identitätsstörung": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        39,
+        359,
+        372,
+        376,
+        391
+      ]
+    },
+    "DIS": {
+      "n": 21,
+      "n_including_compounds": 22,
+      "lines": [
+        22,
+        41,
+        61,
+        78,
+        111,
+        128,
+        158,
+        160,
+        183,
+        213,
+        217,
+        239,
+        243,
+        247,
+        250,
+        288,
+        296,
+        310,
+        315,
+        346,
+        361
+      ]
+    },
+    "Switching": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Switches": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        106
+      ]
+    },
+    "Amnesie": {
+      "n": 7,
+      "n_including_compounds": 8,
+      "lines": [
+        63,
+        65,
+        104,
+        132,
+        146,
+        154,
+        160,
+        311
+      ]
+    },
+    "Dissoziation": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        104,
+        175,
+        192,
+        221,
+        324,
+        334,
+        345,
+        346,
+        349
+      ]
+    },
+    "Trigger": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        105,
+        147,
+        175,
+        262,
+        346
+      ]
+    },
+    "Fassade": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        119,
+        124,
+        130,
+        313,
+        359
+      ]
+    },
+    "Heilungsbewährung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        282,
+        286
+      ]
+    },
+    "Exekutivfunktionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        255
+      ]
+    },
+    "Persönlichkeitsanteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        65
+      ]
+    },
+    "Persönlichkeitszustände": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        63,
+        115
+      ]
+    },
+    "Schutzanteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        132
+      ]
+    },
+    "Identitätsfragmentierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        26
+      ]
+    },
+    "Hidden Condition": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        52
+      ]
+    },
+    "Dissimulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        128
+      ]
+    },
+    "Flashbacks": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        311,
+        346
+      ]
+    }
+  }
+}

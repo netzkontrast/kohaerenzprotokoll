@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      52
+  backslash escapes      29
+  typographic marks      206
+  ascii quotes           8
+
+# inflection families -- one term, several surfaces
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturgeber, Strukturgleichheit, Strukturieren, Strukturierung
+  proje    Project, Projekt, Projektanalyse, Projektdaten, Projektebenen, Projektplanung, Projekts
+  integ    Integration, Integrative, Integrierte, Integrierten, Integriertes, Integrität
+  schre    Schreib, Schreibe, Schreiben, Schreibens, Schreibprozess, Schreibprozesses
+  funkt    Funktion, Funktionale, Funktionalen, Funktionen, Funktionieren
+  infor    Information, Informationen, Informationserhaltung, Informationslöschung, Informationsverlust
+  metap    Metapher, Metaphern, Metaphysical, Metaphysics, Metaphysik
+  psych    Psyche, Psychologie, Psychologische, Psychology, Psychotraumatologie
+  roman    Roman, Romanarchitektur, Romanprojekt, Romans, Romanwelt
+  analy    Analyse, Analysieren, Analysis, Analytiker
+  autor    Autor, Autoren, Autorensystem, Autors
+  chara    Character, Characters, Charaktere, Charakterpsychologie
+  daten    Datenbank, Datenbanken, Datenbasis, Datenpunkte
+  erleb    Erlebe, Erleben, Erlebenden, Erlebens
+  forsc    Forschungsauftrag, Forschungsdaten, Forschungsmaterialien, Forschungsprojekt
+  handl    Handlung, Handlungsanweisung, Handlungsanweisungen, Handlungsfähigkeit
+  inter    Interactive, Interaktion, Interpretation, Interrogatories
+  kohär    Kohärent, Kohärenten, Kohärenz, Kohärenztheorie
+  korre    Korrespondenz, Korrespondenztheorie, Korrespondierend, Korrespondierenden
+  persp    Perspective, Perspektive, Perspektiven, Perspektivwechsel
+  proto    Protocol, Protokoll, Protokolle, Protokolls
+  reali    Realism, Reality, Realität, Realitätswahrnehmung
+  syste    System, Systemarchitektur, Systems, Systemtheorie
+  wisse    Wissen, Wissensanspruchs, Wissenschaftliche, Wissensmanagement
+  agent    Agential, Agentic, Agentive
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dies < Dieser
+  Dual < Wahrheitsdualität
+  Eine < Keine
+  Eine < Bausteine
+  Eine < Anscheinend
+  Eins < Seins
+  Feld < Konfliktfeld
+  Kael < Kaels
+  Know < Knowledge
+  Mass < Masse
+  Meta < Metapher
+  Meta < Metaphern
+  Meta < Metaphysik
+  Meta < Metaphysics
+  Meta < Metaphysical
+  Mind < Mindsets
+  Mind < Storymind
+  Plot < Plotter
+  Plot < Plotting

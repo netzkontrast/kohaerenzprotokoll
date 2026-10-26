@@ -1,0 +1,8 @@
+profile: 144 backslash escapes, 33 glued ref numbers, 342 lines (01-profile.txt)
+grep -cP '(?<![\w-])Kael(?![\w-])': 0
+grep -cP '(?<![\w-])Juna(?![\w-])': 0
+grep -cP '(?<![\w-])Nyx(?![\w-])': 0
+grep -cP '(?<![\w-])AEGIS(?![\w-])': 0
+grep -cP '(?<![\w-])Isabelle(?![\w-])': 0
+grep -cP '(?<![\w-])Kernwunde(?![\w-])': 0
+grep -cP '(?<![\w-])Kap(?![\w-])': 0

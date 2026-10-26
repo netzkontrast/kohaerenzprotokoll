@@ -1,0 +1,90 @@
+{
+ "kapitel": 34,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Er kennt die Wiederholung seines Musters, kann sie noch nicht durchbrechen.",
+   "seit": 34,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Die falsche Lösung ist fürsorglich begründet, nicht plötzlich willkürlich.",
+   "seit": 34,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Juna] Juna widerspricht (T:L427).",
+   "seit": 34,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[Anschluss / Kanal] K trennt die Verbindung selbst (T:L427).",
+   "seit": 34,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[zehn Jahre] Die Nacht wiederholt sich für einen Moment (T:L427–L428).",
+   "seit": 34,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Beschlossener Übergang 34/35.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": [
+  {
+   "name": "KW4",
+   "art": "welt",
+   "seit": 29,
+   "quelle": "Plan/storyform/weave.json (Kanonzeile Kernwelten)",
+   "status": "proposal"
+  },
+  {
+   "name": "Lia",
+   "art": "anteil",
+   "seit": 34,
+   "kanal": "Stimme",
+   "wie": "Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Nyx",
+   "art": "anteil",
+   "seit": 34,
+   "kanal": "Stimme",
+   "wie": "Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  },
+  {
+   "name": "Alex",
+   "art": "anteil",
+   "seit": 34,
+   "kanal": "Stimme",
+   "wie": "Kael lässt Juna gehen: Lias „Komm her / Geh weg“ entscheidet sich für „Geh“, die Abwehr gewinnt — „Wer mir nah ist, wird verletzt“ als Tat.",
+   "quelle": "Plan/storyform/anteile.json",
+   "status": "proposal",
+   "hinweis": "zeigt sich hier über Stimme; der Name fällt nicht vor Kap 13"
+  }
+ ]
+}

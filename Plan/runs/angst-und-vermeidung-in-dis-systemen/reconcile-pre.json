@@ -1,0 +1,534 @@
+{
+  "document": "angst-und-vermeidung-in-dis-systemen",
+  "step": "reconcile-pre",
+  "at": "2026-10-21",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-21",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 129,
+  "decisions": 123,
+  "same_surface": {},
+  "decided_mechanically": 116,
+  "needs_judgement": 7,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Alters",
+        "page": "alters",
+        "readings": 196
+      },
+      {
+        "candidate": "TSDP",
+        "page": "tsdp",
+        "readings": 228
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "dissoziative Identitätsstörung"
+      },
+      {
+        "candidate": "DIS"
+      },
+      {
+        "candidate": "multiple Persönlichkeitsstörung"
+      },
+      {
+        "candidate": "MPD"
+      },
+      {
+        "candidate": "OSDD"
+      },
+      {
+        "candidate": "dissoziative Anteile"
+      },
+      {
+        "candidate": "Identity-States"
+      },
+      {
+        "candidate": "Ego-States"
+      },
+      {
+        "candidate": "ANP"
+      },
+      {
+        "candidate": "ANPs"
+      },
+      {
+        "candidate": "Anscheinend Normalen Persönlichkeitsanteilen"
+      },
+      {
+        "candidate": "EP"
+      },
+      {
+        "candidate": "EPs"
+      },
+      {
+        "candidate": "Emotionalen Persönlichkeitsanteilen"
+      },
+      {
+        "candidate": "Host"
+      },
+      {
+        "candidate": "Innenkinder"
+      },
+      {
+        "candidate": "Perpetrator Introjects"
+      },
+      {
+        "candidate": "Persecutor Parts"
+      },
+      {
+        "candidate": "innere Verfolger"
+      },
+      {
+        "candidate": "Beschützeranteil"
+      },
+      {
+        "candidate": "Covert DID"
+      },
+      {
+        "candidate": "Kernsystem"
+      },
+      {
+        "candidate": "Mitbewusstsein"
+      },
+      {
+        "candidate": "Co-Consciousness"
+      },
+      {
+        "candidate": "Co-Bewusstsein"
+      },
+      {
+        "candidate": "passiven Beeinflussung"
+      },
+      {
+        "candidate": "Passive Influence"
+      },
+      {
+        "candidate": "Emotional Bleeding"
+      },
+      {
+        "candidate": "Time Loss"
+      },
+      {
+        "candidate": "Amnesie für die Amnesie"
+      },
+      {
+        "candidate": "dissoziative Amnesie"
+      },
+      {
+        "candidate": "Shutdown"
+      },
+      {
+        "candidate": "Front"
+      },
+      {
+        "candidate": "Theorie der strukturellen Dissoziation der Persönlichkeit"
+      },
+      {
+        "candidate": "sekundären strukturellen Dissoziation"
+      },
+      {
+        "candidate": "Handlungssysteme"
+      },
+      {
+        "candidate": "Action Systems"
+      },
+      {
+        "candidate": "Systeme des täglichen Lebens"
+      },
+      {
+        "candidate": "Verteidigungs- und Abwehrsysteme"
+      },
+      {
+        "candidate": "Cry for help"
+      },
+      {
+        "candidate": "Flight"
+      },
+      {
+        "candidate": "Freeze"
+      },
+      {
+        "candidate": "Appeasement/Submit"
+      },
+      {
+        "candidate": "Hierarchiesystem traumabezogener Phobien"
+      },
+      {
+        "candidate": "Phobie vor traumatischen Erinnerungen"
+      },
+      {
+        "candidate": "Phobie vor mentalen Handlungen"
+      },
+      {
+        "candidate": "Mental Phobia"
+      },
+      {
+        "candidate": "Phobie vor dissoziativen Anteilen"
+      },
+      {
+        "candidate": "Phobie vor Bindung und Bindungsverlust"
+      },
+      {
+        "candidate": "Phobie vor dem normalen Leben und Intimität"
+      },
+      {
+        "candidate": "Phobie vor dem Anderen"
+      },
+      {
+        "candidate": "phobische Vermeidung"
+      },
+      {
+        "candidate": "Fassade der Normalität"
+      },
+      {
+        "candidate": "Schweigegelübde"
+      },
+      {
+        "candidate": "Numbing"
+      },
+      {
+        "candidate": "Realization"
+      },
+      {
+        "candidate": "Synthese"
+      },
+      {
+        "candidate": "Realisation"
+      },
+      {
+        "candidate": "Personifizierung"
+      },
+      {
+        "candidate": "Präsentifizierung"
+      },
+      {
+        "candidate": "positiven dissoziativen Symptomen"
+      },
+      {
+        "candidate": "desorganisierten Bindung"
+      },
+      {
+        "candidate": "soziokognitive Modell"
+      },
+      {
+        "candidate": "Traumamodell"
+      },
+      {
+        "candidate": "Satanic Panic"
+      },
+      {
+        "candidate": "Inneren Teamsitzungen"
+      },
+      {
+        "candidate": "Innere Teamsitzungen"
+      },
+      {
+        "candidate": "Roll Call"
+      },
+      {
+        "candidate": "Lagebericht"
+      },
+      {
+        "candidate": "6-Schritte-Modell"
+      },
+      {
+        "candidate": "Innere sichere Ort"
+      },
+      {
+        "candidate": "Inner Safe Place"
+      },
+      {
+        "candidate": "Teilen von Ressourcen"
+      },
+      {
+        "candidate": "Schema-Modus-Inventar"
+      },
+      {
+        "candidate": "Vulnerable Child Modes"
+      },
+      {
+        "candidate": "Verletzlicher Kindmodus"
+      },
+      {
+        "candidate": "Punitive Parent Mode"
+      },
+      {
+        "candidate": "Strafender Elternmodus"
+      },
+      {
+        "candidate": "Strafenden Elternmodus"
+      },
+      {
+        "candidate": "Imagery Rescripting"
+      },
+      {
+        "candidate": "Unburdening"
+      },
+      {
+        "candidate": "Manager"
+      },
+      {
+        "candidate": "Exilanten"
+      },
+      {
+        "candidate": "Selbst"
+      },
+      {
+        "candidate": "Ella"
+      },
+      {
+        "candidate": "Frauke"
+      },
+      {
+        "candidate": "The Mean"
+      },
+      {
+        "candidate": "Pierre Janet"
+      },
+      {
+        "candidate": "Onno van der Hart"
+      },
+      {
+        "candidate": "Kathy Steele"
+      },
+      {
+        "candidate": "Sigmund Freud"
+      },
+      {
+        "candidate": "Anna Freud"
+      },
+      {
+        "candidate": "Sándor Ferenczi"
+      },
+      {
+        "candidate": "Martin Teicher"
+      },
+      {
+        "candidate": "Aharon Appelfeld"
+      },
+      {
+        "candidate": "Identifikation mit dem Aggressor"
+      },
+      {
+        "candidate": "Sprachverwirrung"
+      },
+      {
+        "candidate": "Confusion of Tongues"
+      },
+      {
+        "candidate": "Schematherapie"
+      },
+      {
+        "candidate": "Internal Family Systems"
+      },
+      {
+        "candidate": "IFS"
+      },
+      {
+        "candidate": "EMDR"
+      },
+      {
+        "candidate": "Konditionierungsprozesse"
+      },
+      {
+        "candidate": "Abwehrmechanismus"
+      },
+      {
+        "candidate": "Verdrängung"
+      },
+      {
+        "candidate": "Verleugnung"
+      },
+      {
+        "candidate": "Flooding"
+      },
+      {
+        "candidate": "Neuroplastizität"
+      },
+      {
+        "candidate": "Titration"
+      },
+      {
+        "candidate": "Corpus callosum"
+      },
+      {
+        "candidate": "Amygdala"
+      },
+      {
+        "candidate": "Insula"
+      },
+      {
+        "candidate": "Resting-State-Aktivität"
+      },
+      {
+        "candidate": "DSM-5"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Täterintrojekte  /  Täterintrojekt",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Switching  /  Switch",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "strukturelle Dissoziation  /  primäre strukturelle Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "strukturelle Dissoziation  /  tertiäre strukturelle Dissoziation",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Fight  /  Firefighters",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Inneren Konferenzraums  /  Inneren Konferenzraum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Healthy Adult Mode  /  Healthy Adult",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 88,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

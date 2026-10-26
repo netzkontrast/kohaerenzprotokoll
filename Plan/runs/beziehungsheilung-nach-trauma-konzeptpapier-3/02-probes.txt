@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      207
+  backslash escapes      108
+  typographic marks      38
+  ascii quotes           126
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstaufgabe, Selbstaufopferung, Selbstbehauptung, Selbstberuhigung, Selbstberuhigungs, Selbstfindung, Selbstfürsorge, Selbstgefühl, Selbstgefühls, Selbsthilfegruppen, Selbstkonfrontation, Selbstkonzept, Selbstmitgefühl, Selbstorganisation, Selbstreflexion, Selbstregulation, Selbstsabotage, Selbstvalidierung, Selbstverantwortung, Selbstverlust, Selbstwahrnehmung, Selbstwertgefühl, Selbstwertgefühls, Selbstwerts
+  bezie    Beziehung, Beziehungen, Beziehungs, Beziehungsalltag, Beziehungsarchetypen, Beziehungsbasis, Beziehungsbrüchen, Beziehungsdynamik, Beziehungsentwicklung, Beziehungsfähigkeit, Beziehungsgeschichten, Beziehungsgestaltung, Beziehungsheilung, Beziehungsmuster, Beziehungsmustern, Beziehungsphasen, Beziehungsproblem, Beziehungsrealität, Beziehungsstrategien, Beziehungstipps, Beziehungstransformation, Beziehungswelt
+  bindu    Bindung, Bindungsangst, Bindungsanteilen, Bindungsbedürfnisse, Bindungsgeister, Bindungsmuster, Bindungsperson, Bindungssicherheit, Bindungsstil, Bindungsstile, Bindungsstilen, Bindungsstrategie, Bindungstheorie, Bindungstrauma, Bindungstyp, Bindungsunsicherheit, Bindungsverletzung, Bindungsverletzungen, Bindungswippe, Bindungsängste
+  traum    Trauma, Traumaarbeit, Traumadynamik, Traumadynamiken, Traumafolgen, Traumaforschung, Traumaheilung, Traumas, Traumasensible, Traumata, Traumatische, Traumatisierte, Traumatisierung, Traumatisierungen, Traumaverarbeitung
+  inter    Interacts, Interaktion, Interaktionen, Interaktionsmuster, Interaktionsmustern, Interaktionszyklen, Interaktionszyklus, Interdependence, Interdependenz, Interessen, Intern, Interpersonell
+  indiv    Individualität, Individuals, Individuation, Individuations, Individuationsphase, Individuationsreise, Individuelle, Individuen, Individuum, Individuums
+  konfl    Konflikt, Konflikte, Konflikten, Konfliktlinien, Konfliktlösung, Konflikts, Konfliktsituationen, Konfliktverhalten, Konfliktzyklen
+  psych    Psych, Psyche, Psychiatry, Psychodynamik, Psychologie, Psychologische, Psychology, Psychotherapie, Psychotherapy
+  trans    Transformation, Transformational, Transformations, Transformationsprozess, Transformationsreise, Transformative, Transforming, Transforms, Transparenz
+  emoti    Emotional, Emotionale, Emotionaler, Emotionalität, Emotionally, Emotionen, Emotionsfokussierte, Emotionsregulation
+  heilu    Heilung, Heilungsphase, Heilungsprozesse, Heilungsprozesses, Heilungsreise, Heilungsterrains, Heilungsweg, Heilungswegen
+  vertr    Vertrauen, Vertrauens, Vertrauensaufbau, Vertrauensaufbaus, Vertrauensbruch, Vertrauensbrüche, Vertrauensprobleme, Vertrauenswiederherstellung
+  diffe    Differences, Differentiated, Differentiation, Differenzierung, Differenzierungs, Differenzierungsfähigkeiten, Differenzierungsgrad
+  thera    Therapeuten, Therapeutische, Therapeutischer, Therapeutisches, Therapie, Therapist, Therapy
+  wiede    Wieder, Wiederannäherung, Wiederannäherungsversuchs, Wiederaufbau, Wiederaufbaus, Wiederherstellung, Wiederverbindung
+  disso    Dissociation, Dissociative, Dissolution, Dissonanz, Dissoziation, Dissoziationsepisode
+  gegen    Gegenpole, Gegensatz, Gegensätze, Gegensätzen, Gegenwart, Gegenüber
+  kommu    Kommunikation, Kommunikationsblockade, Kommunikationsmuster, Kommunikationsstörungen, Kommunikationsversagen, Kommunikationswege
+  konze    Konzentration, Konzept, Konzepte, Konzeptpapier, Konzepts, Konzeptuelle
+  unter    Unterdrückung, Unterscheidung, Unterschiede, Unterschieden, Unterstützung, Unterwerfungsreaktion
+  arche    Archetyp, Archetype, Archetypen, Archetypes, Archetypische
+  balan    Balance, Balanceaktes, Balanced, Balancieren, Balancing
+  kontr    Kontrastierung, Kontrolle, Kontrollverlust, Kontrollversuche, Kontrollversuchen
+  liebe    Liebe, Lieben, Liebende, Liebenden, Liebewohl
+  parad    Paradox, Paradoxerweise, Paradoxien, Paradoxon, Paradoxons
+
+# substring pairs -- never one term, often merged by accident
+  Arts < LitCharts
+  Auch < Missbrauch
+  Auch < Missbrauchserfahrungen
+  Bild < Bilder
+  Bild < Urbilder
+  Bild < Ausbildung
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Digi < Digital
+  Diss < Dissonanz
+  Diss < Dissolution
+  Diss < Dissociation
+  Diss < Dissociative
+  Diss < Dissoziation
+  Diss < Dissoziationsepisode
+  Down < Shutdown
+  Eine < Keine
+  Eine < Einengung
+  Eine < Erscheinen

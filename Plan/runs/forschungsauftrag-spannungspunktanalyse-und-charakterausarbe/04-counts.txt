@@ -1,0 +1,74 @@
+# counts for 59 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              4 word     4 in   [15, 17, 21, 161]
+  Selene                            4 word     4 in   [35, 39, 215, 227]
+  Nyx                               7 word     7 in   [57, 89, 161, 175, 179, 197]
+  Kiko                              5 word     5 in   [68, 75, 125, 153, 197]
+  Lia                               4 word     4 in   [68, 93, 125, 153]
+  Isabelle                          1 word     1 in   [111]
+  Moros                             3 word     3 in   [129, 153, 175]
+  Rhys                              5 word     5 in   [71, 125, 143, 165, 197]
+  Lex                               7 word     7 in   [71, 89, 107, 175, 179, 183]
+  Argus                             1 word     1 in   [201]
+  AEGIS                             7 word     7 in   [15, 35, 53, 125, 197, 225]
+  Juna/V                            4 word     4 in   [15, 89, 179, 226]
+  Juna                              4 word     4 in   [15, 89, 179, 226]
+  V                                 4 word    45 in   [15, 28, 30, 52, 53, 62]  <-- substring
+  Kernwelten                        2 word     2 in   [15, 224]
+  Co₁                               2 word     2 in   [197, 224]
+  McL                               1 word     1 in   [224]
+  B                                 3 word    54 in   [30, 44, 46, 48, 49, 53]  <-- substring
+  Ly                                1 word     1 in   [224]
+  Paradoxon X                       2 word     2 in   [71, 225]
+  Cache Kohärenz                    1 word     1 in   [35]
+  System Kael                       1 word     1 in   [17]
+  System-Host                       1 word     1 in   [27]
+  Kai-Aspekten                      1 word     1 in   [107]
+  PP-SYS-02                         1 word     1 in   [71]
+  PP-SYS-03                         1 word     1 in   [53]
+  PP-INT-01                         2 word     2 in   [71, 197]
+  PP-INT-02                         2 word     2 in   [89, 197]
+  PP-INT-03                         1 word     1 in   [179]
+  PP-INT-04                         2 word     2 in   [179, 197]
+  PP-CCH-01                         1 word     1 in   [85]
+  Anteile                           5 word     8 in   [15, 17, 19, 125, 143, 223]
+                                    3      as Anteilen
+  Anteil                            2 word    12 in   [15, 17, 19, 125, 143, 205]  <-- substring
+                                    5      as Anteile
+                                    3      as Anteilen
+                                    1      as Anteils
+                                    1      as Anteilspaare
+  ANP                               6 word    10 in   [25, 43, 143, 151, 169, 187]
+  EP                                5 word    20 in   [31, 33, 35, 43, 46, 61]  <-- substring
+  EPs                               3 word     4 in   [31, 33, 179, 193]
+  Kind-EP                           2 word     3 in   [79, 97, 179]
+                                    1      as Kind-EPs
+  Primärer ANP                      2 word     2 in   [25, 187]
+  Sekundärer ANP                    2 word     2 in   [151, 169]
+  Metakognitiver Anteil             1 word     1 in   [205]
+  Anscheinend Normaler Persönlichkeitsanteil    1 word     1 in   [25]
+  Emotionaler Persönlichkeitsanteil    5 word     5 in   [61, 79, 97, 115, 133]
+  Protektor-Typ                     1 word     1 in   [151]
+  Funktionale Fehlanpassung         1 word     1 in   [224]
+  Integrationsprozess               1 word     1 in   [227]
+  Zustandswechsel                   1 word     1 in   [228]
+  Trauma-Trigger                    1 word     1 in   [64]
+  Phobie                            2 word     5 in   [31, 35, 193, 223, 237]  <-- substring
+                                    2      as Phobien
+  Amnesie                           2 word     2 in   [31, 228]
+  Intrusionen                       1 word     1 in   [237]
+  Ko-Bewusstsein                    1 word     1 in   [237]
+  Koregulation                      1 word     1 in   [84]
+  Selbstregulation                  1 word     1 in   [53]
+  TSDP                              2 word     5 in   [11, 15, 236, 237, 245]  <-- substring
+                                    1      as TSDP-basiert
+                                    1      as TSDP-Dynamiken
+                                    1      as TSDP-fundierten
+  Strukturellen Dissoziation        1 word     1 in   [15]
+  Dissoziation                      3 word     3 in   [15, 134, 228]
+  IFS-Selbst-Qualitäten             1 word     1 in   [50]
+  Systemtheorie                     1 word     1 in   [236]
+  Traumaforschung                   1 word     1 in   [236]

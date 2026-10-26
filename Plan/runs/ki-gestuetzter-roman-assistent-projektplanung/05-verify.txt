@@ -1,0 +1,125 @@
+# 05-verify: every number the census and note state
+$ read.py --count "STRIKTE REGELN"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`STRIKTE REGELN` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "Top-Priorität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Top-Priorität` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#0]
+$ read.py --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kap` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#0]
+$ read.py --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#0]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            6
+
+`AEGIS` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#5]
+$ read.py --count "Juna"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2]
+$ read.py --count "Nyx"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Nyx` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#3]
+$ read.py --count "Kael"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Kael` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#6]
+$ read.py --count "Kernwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`Kernwelt` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "Kernwelten"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Kernwelten` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Überwelt` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "Digitalen Überwelt"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Digitalen Überwelt` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "K1"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K1` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "K0"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`K0` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#1]
+$ read.py --count "Mut zur Lücke"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Mut zur Lücke` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#4]
+$ read.py --count "Kohärenz Protokoll"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Kohärenz Protokoll` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2]
+$ read.py --count "Kohärenz-Protokoll"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            9
+
+`Kohärenz-Protokoll` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#7]
+$ read.py --count "13 Entitäten"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`13 Entitäten` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2]
+$ read.py --count "Moonshine-Links"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Moonshine-Links` ^[ki-gestuetzter-roman-assistent-projektplanung.md:#2]
+
+$ read.py --count "Entitäten" / candidates
+77
+profile: backslash escapes 115, question marks 0 (Plan/runs/ki-gestuetzter-roman-assistent-projektplanung/01-profile.txt)

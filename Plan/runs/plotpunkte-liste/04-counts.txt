@@ -1,0 +1,64 @@
+# counts for 45 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Das Seelen-Kohärenz-Protokoll     1 word     1 in   [13]
+  Seelen-Kohärenz-Programms         1 word     1 in   [30]
+  Echos im Zersplitterten Spiegel    1 word     1 in   [15]
+  Zersplitterten Spiegel            1 word     1 in   [15]
+  Intervention aus dem Überraum     1 word     1 in   [27]
+  Die Jagd nach der Realität        1 word     1 in   [37]
+  Jagd nach der Realität            2 word     2 in   [37, 44]
+  Die Naht im Selbst                1 word     1 in   [37]
+  Naht im Selbst                    1 word     1 in   [37]
+  Architekt                         1 word     2 in   [17, 18]
+                                    1      as Architekt-Intrusion
+  Echo                              2 word     6 in   [15, 17, 18, 19, 21, 22]  <-- substring
+                                    2      as Echo-Intrusion
+                                    1      as Echos
+                                    1      as Echo-Intrusionen
+  Wächter                           2 word     3 in   [19, 21]
+                                    1      as Wächters
+  Sucher                            2 word     2 in   [20, 23]
+  Funke                             2 word     4 in   [19, 20, 21, 23]
+                                    2      as Funke-Intrusion
+  Partnerin                        13 word    18 in   [17, 18, 19, 20, 21, 22]
+                                    2      as Partnerin-Verbindung
+                                    1      as Partnerin-Stimme
+                                    1      as Partnerin-Thema
+                                    1      as Partnerin-Mysterium
+  Personas                          6 word     6 in   [24, 34, 35, 41, 43, 46]
+  Guardians                         5 word     5 in   [29, 34, 35, 43, 44]
+  Guardian                          5 word    11 in   [29, 30, 31, 32, 33, 34]  <-- substring
+                                    5      as Guardians
+                                    1      as Guardian-Logik
+  LogOS                             2 word     2 in   [29, 30]
+  Mnemosyne                         2 word     2 in   [29, 31]
+  Cerberus                          2 word     2 in   [29, 32]
+  Kairos                            2 word     2 in   [29, 33]
+  Sophia                            2 word     2 in   [29, 34]
+  Überraum                          3 word     3 in   [25, 27, 29]
+  Nexus                             1 word     1 in   [29]
+  Echo-Intrusion                    2 word     3 in   [17, 19, 21]
+                                    1      as Echo-Intrusionen
+  Funke-Intrusion                   2 word     2 in   [19, 20]
+  Architekt-Intrusion               1 word     1 in   [18]
+  Glitch-Kind                       1 word     1 in   [18]
+  Roter Vogel                       1 word     1 in   [20]
+  Display-Riss                      1 word     1 in   [17]
+  Realitätsriss                     1 word     1 in   [21]
+  Realitätssturm                    1 word     1 in   [23]
+  Risse                             4 word     5 in   [32, 39, 41, 44, 45]
+                                    1      as Risses
+  Glitches                          2 word     2 in   [24, 32]
+  Bruch                             1 word     1 in   [25]
+  Klarheit                          2 word     2 in   [22, 46]
+  Integrations-Werkzeuge            1 word     1 in   [35]
+  Seele=Information                 1 word     1 in   [31]
+  Seelen sind vernetzte Information    1 word     1 in   [42]
+  funktionale Multiplizität         1 word     1 in   [46]
+  Außen                             1 word     1 in   [43]
+  Anomalie                          1 word     2 in   [18, 34]
+  Trauma-Loop                       1 word     1 in   [18]
+  V4                                2 word     2 in   [11, 13]

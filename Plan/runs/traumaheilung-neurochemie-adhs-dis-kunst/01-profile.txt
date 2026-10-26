@@ -1,0 +1,14 @@
+# traumaheilung-neurochemie-adhs-dis-kunst
+  lines                570  (frontmatter ends at 9)
+  body words           8592
+  headings             28   bold-only lines 1
+  table rows           7   code fences 0
+  question marks       14
+  backslash escapes    16
+  typographic marks    97   ascii quotes 2
+  invisible characters none
+  math symbol lines    1
+  glued ref numbers    200
+  repeated labels      none
+  longest line         1084 chars
+

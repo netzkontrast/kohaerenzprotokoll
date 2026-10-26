@@ -1,0 +1,71 @@
+# counts for 55 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Zersplitterung                    2 word     2 in   [364, 365]
+  Fragmentierung                    5 word     5 in   [255, 285, 304, 365, 388]
+  Hypervigilanz                     2 word     2 in   [40, 366]
+  Abschaltung                       2 word     2 in   [276, 367]
+  Die Schleife                      1 word     1 in   [368]
+  Verkörperung                      2 word     2 in   [304, 369]
+  Allianz                           2 word     2 in   [172, 370]
+  Reaktivierung                     2 word     2 in   [136, 371]
+  Rekonsolidierung                  4 word     5 in   [130, 142, 143, 145, 372]
+                                    1      as Rekonsolidierungsmodell
+  Integration                       8 word     8 in   [184, 259, 263, 287, 326, 373]
+  Überwindung                       4 word     4 in   [324, 326, 374]
+  Rebellion                         3 word     3 in   [375]
+  Bedeutung                         5 word     5 in   [147, 246, 291, 309, 376]
+  Shattering                        1 word     1 in   [364]
+  Fragmentation                     3 word     3 in   [365, 522, 544]
+  Hypervigilance                    1 word     1 in   [366]
+  Shutdown                          4 word     5 in   [161, 367, 387, 475, 476]
+                                    1      as Shutdowns
+  The Loop                          1 word     1 in   [368]
+  Embodiment                        3 word     3 in   [369, 542]
+  Alliance                          3 word     3 in   [370, 482, 562]
+  Reactivation                      1 word     1 in   [371]
+  Reconsolidation                   6 word     6 in   [372, 407, 459, 460, 461, 466]
+                                    1      as reconsolidationtherapy
+                                    1      as reconsolidation-therapy
+  Overcoming                        1 word     1 in   [374]
+  Heilungsreise                     3 word     3 in   [349, 358, 376]
+  Schlüsselwörter                   1 word     1 in   [358]
+  Klangliche Dissonanz und Harmonie    1 word     1 in   [386]
+  Visuals und Kitsch                1 word     1 in   [389]
+  Theorie der strukturellen Dissoziation    1 word     1 in   [267]
+  Der anscheinend normale Anteil    1 word     1 in   [273]
+  Der emotionale Anteil             1 word     1 in   [274]
+  ANP                               7 word     9 in   [273, 276, 287, 365]
+  EP                                6 word     9 in   [274, 276, 287, 365]
+  polyvagalen Leiter                1 word     1 in   [161]
+  dorsal-vagalen Shutdowns          1 word     1 in   [161]
+  Neuroplastizität                  7 word     7 in   [45, 110, 118, 122, 126, 326]
+  Gedächtnisrekonsolidierung        2 word     2 in   [134, 184]
+  Mismatch                          3 word     3 in   [137, 372]
+  Enaktivismus                      2 word     2 in   [304, 310]
+  4E-Kognition                      1 word     1 in   [310]
+  Default Mode Network              4 word     4 in   [210, 285, 501, 506]
+  Salience Network                  1 word     1 in   [210]
+  Psychoneuroimmunologie            1 word     1 in   [90]
+  Darm-Hirn-Achse                   3 word     3 in   [99, 106, 369]
+  HHN-Achse                         8 word     9 in   [55, 60, 80, 106, 155, 173]
+                                    1      as HHN-Achsen-Reaktion
+  kPTBS                            14 word    15 in   [22, 30, 38, 45, 53, 55]
+                                    1      as kPTBS-Symptome
+  ADHS                             18 word    21 in   [13, 190, 194, 198, 207, 209]
+                                    1      as ADHS-Trauma-Nexus
+                                    1      as ADHS-Symptome
+                                    1      as ADHS_oder_PTBS
+                                    1      as adhs-oder-trauma-das-sind-die-unterschiede
+  DIS                               9 word     9 in   [13, 190, 194, 250, 259, 262]
+  Dissoziation                     11 word    11 in   [161, 259, 267, 276, 284, 287]
+  Logotherapie                      2 word     2 in   [342, 347]
+  Amor Fati                         1 word     1 in   [323]
+  Willen zur Macht                  2 word     2 in   [324, 374]
+  Ressentiment                      1 word     2 in   [324]
+                                    1      as Ressentiments
+  Wille zum Sinn                    1 word     1 in   [342]
+  Posttraumatisches Wachstum        1 word     1 in   [347]
+  Kunsttherapie                     2 word     2 in   [384, 389]

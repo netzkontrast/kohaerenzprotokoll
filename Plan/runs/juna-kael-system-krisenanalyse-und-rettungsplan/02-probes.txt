@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      24
+  backslash escapes      60
+  typographic marks      25
+  ascii quotes           154
+
+# inflection families -- one term, several surfaces
+  selbs    Selbst, Selbstabwertung, Selbstakzeptanz, Selbstberuhigungs, Selbstbildes, Selbstfürsorge, Selbsthilfegruppe, Selbstliebe, Selbstmitgefühl, Selbstmitgefühls, Selbstreflexion, Selbstregulationsfähigkeiten, Selbstsabotage, Selbstschutz, Selbstschutzes, Selbstsystems, Selbstwertgefühl, Selbstwertgefühls, Selbstwirksamkeit, Selbstwirksamkeitserwartung
+  bezie    Beziehung, Beziehungen, Beziehungs, Beziehungsbedürfnisse, Beziehungschancen, Beziehungsdynamik, Beziehungsentwicklung, Beziehungserfahrungen, Beziehungsgestaltung, Beziehungskrise, Beziehungskrisen, Beziehungsmuster, Beziehungsparadoxon, Beziehungsproblem, Beziehungsrealität, Beziehungsstrategien, Beziehungssystem, Beziehungswünsche
+  kommu    Kommunikation, Kommunikations, Kommunikationsbarrieren, Kommunikationsdefiziten, Kommunikationsfähigkeit, Kommunikationsfähigkeiten, Kommunikationsmethoden, Kommunikationsmuster, Kommunikationsmustern, Kommunikationsquadrat, Kommunikationssignale, Kommunikationsstrategien, Kommunikationstheorien, Kommunikationsversuche
+  syste    System, Systematisches, Systeme, Systemen, Systemgeschichte, Systemische, Systemkohärenz, Systemrates, Systems, Systemtheorie, Systemverhalten, Systemverhaltens
+  traum    Trauma, Traumaarbeit, Traumabedingte, Traumaerinnerung, Traumaerinnerungen, Traumafolgestörungen, Traumaforschung, Traumapsychologie, Traumata, Traumatherapie, Traumatisierungen, Traumaverarbeitung
+  inter    Interaktion, Interaktionen, Interaktionsmuster, Interaktionsschleifen, Interdisziplinäre, Interessantes, International, Interne, Intervention, Interventionsstrategien, Interventionstechniken
+  krise    Krise, Krisen, Krisenakzeptanz, Krisenbewältigung, Krisendynamiken, Kriseninterventionstheorie, Krisenreaktionsmodelle, Krisenrealität, Krisensituationen, Krisenstabs
+  bindu    Bindung, Bindungsbedürfnisse, Bindungserfahrung, Bindungserfahrungen, Bindungsmuster, Bindungstheoretisch, Bindungstheorie, Bindungstheorien, Bindungstraumata
+  wiede    Wieder, Wiedererkennen, Wiedererkennens, Wiedererleben, Wiederfinden, Wiederherstellung, Wiederholung, Wiederholungszwang, Wiederholungszwänge
+  überl    Überlastung, Überleben, Überlebensfunktionen, Überlebensgeschichte, Überlebenskampf, Überlebensmechanismus, Überlebensregeln, Überlebensstrategien, Überlegungen
+  verst    Verstehen, Verstimmung, Verständigung, Verständnis, Verständnisses, Verstärkte, Verstärkter, Verstärkung
+  vertr    Vertrauen, Vertrauens, Vertrauensaufbaus, Vertrauensbruchs, Vertrauensbrüche, Vertrauensbrüchen, Vertrauensfrage, Vertrauensverlustes
+  ident    Identifikation, Identität, Identitäten, Identitätsstruktur, Identitätsstrukturen, Identitätsstörung
+  probl    Problem, Problematiken, Problembeschreibung, Probleme, Problemlösung, Problems
+  veran    Verantwortlichkeiten, Verantwortung, Verantwortungserklärung, Verantwortungsfähigkeit, Verantwortungsgefühl, Verantwortungsübernahme
+  wisse    Wissen, Wissens, Wissensaneignung, Wissenschaftlich, Wissensfundaments, Wissensressource
+  emoti    Emotional, Emotionale, Emotionen, Emotionsfokussierten, Emotionsregulation
+  entsc    Entscheidung, Entscheidungen, Entscheidungsfindung, Entscheidungsfindungen, Entschlossenheit
+  handl    Handlungen, Handlungsfreiheit, Handlungsfähigkeit, Handlungsmöglichkeiten, Handlungsplan
+  konfl    Konflikte, Konflikten, Konfliktlösung, Konfliktlösungsstrategien, Konfliktmustern
+  parad    Paradoxe, Paradoxerweise, Paradoxien, Paradoxon, Paradoxons
+  reali    Realistische, Realität, Realitäten, Realitätsprüfung, Realitätsverlust
+  resso    Ressource, Ressourcen, Ressourcenaktivierung, Ressourcenbaums, Ressourcenorientierte
+  schul    Schuld, Schuldgefühle, Schuldzuweisung, Schuldzuweisungen, Schulz
+  verän    Veränderung, Veränderungen, Veränderungsbemühungen, Veränderungsprozess, Veränderungsprozesses
+
+# substring pairs -- never one term, often merged by accident
+  Bild < Gebilde
+  Bild < Abbilder
+  Bild < Idealbild
+  Bild < Neubildung
+  Bild < Selbstbildes
+  Dies < Diese
+  Dies < Dieser
+  Dies < Dieses
+  Eine < Kleine
+  Ende < Tendenz
+  Ende < Anwenden
+  Ende < Folgenden
+  Ende < Transzendenz
+  Ende < Abschließende
+  Ende < Zurückziehenden
+  Fall < Falle
+  Fall < Fallacy
+  Fall < Rückfall
+  Fall < Notfallpläne
+  Fall < Notfallplänen

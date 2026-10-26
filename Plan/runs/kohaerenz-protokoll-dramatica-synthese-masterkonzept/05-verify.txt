@@ -1,0 +1,108 @@
+# every number the census and note state, with the command that produced it
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Implikation für das Master-Konzept"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            4
+
+`Implikation für das Master-Konzept` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#4]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Operative Direktive"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Operative Direktive` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Core Logline"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Core Logline` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Status: Ready for Execution"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Status: Ready for Execution` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "AEGIS"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            25
+
+`AEGIS` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#18]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "AEGIS-Falle"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`AEGIS-Falle` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#6]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Kael"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            28
+
+`Kael` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#24]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Juna"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            16
+
+`Juna` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#14]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Nyx"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Nyx` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Juna/V"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            2
+
+`Juna/V` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#2]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Kap"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            2
+
+`Kap` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#0]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#0]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Ergosphäre"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Ergosphäre` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Dual Kernel Theory"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`Dual Kernel Theory` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#6]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "DKT"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            6
+
+`DKT` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#6]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Funktionale Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funktionale Multiplizität` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+$ read.py kohaerenz-protokoll-dramatica-synthese-masterkonzept --count "Funktionalen Multiplizität"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            1
+
+`Funktionalen Multiplizität` ^[kohaerenz-protokoll-dramatica-synthese-masterkonzept.md:#1]
+# stance_marker_count 7 = 4 + 1 + 1 + 1 (the four marks above)
+# 75 candidates: capture.py --count header; 6 reference-title lines of Dual Kernel Theory 256,257,267 checked by census row lines 19,41,100,256,257,267
+# 14 standing-alone-less: census.py draft fact line
+$ grep -c "^## .\\\\-----" 
+6

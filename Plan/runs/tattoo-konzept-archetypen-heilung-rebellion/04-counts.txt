@@ -1,0 +1,74 @@
+# counts for 47 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kael                              3 word     4 in   [83, 254, 296, 303]
+                                    1      as Kael-System
+  Nyx                              10 word    10 in   [92, 121, 125, 126, 132, 137]
+  AEGIS                             7 word     8 in   [213, 250, 254, 256]
+                                    1      as AEGIS-Symbols
+  Juna                              3 word     3 in   [97, 221, 225]
+  Isabelle                          4 word     4 in   [94, 161, 165, 264]
+  Kiko                              6 word     8 in   [93, 125, 141, 145, 157, 264]
+                                    2      as Kikos
+  Moros                             6 word     6 in   [95, 181, 185, 192, 271, 284]
+  Selene                            9 word    13 in   [96, 201, 205, 206, 207, 208]
+                                    4      as Selenes
+  Lex                              10 word    12 in   [66, 91, 101, 105, 106, 107]
+  Kohärenz Protokoll                2 word     2 in   [254, 302]
+  Paradoxon X                       1 word     1 in   [133]
+  Host                              1 word     1 in   [296]
+  Der Architekt                     2 word     2 in   [91, 101]
+  Der Wächter                       2 word     2 in   [92, 121]
+  Das Innere Kind                   2 word     2 in   [93, 141]
+  Die Verkörperung                  2 word     2 in   [94, 161]
+  Die Leere                         2 word     2 in   [95, 181]
+  Der Integrator                    2 word     2 in   [96, 201]
+  Der Externe Anker                 2 word     2 in   [97, 221]
+  Wachsende Landkarte               2 word     2 in   [13, 256]
+  Ausbruch                         20 word    22 in   [28, 62, 66, 90, 108, 128]
+                                    2      as Ausbruchs
+  Anteile                           9 word    11 in   [27, 30, 48, 92, 137, 193]
+                                    2      as Anteilen
+  Inseln                            3 word     3 in   [27, 79, 265]
+  Kintsugi-Linien                   3 word     3 in   [26, 58, 294]
+  Kintsugi-Netzwerk                 3 word     3 in   [48, 265, 282]
+  Obsidian-Rüstung                  2 word     2 in   [92, 127]
+  Systemfehler                      3 word     3 in   [91, 113, 117]
+  Kintsugi                         13 word    27 in   [26, 42, 46, 48, 58, 94]  <-- substring
+                                    5      as Kintsugi-Linie
+                                    3      as Kintsugi-Linien
+                                    3      as Kintsugi-Netzwerk
+                                    1      as Kintsugi-Thema
+  Wabi-Sabi                         2 word     3 in   [42, 46, 256]
+                                    1      as Wabi-Sabi-Philosophie
+                                    1      as wabi-sabi-lifestyle
+                                    1      as wabi-sabi-and-the-art-of-kintsugi
+  TSDP                              3 word    17 in   [30, 48, 56, 79, 90, 105]  <-- substring
+                                    9      as TSDP-Analyse
+                                    1      as TSDP-Literatur
+                                    1      as TSDP-basierten
+                                    1      as TSDP-Ziels
+  ANPs                              3 word     3 in   [48, 185, 206]
+  EPs                               4 word     4 in   [48, 105, 106, 206]
+  IFS                               1 word     3 in   [205, 285, 351]  <-- substring
+  Axis Mundi                        3 word     3 in   [96, 201, 206]
+  Kundalini                         3 word     5 in   [96, 206, 348, 349, 350]
+                                    1      as Kundalini-Kanal
+                                    1      as Kundalini-Energie
+  Ensō                              5 word     5 in   [95, 187, 344, 345]
+  Bindungstheorie                   5 word     5 in   [97, 226, 352, 355]
+                                    1      as bindungstheorie-als-fundament
+  Heilige Geometrie                 3 word     3 in   [91, 107]
+  Dionysischen                      2 word     2 in   [101, 106]
+  Sicheren Basis                    1 word     1 in   [146]
+  Bindungsruf                       2 word     3 in   [93, 145, 152]
+                                    1      as Bindungsrufs
+  Personifizierung                  1 word     1 in   [30]
+  Realisierung                      1 word     1 in   [30]
+  Weltenbaum                        2 word     3 in   [96, 206]
+                                    1      as Weltenbaums
+  Gargoyles                         3 word     3 in   [92, 126]
+  Intrusion                         3 word     6 in   [69, 71, 90, 92, 94, 133]
+  Phänomenologie                    3 word     3 in   [94, 161, 166]

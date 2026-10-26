@@ -1,0 +1,55 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Read in full (L10 to L143). The document is a commissioning brief for an opening chapter; it supplies a protocol text and a recursive self-definition of AEGIS as the basis for that chapter. L27 names figures by earlier names; none are listed here. The protocol's acronyms are listed both as the joined form and by each half where the document writes both.
+
+- AEGIS
+- Autonomous Entropic Gatekeeper for Integrity Systems
+- Entropic Gatekeeper
+- Überwelt
+- Entropie
+- universal reboot
+- Kontrollkern
+- Systemkohärenz
+- nützliche Komplexität
+- nicht-lokale Nicht-Existenz
+- Risse
+- AEGIS Functional Protocol v1.4
+- System Identity Layer
+- Zero-Trust Execution Model (ZTEM)
+- Zero-Trust Execution Model
+- ZTEM
+- Real-time self-verification (RTSV)
+- RTSV
+- Behavioral Proof-of-Function (BPoF)
+- BPoF
+- Encrypted Intent Channels (EIC)
+- EIC
+- Role in System Topology
+- Integrity Guardian
+- Cognitive Firewall
+- Consensus Enforcer
+- Ontologische Positionierung
+- Self-Verification Interface (SVI)
+- SVI
+- Logische Konsistenzanalyse (LCA)
+- LCA
+- Redundanzfreie Informationskapselung (RIK)
+- RIK
+- Dynamic Role Instancing (DRI)
+- DRI
+- Failover & Recovery
+- Secure Isolation State (SIS)
+- SIS
+- External Interface Constraints
+- Rekursive Signatur
+- Rekursionssperre
+- Autoverifikation
+- Nicht-Adressierbarkeit
+- Nullantwortparadigma
+- Kommunikationsprotokoll
+- Ontologische Position
+- Regelverletzungsschranke
+- Handlungsträger
+- Funktionsbasierte Existenz
+- Meta-Erzähler
+- Gedankenreise

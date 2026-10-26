@@ -1,0 +1,179 @@
+{
+  "document": "sf-roman-eroeffnung-fesselnde-techniken-analysiert",
+  "drive_id": "1MUsQQfEJRSOUzmlHcFozf-8S6LHFzLibRD1vx0651Oc",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-536/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 50,
+    "decisions": 55,
+    "decided_by_lookup": 39,
+    "needs_judgement": 16
+  },
+  "new_terms": [],
+  "why_no_new_terms": "An analysis of published novels' openings with a verdict on the novel's concept and a proposed opening: what it proposes for Kael, Juna, AEGIS, Lex, Logos-Prime, the DKT and its kernels, and its drafted scene went on existing pages as a critique's proposals.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        114,
+        144,
+        146
+      ],
+      "attribution": "",
+      "note": "an environmental condition of cosmic horror, not a screen villain"
+    },
+    {
+      "page": "algorithmische-melancholie",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "not the first fifty pages' problem"
+    },
+    {
+      "page": "dkt",
+      "lines": [
+        124
+      ],
+      "attribution": "",
+      "note": "the DKT physics kept invisible"
+    },
+    {
+      "page": "juna",
+      "lines": [
+        120,
+        176,
+        178
+      ],
+      "attribution": "",
+      "note": "the absence that the world's logic says never existed"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        114,
+        118,
+        160,
+        166,
+        184,
+        190
+      ],
+      "attribution": "",
+      "note": "an opening of control loss and loneliness, and a drafted first scene"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        114
+      ],
+      "attribution": "",
+      "note": "Logos-Prime as the first simulated Kernwelt of the opening"
+    },
+    {
+      "page": "kohaerenz-kernel",
+      "lines": [
+        106,
+        114
+      ],
+      "attribution": "",
+      "note": "a kernel the reader does not identify with"
+    },
+    {
+      "page": "kollaps-kernel",
+      "lines": [
+        106,
+        114
+      ],
+      "attribution": "",
+      "note": "a kernel to be shown as somatic suffering"
+    },
+    {
+      "page": "lex",
+      "lines": [
+        120
+      ],
+      "attribution": "",
+      "note": "Kael's rational part, with AEGIS, disproves Juna"
+    },
+    {
+      "page": "multiplizitaet",
+      "lines": [
+        118
+      ],
+      "attribution": "",
+      "note": "not the first fifty pages' problem"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        114
+      ],
+      "attribution": "",
+      "note": "the somatic glitch as the opening's hook"
+    },
+    {
+      "page": "tsdp",
+      "lines": [
+        136
+      ],
+      "attribution": "",
+      "note": "the dissociated parts introduced as amnesia, not a menu"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "Logos-Prime read on kern-welten, not on logos; `Kaels` is the possessive, not the Wohneinheit; „Sektor Logos-Prime“ is not Sektor 04; the title, a paradox's and a theory's name are occurrences of `Kohärenz` (J9); terms the document reports from the concept document are read as reported; L140 (an earlier name) and every line naming a real person or a person-named principle are not cited, so Nyx and Kiko get no reading",
+  "sweep": [
+    {
+      "page": "entropie",
+      "surface": "Entropie",
+      "line": 132,
+      "decision": "occurrence",
+      "why": "a table row that names a person-named principle; not cited"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 13,
+      "decision": "occurrence",
+      "why": "the novel's title (J9)"
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 118,
+      "decision": "reading",
+      "why": "„Funktionalen Multiplizität“ reported from the concept document; read on the page"
+    },
+    {
+      "page": "risse",
+      "surface": "Glitch",
+      "line": 114,
+      "decision": "reading",
+      "why": "the somatic glitch that breaks the order; read on the page"
+    }
+  ],
+  "not_promoted": [
+    "EP, ANPs, Sensory Rulebooks, Datenkorruption, fehlerhaften Gott, Sensorik-System, Reversible Berechnung, totale Ordnung, Informationslöschung, Abwärme, Kontrollverlust, somatisches Erzählen, Hook, Alles ist kohärent, the craft lenses, every person-named principle and theorem"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

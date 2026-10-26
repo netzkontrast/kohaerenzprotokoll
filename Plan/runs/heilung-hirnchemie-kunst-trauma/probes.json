@@ -1,0 +1,250 @@
+{
+  "document": "heilung-hirnchemie-kunst-trauma",
+  "drive_id": "1datcyIpaP0zPwkjgyzPclkr3fuhg4on20WmxyP07lGw",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 56,
+  "backslash_escapes": 0,
+  "typographic_marks": 94,
+  "ascii_quotes": 0,
+  "inflection_families": {
+    "neuro": [
+      "Neurobiological",
+      "Neurobiologie",
+      "Neurobiology",
+      "Neurochemikalien",
+      "Neurochemische",
+      "Neuroendocrinology",
+      "Neuronen",
+      "Neuroplasticity",
+      "Neuroplastizität",
+      "Neuroscience",
+      "Neurotransmitter",
+      "Neurotransmitters",
+      "Neurotrophic"
+    ],
+    "vagus": [
+      "Vagus",
+      "Vaguskomplex",
+      "Vaguskomplexes",
+      "Vagusnerv",
+      "Vagusstimulation",
+      "Vagussystems",
+      "Vagustonus"
+    ],
+    "hyper": [
+      "Hyperactivity",
+      "Hyperaktivierung",
+      "Hyperarousal",
+      "Hyperfokussierung",
+      "Hyperkortisolismus",
+      "Hypervigilanz"
+    ],
+    "disso": [
+      "Dissociative",
+      "Dissonante",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativer"
+    ],
+    "stimm": [
+      "Stimme",
+      "Stimmen",
+      "Stimmgabeln",
+      "Stimmung",
+      "Stimmungen"
+    ],
+    "alarm": [
+      "Alarm",
+      "Alarme",
+      "Alarmsignale",
+      "Alarmzustand"
+    ],
+    "beloh": [
+      "Belohnung",
+      "Belohnungssystem",
+      "Belohnungssystems",
+      "Belohnungsverarbeitung"
+    ],
+    "dopam": [
+      "Dopamin",
+      "Dopamine",
+      "Dopaminsystem",
+      "Dopaminweg"
+    ],
+    "ident": [
+      "Identity",
+      "Identitätsstörung",
+      "Identitätsverwirrung",
+      "Identitätszustände"
+    ],
+    "inter": [
+      "Interact",
+      "Interdisziplinäre",
+      "Interozeption",
+      "Interventions"
+    ],
+    "leben": [
+      "Leben",
+      "Lebens",
+      "Lebenserfahrungen",
+      "Lebensgeschichte"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbewusstsein",
+      "Selbstgefühl",
+      "Selbstwirksamkeit"
+    ],
+    "überl": [
+      "Überleben",
+      "Überlebenden",
+      "Überlebens",
+      "Überlebensmechanismus"
+    ],
+    "absch": [
+      "Abschnitt",
+      "Abschnitte",
+      "Abschnitten"
+    ],
+    "archi": [
+      "Architektur",
+      "Archiv",
+      "Archivs"
+    ],
+    "chron": [
+      "CHRONOS",
+      "Chronischer",
+      "Chronos"
+    ],
+    "gehir": [
+      "Gehirn",
+      "Gehirns",
+      "Gehirnsysteme"
+    ],
+    "healt": [
+      "Health",
+      "Healthcare",
+      "Healthline"
+    ],
+    "heilu": [
+      "Heilung",
+      "Heilungsprozess",
+      "Heilungsreise"
+    ],
+    "kamer": [
+      "Kamera",
+      "Kamerafokus",
+      "Kameraführung"
+    ],
+    "korti": [
+      "Kortisol",
+      "Kortisolspiegel",
+      "Kortisoltoxizität"
+    ],
+    "motiv": [
+      "Motivation",
+      "Motivationsdefizite",
+      "Motive"
+    ],
+    "proze": [
+      "Prozent",
+      "Prozess",
+      "Prozesse"
+    ],
+    "psych": [
+      "Psychedelic",
+      "Psychiatry",
+      "Psychology"
+    ],
+    "signa": [
+      "Signalübertragung",
+      "Signatur",
+      "Signaturen"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Alle",
+      "Challenges"
+    ],
+    [
+      "Atem",
+      "Atems"
+    ],
+    [
+      "Atem",
+      "Atemzug"
+    ],
+    [
+      "Atem",
+      "Atemmuster"
+    ],
+    [
+      "Auge",
+      "Augen"
+    ],
+    [
+      "Auge",
+      "Fischaugenobjektiv"
+    ],
+    [
+      "Axis",
+      "Praxis"
+    ],
+    [
+      "Bass",
+      "Basslinien"
+    ],
+    [
+      "Bild",
+      "Bildung"
+    ],
+    [
+      "Bild",
+      "Bildsprache"
+    ],
+    [
+      "Bild",
+      "Wärmebilder"
+    ],
+    [
+      "Bild",
+      "Filmspulenbilder"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Echo",
+      "Katecholamine"
+    ],
+    [
+      "Eine",
+      "Einen"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Form",
+      "Formatio"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Füße",
+      "Füßen"
+    ]
+  ]
+}

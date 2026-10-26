@@ -1,0 +1,14 @@
+# im-finale-wendet-sich-fuer-persona-der-partnerin-z
+  lines                32  (frontmatter ends at 9)
+  body words           1085
+  headings             0   bold-only lines 1
+  table rows           0   code fences 0
+  question marks       1
+  backslash escapes    0
+  typographic marks    3   ascii quotes 34
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    5
+  repeated labels      none
+  longest line         2482 chars
+

@@ -1,0 +1,45 @@
+# counts for 36 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Konstrukt-Stadt                  17 word    17 in   [15, 22, 31, 35, 46, 53]
+  Resonanz-Landschaft              19 word    19 in   [22, 23, 27, 46, 53, 58]
+  Kern-Welt 2                       1 word     1 in   [27]
+  Kern-Trauma                       1 word     3 in   [16, 17, 45]  <-- substring
+                                    2      as Kern-Traumas
+  Kern-Traumas                      2 word     2 in   [16, 17]
+  Kernemotionen                     4 word     4 in   [22, 74, 284, 285]
+  Mnemosyne                         2 word     3 in   [36, 64]
+                                    1      as Mnemosynes
+  Mnemosynes                        1 word     1 in   [36]
+  Wächterin                         1 word     1 in   [36]
+  Wächter (Guardian)                1 word     1 in   [64]
+  LogOS                             1 word     1 in   [64]
+  Risse                             3 word     3 in   [35, 443]
+  Glitches                          1 word     2 in   [15, 35]
+  Kind/Echo                        11 word    11 in   [22, 34, 48, 74, 154, 156]
+  Architekt                         3 word     4 in   [22, 254, 409, 417]
+                                    1      as Architekten
+  Host                             20 word    20 in   [84, 98, 112, 126, 140, 154]
+  Meta-Ebene                        2 word     2 in   [22, 445]
+  DIS                               2 word     2 in   [22, 74]
+  Stimme in der Leere               5 word     5 in   [17, 317, 323, 427, 429]
+  Betrayal                         18 word    18 in   [16, 17, 22, 23, 45, 71]
+  Ruf des Abenteuers               10 word    10 in   [11, 16, 45, 53, 73, 326]
+  Gewohnte Welt                     1 word     1 in   [15]
+  Gewohnten Welt                    2 word     2 in   [16, 73]
+  Verweigerung des Rufs             1 word     1 in   [73]
+  Zeit-Schleife                     2 word     2 in   [267, 279]
+  Zeitschleife                      1 word     2 in   [35, 417]
+                                    1      as Zeitschleifen
+  Übergangsraum                     1 word     1 in   [83]
+  zerbrochenen Spiegels             1 word     1 in   [15]
+  Kapitel 1                         7 word     7 in   [15, 17, 23, 44, 58, 421]
+  Kapitel 2                         7 word     7 in   [11, 13, 15, 58, 77, 441]
+  Heldinnenreise                    4 word     4 in   [16, 73, 441]
+  Refusal of the Call               1 word     1 in   [16]
+  Call to Adventure                 1 word     1 in   [327]
+  Traumlogik                        3 word     3 in   [32, 71, 441]
+  pathetische Fallacy               2 word     2 in   [71, 441]
+  pathetischen Fallacy              1 word     1 in   [32]

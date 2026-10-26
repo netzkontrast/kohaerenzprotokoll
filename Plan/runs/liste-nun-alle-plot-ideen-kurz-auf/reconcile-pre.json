@@ -1,0 +1,480 @@
+{
+  "document": "liste-nun-alle-plot-ideen-kurz-auf",
+  "step": "reconcile-pre",
+  "at": "2026-10-19",
+  "by": "scripts/reconcile.py",
+  "index_built": "2026-10-19",
+  "state": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pages_at_lookup": [
+    "aegis",
+    "aegis-metriken",
+    "aegis-teilfunktionen",
+    "alex",
+    "algorithmische-melancholie",
+    "alters",
+    "ani",
+    "archiv-der-grenzen",
+    "archiv-des-ungesagten",
+    "argus",
+    "ars",
+    "atemporalitaet",
+    "blinder-fleck",
+    "cache-kohaerenz",
+    "cerberus",
+    "chaitin-konstante",
+    "coheron",
+    "datenverarbeitungsknoten-7g",
+    "did",
+    "dkt",
+    "drei-ontologische-schichten",
+    "ecr",
+    "emergenz",
+    "entropie",
+    "entropie-katastrophe",
+    "entropie-resonanz",
+    "entropie-signatur",
+    "erason",
+    "evaluierungseinheit",
+    "externe-ebene",
+    "formel-inversion",
+    "garten-der-stillen-praesenz",
+    "genesis",
+    "genesis-klammer",
+    "goedel-gambit",
+    "grenzfeste",
+    "grosse-mauer",
+    "guardians",
+    "hitze-polaritaetsregel",
+    "isabelle",
+    "juna",
+    "junas-ankerpunkt",
+    "k0-existenz",
+    "kael",
+    "kael-julia-bindung",
+    "kaels-wohneinheit",
+    "kairos",
+    "kern-welten",
+    "kiko",
+    "kishotenketsu",
+    "kohaerenz",
+    "kohaerenz-kernel",
+    "kohaerenz-programm",
+    "kollaps-kernel",
+    "komponente-734",
+    "konstrukt-stadt",
+    "landauer-signatur",
+    "lex",
+    "lia",
+    "logos",
+    "mnemosyne",
+    "mnemosyne-server-architektur",
+    "moeglichkeits-garten",
+    "moonshine-link",
+    "moros",
+    "mosaik-herz",
+    "multiplizitaet",
+    "negentropie",
+    "nexus",
+    "nichts-rauschen",
+    "nullpunkt-protokoll",
+    "nyx",
+    "oblivion",
+    "ouroboros-struktur",
+    "partnerin",
+    "persistenzgleichung",
+    "personas",
+    "pms",
+    "potentialmeer",
+    "protokoll-v14",
+    "realitaetsebenen",
+    "residual-echos",
+    "resonanz-landschaft",
+    "rhys",
+    "risse",
+    "rsa",
+    "schleuse-7",
+    "sektor-04",
+    "selene",
+    "silas",
+    "snk",
+    "sophia",
+    "system-monitor",
+    "telefon-stille",
+    "therapie-schnittstelle-alpha",
+    "thermodynamischer-phaenomenalismus",
+    "trennungsprotokoll",
+    "truth-rotation",
+    "tsdp",
+    "ueberraum",
+    "ueberwelt",
+    "vergessener-schrein",
+    "vermittler-stimme",
+    "verschraenkungs-insel",
+    "vortex",
+    "ztv"
+  ],
+  "candidates": 59,
+  "decisions": 62,
+  "same_surface": {
+    "glitchkind": [
+      "Das Glitch-Kind",
+      "Glitch-Kind"
+    ]
+  },
+  "decided_mechanically": 42,
+  "needs_judgement": 20,
+  "buckets": {
+    "already_there": [],
+    "new_reading": [
+      {
+        "candidate": "Kohärenz-Programm",
+        "page": "kohaerenz-programm",
+        "readings": 4
+      },
+      {
+        "candidate": "Risse",
+        "page": "risse",
+        "readings": 282
+      },
+      {
+        "candidate": "Guardians",
+        "page": "guardians",
+        "readings": 181
+      },
+      {
+        "candidate": "Simulation",
+        "page": "ueberwelt",
+        "readings": 149
+      },
+      {
+        "candidate": "Überraum",
+        "page": "ueberraum",
+        "readings": 5
+      },
+      {
+        "candidate": "LogOS",
+        "page": "logos",
+        "readings": 133
+      },
+      {
+        "candidate": "Mnemosyne",
+        "page": "mnemosyne",
+        "readings": 134
+      },
+      {
+        "candidate": "Cerberus",
+        "page": "cerberus",
+        "readings": 109
+      },
+      {
+        "candidate": "Kairos",
+        "page": "kairos",
+        "readings": 92
+      },
+      {
+        "candidate": "Sophia",
+        "page": "sophia",
+        "readings": 79
+      },
+      {
+        "candidate": "Nexus",
+        "page": "nexus",
+        "readings": 42
+      },
+      {
+        "candidate": "Partnerin",
+        "page": "partnerin",
+        "readings": 16
+      },
+      {
+        "candidate": "Personas",
+        "page": "personas",
+        "readings": 14
+      },
+      {
+        "candidate": "Glitches",
+        "page": "risse",
+        "readings": 282
+      }
+    ],
+    "new_term": [
+      {
+        "candidate": "Meta-Narrator"
+      },
+      {
+        "candidate": "Meta-Erzähler"
+      },
+      {
+        "candidate": "M/R/P"
+      },
+      {
+        "candidate": "Funke"
+      },
+      {
+        "candidate": "Sucher"
+      },
+      {
+        "candidate": "Der Beobachter im Mantel"
+      },
+      {
+        "candidate": "Der Rote Vogel"
+      },
+      {
+        "candidate": "Kognitive Stadt"
+      },
+      {
+        "candidate": "Integrations-Werkzeuge"
+      },
+      {
+        "candidate": "Protagonisten-System"
+      },
+      {
+        "candidate": "Klarheit"
+      },
+      {
+        "candidate": "Seele=Info"
+      },
+      {
+        "candidate": "Jagd nach der Realität"
+      },
+      {
+        "candidate": "HJ"
+      },
+      {
+        "candidate": "Meta-Realität"
+      },
+      {
+        "candidate": "Archetypen"
+      },
+      {
+        "candidate": "Blueprint V3"
+      },
+      {
+        "candidate": "Blueprint V4"
+      },
+      {
+        "candidate": "Die Naht im Selbst"
+      },
+      {
+        "candidate": "Die Stadt der Unvollendeten Brücken"
+      },
+      {
+        "candidate": "Der Nebelsee der Wiederkehr"
+      },
+      {
+        "candidate": "Die Festung der Flüsternden Wände"
+      },
+      {
+        "candidate": "Die Bibliothek der Widersprüchlichen Karten"
+      },
+      {
+        "candidate": "Der Garten der Metamorphen Skulpturen"
+      },
+      {
+        "candidate": "Bruch der Realitäten"
+      },
+      {
+        "candidate": "Archipel"
+      },
+      {
+        "candidate": "System-Admin"
+      },
+      {
+        "candidate": "Heldenreise"
+      }
+    ],
+    "needs_judgement": [
+      {
+        "candidate": "Seelen-Kohärenz-Programm  /  Kohärenz-Programm",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Risse  /  Riss",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Guardians  /  Guardian",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Wissende Hüter  /  Hüter",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Überraum  /  Intervention aus dem Überraum",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Echo  /  Echos im Zersplitterten Spiegel",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Nexus  /  Roter Alarm im Nexus",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Intrusion  /  Intrusionen",
+        "question": "two surfaces of one term inside this document, or two terms?",
+        "near": []
+      },
+      {
+        "candidate": "Seelen-Kohärenz-Protokoll",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          }
+        ]
+      },
+      {
+        "candidate": "Seelen-Kohärenz-Programm",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "koharenz",
+            "page": "kohaerenz"
+          },
+          {
+            "surface": "koharenzprogramm",
+            "page": "kohaerenz-programm"
+          }
+        ]
+      },
+      {
+        "candidate": "Riss",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "risse",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "Guardian",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "guardians",
+            "page": "guardians"
+          },
+          {
+            "surface": "integrityguardian",
+            "page": "aegis-teilfunktionen"
+          }
+        ]
+      },
+      {
+        "candidate": "Architekt",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "mnemosyneserverarchitektur",
+            "page": "mnemosyne-server-architektur"
+          }
+        ]
+      },
+      {
+        "candidate": "Echo",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "residualechos",
+            "page": "residual-echos"
+          }
+        ]
+      },
+      {
+        "candidate": "Wächter",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "wachterdersystemischenstabilitat",
+            "page": "aegis"
+          }
+        ]
+      },
+      {
+        "candidate": "Das Glitch-Kind",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "glitch",
+            "page": "risse"
+          }
+        ]
+      },
+      {
+        "candidate": "funktionaler Multiplizität",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "multiplizitat",
+            "page": "multiplizitaet"
+          }
+        ]
+      },
+      {
+        "candidate": "Persona-Realitäten",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "persona",
+            "page": "personas"
+          }
+        ]
+      },
+      {
+        "candidate": "Intervention aus dem Überraum",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "uberraum",
+            "page": "ueberraum"
+          }
+        ]
+      },
+      {
+        "candidate": "Roter Alarm im Nexus",
+        "question": "same term under another surface, or a different term?",
+        "near": [
+          {
+            "surface": "nexus",
+            "page": "nexus"
+          }
+        ]
+      }
+    ]
+  },
+  "in_document_not_in_census": [
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 184,
+      "already_read": false
+    },
+    {
+      "page": "multiplizitaet",
+      "surface": "Multiplizität",
+      "line": 173,
+      "already_read": false
+    }
+  ],
+  "index_gaps_may_hide_matches": true,
+  "not_decidable_here": [
+    "whether a new reading conflicts with one already on the page",
+    "whether a near match is one term or two",
+    "whether a candidate is a term at all"
+  ]
+}

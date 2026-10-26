@@ -1,0 +1,368 @@
+{
+  "document": "dissoziative-identitaet-invalidierung-im-gesundheitssystem",
+  "drive_id": "1EqoXmCm4fKIvqKnECyIc9d5sZKglwTSHSgam8W-mz0g",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 33,
+  "backslash_escapes": 144,
+  "typographic_marks": 20,
+  "ascii_quotes": 104,
+  "inflection_families": {
+    "selbs": [
+      "Selbst",
+      "Selbstbild",
+      "Selbstbilder",
+      "Selbsterleben",
+      "Selbsthilfe",
+      "Selbsthilfebücher",
+      "Selbsthilfegruppen",
+      "Selbsthilfeunterst",
+      "Selbsthilfeunterstützung",
+      "Selbststigmatisierung",
+      "Selbstverletzung",
+      "Selbstverletzungsraten",
+      "Selbstwertgefühl",
+      "Selbstzustände",
+      "Selbstzuständen",
+      "Selbstzweifel",
+      "Selbstzweifeln"
+    ],
+    "behan": [
+      "Behandler",
+      "Behandlern",
+      "Behandlung",
+      "Behandlungen",
+      "Behandlungsadhärenz",
+      "Behandlungsangebote",
+      "Behandlungsansätze",
+      "Behandlungsbereitschaft",
+      "Behandlungsempfehlungen",
+      "Behandlungserfahrungen",
+      "Behandlungsergebnissen",
+      "Behandlungsleitlinien",
+      "Behandlungspraxis",
+      "Behandlungsverlauf",
+      "Behandlungsverläufe"
+    ],
+    "ident": [
+      "Identitatsstorung",
+      "Identity",
+      "Identität",
+      "Identitäten",
+      "Identitäts",
+      "Identitätsdiffusion",
+      "Identitätsfragmentierung",
+      "Identitätsproblemen",
+      "Identitätsstruktur",
+      "Identitätsstörung",
+      "Identitätsunsicherheit",
+      "Identitätsverwirrung",
+      "Identitätsveränderungen",
+      "Identitätswechsel",
+      "Identitätswechseln"
+    ],
+    "psych": [
+      "Psych",
+      "Psyche",
+      "Psychedelic",
+      "Psychiatrische",
+      "Psychiatry",
+      "Psychische",
+      "Psychischer",
+      "Psycho",
+      "Psychosomatische",
+      "Psychotherapie",
+      "Psychotherapiestudiengängen",
+      "Psychotherapists",
+      "Psychotherapy",
+      "Psychotraumatherapie",
+      "Psychotraumatologie"
+    ],
+    "traum": [
+      "Trauma",
+      "Traumabearbeitung",
+      "Traumaerfahrungen",
+      "Traumafolgestörung",
+      "Traumafolgestörungen",
+      "Traumageschichte",
+      "Traumata",
+      "Traumatherapeutin",
+      "Traumatherapie",
+      "Traumatic",
+      "Traumatisierter",
+      "Traumatisierung",
+      "Traumatisierungen",
+      "Traumavorgeschichte",
+      "Traumaätiologie"
+    ],
+    "thera": [
+      "Therapeuten",
+      "Therapeutische",
+      "Therapie",
+      "Therapieabbrüche",
+      "Therapieangebote",
+      "Therapieansätze",
+      "Therapieerfahrungen",
+      "Therapieerfolg",
+      "Therapien",
+      "Therapieplatz",
+      "Therapieportalen",
+      "Therapy"
+    ],
+    "verso": [
+      "Versorgung",
+      "Versorgungsangeboten",
+      "Versorgungsgefälle",
+      "Versorgungskontext",
+      "Versorgungslandschaft",
+      "Versorgungslücken",
+      "Versorgungsmodelle",
+      "Versorgungsrealität",
+      "Versorgungsstrukturen",
+      "Versorgungssystem",
+      "Versorgungswirklichkeit"
+    ],
+    "patie": [
+      "Patient",
+      "Patienten",
+      "Patientenberichten",
+      "Patientenerfahrung",
+      "Patientenerfahrungen",
+      "Patienteninformationen",
+      "Patientenorganisationen",
+      "Patientenpopulationen",
+      "Patientenvertretern",
+      "Patients"
+    ],
+    "sympt": [
+      "Symptom",
+      "Symptomatik",
+      "Symptome",
+      "Symptomen",
+      "Symptomkomplexe",
+      "Symptoms",
+      "Symptomverschlechterung",
+      "Symptomüberlappung",
+      "Symptomüberlappungen",
+      "Symptomüberschneidungen"
+    ],
+    "unter": [
+      "Unter",
+      "Unterdiagnostik",
+      "Untergruppe",
+      "Unterscheidbarkeit",
+      "Unterscheidung",
+      "Unterschätzung",
+      "Unterstützer",
+      "Unterstützung",
+      "Unterstützungssystem",
+      "Untersuchungen"
+    ],
+    "diagn": [
+      "Diagnose",
+      "Diagnosen",
+      "Diagnoseraten",
+      "Diagnosestellung",
+      "Diagnosis",
+      "Diagnostik",
+      "Diagnostiker",
+      "Diagnostische"
+    ],
+    "persö": [
+      "Persönlichkeit",
+      "Persönlichkeiten",
+      "Persönlichkeitsanteile",
+      "Persönlichkeitsanteilen",
+      "Persönlichkeitsstörung",
+      "Persönlichkeitsstörungen",
+      "Persönlichkeitszustände",
+      "Persönlichkeitszuständen"
+    ],
+    "gesun": [
+      "Gesundheit",
+      "Gesundheitsbereich",
+      "Gesundheitsberichterstattung",
+      "Gesundheitskontext",
+      "Gesundheitssystem",
+      "Gesundheitsversorgung",
+      "Gesundheitswesen"
+    ],
+    "affek": [
+      "Affekt",
+      "Affekte",
+      "Affekten",
+      "Affektlagen",
+      "Affekts",
+      "Affektverflachung"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissoziation",
+      "Dissoziative",
+      "Dissoziativen",
+      "Dissoziativer"
+    ],
+    "exper": [
+      "Experience",
+      "Experiences",
+      "Expert",
+      "Experten",
+      "Expertenwissen",
+      "Expertise"
+    ],
+    "funkt": [
+      "Funktionelle",
+      "Funktionen",
+      "Funktionsbereichen",
+      "Funktionsfähigkeit",
+      "Funktionsniveaus",
+      "Funktionsweise"
+    ],
+    "inter": [
+      "International",
+      "Internationale",
+      "Interpretation",
+      "Interventionen",
+      "Interview",
+      "Interviews"
+    ],
+    "probl": [
+      "Problem",
+      "Problematik",
+      "Probleme",
+      "Problemen",
+      "Problemfeld",
+      "Problems"
+    ],
+    "störu": [
+      "Störung",
+      "Störungen",
+      "Störungsbild",
+      "Störungsbilder",
+      "Störungsbildern",
+      "Störungsbildes"
+    ],
+    "vertr": [
+      "Vertrauen",
+      "Vertrauens",
+      "Vertrauensbeziehung",
+      "Vertrauensbrüchen",
+      "Vertrauensverhältnis",
+      "Vertrauensverlust"
+    ],
+    "wisse": [
+      "Wissen",
+      "Wissens",
+      "Wissenschaftlichen",
+      "Wissensdefiziten",
+      "Wissenslücken",
+      "Wissensvermittlung"
+    ],
+    "arbei": [
+      "Arbeit",
+      "Arbeitsfähigkeit",
+      "Arbeitsgemeinschaft",
+      "Arbeitsplatzverlusten",
+      "Arbeitsunfähigkeit"
+    ],
+    "belas": [
+      "Belastung",
+      "Belastungen",
+      "Belastungsstoerung",
+      "Belastungsstörung",
+      "Belastungsstörungen"
+    ],
+    "erleb": [
+      "Erleben",
+      "Erlebens",
+      "Erlebensaspekten",
+      "Erlebensbereichen",
+      "Erlebnisse"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Auch",
+      "Missbrauch"
+    ],
+    [
+      "Auch",
+      "Substanzgebrauchsstörungen"
+    ],
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dies",
+      "Dieser"
+    ],
+    [
+      "Dies",
+      "Dieses"
+    ],
+    [
+      "EMDR",
+      "EMDRIA"
+    ],
+    [
+      "Eine",
+      "Meine"
+    ],
+    [
+      "Eine",
+      "Allgemeine"
+    ],
+    [
+      "Fall",
+      "Falle"
+    ],
+    [
+      "Feld",
+      "Problemfeld"
+    ],
+    [
+      "Form",
+      "Formen"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Ausdrucksformen"
+    ],
+    [
+      "Form",
+      "Patienteninformationen"
+    ],
+    [
+      "Form",
+      "Informationsmaterialien"
+    ],
+    [
+      "Form",
+      "Informationsplattformen"
+    ],
+    [
+      "Fort",
+      "Fortbildung"
+    ],
+    [
+      "Fort",
+      "Fortbildungsangebote"
+    ],
+    [
+      "Fort",
+      "Fortbildungsmaßnahmen"
+    ],
+    [
+      "Jahr",
+      "Jahre"
+    ]
+  ]
+}

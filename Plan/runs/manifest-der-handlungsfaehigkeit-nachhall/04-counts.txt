@@ -1,0 +1,46 @@
+# counts for 38 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Manifest der Handlungsfähigkeit    2 word     2 in   [11, 17]
+  Nachhall                          4 word     4 in   [11, 19, 328, 332]
+  Resonanzraum                      1 word     1 in   [15]
+  Ein Protokoll des Bleibens        1 word     1 in   [11]
+  Handlungsfähigkeit               10 word    10 in   [11, 17, 19, 134, 164, 181]
+  Agency                            1 word     1 in   [164]
+  Multiplizität                     4 word     4 in   [69, 180, 211]
+  Vielheit                          3 word     3 in   [19, 290, 332]
+  Kohärenz                          2 word     2 in   [79, 118]
+  Zersplitterung                    3 word     3 in   [15, 44, 69]
+  Rekursion                         2 word     2 in   [222, 268]
+  Kern                              1 word     4 in   [69, 87, 118, 332]  <-- substring
+                                    1      as Kernsatz
+                                    1      as Kerns
+                                    1      as Kernbotschaften
+  Konstellation                     2 word     2 in   [87, 118]
+  Präsenz                           6 word     6 in   [147, 164, 236, 244, 268]
+  Verpflichtung                     5 word     5 in   [103, 118, 237, 245, 268]
+  Weigerung                         3 word     3 in   [238, 246, 268]
+  Protokoll der Präsenz             3 word     3 in   [236, 244, 268]
+  Funktion der Verpflichtung        3 word     3 in   [237, 245, 268]
+  Architektur der Weigerung         3 word     3 in   [238, 246, 268]
+  Funktion ist keine Maske          2 word     2 in   [128, 164]
+  Wegen der Unterschiede            2 word     2 in   [270, 332]
+  Resonanzboden                     1 word     1 in   [211]
+  Illusion von Einheit              2 word     2 in   [187, 211]
+  Verantwortung                     4 word     4 in   [19, 268, 291, 332]
+  Integrität                        3 word     3 in   [17, 45, 69]
+  Struktur in Bewegung              1 word     1 in   [37]
+  Katharsis                         2 word     2 in   [235, 268]
+  Gleichgewicht                     2 word     2 in   [86, 118]
+  Symmetrie                         2 word     2 in   [86, 118]
+  Narrator                         26 word    26 in   [30, 36, 43, 59, 78, 85]
+  Suno                              6 word     6 in   [63, 112, 158, 205, 262, 326]
+  Conceptual Reflection             6 word     6 in   [67, 116, 162, 209, 266, 330]
+  Music Style Description           6 word     6 in   [63, 112, 158, 205, 262, 326]
+  We Begin Here                     1 word     1 in   [23]
+  We Do Not Owe You Coherence       1 word     1 in   [71]
+  Function Is Not Mask              1 word     1 in   [120]
+  You Will See Yourself             1 word     1 in   [166]
+  Toward a Shared Future            1 word     1 in   [213]

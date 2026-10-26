@@ -538,6 +538,56 @@ html{scrollbar-color:#9A9384 #F3F0E8;scrollbar-width:thin}
 </sc-for>
 </div>
 </sc-if>
+<sc-if value="{{desk.on}}" hint-placeholder-val="{{ false }}">
+<section class="dk" aria-label="Schreibtisch" style="display: flex; flex-direction: column; gap: 14px; padding-top: 6px;">
+<sc-if value="{{desk.isRules}}" hint-placeholder-val="{{ false }}">
+<sc-if value="{{desk.hasRules}}" hint-placeholder-val="{{ false }}">
+<h3 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">Offen — je Regel bestätigen oder verwerfen</h3>
+<sc-for list="{{desk.rules}}" as="rl" hint-placeholder-count="3">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 10px 12px; border: 1px solid #DDD6C6; border-radius: 8px; background: #F3F0E8;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; color: #B0341E;">{{rl.id}}</span>
+<span style="font-size: 14px; line-height: 1.45;">{{rl.x}}</span>
+<span style="font-size: 11.5px; color: #645F53; overflow-wrap: anywhere;">{{rl.src}}</span>
+<div class="rq-toolbar"><button type="button" class="rq-button" onClick="{{rl.copy}}">{{rl.copyLabel}}</button></div>
+</div>
+</sc-for>
+</sc-if>
+</sc-if>
+<sc-if value="{{desk.isChapter}}" hint-placeholder-val="{{ false }}">
+<sc-if value="{{desk.hasWeichen}}" hint-placeholder-val="{{ false }}">
+<h3 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">Offene Weichen — vor der ersten Szene zu beantworten</h3>
+<sc-for list="{{desk.weichen}}" as="wv" hint-placeholder-count="3">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 10px 12px; border: 1px solid #DDD6C6; border-radius: 8px; background: #F3F0E8;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; color: #B0341E;">{{wv.id}} · {{wv.rec}}</span>
+<span style="font-size: 14px; line-height: 1.45;">{{wv.t}}</span>
+<div class="rq-toolbar"><button type="button" class="rq-button" onClick="{{wv.go}}">Blatt lesen</button><button type="button" class="rq-button" onClick="{{wv.copy}}">{{wv.copyLabel}}</button></div>
+</div>
+</sc-for>
+</sc-if>
+<sc-if value="{{desk.hasActions}}" hint-placeholder-val="{{ false }}">
+<h3 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">Szenen, Entwürfe, Befunde</h3>
+<div class="rq-toolbar"><sc-for list="{{desk.actions}}" as="ac" hint-placeholder-count="3"><button type="button" class="rq-button" onClick="{{ac.go}}">{{ac.t}}</button></sc-for></div>
+</sc-if>
+<details><summary>Die nächsten Befehle</summary><pre class="rq-prompt">{{desk.cmd}}</pre></details>
+</sc-if>
+<sc-if value="{{desk.isScene}}" hint-placeholder-val="{{ false }}">
+<sc-if value="{{desk.hasParas}}" hint-placeholder-val="{{ false }}">
+<h3 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">Die Prosa — je Absatz markieren</h3>
+<sc-for list="{{desk.paras}}" as="pg" hint-placeholder-count="3">
+<div style="display: flex; flex-direction: column; gap: 8px; padding: 12px 14px; border-left: 3px solid {{pg.bd}}; background: #FBFAF6;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 10.5px; color: #645F53;">¶ {{pg.n}}</span>
+<p style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 17px; line-height: 1.6; white-space: pre-wrap; color: #1C1B18;">{{pg.x}}</p>
+<div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{pg.marks}}" as="mk" hint-placeholder-count="3"><button type="button" aria-pressed="{{mk.on}}" onClick="{{mk.go}}" class="rq-button" style="min-height: 32px; padding: 4px 12px; background: {{mk.bg}}; color: {{mk.fg}};">{{mk.label}}</button></sc-for></div>
+<sc-if value="{{pg.hasNote}}" hint-placeholder-val="{{ false }}"><label class="rq-label"><textarea rows="2" value="{{pg.note}}" onChange="{{pg.onNote}}" placeholder="{{pg.ph}}"></textarea></label></sc-if>
+</div>
+</sc-for>
+<p class="rq-storage" role="status">{{desk.nMarks}} markiert · {{desk.storage}}</p>
+<div class="rq-toolbar"><button type="button" class="rq-button rq-primary" onClick="{{desk.export}}">Markierungen exportieren</button><button type="button" class="rq-button" onClick="{{desk.copy}}">{{desk.copyLabel}}</button></div>
+</sc-if>
+<details><summary>Prüfen und freigeben — mit deinen Worten, nie mit einem Knopf</summary><pre class="rq-prompt">{{desk.cmd}}</pre></details>
+</sc-if>
+</section>
+</sc-if>
 <sc-if value="{{is.loop}}" hint-placeholder-val="{{ false }}">
 <div style="display: flex; flex-direction: column; gap: 14px; padding-top: 10px;">
 <h3 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 21px; font-weight: 500;">From Drive to an answer, in seven steps</h3>

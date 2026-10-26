@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      75
+  backslash escapes      125
+  typographic marks      21
+  ascii quotes           194
+
+# inflection families -- one term, several surfaces
+  inter    Interaktion, Interaktions, Interdependenz, Interface, Internal, Internet, Interpretation, Interrogatories, Intervention
+  psych    Psyche, Psychiatrie, Psycho, Psychoedukation, Psychogramm, Psychologisch, Psychologische, Psychology
+  syste    System, Systemarchitektur, Systembildung, Systemdynamik, Systemische, Systems, Systemtheoretisch, Systemtheorie
+  traum    Trauma, TraumaPRO, Traumaabwehr, Traumas, Traumata, Traumatherapie, Traumatisierte
+  proje    Project, Projekt, Projektanalyse, Projektarchitektur, Projektmanagement, Projektplanung
+  struk    Struktur, Strukturelle, Strukturellen, Strukturen, Strukturhaltung, Strukturierung
+  disso    Dissociation, Dissociative, Dissolution, Dissoziation, Dissoziative
+  funkt    Funktion, Funktionale, Funktionaler, Funktionen, Funktionsweise
+  ident    Identifying, Identity, Identität, Identitätsstruktur, Identitätsstörung
+  schre    Schreibblockade, Schreiben, Schreibens, Schreibprozess, Schreibstil
+  thera    Therapeuten, Therapie, Therapieplan, Therapieziel, Therapy
+  metap    Metapher, Metaphern, Metaphysics, Metaphysik
+  multi    Multimodal, Multiplicity, Multiplied, Multiplizität
+  selbs    Selbst, Selbstbehauptung, Selbstbild, Selbstregulation
+  theor    Theorie, Theorien, Theories, Theory
+  unive    Universe, University, Universum, Universums
+  überl    Überlebender, Überlebens, Überlebensstrategie, Überlebenstechnik
+  agent    Agenten, Agential, Agentive
+  algor    Algorithmic, Algorithmische, Algorithmischen
+  autor    Autor, Autoren, Autors
+  chara    Charakter, Charaktere, Charakteren
+  dialo    Dialog, Dialogführung, Dialogpartner
+  dokum    DOKUMEN, Dokument, Dokumente
+  emoti    Emotion, Emotional, Emotionen
+  ereig    Ereignis, Ereignishorizont, Ereignishorizonts
+
+# substring pairs -- never one term, often merged by accident
+  Dies < Diese
+  Dual < Dualität
+  Dual < Wahrheitsdualität
+  Fall < Notfall
+  Form < Extremform
+  Form < Information
+  Form < Informationsverlust
+  Form < Informationserhaltung
+  Help < Helps
+  Host < Hosts
+  Jede < Jeder
+  Lese < Leser
+  Lese < Lesers
+  Loch < Lochs
+  Meta < Metapher
+  Meta < Metaphern
+  Meta < Metaphysik
+  Meta < Metaphysics
+  PTSD < CPtsd
+  Part < Parts

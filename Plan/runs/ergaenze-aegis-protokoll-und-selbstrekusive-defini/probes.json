@@ -1,0 +1,226 @@
+{
+  "document": "ergaenze-aegis-protokoll-und-selbstrekusive-defini",
+  "drive_id": "1qUJ1gNZDFraU3A1NZw16rdzSB2quMEESh0FAS1HEQ7k",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 8,
+  "backslash_escapes": 0,
+  "typographic_marks": 5,
+  "ascii_quotes": 24,
+  "inflection_families": {
+    "syste": [
+      "System",
+      "Systeme",
+      "Systemgenesis",
+      "Systeminkonsistenz",
+      "Systemkohärenz",
+      "Systemkonsistenz",
+      "Systemnützlichkeit",
+      "Systemphasen",
+      "Systemprotokolle",
+      "Systems",
+      "Systemsicherheit",
+      "Systemzustand"
+    ],
+    "inter": [
+      "Interaktionen",
+      "Interface",
+      "Intern",
+      "Interpretation",
+      "Intervall"
+    ],
+    "proto": [
+      "Protocol",
+      "Protokoll",
+      "Protokolle",
+      "Protokollen",
+      "Protokolliert"
+    ],
+    "infor": [
+      "Informationen",
+      "Informationsdurchfluss",
+      "Informationsfreigabe",
+      "Informationskapselung"
+    ],
+    "kapit": [
+      "Kapitel",
+      "Kapitelentwurf",
+      "Kapitelentwurfs",
+      "Kapitelstruktur"
+    ],
+    "reche": [
+      "Recherche",
+      "Rechercheaufgaben",
+      "Rechercheergebnisse",
+      "Rechercheergebnissen"
+    ],
+    "einle": [
+      "Einleitung",
+      "Einleitungskapitel",
+      "Einleitungskapitels"
+    ],
+    "exist": [
+      "Existentes",
+      "Existenz",
+      "Existenzbegriff"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionsaussagen",
+      "Funktionsbasierte"
+    ],
+    "handl": [
+      "Handlung",
+      "Handlungskoherenz",
+      "Handlungsträger"
+    ],
+    "ident": [
+      "Identity",
+      "Identitäts",
+      "Identitätssystems"
+    ],
+    "insta": [
+      "Instancing",
+      "Instanz",
+      "Instanzen"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturen"
+    ],
+    "zugri": [
+      "Zugriff",
+      "Zugriffs",
+      "Zugriffsrechte"
+    ],
+    "alter": [
+      "Alternative",
+      "Alternativen"
+    ],
+    "ausfo": [
+      "Ausformulierung",
+      "Ausformulierungsauftrag"
+    ],
+    "ausga": [
+      "Ausgabeformat",
+      "Ausgangspunkt"
+    ],
+    "bewer": [
+      "Bewerten",
+      "Bewertung"
+    ],
+    "defin": [
+      "Definition",
+      "Definitionen"
+    ],
+    "entro": [
+      "Entropic",
+      "Entropie"
+    ],
+    "entwu": [
+      "Entwurf",
+      "Entwurfs"
+    ],
+    "funct": [
+      "Function",
+      "Functional"
+    ],
+    "gatek": [
+      "Gatekeeper",
+      "Gatekeepers"
+    ],
+    "hande": [
+      "Handeln",
+      "Handelt"
+    ],
+    "haupt": [
+      "Hauptaufgabe",
+      "Hauptteil"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Ihre",
+      "Ihren"
+    ],
+    [
+      "Teil",
+      "Hauptteil"
+    ],
+    [
+      "Ziel",
+      "Zielmenge"
+    ],
+    [
+      "Ziel",
+      "Potenziell"
+    ],
+    [
+      "Model",
+      "Modell"
+    ],
+    [
+      "Natur",
+      "Signatur"
+    ],
+    [
+      "Nicht",
+      "Nichts"
+    ],
+    [
+      "Rolle",
+      "Rollen"
+    ],
+    [
+      "Roman",
+      "Romans"
+    ],
+    [
+      "Reboot",
+      "Reboots"
+    ],
+    [
+      "Selbst",
+      "Selbstdefinition"
+    ],
+    [
+      "System",
+      "Systeme"
+    ],
+    [
+      "System",
+      "Systems"
+    ],
+    [
+      "System",
+      "Kernsystem"
+    ],
+    [
+      "System",
+      "Subsysteme"
+    ],
+    [
+      "System",
+      "Systemphasen"
+    ],
+    [
+      "System",
+      "Systemgenesis"
+    ],
+    [
+      "System",
+      "Systemzustand"
+    ],
+    [
+      "System",
+      "Systemkohärenz"
+    ],
+    [
+      "System",
+      "Systemkonsistenz"
+    ]
+  ]
+}

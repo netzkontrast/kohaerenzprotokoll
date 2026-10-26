@@ -1,0 +1,93 @@
+# counts for 76 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Kohärenz-Protokoll                7 word     9 in   [11, 13, 15, 25, 33, 88]
+                                    2      as Kohärenz-Protokolls
+  Kohärenz-Protokolls               2 word     2 in   [15, 114]
+  Kohärenz Protokoll                2 word     2 in   [168, 271]
+  Kohärenz-Konsole                  1 word     1 in   [19]
+  System Kael                       2 word     2 in   [156, 265]
+  Kael                              6 word     6 in   [43, 156, 226, 236, 265, 272]
+  Juna                              2 word     2 in   [142, 220]
+  Nyx                               3 word     3 in   [56, 82, 140]
+  Kiko                              4 word     4 in   [56, 76, 139, 158]
+  Lia                               2 word     2 in   [62, 76]
+  Selene                            2 word     2 in   [43, 80]
+  Lex                               1 word     1 in   [31]
+  AEGIS                             5 word     6 in   [156, 221, 225, 232, 233]
+                                    1      as AEGIS-Kontrolle
+  Kernwelt                          1 word     2 in   [42, 156]
+                                    1      as Kernwelten
+  Kernwelten                        1 word     1 in   [156]
+  KW1                               1 word     1 in   [42]
+  KW2                               1 word     1 in   [42]
+  KW4                               1 word     1 in   [80]
+  Digitalen Überwelt                1 word     1 in   [42]
+  Mnemosyne-Archipels               1 word     1 in   [25]
+  Dual Kernel Theory                1 word     1 in   [156]
+  K1                                1 word     1 in   [189]
+  K0                                1 word     1 in   [195]
+  Coherence Kernel / Order          1 word     1 in   [190]
+  Collapse Kernel / Chaos           1 word     1 in   [196]
+  ANP                               2 word     2 in   [148, 191]
+  EP                                3 word     3 in   [148, 158, 197]
+  Apparently Normal Part            1 word     1 in   [191]
+  Emotional Part                    1 word     1 in   [197]
+  Nichts Rauschen                   1 word     1 in   [199]
+  Die Leere / The Void              1 word     1 in   [205]
+  Die Leere                         1 word     1 in   [205]
+  The Void                          1 word     1 in   [205]
+  Das Fundament                     1 word     1 in   [214]
+  Moonshine-Links                   2 word     2 in   [79, 142]
+  Paradoxon X                       1 word     1 in   [239]
+  Perverse Learning Loop            1 word     1 in   [237]
+  Discursive Logic                  1 word     1 in   [236]
+  Logics of Formal Inconsistency    1 word     1 in   [235]
+  LFI                               1 word     1 in   [235]
+  Fissures                          1 word     1 in   [199]
+  Risse                             1 word     3 in   [44, 56, 199]  <-- substring
+                                    1      as Rissen
+  FissureAlert                      2 word     4 in   [44, 77, 120, 257]
+                                    1      as FissureAlerts
+  FissureAlerts                     1 word     1 in   [77]
+  EntityProfile                     2 word     3 in   [43, 121, 149]
+  CoreWorldView                     1 word     1 in   [122]
+  renderCoreWorld                   1 word     1 in   [42]
+  displayEntityProfile              1 word     1 in   [43]
+  triggerFissureAlert               1 word     1 in   [44]
+  renderDialogueSurface             1 word     1 in   [45]
+  invokeMoonshineLink               1 word     1 in   [46]
+  Story.ncp.json                    3 word     3 in   [147, 154, 156]
+  coherence-console-architect       2 word     2 in   [94, 110]
+  Kugelschreiber-Stil               5 word     6 in   [25, 56, 98, 110, 130, 261]
+                                    1      as Kugelschreiber-Stils
+  Mut zur Lücke                     4 word     4 in   [46, 58, 60, 131]
+  Liniengrammatik                   3 word     3 in   [45, 52, 56]
+  Raues Papier                      2 word     2 in   [52, 129]
+  rauem Papier                      1 word     1 in   [54]
+  Silhouetten                       5 word     8 in   [43, 58, 62, 76, 132]
+                                    1      as Silhouetten-Darstellung
+                                    1      as Silhouetten-Rendering
+  Negative Space                    2 word     2 in   [46, 60]
+  Kristallblau                      3 word     3 in   [43, 80, 261]
+  Theorie der strukturellen Dissoziation der Persönlichkeit    1 word     1 in   [15]
+  Tertiaren Strukturellen Dissoziation    1 word     1 in   [50]
+  A2UI                             11 word    13 in   [21, 23, 29, 41, 100, 116]
+                                    1      as A2UI-Paradigma
+                                    1      as A2UI-Philosophie
+                                    1      as a2ui-the-protocol-for-agent-driven-interfaces-that-works-with-your-design-system-bc7c05276513
+  Agent-to-User Interface           4 word     4 in   [21, 23, 118, 282]
+  Server-Driven UI                  3 word     3 in   [15, 114, 274]
+  SDUI                              1 word     1 in   [15]
+  GenUI                             3 word     3 in   [19, 29, 116]
+  Novel Writing Assistant           2 word     2 in   [13, 35]
+  Web-Konsole                       6 word     6 in   [11, 50, 110, 114, 249, 267]
+  Algorithmic Horror                1 word     1 in   [240]
+  Existenz durch Negation           1 word     1 in   [233]
+  Gödel-Satz                        1 word     1 in   [224]
+  Strange Attractor                 1 word     1 in   [215]
+  13 Entitäten                      2 word     2 in   [43, 156]
+  TSDP                              1 word     2 in   [15, 158]
+                                    1      as TSDP-Typs

@@ -1,0 +1,14 @@
+# dissoziative-identitaet-invalidierung-im-gesundheitssystem
+  lines                342  (frontmatter ends at 9)
+  body words           8873
+  headings             29   bold-only lines 4
+  table rows           37   code fences 0
+  question marks       6
+  backslash escapes    144
+  typographic marks    20   ascii quotes 104
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    33
+  repeated labels      none
+  longest line         2435 chars
+

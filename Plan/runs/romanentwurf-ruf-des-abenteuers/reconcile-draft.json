@@ -1,0 +1,149 @@
+{
+  "document": "romanentwurf-ruf-des-abenteuers",
+  "drive_id": "1NoQAHpOUXcVq4s66GDatvxKBbyzszSNRnfrR6OCWSys",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 35,
+    "decisions": 35,
+    "decided_by_lookup": 30,
+    "needs_judgement": 5
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "kern-welten",
+      "lines": [
+        27
+      ],
+      "attribution": "",
+      "note": "the Resonanz-Landschaft as Kern-Welt 2"
+    },
+    {
+      "page": "konstrukt-stadt",
+      "lines": [
+        31,
+        59,
+        63,
+        87
+      ],
+      "attribution": "",
+      "note": "the logical counterpole of chapter 1"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        64
+      ],
+      "attribution": "",
+      "note": "Guardian of the Konstrukt-Stadt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        64
+      ],
+      "attribution": "",
+      "note": "Guardian of the Resonanz-Landschaft"
+    },
+    {
+      "page": "resonanz-landschaft",
+      "lines": [
+        27,
+        31,
+        32,
+        33,
+        46,
+        59,
+        65
+      ],
+      "attribution": "",
+      "note": "Kern-Welt 2, a reality shaped by emotion and memory"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "alters",
+      "surface": "Alters",
+      "line": 74,
+      "decision": "occurrence",
+      "why": "craft research on a diagnosis, on a line with an earlier name; not cited"
+    },
+    {
+      "page": "did",
+      "surface": "DID",
+      "line": 74,
+      "decision": "occurrence",
+      "why": "craft research on a diagnosis; not cited"
+    },
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 443,
+      "decision": "occurrence",
+      "why": "on a line with an earlier name; not cited"
+    },
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "an earlier name; the draft does not make the identity plain"
+    },
+    {
+      "page": "kael",
+      "surface": "(an earlier name)",
+      "line": 15,
+      "decision": "occurrence",
+      "why": "an earlier name; the draft does not make the identity plain"
+    },
+    {
+      "page": "kern-welten",
+      "surface": "Kern-Welt",
+      "line": 27,
+      "decision": "reading",
+      "why": "Kern-Welt 2 as the chapter's setting; read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the title (J9)"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 22,
+      "decision": "occurrence",
+      "why": "on a line with an earlier name; not cited"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

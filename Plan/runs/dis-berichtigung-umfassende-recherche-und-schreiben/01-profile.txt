@@ -1,0 +1,14 @@
+# dis-berichtigung-umfassende-recherche-und-schreiben
+  lines                333  (frontmatter ends at 9)
+  body words           6706
+  headings             1   bold-only lines 34
+  table rows           17   code fences 0
+  question marks       9
+  backslash escapes    88
+  typographic marks    19   ascii quotes 48
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    12
+  repeated labels      none
+  longest line         1083 chars
+

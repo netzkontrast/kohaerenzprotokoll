@@ -1,0 +1,14 @@
+# neurochemische-lyrik-transzendenz-durch-klang
+  lines                366  (frontmatter ends at 9)
+  body words           5711
+  headings             23   bold-only lines 0
+  table rows           11   code fences 0
+  question marks       9
+  backslash escapes    66
+  typographic marks    457   ascii quotes 2
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    74
+  repeated labels      Der Zustand x4, Lyrische Gesten x4
+  longest line         916 chars
+

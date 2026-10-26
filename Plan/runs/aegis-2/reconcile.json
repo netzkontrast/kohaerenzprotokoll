@@ -1,0 +1,52 @@
+{
+  "document": "aegis-2",
+  "drive_id": "1n7bk15RlotaCNhy1uCFONLNwo_Agdr_Y",
+  "step": "reconcile",
+  "at": "2026-10-21",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-21, from the full-ingest task with no count before the list; rlm_ingest not run; page reading written by the session from Plan/runs/ingest-583/brief.md, 2026-10-21",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 19,
+    "decisions": 20,
+    "decided_by_lookup": 12,
+    "needs_judgement": 8
+  },
+  "new_terms": [],
+  "why_no_new_terms": "The text export of a two-axis entity chart: its AEGIS label went on the existing page; the other labels are not promoted.",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        13,
+        29
+      ],
+      "attribution": "",
+      "note": "a machine core beside an organic core"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "a chart's text export read as labels only; the positions are lost, so no placement is read",
+  "sweep": [],
+  "not_promoted": [
+    "the two axes, Organic Core, Machine Core, Gatekeeper, Trauma Holder, Al Agent (LLM), Integrated Self (Ideal), the alter labels"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

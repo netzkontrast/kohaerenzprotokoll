@@ -1,0 +1,617 @@
+{
+  "document": "forschungsauftrag-spannungspunktanalyse-und-charakterausarbe",
+  "drive_id": "1Wl83N2BDD-y8BzPM0ZauAxeH1JHOs9J4jma--mpABzg",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        17,
+        21,
+        161
+      ]
+    },
+    "Selene": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        35,
+        39,
+        215,
+        227
+      ]
+    },
+    "Nyx": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        57,
+        89,
+        161,
+        175,
+        179,
+        197
+      ]
+    },
+    "Kiko": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        68,
+        75,
+        125,
+        153,
+        197
+      ]
+    },
+    "Lia": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        68,
+        93,
+        125,
+        153
+      ]
+    },
+    "Isabelle": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        111
+      ]
+    },
+    "Moros": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        129,
+        153,
+        175
+      ]
+    },
+    "Rhys": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        71,
+        125,
+        143,
+        165,
+        197
+      ]
+    },
+    "Lex": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        71,
+        89,
+        107,
+        175,
+        179,
+        183
+      ]
+    },
+    "Argus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        201
+      ]
+    },
+    "AEGIS": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        15,
+        35,
+        53,
+        125,
+        197,
+        225,
+        237
+      ]
+    },
+    "Juna/V": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        89,
+        179,
+        226
+      ]
+    },
+    "Juna": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        15,
+        89,
+        179,
+        226
+      ]
+    },
+    "V": {
+      "n": 4,
+      "n_including_compounds": 45,
+      "lines": [
+        15,
+        28,
+        30,
+        52,
+        53,
+        62,
+        65,
+        67,
+        69,
+        70,
+        71,
+        81,
+        86,
+        87,
+        89,
+        99,
+        101,
+        106,
+        107,
+        117,
+        118,
+        121,
+        134,
+        135,
+        136,
+        140,
+        143,
+        152,
+        153,
+        156,
+        158,
+        171,
+        173,
+        174,
+        176,
+        178,
+        179,
+        197,
+        209,
+        210,
+        226
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        15,
+        224
+      ]
+    },
+    "Co₁": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        197,
+        224
+      ]
+    },
+    "McL": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "B": {
+      "n": 3,
+      "n_including_compounds": 54,
+      "lines": [
+        30,
+        44,
+        46,
+        48,
+        49,
+        53,
+        65,
+        66,
+        67,
+        69,
+        80,
+        84,
+        89,
+        97,
+        98,
+        102,
+        105,
+        107,
+        115,
+        119,
+        120,
+        138,
+        143,
+        152,
+        154,
+        156,
+        157,
+        159,
+        160,
+        170,
+        172,
+        174,
+        178,
+        191,
+        192,
+        195,
+        201,
+        206,
+        210,
+        214,
+        219,
+        224,
+        232,
+        236,
+        237,
+        241
+      ]
+    },
+    "Ly": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Paradoxon X": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        225
+      ]
+    },
+    "Cache Kohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        35
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "System-Host": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Kai-Aspekten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        107
+      ]
+    },
+    "PP-SYS-02": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "PP-SYS-03": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "PP-INT-01": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        71,
+        197
+      ]
+    },
+    "PP-INT-02": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        89,
+        197
+      ]
+    },
+    "PP-INT-03": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        179
+      ]
+    },
+    "PP-INT-04": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        179,
+        197
+      ]
+    },
+    "PP-CCH-01": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        85
+      ]
+    },
+    "Anteile": {
+      "n": 5,
+      "n_including_compounds": 8,
+      "lines": [
+        15,
+        17,
+        19,
+        125,
+        143,
+        223,
+        245
+      ]
+    },
+    "Anteil": {
+      "n": 2,
+      "n_including_compounds": 12,
+      "lines": [
+        15,
+        17,
+        19,
+        125,
+        143,
+        205,
+        219,
+        223,
+        237,
+        241,
+        245
+      ]
+    },
+    "ANP": {
+      "n": 6,
+      "n_including_compounds": 10,
+      "lines": [
+        25,
+        43,
+        143,
+        151,
+        169,
+        187,
+        205,
+        223
+      ]
+    },
+    "EP": {
+      "n": 5,
+      "n_including_compounds": 20,
+      "lines": [
+        31,
+        33,
+        35,
+        43,
+        46,
+        61,
+        79,
+        97,
+        115,
+        133,
+        179,
+        190,
+        193,
+        205,
+        223
+      ]
+    },
+    "EPs": {
+      "n": 3,
+      "n_including_compounds": 4,
+      "lines": [
+        31,
+        33,
+        179,
+        193
+      ]
+    },
+    "Kind-EP": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        79,
+        97,
+        179
+      ]
+    },
+    "Primärer ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        25,
+        187
+      ]
+    },
+    "Sekundärer ANP": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        151,
+        169
+      ]
+    },
+    "Metakognitiver Anteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        205
+      ]
+    },
+    "Anscheinend Normaler Persönlichkeitsanteil": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Emotionaler Persönlichkeitsanteil": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        61,
+        79,
+        97,
+        115,
+        133
+      ]
+    },
+    "Protektor-Typ": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        151
+      ]
+    },
+    "Funktionale Fehlanpassung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        224
+      ]
+    },
+    "Integrationsprozess": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Zustandswechsel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        228
+      ]
+    },
+    "Trauma-Trigger": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Phobie": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        31,
+        35,
+        193,
+        223,
+        237
+      ]
+    },
+    "Amnesie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        228
+      ]
+    },
+    "Intrusionen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Ko-Bewusstsein": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        237
+      ]
+    },
+    "Koregulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        84
+      ]
+    },
+    "Selbstregulation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        53
+      ]
+    },
+    "TSDP": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        11,
+        15,
+        236,
+        237,
+        245
+      ]
+    },
+    "Strukturellen Dissoziation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        15
+      ]
+    },
+    "Dissoziation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        15,
+        134,
+        228
+      ]
+    },
+    "IFS-Selbst-Qualitäten": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        50
+      ]
+    },
+    "Systemtheorie": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Traumaforschung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    }
+  }
+}

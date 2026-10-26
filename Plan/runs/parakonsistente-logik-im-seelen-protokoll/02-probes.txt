@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   U+200B x16
+  glued ref numbers      35
+  backslash escapes      132
+  typographic marks      12
+  ascii quotes           124
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemabhängig, Systeme, Systemen, Systemfehler, Systemgrenzen, Systemlogik, Systemmodell, Systemprotokollen, Systemresilienz, Systems, Systemteile, Systemverhalten, Systemversagen, Systemzustands
+  infor    Informatik, Information, Informationen, Informations, Informationsdatenbanken, Informationsgehalt, Informationsgehalts, Informationsgitter, Informationslücke, Informationslücken, Informationsverarbeitung
+  fehle    Fehlende, Fehler, Fehlerbehebung, Fehlerhafte, Fehlerhaftigkeit, Fehlermodi, Fehlern, Fehlerpotenzial, Fehlertolerante, Fehlertoleranz
+  konsi    Konsistenz, Konsistenzannahme, Konsistenzaussage, Konsistenzaussagen, Konsistenzbewertung, Konsistenzfaktor, Konsistenzkontrolle, Konsistenzoperator, Konsistenzoperators, Konsistenzstatus
+  wahrh    Wahrheit, Wahrheiten, Wahrheitsgehalt, Wahrheitsgehalts, Wahrheitsgitter, Wahrheitstabellen, Wahrheitswert, Wahrheitswerte, Wahrheitswertlücken, Wahrheitswertüberlappungen
+  repar    Reparatur, Reparaturen, Reparaturlogik, Reparaturmechanismen, Reparaturroutinen, Reparaturstrategien, Reparaturversuche, Reparaturversuchen
+  chara    Charakterbogen, Charaktere, Charakterentwicklung, Charaktererleben, Charakterisierung
+  inter    Interaktion, Interaktionen, Internet, Interpretation, Interpretationen
+  wider    Widerspruch, Widerspruchs, Widersprüche, Widersprüchen, Widersprüchlichkeit
+  daten    Daten, Datenaufnahme, Datenbanken, Datenlage
+  erleb    Erleben, Erlebnis, Erlebniszustands, Erlebt
+  glaub    Glaubenssysteme, Glaubenssystemen, Glaubenszustände, Glaubwürdigkeit
+  grund    Grundlage, Grundlegend, Grundlegende, Grundprinzipien
+  inkon    Inkonsistent, Inkonsistente, Inkonsistenz, Inkonsistenzen
+  klass    Klasse, Klassik, Klassisch, Klassische
+  model    Modell, Modellieren, Modellierung, Modellierungsziel
+  mögli    Möglich, Möglichkeit, Möglichkeiten, Möglichkeits
+  narra    Narration, Narrative, Narratives, Narrator
+  parak    Parakomplettheit, Parakonsistente, Parakonsistenter, Parakonsistenz
+  poten    Potenzial, Potenzialität, Potenzials, Potenzielle
+  proje    Projekt, Projektkontext, Projektkontexts, Projekts
+  roman    Roman, Romanprojekt, Romanprojekts, Romans
+  aktio    Aktion, Aktionen, Aktionslogik
+  akzep    Akzeptanz, Akzeptiere, Akzeptiert
+  basis    Basis, Basiselement, Basislogik
+
+# substring pairs -- never one term, often merged by accident
+  Baum < BBaum
+  Baum < NBaum
+  Baum < TBaum
+  Bild < Abbildungsmöglichkeit
+  Dies < Diese
+  Dies < Dieser
+  Eine < Keine
+  Eine < Allgemeine
+  Erst < Versteht
+  Erst < Verständnis
+  Erst < Sicherstellen
+  Erst < Gitterstrukturen
+  Erst < Verständlichkeit
+  Erst < Wiederherstellung
+  FALL < Fall
+  FALL < Falls
+  FALL < Zerfall
+  FALL < Fallstricke
+  Fall < Falls
+  Fall < Zerfall

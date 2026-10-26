@@ -1,0 +1,25 @@
+# counts for 17 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  Dissoziative Identitätsstörung    6 word     6 in   [39, 359, 372, 376, 391]
+  DIS                              21 word    22 in   [22, 41, 61, 78, 111, 128]
+  Switching                         1 word     1 in   [65]
+  Switches                          1 word     1 in   [106]
+  Amnesie                           7 word     8 in   [63, 65, 104, 132, 146, 154]
+                                    1      as Amnesien
+  Dissoziation                      8 word     9 in   [104, 175, 192, 221, 324, 334]
+                                    1      as Dissoziationen
+  Trigger                           2 word     5 in   [105, 147, 175, 262, 346]  <-- substring
+                                    3      as Triggern
+  Fassade                           5 word     5 in   [119, 124, 130, 313, 359]
+  Heilungsbewährung                 2 word     2 in   [282, 286]
+  Exekutivfunktionen                1 word     1 in   [255]
+  Persönlichkeitsanteil             1 word     1 in   [65]
+  Persönlichkeitszustände           2 word     2 in   [63, 115]
+  Schutzanteil                      1 word     1 in   [132]
+  Identitätsfragmentierung          1 word     1 in   [26]
+  Hidden Condition                  1 word     1 in   [52]
+  Dissimulation                     1 word     1 in   [128]
+  Flashbacks                        2 word     2 in   [311, 346]

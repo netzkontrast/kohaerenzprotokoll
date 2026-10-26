@@ -1,0 +1,741 @@
+{
+  "document": "coherence-critique-and-question-generation",
+  "drive_id": "1FG2fVyUKmGTHTDeqRpBrIf-867mZrHTLkIkWojltKSo",
+  "step": "counts",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kael": {
+      "n": 14,
+      "n_including_compounds": 18,
+      "lines": [
+        50,
+        73,
+        75,
+        86,
+        109,
+        118,
+        164,
+        174,
+        179,
+        180,
+        227,
+        256,
+        258,
+        267,
+        271,
+        272
+      ]
+    },
+    "AEGIS": {
+      "n": 38,
+      "n_including_compounds": 38,
+      "lines": [
+        34,
+        36,
+        38,
+        40,
+        42,
+        72,
+        75,
+        87,
+        109,
+        124,
+        134,
+        140,
+        148,
+        164,
+        172,
+        173,
+        174,
+        204,
+        205,
+        210,
+        219,
+        227,
+        235,
+        242,
+        250,
+        258,
+        272
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        13,
+        18,
+        22,
+        36,
+        42,
+        79,
+        134,
+        139,
+        174,
+        227,
+        250,
+        301,
+        305
+      ]
+    },
+    "Kohärenz Protokoll 1.0": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        42,
+        227
+      ]
+    },
+    "Kohärenz Protokoll 2.0": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        227
+      ]
+    },
+    "Paradoxon der Fehlausgerichteten Kohärenz": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        26,
+        30,
+        219
+      ]
+    },
+    "Paradoxon": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        26,
+        30,
+        87,
+        134,
+        174,
+        219,
+        225,
+        227,
+        285,
+        288
+      ]
+    },
+    "Trennungsprotokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        52,
+        54,
+        134,
+        174,
+        246
+      ]
+    },
+    "Resonanzkaskade": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        36,
+        134,
+        163,
+        195,
+        196,
+        231
+      ]
+    },
+    "Überwelt": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        172,
+        173,
+        174,
+        179,
+        181,
+        227,
+        286
+      ]
+    },
+    "Komponente 734": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        168,
+        172,
+        174,
+        180,
+        211,
+        241
+      ]
+    },
+    "Genesis": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        54,
+        87,
+        91,
+        113,
+        148,
+        172,
+        271,
+        280,
+        306
+      ]
+    },
+    "Krise": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        54,
+        174,
+        185,
+        200,
+        204,
+        215,
+        231,
+        246
+      ]
+    },
+    "Algorithmischer Schrecken": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        30,
+        215
+      ]
+    },
+    "Nichts": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        86,
+        103,
+        117,
+        287
+      ]
+    },
+    "Funke": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        103,
+        117,
+        163
+      ]
+    },
+    "Echos": {
+      "n": 2,
+      "n_including_compounds": 5,
+      "lines": [
+        40,
+        75,
+        86,
+        154,
+        301
+      ]
+    },
+    "Herkunfts-Echos": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        154,
+        301
+      ]
+    },
+    "Angst-Vibration": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        153
+      ]
+    },
+    "Alarmsignal": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        34,
+        124,
+        153
+      ]
+    },
+    "Klick": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        148,
+        287,
+        301
+      ]
+    },
+    "Sog der Ordnung": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        75,
+        129,
+        140
+      ]
+    },
+    "Stille Wacht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        200
+      ]
+    },
+    "Sensorphalanx": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        211
+      ]
+    },
+    "fremde Entität": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        174,
+        204,
+        205,
+        210,
+        242
+      ]
+    },
+    "ontologische Anomalie": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        204,
+        205
+      ]
+    },
+    "Realitätsmodell": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        204
+      ]
+    },
+    "Perturbation": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        164,
+        200,
+        241
+      ]
+    },
+    "Hintergrundrauschen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        155,
+        163,
+        272
+      ]
+    },
+    "Scherben": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        52,
+        54,
+        60,
+        174,
+        250,
+        251,
+        256,
+        272,
+        301
+      ]
+    },
+    "Quale": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        40,
+        155,
+        163,
+        272
+      ]
+    },
+    "Qualia": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        36,
+        87,
+        124,
+        149,
+        219,
+        235,
+        242
+      ]
+    },
+    "epistemologische Blindheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        36,
+        219
+      ]
+    },
+    "operationale Geschlossenheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        34,
+        87
+      ]
+    },
+    "autopoietische Selbstorganisation": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Binnen-Physik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Immunsystem": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        174
+      ]
+    },
+    "Dazwischen": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        190,
+        280
+      ]
+    },
+    "Strategy of Fragmentation": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        50,
+        60,
+        70,
+        95,
+        108,
+        196,
+        251,
+        257,
+        300,
+        305
+      ]
+    },
+    "performative narrative": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        60
+      ]
+    },
+    "cognitive act of assembly": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        50,
+        60,
+        301
+      ]
+    },
+    "Correspondence Theory": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        174
+      ]
+    },
+    "Coherence Theory of Truth": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Kohärenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        72
+      ]
+    },
+    "Korrespondenztheorie der Wahrheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        73
+      ]
+    },
+    "Echoschrei eines leidenden Bewusstseinsfragments": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        40
+      ]
+    },
+    "Mein Schmerz ist sein Signal zum Angriff": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        40,
+        236
+      ]
+    },
+    "Ich": {
+      "n": 50,
+      "n_including_compounds": 50,
+      "lines": [
+        36,
+        42,
+        52,
+        75,
+        86,
+        87,
+        117,
+        118,
+        124,
+        125,
+        133,
+        134,
+        139,
+        140,
+        149,
+        163,
+        172,
+        174,
+        180,
+        210,
+        211,
+        219,
+        235,
+        241,
+        242,
+        250,
+        258,
+        267,
+        271,
+        272,
+        288,
+        301
+      ]
+    },
+    "Fragment ID-734.1": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        257
+      ]
+    },
+    "minimales Sein": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        86,
+        118
+      ]
+    },
+    "Q10": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        210,
+        285
+      ]
+    },
+    "Q11": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        285
+      ]
+    },
+    "Q12": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        288
+      ]
+    },
+    "Q13": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        286
+      ]
+    },
+    "Q3": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        287,
+        309
+      ]
+    },
+    "Q5": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        287
+      ]
+    },
+    "Hard Problem of Consciousness": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Hard Problem": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        34,
+        149,
+        210,
+        220,
+        235,
+        285
+      ]
+    },
+    "philosophischen Zombies": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        34
+      ]
+    },
+    "Erklärungslücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "unentscheidbare Sätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        38
+      ]
+    },
+    "Widerspruchsfreiheit": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        42
+      ]
+    },
+    "Simulationshypothese": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        119,
+        173
+      ]
+    },
+    "Mathematical Universe Hypothesis": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Panpsychismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        125,
+        285
+      ]
+    },
+    "Kollaps der Wellenfunktion": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        148
+      ]
+    },
+    "Mind Domain": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        75
+      ]
+    },
+    "Psychology Domain": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        75,
+        133
+      ]
+    },
+    "Throughline": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        85,
+        267
+      ]
+    },
+    "Main Character": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        86,
+        125,
+        140,
+        271
+      ]
+    },
+    "Objective Story": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        87
+      ]
+    },
+    "Inequity": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        86,
+        117
+      ]
+    },
+    "Becoming": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        87,
+        133
+      ]
+    },
+    "Subconscious": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        86,
+        140
+      ]
+    }
+  }
+}

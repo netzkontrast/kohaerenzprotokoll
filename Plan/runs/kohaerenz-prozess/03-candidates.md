@@ -1,0 +1,80 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Read in ranges, L1 to L342. The document is a theoretical-foundation text for the second of three album concepts around a multiple system; it carries a heading outline (I to X), a character table (L172 to L186) and a reference list. Passages that treat the system as a real diagnosis, its therapy, a partner and relapses mix the novel's figure names with personal and real-diagnostic material; candidates below are names and own terms only, and nothing of that material is harvested.
+
+- Kael-System
+- Kael
+- Moros
+- Selene
+- Alex
+- Lex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Argus
+- Partnerin
+- Kohärenz Prozess
+- Kohärenz Protokoll
+- The Agency System
+- Systematic Agency
+- Fragile Weave
+- Alarm Rot
+- Diagnose-Tool
+- System-Scan
+- System-Update
+- Patching
+- Firewall-Konfiguration
+- Datenstrom-Management
+- Chaotische Oszillationen
+- Systemabsturz
+- Blue Screen
+- Neuronale Neuvernetzung
+- Synaptische Plastizität
+- Bunker
+- Garten
+- Mosaik
+- Weben
+- Dystopian
+- Clear
+- Ehrenrunden
+
+## lens
+
+- Apparently Normal Parts
+- Emotional Parts
+- ANPs
+- EPs
+- TSDP
+- Theorie der Strukturellen Dissoziation
+- Bindungstheorie
+- Netzwerktheorie
+- Kybernetik
+- VSM
+- PCT
+- Perceptual Control Theory
+- Polyvagal-Theorie
+- Somatic Experiencing
+- Chaos- und Komplexitätstheorie
+- Posthumanismus und Embodied Cognition
+- IFS
+- Betrayal Trauma
+- Betrayal Blindness
+- Rock Bottom
+- BELLAC-Modell
+- Kollaps-Impuls
+- Synth Goth / Dystopian Future Synth
+- Dystopian-Clear Twist
+- Co-Bewusstsein
+- Amnesiebarrieren
+- Metasystem
+- traumainformierten DIS-Therapie
+- psychologischen Krisenintervention
+- Suchttherapie
+- Freeze/Submit/Collapse
+- Ventraler Vaguskomplex
+- Sympathikus
+- Dorsaler Vaguskomplex
+- funktionale Multiplizität
+- Selbstermächtigung

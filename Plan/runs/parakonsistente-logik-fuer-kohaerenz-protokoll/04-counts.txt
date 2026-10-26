@@ -1,0 +1,103 @@
+# counts for 72 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            61 word    67 in   [11, 23, 147, 149, 151, 153]
+                                    2      as AEGIS-System
+                                    2      as AEGIS-Logik
+                                    1      as AEGIS-Strategien
+                                    1      as AEGIS-Modelle
+  AEGIS'                           15 word    15 in   [151, 153, 163, 171, 184, 186]
+  Kaels                            11 word    11 in   [153, 161, 169, 194, 266, 306]
+  Kael-Simulation                   4 word     4 in   [153, 157, 169, 311]
+  Kernwelten                       19 word    20 in   [11, 23, 147, 153, 161, 181]
+                                    1      as Kernwelten-Konzeption
+  Kernwelt                          6 word    26 in   [11, 23, 147, 153, 161, 181]  <-- substring
+                                   19      as Kernwelten
+                                    1      as Kernwelten-Konzeption
+  KW                                2 word    45 in   [194, 196, 204, 214, 229, 247]  <-- substring
+  KW1                              10 word    10 in   [196, 258, 259, 260, 264, 266]
+  KW2                              12 word    12 in   [214, 258, 259, 260, 264, 266]
+  KW3                               9 word     9 in   [229, 258, 259, 260, 266, 279]
+  KW4                              10 word    10 in   [247, 258, 259, 260, 266, 268]
+  Guardians                        11 word    11 in   [194, 204, 227, 245, 252, 262]
+  Guardian                          6 word    17 in   [194, 204, 227, 245, 252, 262]  <-- substring
+                                   11      as Guardians
+  Alter Egos                        4 word     4 in   [159, 161, 194, 404]
+  Alters                            4 word     4 in   [161, 261, 363, 402]
+  Alter                             5 word    14 in   [159, 161, 194, 204, 227, 245]  <-- substring
+                                    4      as Alters
+                                    2      as alternative
+                                    1      as alternativen
+                                    1      as Alternativ
+  Architekt-Alter                   1 word     1 in   [204]
+  Echo-Alter                        1 word     1 in   [227]
+  Wächter-Alter                     1 word     1 in   [245]
+  Sucher/Funke-Alter                1 word     1 in   [252]
+  Risse                             5 word     6 in   [153, 159, 161, 173, 292]
+                                    1      as Rissen
+  Rissen                            1 word     1 in   [153]
+  Potentialmeer                     1 word     2 in   [159, 169]
+                                    1      as Potentialmeers
+  Nicht-Sein                        4 word     5 in   [153, 157, 165, 292, 390]
+                                    1      as Nicht-Seins
+  Kern-Direktive                    3 word     3 in   [165, 354, 390]
+  Protokoll v1.5                    2 word     2 in   [177, 179]
+  Protokoll Omega                   1 word     1 in   [354]
+  Quarantäne-Protokoll              1 word     1 in   [330]
+  Konsistenz-Level                  1 word     1 in   [330]
+  Konsistenz-Assertion              2 word     2 in   [330, 354]
+  DID                               4 word     5 in   [161, 175, 266, 292, 404]
+  Traumaschleifen                   2 word     2 in   [227, 259]
+  Kohärenz Protokoll                4 word     4 in   [11, 23, 388, 406]
+  Reparatur                         5 word     5 in   [41, 161, 186, 292]
+  Szenario A                       10 word    10 in   [155, 181, 184, 188, 288, 292]
+  Szenario B                        7 word     7 in   [167, 182, 184, 188, 288, 293]
+  Manifestationen                  10 word    11 in   [173, 204, 212, 227, 237, 245]
+  EST                               4 word     4 in   [258, 276, 368, 402]
+  Environmental Storytelling        2 word     2 in   [258, 368]
+  Kernwelten-Konzeption             1 word     1 in   [11]
+  Meta-Logik                        1 word     1 in   [384]
+  Konsistenzoperator                5 word    11 in   [95, 97, 113, 115, 123, 129]  <-- substring
+                                    5      as Konsistenzoperators
+                                    1      as Konsistenzoperatoren
+  Konsistenzoperators               5 word     5 in   [95, 97, 115, 208]
+  Prinzip der sanften Explosion     3 word     3 in   [97, 161, 233]
+  Principle of Gentle Explosion     1 word     1 in   [97]
+  vierwertige Semantik              2 word     2 in   [47, 82]
+  Both                              9 word     9 in   [51, 121, 140, 159, 163, 171]
+  Neither                           6 word     6 in   [52, 159, 171, 223, 252, 322]
+  Parakonsistenz                   10 word    10 in   [25, 39, 99, 108, 165, 167]
+  Explosion                        26 word    28 in   [15, 19, 27, 37, 39, 76]
+                                    1      as Explosionsregel
+                                    1      as Explosionen
+  ECQ                              21 word    22 in   [19, 21, 27, 41, 93, 97]
+  LNC                               6 word     6 in   [17, 121, 139, 175, 200, 277]
+  Trivialisierung                   3 word     3 in   [21, 27, 157]
+  Trivialismus                      1 word     1 in   [121]
+  FDE                              37 word    46 in   [43, 45, 47, 56, 72, 74]
+  First Degree Entailment           9 word     9 in   [43, 45, 137, 216, 278, 396]
+  LFI                               6 word    21 in   [91, 93, 95, 97, 101, 103]  <-- substring
+  LFIs                             14 word    14 in   [91, 93, 95, 97, 101, 103]
+  Logics of Formal Inconsistency    2 word     2 in   [91, 93]
+  C-Systeme                         9 word    17 in   [91, 93, 95, 97, 99, 101]
+                                    8      as C-Systemen
+  C-System                          6 word    23 in   [91, 93, 95, 97, 99, 101]  <-- substring
+                                    9      as C-Systeme
+                                    8      as C-Systemen
+                                    1      as C-systems
+  Cn                                3 word     6 in   [91, 97, 99, 108, 113, 208]
+  C1                                5 word     5 in   [95, 99, 137, 143]
+  Dialetheismus                     6 word     6 in   [39, 121, 125]
+  Dialetheia                        2 word     2 in   [121, 171]
+  dialetheische Logik               2 word     2 in   [251, 398]
+  Relevanzlogik                     7 word     8 in   [45, 81, 147, 241, 279, 334]
+                                    1      as Relevanzlogiken
+  Variable Sharing Property         1 word     1 in   [81]
+  Belnap-Dunn-Logik                 1 word     1 in   [45]
+  designiert                        2 word     6 in   [74, 76]  <-- substring
+                                    3      as designierten
+                                    1      as designierter
+  Law of Non-Contradiction          1 word     1 in   [17]
+  Ex Contradictione Quodlibet       1 word     1 in   [19]

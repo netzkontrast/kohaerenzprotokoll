@@ -1,0 +1,121 @@
+$ read.py --count "Einleitender Prosa-Text zum Song:"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Einleitender Prosa-Text zum Song:` ^[protokoll-der-offenbarung.md:#14]
+$ read.py --count "Lyrics"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Lyrics` ^[protokoll-der-offenbarung.md:#14]
+$ read.py --count "Music Style Description (For Suno):"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            14
+
+`Music Style Description (For Suno):` ^[protokoll-der-offenbarung.md:#14]
+$ read.py --count "Systemstimme"
+whole word, case-sensitive     14
+whole word, case-insensitive   14
+including compounds            15
+
+`Systemstimme` ^[protokoll-der-offenbarung.md:#14]
+$ read.py --count "Eingangsraum"
+whole word, case-sensitive     7
+whole word, case-insensitive   7
+including compounds            7
+
+`Eingangsraum` ^[protokoll-der-offenbarung.md:#7]
+$ read.py --count "Bunker"
+whole word, case-sensitive     10
+whole word, case-insensitive   10
+including compounds            22
+
+`Bunker` ^[protokoll-der-offenbarung.md:#10]
+$ read.py --count "Bunkers"
+whole word, case-sensitive     12
+whole word, case-insensitive   12
+including compounds            12
+
+`Bunkers` ^[protokoll-der-offenbarung.md:#12]
+$ read.py --count "Riss"
+whole word, case-sensitive     4
+whole word, case-insensitive   4
+including compounds            6
+
+`Riss` ^[protokoll-der-offenbarung.md:#4]
+$ read.py --count "Anteile"
+whole word, case-sensitive     13
+whole word, case-insensitive   15
+including compounds            15
+
+`Anteile` ^[protokoll-der-offenbarung.md:#13]
+$ read.py --count "Argus"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            19
+
+`Argus` ^[protokoll-der-offenbarung.md:#6]
+$ read.py --count "Kiko"
+whole word, case-sensitive     2
+whole word, case-insensitive   2
+including compounds            6
+
+`Kiko` ^[protokoll-der-offenbarung.md:#2]
+$ read.py --count "Lia"
+whole word, case-sensitive     5
+whole word, case-insensitive   5
+including compounds            8
+
+`Lia` ^[protokoll-der-offenbarung.md:#5]
+$ read.py --count "Szene"
+whole word, case-sensitive     18
+whole word, case-insensitive   22
+including compounds            18
+
+`Szene` ^[protokoll-der-offenbarung.md:#18]
+$ read.py --count "AEGIS"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`AEGIS` ^[protokoll-der-offenbarung.md:#0]
+$ read.py --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[protokoll-der-offenbarung.md:#0]
+$ read.py --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[protokoll-der-offenbarung.md:#0]
+$ read.py --count "Kernwunde"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kernwunde` ^[protokoll-der-offenbarung.md:#0]
+$ read.py --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Kapitel` ^[protokoll-der-offenbarung.md:#0]
+$ read.py --count "Kael"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            1
+
+`Kael` ^[protokoll-der-offenbarung.md:#0]
+$ read.py --count "Dystopian Future Synth"
+whole word, case-sensitive     15
+whole word, case-insensitive   15
+including compounds            15
+
+`Dystopian Future Synth` ^[protokoll-der-offenbarung.md:#15]
+stance_marker_count 42 = 14 + 14 + 14 (first three counts above)

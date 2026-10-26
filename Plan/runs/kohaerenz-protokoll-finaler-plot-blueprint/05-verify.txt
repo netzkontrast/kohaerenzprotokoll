@@ -1,0 +1,178 @@
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kapitel-Titel/Fokus"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Kapitel-Titel/Fokus` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Detaillierte Handlungssynopsis"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Detaillierte Handlungssynopsis` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Konzeptionelle Einbettung & Klärung"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Konzeptionelle Einbettung & Klärung` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Charakter- & System-Entwicklung"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Charakter- & System-Entwicklung` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Welt & Environmental Storytelling (EST)"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Welt & Environmental Storytelling (EST)` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Theorie- & Paradox-Integration"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Theorie- & Paradox-Integration` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Thematischer Beitrag & Narrative Funktion"
+whole word, case-sensitive     18
+whole word, case-insensitive   18
+including compounds            18
+
+`Thematischer Beitrag & Narrative Funktion` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#18]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "möglicherweise"
+whole word, case-sensitive     31
+whole word, case-insensitive   31
+including compounds            31
+
+`möglicherweise` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#31]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kohärenz-Insel"
+whole word, case-sensitive     19
+whole word, case-insensitive   19
+including compounds            23
+
+`Kohärenz-Insel` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#19]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Potentialmeer"
+whole word, case-sensitive     11
+whole word, case-insensitive   11
+including compounds            12
+
+`Potentialmeer` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#11]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kaels"
+whole word, case-sensitive     100
+whole word, case-insensitive   100
+including compounds            100
+
+`Kaels` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#100]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "K-J-Paradoxon"
+whole word, case-sensitive     6
+whole word, case-insensitive   6
+including compounds            15
+
+`K-J-Paradoxon` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#6]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Gleichzeitigkeit"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`Gleichzeitigkeit` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#17]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "AEGIS"
+whole word, case-sensitive     225
+whole word, case-insensitive   225
+including compounds            229
+
+`AEGIS` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#225]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "DID"
+whole word, case-sensitive     1
+whole word, case-insensitive   1
+including compounds            2
+
+`DID` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#1]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kernmandat"
+whole word, case-sensitive     3
+whole word, case-insensitive   3
+including compounds            3
+
+`Kernmandat` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#3]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Guardians"
+whole word, case-sensitive     67
+whole word, case-insensitive   67
+including compounds            67
+
+`Guardians` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#67]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Nexus"
+whole word, case-sensitive     24
+whole word, case-insensitive   24
+including compounds            24
+
+`Nexus` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#24]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kernwelten"
+whole word, case-sensitive     23
+whole word, case-insensitive   23
+including compounds            24
+
+`Kernwelten` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#23]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Welle von Unmöglichkeit"
+whole word, case-sensitive     9
+whole word, case-insensitive   9
+including compounds            9
+
+`Welle von Unmöglichkeit` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#9]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kapitel"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            19
+
+`Kapitel` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Juna"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Juna` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Nyx"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Nyx` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Isabelle"
+whole word, case-sensitive     0
+whole word, case-insensitive   0
+including compounds            0
+
+`Isabelle` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#0]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "EST-Beispiele"
+whole word, case-sensitive     17
+whole word, case-insensitive   17
+including compounds            17
+
+`EST-Beispiele` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#17]
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Kael"
+whole word, case-sensitive     100
+whole word, case-insensitive   101
+including compounds            202
+
+`Kael` ^[kohaerenz-protokoll-finaler-plot-blueprint.md:#100]
+
+stance_marker_count 126 = 7 labels x 18 (each count above is 18)
+$ grep -c '<!-- end list -->'
+41
+$ grep -n '?' (question marks, lines)
+116 146 368 
+$ grep -n backslash lines
+95 96 104 110 131 
+$ eight ranges: grep -c for each heading
+1.6 - 1.12: 1
+2.1 - 2.3: 1
+2.4 - 2.7: 1
+2.8 - 2.10: 1
+2.11 - 2.12: 1
+3.1 - 3.5: 1
+3.6 - 3.8: 1
+3.9 - 3.10: 1
+$ 39 steps: 13+13+13 per Abschnitt (Schritte 1.1 - 1.13, 2.1 - 2.13, 3.1 - 3.13)
+3
+
+$ python3 scripts/read.py kohaerenz-protokoll-finaler-plot-blueprint --count "Entstehung"   # origin of the island stays open: 3 hits, L23, L188, L372; none defines it
+whole word, case-sensitive     3

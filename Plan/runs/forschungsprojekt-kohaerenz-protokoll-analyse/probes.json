@@ -1,0 +1,263 @@
+{
+  "document": "forschungsprojekt-kohaerenz-protokoll-analyse",
+  "drive_id": "1-qPPEdRi0rRqNSrz7jjkTCn-n09kdS9mdV7Y-uH6XiY",
+  "step": "probes",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 75,
+  "backslash_escapes": 125,
+  "typographic_marks": 21,
+  "ascii_quotes": 194,
+  "inflection_families": {
+    "inter": [
+      "Interaktion",
+      "Interaktions",
+      "Interdependenz",
+      "Interface",
+      "Internal",
+      "Internet",
+      "Interpretation",
+      "Interrogatories",
+      "Intervention"
+    ],
+    "psych": [
+      "Psyche",
+      "Psychiatrie",
+      "Psycho",
+      "Psychoedukation",
+      "Psychogramm",
+      "Psychologisch",
+      "Psychologische",
+      "Psychology"
+    ],
+    "syste": [
+      "System",
+      "Systemarchitektur",
+      "Systembildung",
+      "Systemdynamik",
+      "Systemische",
+      "Systems",
+      "Systemtheoretisch",
+      "Systemtheorie"
+    ],
+    "traum": [
+      "Trauma",
+      "TraumaPRO",
+      "Traumaabwehr",
+      "Traumas",
+      "Traumata",
+      "Traumatherapie",
+      "Traumatisierte"
+    ],
+    "proje": [
+      "Project",
+      "Projekt",
+      "Projektanalyse",
+      "Projektarchitektur",
+      "Projektmanagement",
+      "Projektplanung"
+    ],
+    "struk": [
+      "Struktur",
+      "Strukturelle",
+      "Strukturellen",
+      "Strukturen",
+      "Strukturhaltung",
+      "Strukturierung"
+    ],
+    "disso": [
+      "Dissociation",
+      "Dissociative",
+      "Dissolution",
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "funkt": [
+      "Funktion",
+      "Funktionale",
+      "Funktionaler",
+      "Funktionen",
+      "Funktionsweise"
+    ],
+    "ident": [
+      "Identifying",
+      "Identity",
+      "Identität",
+      "Identitätsstruktur",
+      "Identitätsstörung"
+    ],
+    "schre": [
+      "Schreibblockade",
+      "Schreiben",
+      "Schreibens",
+      "Schreibprozess",
+      "Schreibstil"
+    ],
+    "thera": [
+      "Therapeuten",
+      "Therapie",
+      "Therapieplan",
+      "Therapieziel",
+      "Therapy"
+    ],
+    "metap": [
+      "Metapher",
+      "Metaphern",
+      "Metaphysics",
+      "Metaphysik"
+    ],
+    "multi": [
+      "Multimodal",
+      "Multiplicity",
+      "Multiplied",
+      "Multiplizität"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstbehauptung",
+      "Selbstbild",
+      "Selbstregulation"
+    ],
+    "theor": [
+      "Theorie",
+      "Theorien",
+      "Theories",
+      "Theory"
+    ],
+    "unive": [
+      "Universe",
+      "University",
+      "Universum",
+      "Universums"
+    ],
+    "überl": [
+      "Überlebender",
+      "Überlebens",
+      "Überlebensstrategie",
+      "Überlebenstechnik"
+    ],
+    "agent": [
+      "Agenten",
+      "Agential",
+      "Agentive"
+    ],
+    "algor": [
+      "Algorithmic",
+      "Algorithmische",
+      "Algorithmischen"
+    ],
+    "autor": [
+      "Autor",
+      "Autoren",
+      "Autors"
+    ],
+    "chara": [
+      "Charakter",
+      "Charaktere",
+      "Charakteren"
+    ],
+    "dialo": [
+      "Dialog",
+      "Dialogführung",
+      "Dialogpartner"
+    ],
+    "dokum": [
+      "DOKUMEN",
+      "Dokument",
+      "Dokumente"
+    ],
+    "emoti": [
+      "Emotion",
+      "Emotional",
+      "Emotionen"
+    ],
+    "ereig": [
+      "Ereignis",
+      "Ereignishorizont",
+      "Ereignishorizonts"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Dies",
+      "Diese"
+    ],
+    [
+      "Dual",
+      "Dualität"
+    ],
+    [
+      "Dual",
+      "Wahrheitsdualität"
+    ],
+    [
+      "Fall",
+      "Notfall"
+    ],
+    [
+      "Form",
+      "Extremform"
+    ],
+    [
+      "Form",
+      "Information"
+    ],
+    [
+      "Form",
+      "Informationsverlust"
+    ],
+    [
+      "Form",
+      "Informationserhaltung"
+    ],
+    [
+      "Help",
+      "Helps"
+    ],
+    [
+      "Host",
+      "Hosts"
+    ],
+    [
+      "Jede",
+      "Jeder"
+    ],
+    [
+      "Lese",
+      "Leser"
+    ],
+    [
+      "Lese",
+      "Lesers"
+    ],
+    [
+      "Loch",
+      "Lochs"
+    ],
+    [
+      "Meta",
+      "Metapher"
+    ],
+    [
+      "Meta",
+      "Metaphern"
+    ],
+    [
+      "Meta",
+      "Metaphysik"
+    ],
+    [
+      "Meta",
+      "Metaphysics"
+    ],
+    [
+      "PTSD",
+      "CPtsd"
+    ],
+    [
+      "Part",
+      "Parts"
+    ]
+  ]
+}

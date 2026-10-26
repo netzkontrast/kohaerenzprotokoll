@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      27
+  backslash escapes      115
+  typographic marks      4
+  ascii quotes           282
+
+# inflection families -- one term, several surfaces
+  syste    System, Systemen, Systementropie, Systemfehler, Systemrauschen, Systems, Systemtheorie
+  archi    Archipels, Architect, Architecture, Architektur, Architekturmuster, Archive
+  chara    Charakter, Charaktere, Charakterentwicklung, Charakterfarben, Charakteristika, Charakterprofils
+  inter    Interaktion, Interaktionsebene, Interface, Interfaces, Interpretiert, Interventionen
+  imple    Implementiere, Implementierung, Implementierungsarchitektur, Implementierungsplan, Implementierungsprotokoll
+  psych    Psyche, Psychological, Psychologie, Psychologisch, Psychology
+  benut    Benutzer, Benutzeroberfläche, Benutzeroberflächen, Benutzers
+  daten    Daten, Datenbank, Datenmodelle, Datenstruktur
+  eleme    Element, Elemente, Elementen, Elements
+  gener    Generative, Generativen, Generiere, Generierung
+  integ    Integer, Integration, Integrity, Integrität
+  parad    Paradigma, Paradigmen, Paradoxien, Paradoxon
+  proto    Protocol, Protokoll, Protokolle, Protokolls
+  route    Route, Routen, Router, Routers
+  agent    Agent, Agenten, Agents
+  build    Build, Building, Builds
+  diese    Diese, Dieser, Dieses
+  entit    EntityProfile, Entität, Entitäten
+  fissu    FissureAlert, FissureAlerts, Fissures
+  ident    Identifikation, Identifiziere, Identität
+  intro    Introduces, Introducing, Introduction
+  klass    Klasse, Klassen, Klassische
+  kompo    Komponente, Komponenten, Komponentenbibliothek
+  konze    Konzept, Konzeption, Konzepts
+  refer    Referenzen, Referenzmaterialien, Referenzwert
+
+# substring pairs -- never one term, often merged by accident
+  Anti < Semantik
+  Blau < Blaupause
+  Blau < Stahlblau
+  Blau < Kristallblau
+  Code < Quellcode
+  Core < CoreWorld
+  Core < CoreWorldView
+  Edge < Knowledge
+  Erst < Ersticken
+  Erst < Verständnis
+  Erst < Zerstörerische
+  Farb < Farbe
+  Farb < Farben
+  Farb < Farbsystem
+  Farb < Farbsystems
+  Farb < Primärfarbe
+  Farb < Akzentfarben
+  Farb < Farbpaletten
+  Farb < Charakterfarben
+  (a trauma-symbol word, redacted) < (its compound, redacted)

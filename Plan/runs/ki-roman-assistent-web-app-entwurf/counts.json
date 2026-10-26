@@ -1,0 +1,690 @@
+{
+  "document": "ki-roman-assistent-web-app-entwurf",
+  "drive_id": "1Sxf0lnRd3_vczQ25BghgDn9eRsG5h-MZMyfbH0GWb4U",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "Kohärenz-Protokoll": {
+      "n": 4,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        25,
+        53,
+        61,
+        78,
+        89,
+        186
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        15,
+        97,
+        127,
+        212,
+        234
+      ]
+    },
+    "Kohärenz-Protokolls": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        25,
+        53,
+        78
+      ]
+    },
+    "Kael": {
+      "n": 2,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        97,
+        112
+      ]
+    },
+    "Kaels": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        112
+      ]
+    },
+    "Juna": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        103,
+        157,
+        204
+      ]
+    },
+    "Nyx": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        62,
+        104,
+        144
+      ]
+    },
+    "Lex": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        47,
+        104,
+        157
+      ]
+    },
+    "Selene": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        62,
+        147
+      ]
+    },
+    "Lia": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        68,
+        143
+      ]
+    },
+    "Moros": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        178
+      ]
+    },
+    "AEGIS": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        63,
+        103,
+        149,
+        157,
+        159,
+        190
+      ]
+    },
+    "System Kael": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "Dual-Kernel-Theorie": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        17,
+        29,
+        63,
+        188
+      ]
+    },
+    "Kohärenz-Kernel": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Kollaps-Kernel": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        142
+      ]
+    },
+    "Kernwelten": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        29,
+        97
+      ]
+    },
+    "Welt-Bibel": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        29,
+        78,
+        97,
+        169
+      ]
+    },
+    "TSDP": {
+      "n": 3,
+      "n_including_compounds": 6,
+      "lines": [
+        19,
+        27,
+        62,
+        97,
+        153,
+        159
+      ]
+    },
+    "ANPs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "EPs": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        157
+      ]
+    },
+    "Alters": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        104
+      ]
+    },
+    "Anteilen": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        27,
+        112,
+        157
+      ]
+    },
+    "Anscheinend Normalen Persönlichkeitsanteile": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        157
+      ]
+    },
+    "Emotionalen Persönlichkeitsanteile": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        27,
+        157
+      ]
+    },
+    "Funktionalen Multiplizität": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Axis Mundi": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        25,
+        63,
+        129,
+        155,
+        190
+      ]
+    },
+    "Axis Mundi Dashboard": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        25
+      ]
+    },
+    "Charakter-Nexus und das TSDP-Geflecht": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        27
+      ]
+    },
+    "Metaphysische und Physikalische Constraint-Engine": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Kintsugi-Integrationswerkstatt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        31
+      ]
+    },
+    "Kintsugi": {
+      "n": 2,
+      "n_including_compounds": 10,
+      "lines": [
+        31,
+        65,
+        113,
+        129,
+        143,
+        161,
+        173,
+        190
+      ]
+    },
+    "Kintsugi-UI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        161
+      ]
+    },
+    "Kintsugi-Impulsen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        173
+      ]
+    },
+    "Bruchlinien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        31,
+        161
+      ]
+    },
+    "Nichts Rauschen": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        19
+      ]
+    },
+    "Cache-Inkohärenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        144
+      ]
+    },
+    "Charged Void": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        159
+      ]
+    },
+    "Architectural Storytelling": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        114,
+        129,
+        190
+      ]
+    },
+    "Wachsende Landkarte": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        155,
+        192
+      ]
+    },
+    "Generative UI": {
+      "n": 12,
+      "n_including_compounds": 13,
+      "lines": [
+        17,
+        33,
+        107,
+        141,
+        186,
+        196,
+        197,
+        198,
+        202,
+        208,
+        214,
+        220,
+        224
+      ]
+    },
+    "GenUI": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        17
+      ]
+    },
+    "A2UI": {
+      "n": 10,
+      "n_including_compounds": 18,
+      "lines": [
+        17,
+        37,
+        39,
+        74,
+        89,
+        107,
+        114,
+        120,
+        169,
+        177,
+        186,
+        199,
+        201,
+        214,
+        215,
+        216,
+        217
+      ]
+    },
+    "AG-UI": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        37,
+        41,
+        214,
+        218
+      ]
+    },
+    "Vercel AI SDK": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        17,
+        43,
+        45,
+        68,
+        186,
+        208
+      ]
+    },
+    "novel-architect": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        76,
+        78,
+        88,
+        169,
+        188
+      ]
+    },
+    "Novel Writing Assistent": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        97
+      ]
+    },
+    "renderCharacterNode": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        62,
+        68,
+        112
+      ]
+    },
+    "analyzePlotCoherence": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        63,
+        111,
+        171
+      ]
+    },
+    "summonWorldConstraint": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "proposeKintsugiResolution": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        65,
+        113
+      ]
+    },
+    "updateMetaphysicalState": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        66
+      ]
+    },
+    "Rifts": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        63
+      ]
+    },
+    "Neobruralismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        64
+      ]
+    },
+    "Biomorphismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        157
+      ]
+    },
+    "Negativraum": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        159
+      ]
+    },
+    "Landauer-Prinzip": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        64,
+        105
+      ]
+    },
+    "Planck-Skala": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        64
+      ]
+    },
+    "Planck-Barrieren": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Bekenstein-Schranke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Turing-Mechanik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        167
+      ]
+    },
+    "Informationsparadoxon": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Gödels Unvollständigkeitssätze": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        29
+      ]
+    },
+    "Protektor": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        104,
+        144
+      ]
+    },
+    "Integratorin": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        147
+      ]
+    },
+    "Kollaps": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        29,
+        142,
+        171
+      ]
+    },
+    "Kernangst": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    },
+    "Evokationstaktik": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Dual-Kernel-Evaluierung": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        103
+      ]
+    },
+    "Systemwächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        171
+      ]
+    },
+    "Chat+": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Co-Creator Workspace": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        23
+      ]
+    },
+    "Eintrübung": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        66,
+        149
+      ]
+    },
+    "Kontamination": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        149
+      ]
+    },
+    "--color-selene-whitegold": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        147,
+        161
+      ]
+    },
+    "isMeta": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        105
+      ]
+    },
+    "Think before Rendering": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        99
+      ]
+    },
+    "Tool Calling": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        47,
+        221
+      ]
+    },
+    "AI Slop": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        55,
+        74
+      ]
+    },
+    "Trickster-Kind-EP": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        68
+      ]
+    }
+  }
+}

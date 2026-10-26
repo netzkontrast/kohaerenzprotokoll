@@ -1,0 +1,172 @@
+{
+  "document": "digitale-uberwelt",
+  "drive_id": "1Usb1RG3BLznSWqnCTKyzBMIQs94trNiHZPTBKBcOXjA",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "candidate list, census and note by a document-reader subagent (Sonnet), 2026-10-19, from the full-ingest task with no count before the list; rlm_ingest not run; page readings written by the session from Plan/runs/ingest-551/brief.md, 2026-10-19",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 70,
+    "decisions": 83,
+    "decided_by_lookup": 40,
+    "needs_judgement": 43
+  },
+  "new_terms": [],
+  "why_no_new_terms": "A concept draft for the digital Überwelt: what it proposes for AEGIS, its defences, the five Guardians, the Überwelt's structure, the Kern-Welten, the cracks, the external level and Kairos's emergence went on existing pages.",
+  "new_readings": [
+    {
+      "page": "aegis-teilfunktionen",
+      "lines": [
+        49,
+        104
+      ],
+      "attribution": "",
+      "note": "the Cognitive Firewall and SIS as defence"
+    },
+    {
+      "page": "aegis",
+      "lines": [
+        45,
+        49,
+        104
+      ],
+      "attribution": "",
+      "note": "the placeless operating system that reacts by protocol"
+    },
+    {
+      "page": "cerberus",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "one of the five Guardians of the Überwelt"
+    },
+    {
+      "page": "emergenz",
+      "lines": [
+        62,
+        105
+      ],
+      "attribution": "",
+      "note": "Kairos's emergence, bounded by AEGIS"
+    },
+    {
+      "page": "externe-ebene",
+      "lines": [
+        49,
+        72,
+        108
+      ],
+      "attribution": "",
+      "note": "the external level by contrast to the Überwelt"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        17,
+        30,
+        40
+      ],
+      "attribution": "",
+      "note": "five functional entities communicating by intent"
+    },
+    {
+      "page": "kairos",
+      "lines": [
+        17,
+        105
+      ],
+      "attribution": "",
+      "note": "potential bounded by AEGIS"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "four simulated worlds running on the Überwelt"
+    },
+    {
+      "page": "logos",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "one of the five Guardians of the Überwelt"
+    },
+    {
+      "page": "mnemosyne",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "one of the five Guardians of the Überwelt"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        49
+      ],
+      "attribution": "",
+      "note": "cracks as violations of the AEGIS protocol"
+    },
+    {
+      "page": "sophia",
+      "lines": [
+        17
+      ],
+      "attribution": "",
+      "note": "one of the five Guardians of the Überwelt"
+    },
+    {
+      "page": "ueberwelt",
+      "lines": [
+        49,
+        110
+      ],
+      "attribution": "",
+      "note": "a functionally structured, purely informational world"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "the five Guardians read by name; Zero-Trust, the Integrity Guardian, the Cognitive Firewall and SIS read on aegis-teilfunktionen where the lines are citable; `Kohärenz` as a metric is an occurrence (J9); claims tagged „[Kontext 1]“ are read as the protocol's; L53 and L106 (an earlier name) and L122 and L144 (real names) are not cited, and from L49 only short name-free spans",
+  "sweep": [
+    {
+      "page": "emergenz",
+      "surface": "Emergenz",
+      "line": 62,
+      "decision": "reading",
+      "why": "Kairos's domain; read on the page"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 44,
+      "decision": "occurrence",
+      "why": "system coherence as a metric (J9)"
+    }
+  ],
+  "not_promoted": [
+    "Encrypted Intent Channels, Consensus Enforcer, ZTEM, RTSV, BPoF, Potenzialfelder, the functional zones, the Kontext tags"
+  ],
+  "internal_tension": "none recorded in the note",
+  "baseline_moved": "graphrag.py bench: not re-run for a document that adds no page"
+}

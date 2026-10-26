@@ -1,0 +1,146 @@
+{
+  "document": "parakonsistente-logik-fuer-kohaerenz-protokoll",
+  "drive_id": "1IMEJ_QQGzV0FxtoXLAaDUP-29F59nCAHK2NPjVs9dGY",
+  "step": "reconcile",
+  "at": "2026-10-19",
+  "by": "<reconciler: who read and who wrote the readings, and the brief they followed>",
+  "state_before": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "state_after": {
+    "pages": 106,
+    "conflicts": 17
+  },
+  "pre_classification": {
+    "candidates": 71,
+    "decisions": 75,
+    "decided_by_lookup": 52,
+    "needs_judgement": 23
+  },
+  "new_terms": [],
+  "why_no_new_terms": "<reconciler: why no candidate became a page>",
+  "new_readings": [
+    {
+      "page": "aegis",
+      "lines": [
+        155,
+        165,
+        167,
+        300
+      ],
+      "attribution": "",
+      "note": "a paraconsistent system, or a classical one under stress"
+    },
+    {
+      "page": "alters",
+      "lines": [
+        261
+      ],
+      "attribution": "",
+      "note": "each alter's experience of a world's logic"
+    },
+    {
+      "page": "did",
+      "lines": [
+        266
+      ],
+      "attribution": "",
+      "note": "a metaphor deepened by logics"
+    },
+    {
+      "page": "guardians",
+      "lines": [
+        262,
+        364
+      ],
+      "attribution": "",
+      "note": "carriers of AEGIS's logic in foreign worlds"
+    },
+    {
+      "page": "kael",
+      "lines": [
+        181,
+        311
+      ],
+      "attribution": "",
+      "note": "the connecting consciousness"
+    },
+    {
+      "page": "kern-welten",
+      "lines": [
+        194,
+        395,
+        396,
+        397,
+        398
+      ],
+      "attribution": "",
+      "note": "one logic per core world"
+    },
+    {
+      "page": "potentialmeer",
+      "lines": [
+        159,
+        169
+      ],
+      "attribution": "",
+      "note": "a reality that is not classical"
+    },
+    {
+      "page": "risse",
+      "lines": [
+        159
+      ],
+      "attribution": "",
+      "note": "regions of both-or-neither, or local explosions"
+    }
+  ],
+  "chapters": {
+    "readings_on": []
+  },
+  "plot_overview": {
+    "lines": []
+  },
+  "new_surfaces": [],
+  "new_conflicts": [],
+  "conflicts_changed": [],
+  "questions_changed": [],
+  "judgements": [],
+  "decided_by_existing_rules": "<reconciler: the rules that settled the near matches, by id>",
+  "sweep": [
+    {
+      "page": "juna",
+      "surface": "(an earlier name)",
+      "line": 171,
+      "decision": "occurrence",
+      "why": "an earlier name; the line is not cited"
+    },
+    {
+      "page": "kael",
+      "surface": "Kael",
+      "line": 23,
+      "decision": "reading",
+      "why": "read from L181 and L311"
+    },
+    {
+      "page": "kohaerenz",
+      "surface": "Kohärenz",
+      "line": 11,
+      "decision": "occurrence",
+      "why": "the document's title"
+    },
+    {
+      "page": "ueberwelt",
+      "surface": "Simulation",
+      "line": 157,
+      "decision": "occurrence",
+      "why": "the simulation in passing"
+    }
+  ],
+  "not_promoted": [
+    "<reconciler: a candidate that got no page, and where its reading went>"
+  ],
+  "internal_tension": "<reconciler: what the document says two ways, or none>",
+  "baseline_moved": "<reconciler: graphrag.py bench against the last row of baselines.jsonl>"
+}

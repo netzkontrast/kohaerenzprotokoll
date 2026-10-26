@@ -1,0 +1,214 @@
+{
+  "document": "plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur",
+  "drive_id": "14AyGzJDKhg2iTYclvv0PEnERzOVvUNPp9P3kHnoZBe8",
+  "step": "probes",
+  "at": "2026-10-21",
+  "by": "scripts/capture.py",
+  "invisible_characters": {},
+  "glued_ref_numbers": 56,
+  "backslash_escapes": 0,
+  "typographic_marks": 2,
+  "ascii_quotes": 28,
+  "inflection_families": {
+    "ident": [
+      "Identifikation",
+      "Identität",
+      "Identitätsfindung",
+      "Identitätsparadoxien",
+      "Identitätsstörung"
+    ],
+    "poten": [
+      "Potential",
+      "Potentialität",
+      "Potentialmeer",
+      "Potentialmeers",
+      "Potenzial"
+    ],
+    "syste": [
+      "System",
+      "Systemantwort",
+      "Systemkampf",
+      "Systems",
+      "Systemänderungen"
+    ],
+    "antei": [
+      "Anteil",
+      "Anteile",
+      "Anteilen"
+    ],
+    "inner": [
+      "Innere",
+      "Inneren",
+      "Innerer"
+    ],
+    "inter": [
+      "Internal",
+      "Intervention",
+      "Interventionen"
+    ],
+    "monst": [
+      "(a world code, not expanded)",
+      "(a world code, not expanded)",
+      "Monstrous"
+    ],
+    "reakt": [
+      "Reaktion",
+      "Reaktiv",
+      "Reaktiviert"
+    ],
+    "selbs": [
+      "Selbst",
+      "Selbstführung",
+      "Selbstorganisationsfähigkeit"
+    ],
+    "simul": [
+      "Simulation",
+      "Simulationen",
+      "Simulationstricks"
+    ],
+    "wider": [
+      "Widersprüche",
+      "Widerstand",
+      "Widerstands"
+    ],
+    "wiede": [
+      "Wiedergeburt",
+      "Wiederkehrendes",
+      "Wiederverbindung"
+    ],
+    "allta": [
+      "Alltag",
+      "Alltagsleben"
+    ],
+    "aspek": [
+      "Aspekte",
+      "Aspekten"
+    ],
+    "bewus": [
+      "Bewusstsein",
+      "Bewusstwerdung"
+    ],
+    "disso": [
+      "Dissoziation",
+      "Dissoziative"
+    ],
+    "entsc": [
+      "Entscheidung",
+      "Entschlossenheit"
+    ],
+    "erzäh": [
+      "Erzählstil",
+      "Erzählung"
+    ],
+    "exist": [
+      "Existenz",
+      "Existenzform"
+    ],
+    "grenz": [
+      "Grenzen",
+      "Grenzüberschreitungen"
+    ],
+    "intui": [
+      "Intuition",
+      "Intuitiven"
+    ],
+    "kernw": [
+      "Kernwelt",
+      "Kernwelten"
+    ],
+    "kommu": [
+      "Kommunikation",
+      "Kommunikationsproblemen"
+    ],
+    "konfl": [
+      "Konflikt",
+      "Konflikte"
+    ],
+    "kontr": [
+      "Kontrolle",
+      "Kontrollsystem"
+    ]
+  },
+  "substring_pairs": [
+    [
+      "Form",
+      "Existenzform"
+    ],
+    [
+      "Form",
+      "Informationen"
+    ],
+    [
+      "Form",
+      "Transformation"
+    ],
+    [
+      "Kael",
+      "Kaels"
+    ],
+    [
+      "Kern",
+      "Kernwelt"
+    ],
+    [
+      "Kern",
+      "Kernsystem"
+    ],
+    [
+      "Kern",
+      "Kernwelten"
+    ],
+    [
+      "Raum",
+      "Trauma"
+    ],
+    [
+      "Raum",
+      "Posttraumatisches"
+    ],
+    [
+      "Raum",
+      "Traumaverarbeitung"
+    ],
+    [
+      "Sein",
+      "Bewusstsein"
+    ],
+    [
+      "Sein",
+      "Verbundensein"
+    ],
+    [
+      "Teil",
+      "Anteil"
+    ],
+    [
+      "Teil",
+      "Anteile"
+    ],
+    [
+      "Teil",
+      "Anteilen"
+    ],
+    [
+      "Teil",
+      "Verurteilung"
+    ],
+    [
+      "Welt",
+      "Kernwelt"
+    ],
+    [
+      "Welt",
+      "Kernwelten"
+    ],
+    [
+      "Blick",
+      "Ausblick"
+    ],
+    [
+      "Erste",
+      "Auferstehung"
+    ]
+  ]
+}

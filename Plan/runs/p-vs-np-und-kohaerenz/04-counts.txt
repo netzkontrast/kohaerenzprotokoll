@@ -1,0 +1,150 @@
+# counts for 89 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  AEGIS                            64 word    69 in   [11, 19, 21, 25, 29, 148]
+                                    1      as AEGIS-Kontrollverlust
+                                    1      as AEGIS-interne
+                                    1      as AEGIS-Protokolle
+                                    1      as AEGIS-Prozeduren
+  Überwelt                          2 word     2 in   [21, 185]
+  Kernwelten                       19 word    19 in   [11, 19, 21, 25, 185, 234]
+  Kernwelt 1                        1 word     1 in   [240]
+  KW1                               6 word     6 in   [238, 243, 298, 307, 378]
+  KW2                               7 word     7 in   [246, 298, 308, 326, 379, 404]
+  KW3                               6 word     6 in   [263, 285, 298, 309, 380]
+  KW4                               7 word     7 in   [288, 293, 298, 310, 381, 404]
+  Guardian                          6 word    19 in   [236, 242, 244, 259, 261, 276]  <-- substring
+                                    4      as Guardians
+                                    4      as Guardian-Operation
+  Guardians                         4 word     4 in   [236, 358, 389, 390]
+  Architekt                         6 word     8 in   [234, 238, 242, 244, 307, 378]
+                                    1      as Architekturen
+                                    1      as Architekten
+  Echo                              4 word     6 in   [246, 252, 259, 261, 308, 390]
+                                    1      as Echos
+                                    1      as Echo-Guardian
+  Wächter                           4 word     5 in   [177, 263, 270, 276, 309]
+                                    1      as Wächter-Instanzen
+  Sucher                            7 word     7 in   [288, 292, 293, 294, 310, 381]
+  Cerberus                          6 word     6 in   [276, 286, 344, 380, 390]
+  Kael                             18 word    25 in   [212, 220, 236, 243, 260, 285]
+                                    7      as Kaels
+  EST                               9 word    11 in   [236, 241, 258, 275, 291, 307]
+  SARM                              2 word     4 in   [151, 221, 370]
+                                    1      as SARM-Probleme
+                                    1      as SARM-Systems
+  RIVE                              2 word     4 in   [211, 214, 369]
+                                    1      as RIVE-Prozedur
+                                    1      as RIVE-Validierungen
+  Risse                             3 word     3 in   [152, 204]
+  Reboot                            3 word     4 in   [155, 222, 228, 398]
+                                    1      as Reboots
+  K-J-Verbindung                    3 word     3 in   [220, 332, 398]
+  Kernparadoxon                     1 word     1 in   [332]
+  Kohärenz Protokoll               11 word    11 in   [13, 21, 25, 29, 33, 179]
+  Kohärenz-Patching-Protokoll       1 word     1 in   [368]
+  Potential                         3 word     3 in   [288, 292, 381]
+  Paradoxien                        8 word     8 in   [187, 232, 332]
+  Kohärenz                         26 word    32 in   [11, 13, 19, 21, 25, 29]
+                                    1      as Kohärenzgrad
+                                    1      as Kohärenzoptimierung
+                                    1      as Kohärenzherstellung
+                                    1      as Kohärenzaufgaben
+  Entropie                          4 word     9 in   [21, 29, 181, 183, 185, 186]  <-- substring
+                                    2      as Entropiequellen
+                                    1      as Entropiemanagement
+                                    1      as Entropielevel
+                                    1      as Entropievorhersage
+  Rechenlandschaften                1 word     1 in   [25]
+  Rechenlandschaft                  2 word     3 in   [25, 236, 413]
+                                    1      as Rechenlandschaften
+  Komplexität als Weltphysik        1 word     1 in   [296]
+  komputationale Physik             1 word     1 in   [389]
+  degradierten Modus                1 word     1 in   [205]
+  P-Maschine                        3 word     3 in   [230, 404, 418]
+  Logik/Architekt                   1 word     1 in   [238]
+  Emotion/Echo                      1 word     1 in   [246]
+  Abwehr/Wächter                    1 word     1 in   [263]
+  Potential/Sucher/Funke            1 word     1 in   [288]
+  Jenseits von NP / Qualia          1 word     1 in   [308]
+  Jenseits von NP                   2 word     2 in   [112, 308]
+  NP-Suche                          4 word     4 in   [290, 310, 381, 413]
+  Hybrider Ansatz                   1 word     1 in   [358]
+  nicht-deterministischer Löser     1 word     1 in   [402]
+  polynomialer Kreativität          1 word     1 in   [327]
+  Intraktabilität                   2 word     2 in   [220, 222]
+  Zustandsvalidierung               1 word     1 in   [211]
+  P vs NP                           9 word    10 in   [29, 60, 209, 354, 404, 428]
+  P versus NP                       7 word     7 in   [15, 17, 25, 410, 427, 430]
+  P=NP                             11 word    11 in   [87, 93, 95, 97, 103, 140]
+  Klasse P                          7 word     7 in   [35, 39, 41, 186, 195, 232]
+  NP                              124 word   266 in   [11, 15, 17, 25, 29, 31]  <-- substring
+  NP-vollständig                   13 word    29 in   [25, 33, 62, 80, 85, 87]  <-- substring
+                                    7      as NP-vollständigen
+                                    5      as NP-vollständige
+                                    4      as NP-Vollständigkeit
+                                    4      as NP-vollständiges
+  NP-schwer                        12 word    31 in   [29, 33, 78, 83, 100, 101]  <-- substring
+                                   10      as NP-schwere
+                                    5      as NP-schweren
+                                    4      as NP-schweres
+                                    3      as NP-Schwere
+  NP-intermediär                    2 word     4 in   [95, 117, 157, 173]
+                                    1      as NP-intermediäre
+                                    1      as NP-intermediären
+  NP-Intermediär                    1 word     1 in   [117]
+                                    1      as NP-intermediäre
+                                    1      as NP-intermediären
+  Co-NP                             1 word     1 in   [116]
+  co-NP                             4 word     4 in   [116, 121, 170]
+  EXPTIME                           8 word     9 in   [130, 174, 253, 482]
+                                    1      as EXPTIME-vollständig
+  EXPSPACE                          5 word     6 in   [131, 484]
+                                    1      as EXPSPACE-vollständig
+  PSPACE                            2 word     8 in   [131, 484]  <-- substring
+  Haltingproblem                    6 word     8 in   [78, 135, 171, 175, 187]
+                                    2      as Haltingproblems
+  Turingmaschine                    7 word     8 in   [37, 56, 58, 130, 168, 252]
+                                    1      as Turingmaschinen
+  Zertifikat                        4 word     5 in   [58, 116, 122, 211]
+                                    1      as Zertifikats
+  Verifizierer                      2 word     2 in   [58]
+  Heuristiken                      16 word    19 in   [108, 152, 155, 191, 195, 199]
+  Approximationsalgorithmen         5 word     5 in   [108, 153, 195, 200, 276]
+  Qualia                           10 word    10 in   [252, 298, 308, 327, 413, 517]
+  Cobham-Edmonds-These              1 word     1 in   [39]
+  Cook-Levin-Theorem                1 word     1 in   [87]
+  Ladner's Theorem                  1 word     1 in   [117]
+  Gödels Unvollständigkeitssätzen    1 word     1 in   [135]
+  Subgraph-Isomorphismus            1 word     2 in   [269]
+                                    1      as Subgraph-Isomorphismus-Problem
+  Constraint Satisfaction Problems    2 word     2 in   [185, 493]
+  CSPs                              1 word     1 in   [185]
+  Exploration                       6 word    11 in   [290, 292, 294, 298, 310, 413]
+                                    1      as Exploration-Exploitation-Dilemma
+                                    1      as Explorationsherausforderungen
+                                    1      as Explorationsdilemma
+  Exploitation                      5 word     8 in   [290, 292, 294, 310, 523, 524]
+                                    2      as Exploitation-Exploration
+  Polynomzeit                      21 word    25 in   [37, 39, 54, 56, 58, 70]
+                                    2      as Polynomzeit-
+                                    1      as Polynomzeitalgorithmen
+                                    1      as Polynomzeitalgorithmus
+  Polynomialzeit                    2 word     4 in   [37, 74, 121, 307]
+                                    1      as Polynomialzeitreduktion
+                                    1      as Polynomialzeithierarchie
+  Unentscheidbar                    1 word     3 in   [135, 175]  <-- substring
+                                    1      as Unentscheidbare
+                                    1      as Unentscheidbarkeit
+  Millennium-Preis-Probleme         1 word     1 in   [17]
+  SAT                               5 word     8 in   [64, 87, 89, 169, 172]
+  3SAT                              3 word     3 in   [64, 89, 172]
+  TSP                               7 word     7 in   [65, 78, 89, 100, 169, 171]
+  Graphenisomorphismus              2 word     2 in   [122, 173]
+  Primfaktorzerlegung               4 word     4 in   [60, 99, 121, 173]
+  Faktorisierung                    2 word     2 in   [109, 157]
+  Falsch-Positiv                    1 word     2 in   [280, 309]
+                                    1      as Falsch-Positive
+  Komplexitätsklassen               7 word     7 in   [25, 33, 126, 159, 161, 298]

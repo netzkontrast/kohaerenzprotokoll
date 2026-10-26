@@ -1,0 +1,55 @@
+# export damage
+  invisible characters   none
+  glued ref numbers      26
+  backslash escapes      122
+  typographic marks      87
+  ascii quotes           61
+
+# inflection families -- one term, several surfaces
+  behan    Behandelnde, Behandelnden, Behandelnder, Behandler, Behandlern, Behandlers, Behandlung, Behandlungen, Behandlungs, Behandlungsakte, Behandlungsauftrags, Behandlungserfolg, Behandlungsfehler, Behandlungsfehlers, Behandlungsgeschichte, Behandlungsplanung, Behandlungsprozesses, Behandlungsschwerpunkts, Behandlungsverlauf, Behandlungsverlaufs, Behandlungsvertrag, Behandlungsvertrages
+  patie    Patient, Patienten, Patientenakte, Patientenanspruch, Patientenansprüche, Patientenanwalt, Patientenaufklärung, Patientendaten, Patientendokumentation, Patientenerfahrung, Patientenidentität, Patienteninformation, Patientenrecht, Patientenrechte, Patientenrechtegesetz, Patientenrechten, Patientensicht, Patientenunterlagen
+  recht    Recht, Rechte, Rechtliche, Rechtsansprüche, Rechtsanwälte, Rechtsbegriff, Rechtsberatung, Rechtsgebieten, Rechtsgrundlage, Rechtsgrundlagen, Rechtsnorm, Rechtsnormen, Rechtsportal, Rechtsprechung, Rechtsverletzung, Rechtsvertretung, Rechtswidrige
+  bewei    Beweisantrag, Beweise, Beweiserhebung, Beweiserleichterungen, Beweisfragen, Beweisführung, Beweiskraft, Beweislastumkehr, Beweismittel, Beweisrechtliche, Beweisschwierigkeiten, Beweiswürdigung
+  beric    Bericht, Berichte, Berichten, Berichterstattung, Berichtigung, Berichtigungs, Berichtigungsanspruch, Berichtigungsanspruchs, Berichtigungsansprüche, Berichts, Berichtserstellung
+  infor    Information, Informationen, Informations, Informationsanspruch, Informationsaustausch, Informationsbericht, Informationsgrundlage, Informationsperspektive, Informationspflicht, Informationspflichten, Informationsquelle
+  sozia    Sozialforschung, Sozialgericht, Sozialgerichte, Sozialgerichtsbarkeit, Sozialgerichtsgesetz, Sozialgerichtsprozess, Sozialgerichtsverfahren, Sozialgesetzbuch, Sozialleistungsträger, Sozialleistungsträgern, Sozialrecht
+  aufkl    Aufklaerung, Aufklärung, Aufklärungen, Aufklärungs, Aufklärungsgespräch, Aufklärungsgespräche, Aufklärungsmaßnahmen, Aufklärungspflicht, Aufklärungspflichten, Aufklärungsversäumnis
+  befun    Befundberichte, Befundberichten, Befunde, Befunden, Befunderhebung, Befunderhebungsfehler, Befunderhebungspflichten, Befundes, Befundkomplexen, Befundsicherung
+  unter    Unter, Unterbleibens, Unterlagen, Unterlassen, Unterlassung, Unterlassungsanspruch, Untersuchung, Untersuchungen, Untersuchungsergebnisse, Untertitel
+  diagn    Diagnose, Diagnosefehler, Diagnosefehlern, Diagnosefreiheit, Diagnoseirrtum, Diagnosen, Diagnoseplan, Diagnosestellung, Diagnostik
+  grund    Grundgesetz, Grundlage, Grundlagen, Grundrecht, Grundrechte, Grundsatz, Grundsätze, Grundsätzlich, Grundverordnung
+  persö    Persönlichkeit, Persönlichkeitsanteile, Persönlichkeitsrecht, Persönlichkeitsrechte, Persönlichkeitsrechts, Persönlichkeitsrechtsverletzung, Persönlichkeitsschutzes, Persönlichkeitsstörung, Persönlichkeitsstörungen
+  geset    Gesetzbuch, Gesetzbuchs, Gesetze, Gesetzentwurf, Gesetzes, Gesetzestexte, Gesetzgebung, Gesetzlich
+  klini    Klinik, Klinikaufenthalt, Klinikaufenthalts, Klinikbericht, Klinikberichte, Klinikberichts, Kliniken, Klinikärzte
+  dokum    Dokument, Dokumentation, Dokumentations, Dokumentationspflicht, Dokumentationspflichten, Dokumentationspflichtverletzung, Dokuments
+  schwe    SCHWERPUNKTE, Schweigepflicht, Schweiz, Schwerbehindertenrecht, Schwere, Schwerpunkt, Schwerwiegende
+  bunde    Bundesministerium, Bundesrechtsanwaltskammer, Bundesrepublik, Bundestag, Bundesvereinigung, Bundesärztekammer
+  daten    Daten, Datenschutz, Datenschutzrecht, Datenschutzrechte, Datenschutzrechtliche, Datenverarbeitung
+  gesun    Gesundheit, Gesundheitsbezogene, Gesundheitsdaten, Gesundheitsinformationen, Gesundheitswesen, Gesundheitszustand
+  krank    Krankengeschichte, Krankenkassen, Krankenunterlagen, Krankheitsbild, Krankheitsbildes, Krankheitserlebens
+  selbs    Selbstbestimmung, Selbstbestimmungsrecht, Selbstbestimmungsrechts, Selbstverständlichkeit, Selbstwahrnehmung, Selbstwertgefühl
+  tatsa    Tatsache, Tatsachen, Tatsachenangaben, Tatsachenbehauptung, Tatsachenbehauptungen, Tatsachengrundlage
+  verso    Versorgung, Versorgungsamt, Versorgungsamtes, Versorgungsmedizin, Versorgungsmedizinische, Versorgungsämter
+  entsc    Entschaedigungsrecht, Entscheidend, Entscheidung, Entscheidungen, Entschädigungsrecht
+
+# substring pairs -- never one term, often merged by accident
+  Akte < Aktenlage
+  Akte < Aktenanalyse
+  Akte < Akteneinsicht
+  Akte < Patientenakte
+  Akte < Behandlungsakte
+  Arzt < Arztes
+  Arzt < Facharzt
+  Arzt < Arztbrief
+  Arzt < Arztbriefe
+  Arzt < Arztbriefen
+  Arzt < Arztbriefes
+  Arzt < Arzthaftung
+  Arzt < Arztpflichten
+  Arzt < Facharztstandard
+  Arzt < Facharztstandards
+  Arzt < Facharztgutachters
+  Arzt < Arzthaftungsprozess
+  Arzt < Arzthaftungsprozesses
+  Auch < Missbrauch
+  Auch < Missbrauchs

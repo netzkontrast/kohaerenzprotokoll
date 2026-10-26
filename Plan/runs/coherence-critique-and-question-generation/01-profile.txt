@@ -1,0 +1,14 @@
+# coherence-critique-and-question-generation
+  lines                311  (frontmatter ends at 9)
+  body words           4132
+  headings             22   bold-only lines 1
+  table rows           5   code fences 0
+  question marks       52
+  backslash escapes    118
+  typographic marks    35   ascii quotes 674
+  invisible characters none
+  math symbol lines    0
+  glued ref numbers    50
+  repeated labels      Kritik & Kohärenzanalyse x10, Interrogative Fragen für die Revision x9, Analyse x3
+  longest line         844 chars
+

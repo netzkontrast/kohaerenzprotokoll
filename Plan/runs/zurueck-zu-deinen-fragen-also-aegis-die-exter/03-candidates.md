@@ -1,0 +1,62 @@
+written_by: document-reader subagent (Sonnet), 2026-10-19, while reading, before any count
+
+Read in one pass (L10 to L106). The text is a list of open questions about an album concept built on the novel's parts. Figures and worlds named in it are listed as written. The wider material about the system's trauma handling is read as the novel's world; the document is also a dialogue, and nothing about its addressee is listed.
+
+- Metaalbums
+- Metaalbum-Konzepts
+- Kael-Systems
+- Kael
+- Juna
+- AEGIS
+- Kernwelten
+- Anteile
+- Anteil
+- Anteilswelten
+- DIS
+- EP
+- ANP
+- Heldenreise
+- heldenreise
+- Heldinnenreise
+- heldinnenreise
+- Heldenreise pro Song
+- Spiegelsongs
+- Spiegelsong-Begegnungen
+- Spiegelsong-Transformation
+- Gast
+- Agency System
+- Agency Systems
+- Album 12
+- Album 13
+- Album 13.13
+- Lex
+- parakonsistente Logik
+- Alex
+- Rhys
+- Nyx
+- Kiko
+- Lia
+- Isabelle
+- Moros
+- Selene
+- Argus
+- Sunyata
+- Resonanzkonzept
+- Kennenlernphase
+- Wiedererkennen
+- Urvertrauen
+- Retraumatisierung
+- Kernkonflikt
+- Paradoxon
+- Krisen-Paradoxons
+- Kael-Juna Krisen-Paradoxons
+- offenen Ruf
+- offenen Rufs
+- Hoffnungsträger
+- Meta-Plot
+- System-Umbau
+- Selbstliebe
+- Kohärenz
+- Sicherheitsprotokolle
+- Songs
+- Song

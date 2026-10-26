@@ -1,0 +1,908 @@
+{
+  "document": "dialetheismus-im-kohaerenz-protokoll",
+  "drive_id": "155nU_zQ0D8zeXCapHBjQ1mUDRIR2ny-6ANDiJQQeB6k",
+  "step": "counts",
+  "at": "2026-10-19",
+  "by": "scripts/capture.py",
+  "candidate_source": "written-while-reading",
+  "usable_as_baseline": true,
+  "line_base": "file, from line 1, as a citation writes it",
+  "read_as_prose": [],
+  "counts": {
+    "AEGIS": {
+      "n": 59,
+      "n_including_compounds": 60,
+      "lines": [
+        11,
+        15,
+        21,
+        26,
+        173,
+        175,
+        177,
+        178,
+        180,
+        182,
+        183,
+        184,
+        185,
+        187,
+        189,
+        190,
+        191,
+        192,
+        193,
+        195,
+        197,
+        199,
+        200,
+        204,
+        206,
+        207,
+        209,
+        243,
+        245,
+        259,
+        263,
+        265,
+        267,
+        268,
+        270,
+        281,
+        292,
+        300,
+        313,
+        317,
+        319
+      ]
+    },
+    "Potentialmeer": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        178,
+        182,
+        189,
+        268
+      ]
+    },
+    "Kernwelten": {
+      "n": 14,
+      "n_including_compounds": 14,
+      "lines": [
+        11,
+        15,
+        21,
+        27,
+        82,
+        211,
+        213,
+        219,
+        247,
+        257,
+        259,
+        301,
+        317,
+        319
+      ]
+    },
+    "Kernwelt": {
+      "n": 3,
+      "n_including_compounds": 17,
+      "lines": [
+        11,
+        15,
+        21,
+        27,
+        55,
+        82,
+        211,
+        213,
+        219,
+        247,
+        251,
+        257,
+        259,
+        296,
+        301,
+        317,
+        319
+      ]
+    },
+    "KW1": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        213,
+        215,
+        233,
+        245,
+        252,
+        259,
+        290,
+        296,
+        309
+      ]
+    },
+    "KW2": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        222,
+        238,
+        245,
+        253,
+        259,
+        280,
+        291,
+        309
+      ]
+    },
+    "KW3": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        229,
+        254
+      ]
+    },
+    "KW4": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        213,
+        236,
+        245,
+        255,
+        296,
+        309
+      ]
+    },
+    "Kerndirektive": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        191,
+        195,
+        197,
+        268,
+        300
+      ]
+    },
+    "Sein durch Abgrenzung/Nicht-Widerspruch": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        191,
+        197
+      ]
+    },
+    "Risse": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        185,
+        192,
+        193,
+        220,
+        267,
+        281
+      ]
+    },
+    "Riss": {
+      "n": 1,
+      "n_including_compounds": 7,
+      "lines": [
+        183,
+        185,
+        192,
+        193,
+        220,
+        267,
+        281
+      ]
+    },
+    "Upgrade": {
+      "n": 3,
+      "n_including_compounds": 5,
+      "lines": [
+        202,
+        204,
+        207,
+        270,
+        300
+      ]
+    },
+    "EST": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        220,
+        257
+      ]
+    },
+    "Anteile": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        213
+      ]
+    },
+    "Guardians": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        243
+      ]
+    },
+    "Forschungsauftrag": {
+      "n": 14,
+      "n_including_compounds": 15,
+      "lines": [
+        175,
+        182,
+        183,
+        189,
+        191,
+        192,
+        200,
+        206,
+        213,
+        219,
+        226,
+        233,
+        240,
+        245,
+        265
+      ]
+    },
+    "Hypothese A": {
+      "n": 15,
+      "n_including_compounds": 15,
+      "lines": [
+        177,
+        180,
+        200,
+        207,
+        209,
+        245,
+        263,
+        265,
+        267,
+        270,
+        281,
+        292,
+        300,
+        319
+      ]
+    },
+    "Hypothese B": {
+      "n": 12,
+      "n_including_compounds": 12,
+      "lines": [
+        178,
+        187,
+        199,
+        206,
+        209,
+        245,
+        265,
+        268,
+        270,
+        292,
+        319
+      ]
+    },
+    "Logik/Architekt": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Emotion/Echo": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "Abwehr/Wächter": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        229
+      ]
+    },
+    "Potential/Sucher/Funke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        236
+      ]
+    },
+    "Die Festung Klassischer Konsistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        215
+      ]
+    },
+    "Das Reich Dialetheischer Koexistenz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        222
+      ]
+    },
+    "paradox-sichere": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        296
+      ]
+    },
+    "Systemfehler": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        171,
+        185
+      ]
+    },
+    "Kernkonzept": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        251
+      ]
+    },
+    "Atmosphäre": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        213,
+        218,
+        225,
+        232,
+        239,
+        251,
+        257
+      ]
+    },
+    "Logik": {
+      "n": 50,
+      "n_including_compounds": 60,
+      "lines": [
+        11,
+        17,
+        19,
+        21,
+        23,
+        25,
+        63,
+        71,
+        86,
+        90,
+        94,
+        100,
+        104,
+        106,
+        108,
+        126,
+        128,
+        136,
+        160,
+        169,
+        177,
+        182,
+        184,
+        185,
+        190,
+        191,
+        199,
+        211,
+        215,
+        217,
+        224,
+        231,
+        238,
+        245,
+        251,
+        252,
+        257,
+        259,
+        267,
+        268,
+        286,
+        290,
+        317,
+        321,
+        323
+      ]
+    },
+    "Manifestation": {
+      "n": 5,
+      "n_including_compounds": 6,
+      "lines": [
+        220,
+        227,
+        234,
+        241,
+        251,
+        301
+      ]
+    },
+    "Umgang mit Widerspruch": {
+      "n": 4,
+      "n_including_compounds": 4,
+      "lines": [
+        219,
+        226,
+        233,
+        240
+      ]
+    },
+    "Kohärenz Protokoll": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        11,
+        13,
+        15,
+        21,
+        82,
+        317,
+        323
+      ]
+    },
+    "Dialetheismus": {
+      "n": 31,
+      "n_including_compounds": 31,
+      "lines": [
+        19,
+        21,
+        23,
+        25,
+        27,
+        32,
+        34,
+        36,
+        38,
+        40,
+        47,
+        52,
+        61,
+        69,
+        70,
+        73,
+        75,
+        78,
+        80,
+        82,
+        84,
+        98,
+        104,
+        175,
+        217,
+        321,
+        323
+      ]
+    },
+    "Dialetheia": {
+      "n": 13,
+      "n_including_compounds": 13,
+      "lines": [
+        19,
+        34,
+        36,
+        46,
+        48,
+        55,
+        69,
+        209,
+        213,
+        313,
+        321,
+        333
+      ]
+    },
+    "Dialetheien": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        19,
+        36
+      ]
+    },
+    "Dialetheische Logik": {
+      "n": 1,
+      "n_including_compounds": 2,
+      "lines": [
+        11,
+        19
+      ]
+    },
+    "Trivialismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        59,
+        61,
+        71
+      ]
+    },
+    "parakonsistente Logik": {
+      "n": 4,
+      "n_including_compounds": 5,
+      "lines": [
+        63,
+        71,
+        100,
+        182,
+        267
+      ]
+    },
+    "Parakonsistente Logik": {
+      "n": 1,
+      "n_including_compounds": 3,
+      "lines": [
+        86,
+        94,
+        100
+      ]
+    },
+    "Parakonsistenz": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        92,
+        96,
+        134,
+        209
+      ]
+    },
+    "Logic of Paradox": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        19,
+        102,
+        104,
+        224,
+        317,
+        339,
+        386,
+        388
+      ]
+    },
+    "LP": {
+      "n": 39,
+      "n_including_compounds": 48,
+      "lines": [
+        19,
+        23,
+        25,
+        102,
+        104,
+        106,
+        107,
+        108,
+        119,
+        123,
+        124,
+        126,
+        128,
+        130,
+        134,
+        135,
+        136,
+        140,
+        141,
+        143,
+        147,
+        151,
+        152,
+        153,
+        154,
+        160,
+        169,
+        171,
+        177,
+        183,
+        224,
+        226,
+        253,
+        292,
+        300,
+        329,
+        357,
+        369,
+        386,
+        389
+      ]
+    },
+    "LNC": {
+      "n": 10,
+      "n_including_compounds": 10,
+      "lines": [
+        17,
+        19,
+        36,
+        84,
+        178,
+        189,
+        199,
+        217,
+        307
+      ]
+    },
+    "ECQ": {
+      "n": 9,
+      "n_including_compounds": 9,
+      "lines": [
+        17,
+        63,
+        88,
+        90,
+        134,
+        163,
+        169,
+        183,
+        190
+      ]
+    },
+    "LEM": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        135,
+        153,
+        154,
+        164,
+        165,
+        169
+      ]
+    },
+    "DS": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        141,
+        165,
+        171,
+        292
+      ]
+    },
+    "MP": {
+      "n": 8,
+      "n_including_compounds": 9,
+      "lines": [
+        140,
+        165,
+        167
+      ]
+    },
+    "FDE": {
+      "n": 8,
+      "n_including_compounds": 8,
+      "lines": [
+        126,
+        128,
+        147,
+        151,
+        152,
+        153,
+        154,
+        160
+      ]
+    },
+    "K3": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        108,
+        151,
+        152,
+        153,
+        160
+      ]
+    },
+    "CL": {
+      "n": 6,
+      "n_including_compounds": 7,
+      "lines": [
+        126,
+        130,
+        134,
+        135,
+        160,
+        165,
+        252
+      ]
+    },
+    "Disjunktiver Syllogismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        141
+      ]
+    },
+    "Disjunktiven Syllogismus": {
+      "n": 5,
+      "n_including_compounds": 5,
+      "lines": [
+        115,
+        169,
+        171,
+        185,
+        292
+      ]
+    },
+    "Modus Ponens": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        48,
+        115,
+        140
+      ]
+    },
+    "Prinzip der Explosion": {
+      "n": 7,
+      "n_including_compounds": 7,
+      "lines": [
+        17,
+        63,
+        88,
+        90,
+        94,
+        183,
+        190
+      ]
+    },
+    "Satz vom ausgeschlossenen Widerspruch": {
+      "n": 3,
+      "n_including_compounds": 3,
+      "lines": [
+        17,
+        36,
+        217
+      ]
+    },
+    "Logics of Formal Inconsistency": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "LFIs": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        184
+      ]
+    },
+    "Hegelsche Dialektik": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        200,
+        238
+      ]
+    },
+    "Ambivalenz": {
+      "n": 6,
+      "n_including_compounds": 6,
+      "lines": [
+        55,
+        200,
+        225,
+        226,
+        280,
+        319
+      ]
+    },
+    "Wahrheitswert-Glut": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Wahrheitswert-Lücke": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        36
+      ]
+    },
+    "Tetralemma": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Anekantavada": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        57
+      ]
+    },
+    "Lügner-Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        46
+      ]
+    },
+    "Currys Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        48
+      ]
+    },
+    "Russells Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Cantors Paradox": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        47
+      ]
+    },
+    "Vagheit": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        52,
+        82
+      ]
+    },
+    "kognitive Dissonanz": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        71
+      ]
+    },
+    "Russell'sche Fallacy": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        78
+      ]
+    },
+    "metaphysischen Dialetheismus": {
+      "n": 2,
+      "n_including_compounds": 2,
+      "lines": [
+        70,
+        78
+      ]
+    },
+    "semantischen Dialetheismus": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        70
+      ]
+    },
+    "modest dialetheism": {
+      "n": 1,
+      "n_including_compounds": 1,
+      "lines": [
+        82
+      ]
+    }
+  }
+}

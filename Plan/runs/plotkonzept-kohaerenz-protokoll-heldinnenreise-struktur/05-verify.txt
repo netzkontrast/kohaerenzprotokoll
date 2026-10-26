@@ -1,0 +1,18 @@
+$ read.py --count "Prämisse"
+`Prämisse` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#1]
+$ read.py --count "Fokus"
+`Fokus` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#5]
+$ read.py --count "Kapitel"
+`Kapitel` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#4]
+$ read.py --count "Kernwunde"
+`Kernwunde` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#0]
+$ read.py --count "Co₁"
+`Co₁` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#4]
+$ read.py --count "McL"
+`McL` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#3]
+$ read.py --count "Ly"
+`Ly` ^[plotkonzept-kohaerenz-protokoll-heldinnenreise-struktur.md:#1]
+$ entries per part (numbered lines): 
+13 in L29-L41; 12 in L47-L58; 14 in L64-L77
+$ grep -c 'z.B.' L33: 1
+$ grep of the five listed earlier names in the document: 0 lines

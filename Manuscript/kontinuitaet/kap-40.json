@@ -1,0 +1,45 @@
+{
+ "kapitel": 40,
+ "status": "proposal",
+ "provenance": "seeded 2026-10-26 by continuity.py seed from kanon.md, weave.json, anteile.json, clock-b.json, development.json, the treatment and the 2026-10-06 tables; approved rows survive a reseed",
+ "wissen": [
+  {
+   "wer": "Stand",
+   "fakt": "Der Leser kennt jetzt alle vier Schritte und erkennt Kap 0 neu; ob Reset oder Verwandlung, bleibt in beiden Lesarten offen.",
+   "seit": 40,
+   "quelle": "Plan/storyform/development.json knowledge (was gilt, nicht was Kael weiß)",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "Die Klammer schließt sich: Kap 0 und Kap 40 lesen sich als ein Kapitel aus zwei Lagen.",
+   "seit": 40,
+   "quelle": "Plan/storyform/development.json reader",
+   "status": "proposal"
+  },
+  {
+   "wer": "Kael",
+   "fakt": "[734 / Cluster] Der Absatz nennt weder 734 noch Kael als Cluster (T:L493).",
+   "seit": 40,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  },
+  {
+   "wer": "Leser",
+   "fakt": "[Genesis] L: alle vier Schritte (T:L493, dev:L1574)",
+   "seit": 40,
+   "quelle": "Plan/runs/storyform-2026-10-06/wissenstabelle.md",
+   "status": "proposal"
+  }
+ ],
+ "zeit": [
+  {
+   "was": "Lage",
+   "wert": "Außerhalb der Zeit der Akte; kürzer und ruhiger als Kap 0.",
+   "quelle": "Plan/storyform/development.json timing",
+   "status": "proposal"
+  }
+ ],
+ "zahlen": [],
+ "dinge": []
+}

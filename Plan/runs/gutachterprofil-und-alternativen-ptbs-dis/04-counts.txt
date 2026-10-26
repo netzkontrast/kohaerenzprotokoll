@@ -1,0 +1,15 @@
+# counts for 10 candidates
+# line numbers are FILE lines, as a citation writes them
+
+#   word = the term standing alone; in = anywhere, compounds included
+
+  KPTBS                            31 word    31 in   [17, 39, 45, 47, 53, 55]
+  DIS                              29 word    30 in   [17, 39, 45, 47, 53, 55]
+  PTBS                              7 word    39 in   [17, 39, 45, 47, 53, 55]  <-- substring
+  GdB                               4 word    20 in   [17, 37, 39, 67, 115, 148]  <-- substring
+  Negativbefund                     1 word     1 in   [53]
+  Psychotraumatologie               5 word     5 in   [47, 61, 119, 126, 214]
+  Struktureller Dissoziation        1 word     1 in   [124]
+  Störungen der Selbstorganisation    2 word     2 in   [71, 177]
+  Anknüpfungstatsachen              1 word     1 in   [69]
+  Traumafolgestörungen              6 word     6 in   [31, 61, 82, 125, 199, 225]
