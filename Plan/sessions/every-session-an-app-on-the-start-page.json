@@ -1,0 +1,200 @@
+{
+ "@type": "Session",
+ "id": "every-session-an-app-on-the-start-page",
+ "title": "Jede Sitzung eine App auf der Startseite",
+ "started": "2026-10-26",
+ "ended": null,
+ "branch": "claude/adoring-sagan-l2qtnq",
+ "pr": null,
+ "mandate": "Die Anweisung des Autors vom 2026-10-26: Bericht zuerst, eine App je Sitzung, Fragen mit Tiefe, Antworten als PR, der nächste Startprompt per Skript",
+ "report": {
+  "done": [
+   {
+    "text": "Das Konzept: Datensatz je Sitzung, Fragen mit Tiefe, Schreibpfad, Vercel, parallele Sitzungen",
+    "refs": [
+     "Plan/concept/session-apps_2026-10-26.md"
+    ]
+   },
+   {
+    "text": "Das Mockup der Startseite, veröffentlicht als privates Artefakt",
+    "refs": [
+     "Plan/concept/session-apps/mockup.html"
+    ]
+   },
+   {
+    "text": "agency gelesen: Überschneidungen mit der Werkstatt, die Klein-c-Regel an A/B gemessen",
+    "refs": [
+     "Plan/runs/agency-survey-2026-10-26.md"
+    ]
+   },
+   {
+    "text": "records.py: dieser Datensatz, die Antwortdateien, ihre Prüfung und die Blöcke des nächsten Startprompts",
+    "refs": [
+     "scripts/records.py"
+    ]
+   }
+  ],
+  "thought": [
+   {
+    "text": "Git bleibt der Speicher jeder Entscheidung; Vercel hält höchstens den Moment zwischen Tippen und Merge."
+   },
+   {
+    "text": "Eine Antwort ist deine — die App schreibt sie als neue Datei, nie als Änderung, und dein Merge ist die Entscheidung."
+   }
+  ],
+  "priorities": [
+   {
+    "rank": 1,
+    "text": "Deine Antworten auf die Fragen unten, vor allem den Schreibpfad"
+   },
+   {
+    "rank": 2,
+    "text": "Die Startseite mit Bericht, Sitzungsliste und Fragenkanal im Browser"
+   },
+   {
+    "rank": 3,
+    "text": "Nach deinem Ja: die Vercel-Funktion, die Antworten als PR veröffentlicht"
+   }
+  ],
+  "next": [
+   {
+    "text": "Die Fragen auf der Startseite beantworten und die Antwortdatei exportieren"
+   },
+   {
+    "text": "Den nächsten Startprompt ansehen",
+    "command": "python3 scripts/sessions.py --prompt the-writing-workshop"
+   }
+  ]
+ },
+ "app": {
+  "name": "Startseite",
+  "route": "#/now",
+  "what": "Bericht der Sitzung, alle Sitzungen mit ihren Apps, Fragen an dich mit Tiefe"
+ },
+ "questions": [
+  {
+   "@type": "Question",
+   "id": "Q-every-session-an-app-on-the-start-page-01",
+   "depth": 2,
+   "text": "Wie sollen deine Antworten aus der App zurück ins Repository kommen?",
+   "context": "Heute hat die Website keinen Schreibpfad (2026-10-05). Empfohlen ist eine Funktion bei Vercel mit einem nur auf dieses Repository begrenzten Token: je Speichern eine neue Datei auf einem eigenen Branch und ein Pull Request, den du mergst.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Eine Vercel-Funktion mit Token, je Speichern ein Pull Request",
+     "refs": [
+      "Plan/concept/session-apps_2026-10-26.md"
+     ]
+    },
+    {
+     "key": "B",
+     "text": "Anmeldung bei GitHub im Browser, die App schreibt selbst"
+    },
+    {
+     "key": "C",
+     "text": "Kein Schreibpfad: die App exportiert eine Datei, eine Sitzung legt sie ab"
+    }
+   ],
+   "recommended": "A",
+   "concerns": [
+    "decision:031"
+   ],
+   "lands_in": "Plan/concept/session-apps_2026-10-26.md",
+   "asked_on": "2026-10-26"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-every-session-an-app-on-the-start-page-02",
+   "depth": 1,
+   "text": "Soll jede Sitzung einen Datensatz in Plan/sessions/ führen, und soll die Prüfung eine Sitzung ohne Bericht ablehnen?",
+   "context": "Der Datensatz hält Getan, Gedacht, Prioritäten, Als Nächstes, die Fragen mit Tiefe und die App. NOW.md bleibt der Plan.",
+   "concerns": [
+    "decision:031"
+   ],
+   "lands_in": "Plan/concept/session-apps_2026-10-26.md",
+   "asked_on": "2026-10-26"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-every-session-an-app-on-the-start-page-03",
+   "depth": 1,
+   "text": "Soll der Startprompt aus NOW.md, den Datensätzen und deinen Antworten erzeugt werden, nie getippt?",
+   "context": "sessions.py fügt Bericht, Entschiedenes, Offenes und Apps als Blöcke ein; der Editor auf der Startseite schaltet sie an und aus.",
+   "concerns": [
+    "decision:031"
+   ],
+   "lands_in": "Plan/concept/session-apps_2026-10-26.md",
+   "asked_on": "2026-10-26"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-every-session-an-app-on-the-start-page-04",
+   "depth": 2,
+   "text": "Was darf Vercel speichern?",
+   "context": "Git bleibt der Speicher jeder Entscheidung. Vercel Blob könnte Entwürfe, die Anwesenheit laufender Sitzungen und noch nicht veröffentlichte Antworten halten.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Nichts, bis der PR-Weg eine Lücke zeigt"
+    },
+    {
+     "key": "B",
+     "text": "Vercel Blob für Entwürfe, Anwesenheit und ein Postfach"
+    }
+   ],
+   "recommended": "A",
+   "concerns": [
+    "decision:031"
+   ],
+   "lands_in": "Plan/concept/session-apps_2026-10-26.md",
+   "asked_on": "2026-10-26"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-every-session-an-app-on-the-start-page-05",
+   "depth": 2,
+   "text": "Welche Prüfung aus agency soll zuerst in die Werkstatt?",
+   "context": "agency hat Prüfungen, die hier fehlen. Alle drei wären Rückfragen an einen Entwurf, nie ein Tor vor deiner Prosa.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Enthüllungsgrenzen und Schleier: je Tatsache ein frühestes Kapitel",
+     "refs": [
+      "Plan/runs/agency-survey-2026-10-26.md"
+     ]
+    },
+    {
+     "key": "B",
+     "text": "Stimmprofile je Anteil mit einem Übereinstimmungswert"
+    },
+    {
+     "key": "C",
+     "text": "Vorausdeutungen: gepflanzt und noch nicht eingelöst"
+    },
+    {
+     "key": "D",
+     "text": "Keine davon"
+    }
+   ],
+   "recommended": "A",
+   "concerns": [
+    "chapter:kap-01"
+   ],
+   "lands_in": "Plan/runs/agency-survey-2026-10-26.md",
+   "asked_on": "2026-10-26"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-every-session-an-app-on-the-start-page-06",
+   "depth": 3,
+   "text": "Was soll mit der Klein-c-Regel und dem Beispielordner in agency geschehen?",
+   "context": "agency verlangt zwischen A und B alle acht Dynamiken umgekehrt; dein Growth Stop in A (Entscheidung 025, Schritt 16) fällt dort durch. Die Quelle verlangt nur die Domains. Der Beispielordner examples/kohaerenz-protokoll/ in agency ist öffentlich und hält die Korpusdokumente vom 2026-06-10, mit einem hier gesperrten früheren Namen. Ändern kann man das nur in agency.",
+   "concerns": [],
+   "lands_in": "Plan/runs/agency-survey-2026-10-26.md",
+   "asked_on": "2026-10-26"
+  }
+ ],
+ "follows": [
+  "the-writing-workshop"
+ ]
+}

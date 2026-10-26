@@ -122,9 +122,16 @@ def files(md: str, root: Path = ROOT) -> list[str]:
     return found
 
 
-def derive(text: str | None = None, root: Path = ROOT) -> dict:
-    """The plan: sessions in NOW.md's order, the notes that bind them, the standing instructions."""
+def derive(text: str | None = None, root: Path = ROOT, with_records: bool | None = None) -> dict:
+    """The plan: sessions in NOW.md's order, the notes that bind them, the standing instructions — and, when the
+    sessions have records (`scripts/records.py`, Plan/sessions/), the last report, the answers given, the questions
+    still open and the apps, as blocks of every prompt. A fixture text reads no records unless asked."""
+    with_records = text is None if with_records is None else with_records
     text = text if text is not None else (root / "NOW.md").read_text(encoding="utf-8")
+    extra: list[list[str]] = []
+    if with_records:
+        import records
+        extra = records.blocks(records.load(root / "Plan" / "sessions"))
     sessions, notes, seen = [], [], set()
     for item in bullets(section(text, SECTION)):
         m = re.match(r"\*\*(.+?)\*\*", item)
@@ -154,9 +161,9 @@ def derive(text: str | None = None, root: Path = ROOT) -> dict:
         m = re.match(r"(\d{4}-\d{2}-\d{2})\s+\*\*(.+?)\*\*", item)
         standing.append({"date": m.group(1), "said": plain(m.group(2))} if m else {"date": "", "said": plain(sentence(item))})
     for s in sessions:
-        s["prompt"] = prompt(s, notes, standing)
-        s["blocks"] = blocks(s, notes, standing)
-    free = dict(FREE, blocks=blocks(FREE, notes, standing))
+        s["prompt"] = prompt(s, notes, standing, extra=extra)
+        s["blocks"] = blocks(s, notes, standing, extra=extra)
+    free = dict(FREE, blocks=blocks(FREE, notes, standing, extra=extra))
     return {"source": "NOW.md § Half-done — where the next session starts", "board": {"claim": CLAIM, "hours": ACTIVE_HOURS, "api": API, "page": PAGE, "repo": REPO}, "sessions": sessions,
             "notes": notes, "standing": standing, "free": free}
 
@@ -168,10 +175,11 @@ def quoted(said: str) -> str:
 FREE = {"id": "free", "title": "", "md": "", "next": "", "status": "ready", "because": "", "files": []}
 LABELS = {"head": "Header", "read": "Read first", "ask": "Your instruction", "task": "Task from NOW.md",
           "next": "Next step", "gate": "Gate", "files": "Files", "standing": "Standing instructions",
-          "notes": "Binding notes", "rules": "Claim and app-refresh"}
+          "notes": "Binding notes", "rules": "Claim and app-refresh",
+          "report": "Last session's report", "decided": "Decided in the app", "open": "Open questions", "apps": "Session apps"}
 
 
-def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> list[list[str]]:
+def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "", extra: list[list[str]] | None = None) -> list[list[str]]:
     """One session's prompt as `[key, label, text]` blocks, in order. The app's editor switches them on and off
     and puts the author's own instruction (`ask`) in its place; `prompt` joins them all."""
     title = s["title"] or "a task the author names below"
@@ -186,6 +194,7 @@ def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> l
         out.append(["gate", f"This item {s['because']} — put the question to the author and do not start what it gates."])
     if s["files"]:
         out.append(["files", "Open first: " + ", ".join(s["files"])])
+    out += [list(b) for b in extra or []]  # records.blocks(): report, decided, open, apps
     if standing:
         out.append(["standing", "\n".join(["The author's standing instructions, newest first (NOW.md):"] +
                                            [f"- {x['date']} {quoted(x['said'])}" if x["date"] else f"- {x['said']}"
@@ -201,9 +210,9 @@ def blocks(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> l
     return [[k, LABELS[k], t] for k, t in out]
 
 
-def prompt(s: dict, notes: list[dict], standing: list[dict], ask: str = "") -> str:
-    """One session's prompt: self-contained, NOW.md's words and the author's, nothing from the corpus."""
-    return "\n\n".join(b[2] for b in blocks(s, notes, standing, ask))
+def prompt(s: dict, notes: list[dict], standing: list[dict], ask: str = "", extra: list[list[str]] | None = None) -> str:
+    """One session's prompt: self-contained, NOW.md's words, the records' and the author's, nothing from the corpus."""
+    return "\n\n".join(b[2] for b in blocks(s, notes, standing, ask, extra))
 
 
 # ---------------------------------------------------------------- the board
@@ -409,6 +418,9 @@ def selftest() -> list[str]:
         fail.append("an active branch with no pull request beside a free ready session: no caution")
     if "claimed by #7 (claude/ingest, pushed 10 min ago)" not in board_text(bd, now):
         fail.append(f"board text: got {board_text(bd, now)!r}")
+    withx = blocks(ent, plan["notes"], plan["standing"], extra=[["report", "R"], ["open", "O"]])
+    if [b[0] for b in withx] != ["head", "read", "task", "next", "gate", "report", "open", "standing", "notes", "rules"] or withx[5][1] != LABELS["report"]:
+        fail.append(f"the records' blocks sit after the task and before the standing instructions, labelled: got {[b[0] for b in withx]}")
     if derive("# Now\n")["sessions"]:
         fail.append("a NOW.md without the section yields sessions")
     return fail

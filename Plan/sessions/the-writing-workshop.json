@@ -1,0 +1,92 @@
+{
+ "@type": "Session",
+ "id": "the-writing-workshop",
+ "title": "Die Schreibwerkstatt — sechs Werkzeuge vor der ersten Szene",
+ "started": "2026-10-26",
+ "ended": "2026-10-26",
+ "branch": "claude/adoring-sagan-l2qtnq",
+ "pr": 195,
+ "mandate": "Die zehn Antworten des Autors vom 2026-10-26 (Entscheidung 030)",
+ "report": {
+  "done": [
+   {
+    "text": "prose_rules.py: das Register der Prosaregeln mit Status — 25 Regeln, 5 bestätigt, Prüfung je Entwurf",
+    "refs": [
+     "scripts/prose_rules.py",
+     "Manuscript/regeln.jsonl"
+    ]
+   },
+   {
+    "text": "weiche.py: eine Weiche nur mit deinen Worten beantworten, mit der Zeile in kanon.md",
+    "refs": [
+     "scripts/weiche.py"
+    ]
+   },
+   {
+    "text": "continuity.py: vier Kontinuitätstabellen je Kapitel, 357 Zeilen vorbelegt",
+    "refs": [
+     "scripts/continuity.py",
+     "Manuscript/kontinuitaet/kap-01.json"
+    ]
+   },
+   {
+    "text": "brief.py: das Briefing von Kap 1, aktuell, mit 11 offenen Weichen",
+    "refs": [
+     "scripts/brief.py",
+     "Manuscript/kap-01/briefing.md"
+    ]
+   },
+   {
+    "text": "manuscript.py: Szenen, Prüfung, Freigabe nur durch deine Worte, das Buch als eine Datei",
+    "refs": [
+     "scripts/manuscript.py"
+    ]
+   },
+   {
+    "text": "Der Schreibtisch in der App: Kap 0–40, Briefing, Szenen mit Markierungen je Absatz, Antwortaufträge",
+    "refs": [
+     "scripts/ui.js"
+    ]
+   }
+  ],
+  "thought": [
+   {
+    "text": "Nichts wird freigegeben ohne deine Worte; ein Werkzeug schlägt vor, du entscheidest."
+   },
+   {
+    "text": "Die Werkzeuge stehen vor der ersten Szene, damit die erste Szene schon auf geprüftem Grund steht."
+   }
+  ],
+  "priorities": [
+   {
+    "rank": 1,
+    "text": "Die 11 offenen Weichen von Kap 1 beantworten"
+   },
+   {
+    "rank": 2,
+    "text": "Die 18 offenen Prosaregeln bestätigen oder verwerfen"
+   },
+   {
+    "rank": 3,
+    "text": "Dann die Beats von Kap 1, Szene 1"
+   }
+  ],
+  "next": [
+   {
+    "text": "Eine Weiche beantworten",
+    "command": "python3 scripts/weiche.py answer <id> --option X --words \"…\""
+   },
+   {
+    "text": "Die Beats von Kap 1, Szene 1 vorlegen und freigeben lassen",
+    "command": "python3 scripts/manuscript.py beats kap-01 1 --words \"…\" --beats \"…\""
+   }
+  ]
+ },
+ "app": {
+  "name": "Schreibtisch",
+  "route": "#/manuscript/schreibtisch",
+  "what": "Briefing, Szenen mit Markierungen je Absatz, offene Weichen und Regeln mit Aufträgen zum Kopieren"
+ },
+ "questions": [],
+ "follows": []
+}

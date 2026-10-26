@@ -83,6 +83,9 @@ jobs:
       - name: manuscript well formed (manuscript.py verify)
         if: always()
         run: python3 scripts/manuscript.py verify
+      - name: session records (records.py check)
+        if: always()
+        run: python3 scripts/records.py check
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open
