@@ -83,3 +83,7 @@ jobs:
       - name: standard-library self-tests (selftests.py --only std)
         if: always()
         run: python3 scripts/selftests.py --only std
+
+      - name: character protocol offline acceptance tests
+        if: always()
+        run: python3 -m unittest discover -s protocol -p 'test_*.py' -v
