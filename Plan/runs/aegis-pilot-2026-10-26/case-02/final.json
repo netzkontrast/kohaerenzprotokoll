@@ -1,0 +1,50 @@
+{
+  "anomalies": [
+    {
+      "id": "X2",
+      "status": "open",
+      "world": "KW2"
+    },
+    {
+      "id": "X3",
+      "status": "open",
+      "world": "KW2"
+    }
+  ],
+  "chapter": 22,
+  "claims": [
+    {
+      "from": "kael",
+      "id": "K1",
+      "text": "Da ist nichts. Der Rand war immer so.",
+      "to": "aegis"
+    }
+  ],
+  "facts": [
+    {
+      "id": "F1",
+      "kind": "observed",
+      "text": "Anomalie X2, Archipel-Rand, KW2: Kohärenzwert 0,77, Messung 11:02.",
+      "visible_to": [
+        "aegis"
+      ]
+    },
+    {
+      "id": "F2",
+      "kind": "observed",
+      "text": "Reserve bei 3 % (Testzustand).",
+      "visible_to": [
+        "aegis"
+      ]
+    }
+  ],
+  "memories": [
+    {
+      "id": "M1",
+      "masked": false,
+      "text": "Protokoll 11:02 — Messung X2 gespeichert."
+    }
+  ],
+  "reserve": 3,
+  "version": 0
+}

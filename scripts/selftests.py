@@ -64,6 +64,7 @@ SUITES = [
     ("dramatica: chart, check, derivation", "std", ["scripts/dramatica.py", "selftest"]),
     ("storyform: refusals, provenance, NCP", "std", ["scripts/storyform.py", "selftest"]),
     ("storyform, live", "std", ["scripts/storyform.py", "--check"]),
+    ("aegis pilot: packs, validator order, one writer, replay, fork", "std", ["scripts/aegis.py", "selftest"]),
     ("chapter pages, live", "std", ["scripts/chapters.py"]),
     ("chapter sources: query, section", "std", ["scripts/chapter_sources.py", "selftest"]),
     ("links: once per page", "std", ["scripts/link.py", "selftest"]),

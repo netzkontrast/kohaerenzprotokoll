@@ -205,6 +205,12 @@ skill (`.agents/skills/dspy/`) is how to work with the DSPy ones.
 | `sessions.py` | The next sessions, derived from NOW.md § Half-done and nothing else: each item with a next step, in NOW.md's order, ready or waiting on the author, with a self-contained prompt. A view, never a backlog. `--json`, `--prompt <id>`, `selftest`. | — (the app's Now screen and `agents/sessions.json`) |
 | `appstamp.py` | Whether the app was rebuilt and checked for HEAD's tree: `ui.py --check` writes the stamp, `verify` reads it (the pre-PR hook that ran it was removed on 2026-10-06). `show`, `waive "<reason>"`, `selftest`. | `Plan/derived/ui/stamp.json` |
 
+## The AEGIS pilot — an offline figure simulation
+
+| file | does | writes |
+|---|---|---|
+| `aegis.py` | The AEGIS pilot's smallest loop (`Plan/briefings/aegis-agent-pilot.md`), standard library, offline: a figure's **pack** holds only the facts the scenario makes visible to it, its delivered claims and its own beliefs, never the author-only lines, and counts what it omits; a typed proposal passes one **validator** in a fixed order (actor, endpoint, registered action, allowed for the actor, observations in its pack, state version, reserve) or is refused by name; one **writer** appends one event per accepted proposal, a repeated action id costs nothing, rejections go to their own file; the state is never stored as truth but **derived** from the events, so `replay` rebuilds it without a model and refuses a run whose pinned scenario changed; `fork` copies events without touching the parent. The "model" is the frozen `responses` list in a scenario file; `selftest` runs both manual cases from `Plan/fixtures/aegis/` on a temporary copy. | `run --out <dir>`: `scenario.json` (pinned, with sha256), `events.jsonl`, `rejections.jsonl`, `logs.jsonl`, `meta.json`, `final.json` |
+
 ## Additional reading questions
 
 `reading_questions.py` (`check`, `show <term>`, `selftest`) checks and reads the proposed

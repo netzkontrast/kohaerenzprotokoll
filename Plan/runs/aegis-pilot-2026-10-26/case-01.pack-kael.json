@@ -1,0 +1,44 @@
+{
+  "figure": "kael",
+  "role": "Influence Character, Antagonist, Emotion (W10-B)",
+  "profile": "host",
+  "active": true,
+  "allowed_actions": [
+    "report",
+    "wait"
+  ],
+  "facts": [
+    {
+      "id": "F3",
+      "kind": "observed",
+      "visible_to": [
+        "kael"
+      ],
+      "text": "Kael steht um 06:10 an der Konsole; die Zuweisung für Sektor 04 ist nicht auf null."
+    }
+  ],
+  "claims": [],
+  "beliefs": [
+    {
+      "id": "B2",
+      "holder": "kael",
+      "source": "F3",
+      "status": "unverified",
+      "text": "Wenn die Zuweisung auf null geht, ist der Tag richtig."
+    }
+  ],
+  "state": {
+    "version": 0,
+    "chapter": 6
+  },
+  "omitted": {
+    "facts": 2,
+    "claims": 0,
+    "author_only": 2,
+    "state_keys": [
+      "reserve",
+      "memories",
+      "anomalies"
+    ]
+  }
+}

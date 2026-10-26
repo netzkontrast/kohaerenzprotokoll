@@ -1,0 +1,34 @@
+{
+  "run": "Plan/runs/aegis-pilot-2026-10-26/case-01",
+  "state": {
+    "version": 2,
+    "reserve": 57,
+    "chapter": 6,
+    "masked": [
+      "M1"
+    ],
+    "anomalies_closed": [
+      "X1"
+    ],
+    "claims": [
+      {
+        "from": "kael",
+        "to": "aegis"
+      }
+    ]
+  },
+  "figures": {
+    "aegis": {
+      "active": true,
+      "reason": "addressed by scene",
+      "pending_claims": 1
+    },
+    "kael": {
+      "active": true,
+      "reason": "addressed by scene",
+      "pending_claims": 0
+    }
+  },
+  "events": 2,
+  "rejections": 0
+}

@@ -1,0 +1,40 @@
+{
+  "run": "Plan/runs/aegis-pilot-2026-10-26/case-01",
+  "scenario": "case-01-sweep",
+  "outcomes": [
+    {
+      "action_id": "c1-a1",
+      "outcome": "accepted",
+      "version": 1
+    },
+    {
+      "action_id": "c1-a2",
+      "outcome": "accepted",
+      "version": 2
+    },
+    {
+      "action_id": "c1-a1",
+      "outcome": "duplicate",
+      "reason": "action id already committed; nothing charged"
+    }
+  ],
+  "final": {
+    "version": 2,
+    "reserve": 57,
+    "chapter": 6,
+    "masked": [
+      "M1"
+    ],
+    "anomalies_closed": [
+      "X1"
+    ],
+    "claims": [
+      {
+        "from": "kael",
+        "to": "aegis"
+      }
+    ]
+  },
+  "mismatches": [],
+  "status": "held"
+}

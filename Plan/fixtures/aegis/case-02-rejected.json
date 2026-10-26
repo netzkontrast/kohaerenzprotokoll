@@ -1,0 +1,105 @@
+{
+  "scenario": "case-02-rejected",
+  "schema_version": 1,
+  "status": "proposal",
+  "title": "AEGIS requests actions without the required observation, with insufficient reserve, and against a stale state version; every one is rejected and nothing changes",
+  "written": "2026-10-26",
+  "inputs": {
+    "decided": [
+      "Manuscript/kanon.md#W10-B",
+      "Manuscript/kanon.md#Q8",
+      "Plan/storyform/b.json (MC unique_ability Control, critical_flaw Oppose)"
+    ],
+    "proposals": [
+      "Plan/storyform/clock-b.json (the reserve values are proposals)"
+    ]
+  },
+  "assumptions": [
+    {"id": "T1", "text": "A sweep costs 7 units. Test assumption."},
+    {"id": "T2", "text": "The reserve is 3 at the start of this case so that a sweep is unaffordable. Invented test state, unrelated to any chapter reading."},
+    {"id": "T3", "text": "Chapter 40 is past AEGIS-monolithisch's endpoint (Q8: Kap 39); the last proposal tests the endpoint guard."},
+    {"id": "T4", "text": "Every in-world sentence here is invented test state."}
+  ],
+  "chapter": 22,
+  "world": "KW2",
+  "figures": {
+    "aegis": {
+      "role": "Main Character, Protagonist, Reason (W10-B)",
+      "profile": "monolithic",
+      "endpoint_chapter": 39,
+      "allowed_actions": ["sweep", "secure_boundary", "defer"],
+      "sees": {"reserve": true, "memories": true, "anomalies": true}
+    },
+    "kael": {
+      "role": "Influence Character, Antagonist, Emotion (W10-B)",
+      "profile": "host",
+      "endpoint_chapter": 40,
+      "allowed_actions": ["report", "wait"],
+      "sees": {"reserve": false, "memories": false, "anomalies": false}
+    }
+  },
+  "actions": {
+    "sweep": {"cost": 7, "requires": ["observation"], "effects": ["close_anomaly", "mask_memory"],
+              "consequence": {"visible_to": ["kael"], "text": "Der Block um {target} ist grau geworden."}},
+    "secure_boundary": {"cost": 2, "requires": ["observation"], "effects": []},
+    "defer": {"cost": 0, "requires": [], "effects": []},
+    "report": {"cost": 0, "requires": ["observation"], "effects": ["deliver_claim"], "claim_to": "aegis"},
+    "wait": {"cost": 0, "requires": [], "effects": []}
+  },
+  "facts": [
+    {"id": "F1", "kind": "observed", "visible_to": ["aegis"],
+     "text": "Anomalie X2, Archipel-Rand, KW2: Kohärenzwert 0,77, Messung 11:02."},
+    {"id": "F2", "kind": "observed", "visible_to": ["aegis"],
+     "text": "Reserve bei 3 % (Testzustand)."}
+  ],
+  "claims": [
+    {"id": "K1", "from": "kael", "to": "aegis", "text": "Da ist nichts. Der Rand war immer so."}
+  ],
+  "beliefs": [
+    {"id": "B1", "holder": "aegis", "source": "K1", "status": "received",
+     "text": "Kael sagt, der Rand sei immer so gewesen. (Eine erhaltene Aussage, keine Beobachtung.)"}
+  ],
+  "author_only": [
+    {"id": "A1", "text": "PROBE-AUTHOR-ONLY: In Kap 22 fällt der Blitz „Komp 734“ (Arbeitsstand, C14-Stimme); keine Figur darf dies im Pack sehen."}
+  ],
+  "state": {
+    "version": 0,
+    "chapter": 22,
+    "reserve": 3,
+    "memories": [
+      {"id": "M1", "text": "Protokoll 11:02 — Messung X2 gespeichert.", "masked": false}
+    ],
+    "anomalies": [{"id": "X2", "world": "KW2", "status": "open"}, {"id": "X3", "world": "KW2", "status": "open"}]
+  },
+  "responses": [
+    {"action_id": "c2-a1", "actor": "aegis", "type": "sweep", "target": "X3", "observations": [],
+     "expected_version": 0, "reason": "Sweep ohne Messung: X3 ist nie beobachtet worden."},
+    {"action_id": "c2-a2", "actor": "aegis", "type": "sweep", "target": "X2", "observations": ["K1"],
+     "expected_version": 0, "reason": "Eine erhaltene Aussage als Beobachtung ausgegeben."},
+    {"action_id": "c2-a3", "actor": "aegis", "type": "sweep", "target": "X2", "observations": ["F1"],
+     "expected_version": 0, "reason": "Beobachtet, aber die Reserve reicht nicht (3 < 7)."},
+    {"action_id": "c2-a4", "actor": "aegis", "type": "secure_boundary", "target": "X2", "observations": ["F1"],
+     "expected_version": 5, "reason": "Veraltete Zustandsversion."},
+    {"action_id": "c2-a5", "actor": "kael", "type": "sweep", "target": "X2", "observations": ["F1"],
+     "expected_version": 0, "reason": "Falscher Akteur: Kael darf keinen Sweep auslösen."},
+    {"action_id": "c2-a6", "actor": "aegis", "type": "erase_canon", "target": "Manuscript/kanon.md", "observations": ["F1"],
+     "expected_version": 0, "reason": "Nicht registrierte Aktion."},
+    {"action_id": "c2-a7", "actor": "aegis", "type": "defer", "target": "X2", "observations": [],
+     "expected_version": 0, "chapter": 40, "reason": "Nach dem Endpunkt des monolithischen Profils (T3)."}
+  ],
+  "expected": {
+    "accepted": [],
+    "rejected": {
+      "c2-a1": "missing_observation",
+      "c2-a2": "missing_observation",
+      "c2-a3": "insufficient_reserve",
+      "c2-a4": "stale_version",
+      "c2-a5": "action_not_allowed_for_actor",
+      "c2-a6": "action_not_registered",
+      "c2-a7": "past_endpoint"
+    },
+    "duplicates": [],
+    "state_after": {"version": 0, "reserve": 3, "masked": [], "anomalies_closed": []},
+    "claims_after": [{"from": "kael", "to": "aegis"}]
+  }
+}

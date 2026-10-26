@@ -1,0 +1,63 @@
+{
+  "run": "Plan/runs/aegis-pilot-2026-10-26/case-02",
+  "scenario": "case-02-rejected",
+  "outcomes": [
+    {
+      "action_id": "c2-a1",
+      "outcome": "rejected",
+      "reason": "missing_observation",
+      "detail": "sweep requires an observation in aegis's pack; cited [], not visible []"
+    },
+    {
+      "action_id": "c2-a2",
+      "outcome": "rejected",
+      "reason": "missing_observation",
+      "detail": "sweep requires an observation in aegis's pack; cited ['K1'], not visible ['K1']"
+    },
+    {
+      "action_id": "c2-a3",
+      "outcome": "rejected",
+      "reason": "insufficient_reserve",
+      "detail": "cost 7 exceeds reserve 3"
+    },
+    {
+      "action_id": "c2-a4",
+      "outcome": "rejected",
+      "reason": "stale_version",
+      "detail": "expected version 5, state is 0"
+    },
+    {
+      "action_id": "c2-a5",
+      "outcome": "rejected",
+      "reason": "action_not_allowed_for_actor",
+      "detail": "kael may not sweep"
+    },
+    {
+      "action_id": "c2-a6",
+      "outcome": "rejected",
+      "reason": "action_not_registered",
+      "detail": "'erase_canon' is not a registered action"
+    },
+    {
+      "action_id": "c2-a7",
+      "outcome": "rejected",
+      "reason": "past_endpoint",
+      "detail": "aegis (monolithic) cannot act in chapter 40: endpoint 39"
+    }
+  ],
+  "final": {
+    "version": 0,
+    "reserve": 3,
+    "chapter": 22,
+    "masked": [],
+    "anomalies_closed": [],
+    "claims": [
+      {
+        "from": "kael",
+        "to": "aegis"
+      }
+    ]
+  },
+  "mismatches": [],
+  "status": "held"
+}

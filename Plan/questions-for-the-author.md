@@ -741,6 +741,17 @@ written:
   and date. Whether they are added, and how they map, is a schema decision (P4:
   no field without instances).
 
+### Raised by the rebuild concept and the AEGIS pilot's first offline run (2026-10-26)
+
+From `Plan/concept/rebuild-with-agency_2026-10-26.md` §10; each is noted, none waited on.
+
+- **Coupling with `agency`** — standalone (its doctrine as standard-library patterns, which is what `scripts/aegis.py` now does), federated (agency as an optional plugin for development sessions, `.agency/` gitignored), or tracked (a `kohaerenz` capability relaying the existing scripts)? A decision file would fix the rung.
+- **File authority for a graph** — may `CLAUDE.md` say that an agency graph, if one is ever present, is a derived index of `kanon.md`, `Plan/decisions/`, `Sources/`, `Wiki/` and never a writer of them?
+- **The pilot's test assumptions** (`Plan/fixtures/aegis/README.md`, ids T1–T6): a sweep costs 7 and the reserve at Kap 6 is 64 (from `clock-b.json`, which calls itself a proposal) — should any value be read from the clock as a rule, or stay invented until a live run exists? Is Kael the counterfigure you want beside AEGIS?
+- **A confidence scale for beliefs** — none, three steps, or a number? Needed before belief-update fields or a calibration count exist (prompts A4).
+- **Which chapters plant 734, the Genesis steps and the Vortex** (Q7, W12, Q8) — needed before a setup/payoff ledger (prompt B7) holds anything but empty rows.
+- Not blocking: whether `Plan/concept/` documents should carry a state (draft/open/done, as agency's specs do) or stay dated-and-corrected; whether a `## Frustration Log` line in PR bodies is wanted.
+
 ### Improvement ideas, none of which needs a model (from the old Handover)
 
 In order, and none of it needs a model:

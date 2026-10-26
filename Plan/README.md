@@ -30,6 +30,7 @@ folders in `Plan/` are missing from it or listed here without existing, and
 | `Plan/hyperextract/` | HyperExtract contracts and model-selection configuration; the port in `scripts/hx.py` executes them, staged results remain proposals and decision 019 keeps the backfill stopped | a session; `scripts/templates.py` checks them |
 | `Plan/quality/` | the OpenRouter model benchmark of 2026-09-16; the script it names is no longer in `scripts/` | a session, then |
 | `Plan/trainsets/` | `surface-pairs.jsonl`, the export `scripts/trainset.py --export` writes; nothing reads it, and it lags the ledger | `scripts/trainset.py` |
+| `Plan/fixtures/` | offline fixtures a script consumes and its self-test replays: `aegis/` holds the AEGIS pilot's two manual cases (`Plan/briefings/aegis-agent-pilot.md`), every in-world sentence invented test state, every assumption with an id; nothing in them is canon | a session, by hand; `scripts/aegis.py` reads them |
 | `Plan/eval/` | frozen evaluation sets, one versioned file each with the commit it was taken at and a sha256 over its cases; never rewritten, a changed set is the next version (`scripts/benchset.py`) | `scripts/benchset.py freeze` |
 | `Plan/derived/` | git-ignored; disposable outputs rebuilt by their owning tools; `python3 scripts/derive.py` rebuilds document-rule views, while graph, serving and app outputs have separate builders | `scripts/derive.py` |
 

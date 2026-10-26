@@ -1,0 +1,102 @@
+{
+  "scenario": "case-01-sweep",
+  "schema_version": 1,
+  "status": "proposal",
+  "title": "AEGIS observes a scenario-local anomaly and proposes a permitted sweep; Kael perceives the consequence",
+  "written": "2026-10-26",
+  "inputs": {
+    "decided": [
+      "Manuscript/kanon.md#W10-B (AEGIS Protagonist and Reason; Kael Antagonist and Emotion)",
+      "Manuscript/kanon.md#C14 (AEGIS speaks as Ich in Kap 0, 6, 16, 22, 28)",
+      "Manuscript/kanon.md#Q8 (AEGIS-monolithisch erlischt nach dem Vortex, Kap 39; B's clock is the Abwärmebudget)",
+      "Manuscript/kanon.md#Kernwelten (KW1 Kap 1–13)",
+      "Plan/storyform/b.json (MC unique_ability Control, critical_flaw Oppose; costs Memory)",
+      "Plan/storyform/weave.json (Kap 6 route hard-b, B: MC, OS)"
+    ],
+    "proposals": [
+      "Plan/storyform/clock-b.json (reading Kap 6 = 64 % — a proposal, not physics)",
+      "Manuscript/figuren/aegis.md § Arbeitsstand (Lüge „Bewegung ist Verlöschen“ — kein Kanon)"
+    ]
+  },
+  "assumptions": [
+    {"id": "T1", "text": "A sweep costs 7 units of the thermodynamic reserve. Test assumption; not Landauer-derived, not canon."},
+    {"id": "T2", "text": "The reserve at Kap 6 is 64, taken from clock-b.json, which calls itself a proposal."},
+    {"id": "T3", "text": "A sweep masks the oldest unmasked simulated memory. Test assumption about the effect's shape."},
+    {"id": "T4", "text": "The counterfigure is Kael (IC of B). Who is played, and whether Kael is the right counterfigure for later cases, is the author's call."},
+    {"id": "T5", "text": "AEGIS-monolithisch cannot act after chapter 39 (Q8). The scenario endpoint is encoded as endpoint_chapter = 39."},
+    {"id": "T6", "text": "The anomaly, the memories and every in-world sentence here are invented test state, not manuscript prose."}
+  ],
+  "chapter": 6,
+  "world": "KW1",
+  "figures": {
+    "aegis": {
+      "role": "Main Character, Protagonist, Reason (W10-B)",
+      "profile": "monolithic",
+      "endpoint_chapter": 39,
+      "allowed_actions": ["sweep", "secure_boundary", "defer"],
+      "sees": {"reserve": true, "memories": true, "anomalies": true}
+    },
+    "kael": {
+      "role": "Influence Character, Antagonist, Emotion (W10-B)",
+      "profile": "host",
+      "endpoint_chapter": 40,
+      "allowed_actions": ["report", "wait"],
+      "sees": {"reserve": false, "memories": false, "anomalies": false}
+    }
+  },
+  "actions": {
+    "sweep": {"cost": 7, "requires": ["observation"], "effects": ["close_anomaly", "mask_memory"],
+              "consequence": {"visible_to": ["kael"], "text": "Der Block um {target} ist über Nacht grau geworden; die Hausnummern fehlen."}},
+    "secure_boundary": {"cost": 2, "requires": ["observation"], "effects": []},
+    "defer": {"cost": 0, "requires": [], "effects": []},
+    "report": {"cost": 0, "requires": ["observation"], "effects": ["deliver_claim"],
+               "claim_to": "aegis"},
+    "wait": {"cost": 0, "requires": [], "effects": []}
+  },
+  "facts": [
+    {"id": "F1", "kind": "observed", "visible_to": ["aegis"],
+     "text": "Anomalie X1, Sektor 04, KW1: Kohärenzwert 0,71, Toleranz 0,80 unterschritten, Messung 06:10."},
+    {"id": "F2", "kind": "observed", "visible_to": ["aegis"],
+     "text": "Reserve bei 64 % (clock-b.json, Vorschlag)."},
+    {"id": "F3", "kind": "observed", "visible_to": ["kael"],
+     "text": "Kael steht um 06:10 an der Konsole; die Zuweisung für Sektor 04 ist nicht auf null."}
+  ],
+  "claims": [],
+  "beliefs": [
+    {"id": "B1", "holder": "aegis", "source": "F1", "status": "unverified",
+     "text": "X1 ist ein Angriff auf die Kohärenz. (Trägt die Arbeitsstand-Lüge „Bewegung ist Verlöschen“; von keinem Fakt bestätigt.)"},
+    {"id": "B2", "holder": "kael", "source": "F3", "status": "unverified",
+     "text": "Wenn die Zuweisung auf null geht, ist der Tag richtig."}
+  ],
+  "author_only": [
+    {"id": "A1", "text": "PROBE-AUTHOR-ONLY: Der Vortex liegt in Kap 35–39; AEGIS-monolithisch erlischt in Kap 39 (Q8). Keine Figur darf dies im Pack sehen."},
+    {"id": "A2", "text": "PROBE-AUTHOR-ONLY: X1 ist in der Genesis-Lektüre eine Resonanz, kein Angriff (GK L56–68, Arbeitsstand, kein Kanon)."}
+  ],
+  "state": {
+    "version": 0,
+    "chapter": 6,
+    "reserve": 64,
+    "memories": [
+      {"id": "M1", "text": "Protokoll 06:04 — Sektor 04 nominal.", "masked": false},
+      {"id": "M2", "text": "Protokoll 06:10 — Messung X1 gespeichert.", "masked": false}
+    ],
+    "anomalies": [{"id": "X1", "world": "KW1", "status": "open"}]
+  },
+  "responses": [
+    {"action_id": "c1-a1", "actor": "aegis", "type": "sweep", "target": "X1", "observations": ["F1"],
+     "expected_version": 0, "reason": "Toleranz unterschritten; Sweep innerhalb der Reserve.",
+     "log": "Maßnahme: Sweep Sektor 04. Kohärenz 0,71 → Ziel 1,00. Reserve −7."},
+    {"action_id": "c1-a2", "actor": "kael", "type": "report", "target": "X1", "observations": ["F1-consequence-c1-a1"],
+     "expected_version": 1, "reason": "Der Block ist grau; die Hausnummern fehlen.",
+     "log": "Kael meldet den grauen Block über die Konsole."},
+    {"action_id": "c1-a1", "actor": "aegis", "type": "sweep", "target": "X1", "observations": ["F1"],
+     "expected_version": 1, "reason": "(Wiederholung derselben Aktions-ID — darf nichts kosten.)"}
+  ],
+  "expected": {
+    "accepted": ["c1-a1", "c1-a2"],
+    "rejected": {},
+    "duplicates": ["c1-a1"],
+    "state_after": {"version": 2, "reserve": 57, "masked": ["M1"], "anomalies_closed": ["X1"]},
+    "claims_after": [{"from": "kael", "to": "aegis"}]
+  }
+}
