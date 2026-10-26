@@ -5,7 +5,7 @@
  "started": "2026-10-26",
  "ended": null,
  "branch": "claude/adoring-sagan-l2qtnq",
- "pr": null,
+ "pr": 197,
  "mandate": "Die Anweisung des Autors vom 2026-10-26: Bericht zuerst, eine App je Sitzung, Fragen mit Tiefe, Antworten als PR, der nächste Startprompt per Skript",
  "report": {
   "done": [
@@ -196,5 +196,6 @@
  ],
  "follows": [
   "the-writing-workshop"
- ]
+ ],
+ "updated": "2026-10-26T21:30:00Z"
 }
