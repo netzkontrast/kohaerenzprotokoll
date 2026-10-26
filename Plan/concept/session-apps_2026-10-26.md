@@ -173,6 +173,30 @@ What this session asks of the author through the app first: the three questions 
 5. `sessions.py prompt --next` with the `decided` / `open` / `apps` blocks; the graph nodes of §4.
 6. Vercel Blob for drafts, presence and the inbox — only when 4 shows the need.
 
+## 10 · What `netzkontrast/agency` suggests (read 2026-10-26, commit 1ab22a2)
+
+The author's other project is an installable Claude Code plugin with a bi-temporal provenance graph (GraphQLite) and four
+concepts — Intent · Capability · Lifecycle · Memory (`docs/vision/CORE.md`). It even holds a synthesis for this novel
+(`agency/capabilities/novel/data/reference/kohaerenz-synthesis.md`) whose rule is *graph canonical, disk derived* — the
+opposite of this repository's, where the files are the authority and the graph a view (CLAUDE.md, decision 021). That
+difference stays; what crosses over is the shape of a few records and rules:
+
+| adopt | from | into |
+|---|---|---|
+| **the question protocol**: one question at a time, 2–4 options with the recommended one first, every option traced to a source id, status `pending` → `answered` | `capabilities/discover/clusters/ask.py:27-90` | §2 `questions[]`: add `refs` per option, `depth` is ours |
+| **WH(Y) one-liners as a digest handed to SessionStart** — rebuilt from the records, *never hand-edited* | `hooks/session-start:22-41`, `adr/_main.py:1158` | §3 `decided` block; `.claude/hooks/session-start.sh` prints the answers since the last prompt |
+| **the session report**: lessons, open questions, handoff notes; `session_resume` finds the newest active session | `capabilities/reflect/_main.py:152-192` | §2 `report` (done / thought / priorities / next); the start page's report card |
+| **supersede, never overwrite**: a revised answer is a new record pointing at the old | `agency/memory.py:155-177` | answers append-only; a later answer file names `supersedes` |
+| **owner-only approval, an agent never self-approves**; a decision's status flow kept small (proposed · approved · superseded) | `CLAUDE.md:368-378`, `_lifecycle_data/machines.json` | the merge of the answer PR is the approval; three statuses, not eight |
+| **one blocking question at a time, `BLOCKED:` in the PR as fallback** | `AGENCY_PROTOCOL.md:89-97` | parallel sessions (§7): a session with an unanswered depth-3 question says so in its PR title |
+| **commit text, not a binary store**; a fresh container cannot rebuild a digest safely | `agency/_session_snapshot.py:1-16` | JSON records in git (§2), no database of record (§6) |
+| **a stable anchor from a file to its node** (`<!-- agency-node: id -->`) | `document/_interconnect.py:11,30` | the record's `id` is the node key; a question's id is stable across sessions |
+| **skill shape**: `Use when…` descriptions that never summarise the workflow, body ≤ 500 lines, detail in `references/`, one worked example, every named verb exists | `skills/skill-creation/SKILL.md:27-52`, `docs/vision/SKILL-CONTRACT.md` | the `session-app` skill (§9 step 1), checked by `check_skills.py` |
+
+Not adopted: the FastMCP code-mode engine and verb naming, the 15-phase develop lifecycle, a provenance edge per tool call
+through hooks, the SQLModel mirror beside the graph, the dispatch heuristics as engine code — plugin-scale machinery this
+repository's standard-library scripts and existing MCP server do not need (`Plan/concept/mcp-server_2026-10-16.md`).
+
 ## Provisional
 
 ```yaml
