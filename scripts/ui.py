@@ -1941,7 +1941,7 @@ def selftest() -> tuple[list[str], list[str]]:
             if not any("sessions.py" in p for p in drift):
                 failures.append(f"an id that differs from sessions.slug (no length cut): not reported — got {drift[:2]}")
             lost_js = COMPONENT.read_text(encoding="utf-8").replace(
-                "st.msel = parts[2];", "st.msel = parts[2] + 'x';", 1)
+                "st.msel = key;", "st.msel = key + 'x';", 1)
             lost, _ = check_routes(data, lost_js)
             if not any("cast " in p or "chapters " in p for p in lost):
                 failures.append(f"an address that loses its workspace item: not reported — got {lost[:2]}")
