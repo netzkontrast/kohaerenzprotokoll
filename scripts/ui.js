@@ -93,7 +93,8 @@ class Component extends DCLogic {
     const screen = s.screen || this.props.screen || 'now';
     const e = encodeURIComponent;
     let tail = '';
-    if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
+    if (screen === 'now' && s.rec) tail = 'record/' + e(s.rec);
+    else if (screen === 'now' && s.sess) tail = 'session/' + e(s.sess);
     else if (screen === 'wiki' && s.page != null) tail = e(D.pages[s.page].s) + (s.wth ? '/g/' + e(s.wth) : s.wview ? '/' + s.wview : '');
     else if (screen === 'conflicts' && s.conf != null) tail = D.conflicts[s.conf].id;
     else if (screen === 'questions' && s.qt === 'reading') tail = 'reading' + (s.rqi ? '/' + e(s.rqi) : s.rt ? '/' + e(s.rt) : '');
@@ -123,8 +124,9 @@ class Component extends DCLogic {
     const parts = hash.slice(2).split('/').map((x) => { try { return decodeURIComponent(x); } catch (err) { return x; } });
     const screen = parts[0];
     const at = (list, key, v) => list.findIndex((x) => x[key] === v);
-    const st = { screen: screen, q: '', page: null, wview: null, wth: null, qt: null, ques: null, rqi: null, rt: '' };
-    if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
+    const st = { screen: screen, q: '', page: null, wview: null, wth: null, qt: null, ques: null, rqi: null, rt: '', rec: null };
+    if (screen === 'now' && parts[1] === 'record' && parts[2]) { if (at(D.records.records, 'id', parts[2]) >= 0) { st.rec = parts[2]; st.sess = null; } }
+    else if (screen === 'now' && parts[1] === 'session' && parts[2]) { if (parts[2] === 'free' || at(D.sessions.sessions, 'id', parts[2]) >= 0) st.sess = parts[2]; }
     else if (screen === 'wiki' && parts[1]) {
       const i = at(D.pages, 's', parts[1]);
       st.wth = null;
@@ -170,6 +172,7 @@ class Component extends DCLogic {
       const saved = JSON.parse(window.localStorage.getItem('kp-prompt-drafts') || 'null');
       if (saved && typeof saved === 'object') this.setState({ pask: saved.pask || {}, pedit: saved.pedit || {}, poff: saved.poff || {}, psed: saved.psed || {} });
     } catch (err) { /* no storage: start empty */ }
+    try { const ans = JSON.parse(window.localStorage.getItem('kp-answers-v1') || '{}'); if (ans && typeof ans === 'object' && !Array.isArray(ans)) this.setState({ answers: ans }); } catch (err) { /* answers are optional */ }
     try { const notes = JSON.parse(window.localStorage.getItem('kp-reading-notes-v1') || '{}'); if (notes && typeof notes === 'object' && !Array.isArray(notes)) this.setState({ rnotes: notes }); } catch (err) { /* notes are optional */ }
     try { const marks = JSON.parse(window.localStorage.getItem('kp-desk-marks-v1') || '{}'); if (marks && typeof marks === 'object' && !Array.isArray(marks)) this.setState({ dmarks: marks }); } catch (err) { /* marks are optional */ }
     this._onHash = () => {
@@ -604,6 +607,41 @@ class Component extends DCLogic {
     catch (err) { this.setState({ noteStorage: 'Speichern im Browser fehlgeschlagen. Bitte exportieren.' }); }
   }
 
+  // The start page's answers (the author's instruction of 2026-10-26, scripts/records.py): kept in this browser until
+  // exported as an answer file. The file is the author's; it lands through a pull request the author merges.
+  // No answer here decides anything — it is a draft until it is a file in Plan/sessions/answers/.
+  saveAnswer(qid, patch) {
+    const all = Object.assign({}, this.st().answers || {});
+    const entry = Object.assign({}, all[qid] || {}, patch);
+    if (entry.yes == null && !entry.option && !String(entry.words || '').trim()) delete all[qid]; else all[qid] = entry;
+    this.setState({ answers: all, answerStorage: 'Nur für diesen Besuch gespeichert' });
+    if (!this.routable()) return;
+    try { window.localStorage.setItem('kp-answers-v1', JSON.stringify(all)); this.setState({ answerStorage: 'Im Browser gespeichert' }); }
+    catch (err) { this.setState({ answerStorage: 'Speichern im Browser fehlgeschlagen. Bitte exportieren.' }); }
+  }
+
+  answerComplete(q, a) {
+    if (!a) return false;
+    if (q.depth === 1) return a.yes === true || a.yes === false;
+    if (q.depth === 2) return q.options.some((o) => o[0] === a.option);
+    return !!String(a.words || '').trim();
+  }
+
+  // One answer file for one session, as scripts/records.py expects it: <session>-<YYYYMMDDTHHMMSSZ>.json, by the
+  // author, only complete answers to questions that no file answers yet. Returns null when there is nothing to save.
+  answerFile(r, answers, now) {
+    const t = (now || new Date()).toISOString().replace(/\.\d{3}Z$/, 'Z');
+    const rows = r.qs.filter((q) => !q.answer && this.answerComplete(q, (answers || {})[q.id])).map((q) => {
+      const a = answers[q.id]; const out = { question: q.id };
+      if (q.depth === 1) out.yes = a.yes; if (q.depth === 2) out.option = a.option;
+      if (String(a.words || '').trim()) out.words = String(a.words).trim();
+      return out;
+    });
+    if (!rows.length) return null;
+    const name = r.id + '-' + t.replace(/[-:]/g, '') + '.json';
+    return { name: name, path: 'Plan/sessions/answers/' + name, body: { '@type': 'AnswerSet', session: r.id, by: 'author', given_on: t, answers: rows } };
+  }
+
   // The Schreibtisch's marks per paragraph (decision 030, the author's answer 9): „passt / Frage / falsch“ and a
   // note, kept in this browser only and exported as one text the author pastes into a session. No mark approves
   // anything — approval is the author's words through manuscript.py approve.
@@ -791,7 +829,8 @@ class Component extends DCLogic {
     const onQKey = (e) => { if (e.key === 'Escape') this.setState({ q: '' }); };
 
     // ------------------------------------------------------------ now
-    const now = { board: { live: false, other: [], hasOther: false, caution: false, showStamp: false, busy: false, stamp: '', hours: 24, refresh: null }, tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C' };
+    const now = { board: { live: false, other: [], hasOther: false, caution: false, showStamp: false, busy: false, stamp: '', hours: 24, refresh: null }, tiles: [], agenda: [], asks: [], log: [], sessions: [], sessSub: '', web: false, free: {}, pe: { chips: [] }, tabs: [], tabPrompt: true, tabLog: false, l1: '', l2: '', l3: '', logSub: '', selftests: '', stDot: '#2B4C8C',
+      hasRec: false, noRec: true, rc: { done: [], thought: [], prio: [], next: [], hasApp: false }, qs: [], af: { has: false, none: true }, allRec: [], allPlan: [], hasPlan: false, onlyApp: 'false', toggleApp: null, recHead: '' };
     if (is.now) {
       const total = V('sources.total');
       const landed = V('sources.landed');
@@ -835,6 +874,65 @@ class Component extends DCLogic {
       }));
       const canonN = D.docs.filter((d) => d.canon).length;
       now.logSub = (D.docs.length - canonN) + ' before the canon era · ' + canonN + ' from it';
+      // The start page (scripts/records.py): the chosen record's report first, its questions to the author by depth,
+      // then every session — the records, and NOW.md's planned sessions — with the ones that built an app marked.
+      const R = D.records.records;
+      const rec = R.find((r) => r.id === s.rec) || R[0] || null;
+      const answers = s.answers || {};
+      now.hasRec = !!rec;
+      now.noRec = !rec;
+      if (rec) {
+        const nOpen = rec.qs.filter((q) => !q.answer).length;
+        now.rc = {
+          kicker: 'Sitzung · ' + rec.f, title: rec.t, dates: rec.started + ' → ' + (rec.ended || 'läuft') + (rec.branch ? ' · ' + rec.branch : '') + (rec.pr ? ' · PR #' + rec.pr : ''),
+          mandate: rec.mandate, done: rec.done, thought: rec.thought, prio: rec.prio.map((x, i) => ({ n: String(i + 1), x: x })),
+          next: rec.next.map((x) => ({ x: x[0], cmd: x[1], hasCmd: !!x[1] })),
+          hasApp: !!rec.app, app: rec.app ? rec.app.name + ' — ' + (rec.app.what || '') : '', openApp: () => { const st = rec.app && this.unroute(rec.app.route); if (st) this.setState(st); },
+          qHead: rec.qs.length ? rec.qs.length + ' Fragen an dich · ' + nOpen + ' offen' : 'Diese Sitzung hat keine Fragen an dich.',
+        };
+        const DEPTH = { 1: 'Tiefe 1 · ja/nein', 2: 'Tiefe 2 · Auswahl', 3: 'Tiefe 3 · deine Worte' };
+        now.qs = rec.qs.map((q) => {
+          const a = q.answer ? { yes: q.answer.yes, option: q.answer.option, words: q.answer.words } : (answers[q.id] || {});
+          const locked = !!q.answer;
+          const done = locked || this.answerComplete(q, a);
+          const chip = (key, label, on, go, rec) => ({ label: label + (rec ? ' · empfohlen' : ''), on: on ? 'true' : 'false', bg: on ? '#1C1B18' : '#FBFAF6', fg: on ? '#FBFAF6' : '#1C1B18', bd: rec ? '#2B4C8C' : '#C9C0AC', go: locked ? null : go, dis: locked });
+          return {
+            id: q.id, depth: DEPTH[q.depth] || '', text: q.text, ctx: q.context, hasCtx: !!q.context, lands: 'landet in ' + q.lands,
+            isYes: q.depth === 1, isOpt: q.depth === 2, isWords: q.depth === 3,
+            yes: [chip('yes', 'ja', a.yes === true, () => this.saveAnswer(q.id, { yes: a.yes === true ? null : true })),
+              chip('no', 'nein', a.yes === false, () => this.saveAnswer(q.id, { yes: a.yes === false ? null : false }))],
+            opts: q.options.map((o) => chip(o[0], o[0] + ' — ' + o[1], a.option === o[0], () => this.saveAnswer(q.id, { option: a.option === o[0] ? '' : o[0] }), q.rec === o[0])),
+            words: a.words || '', wordsHint: q.depth === 3 ? 'Deine Antwort in deinen Worten — sie wird wörtlich gespeichert.' : 'Deine Worte dazu (optional, wörtlich gespeichert)',
+            onWords: (e) => { if (!locked) this.saveAnswer(q.id, { words: e.target.value }); }, locked: locked,
+            st: locked ? 'beantwortet ' + q.answer.on.slice(0, 10) + ' · ' + q.answer.file : done ? 'beantwortet, noch nicht gespeichert' : 'offen',
+            stBg: locked ? '#1C1B18' : done ? '#E4E9F2' : '#F6E4DC', stFg: locked ? '#FBFAF6' : done ? '#2B4C8C' : '#9A2D1A',
+          };
+        });
+        const file = this.answerFile(rec, answers);
+        const fid = 'answers:' + rec.id;
+        const text = file ? JSON.stringify(file.body, null, 1) + '\n' : '';
+        now.af = {
+          has: !!file, none: !file, path: file ? file.path : '', text: text,
+          n: file ? file.body.answers.length + (file.body.answers.length === 1 ? ' Antwort' : ' Antworten') + ' bereit' : 'Noch keine vollständige Antwort.',
+          save: () => { if (file) this.download(file.name, text); },
+          copy: () => { if (file) this.copy(fid, 'Lege diese Antwortdatei an, prüfe sie mit `python3 scripts/records.py check` und öffne einen Pull Request:\n\n' + file.path + '\n\n' + text); },
+          copyLabel: s.copied === fid ? 'Kopiert' : s.copied === 'fail:' + fid ? 'Kopieren fehlgeschlagen' : 'Auftrag mit Antwortdatei kopieren',
+          storage: s.answerStorage || 'Antworten bleiben in diesem Browser, bis du sie exportierst. Gültig sind sie erst als Datei, durch deinen Merge.',
+        };
+      }
+      const onlyApp = !!s.onlyApp;
+      const planned = D.sessions.sessions.filter((x) => !R.some((r) => r.id === x.id));
+      now.allRec = R.filter((r) => !onlyApp || r.app).map((r) => ({
+        t: r.t, id: r.id, when: r.started + (r.ended ? ' → ' + r.ended : ' · läuft'),
+        hasApp: !!r.app, app: r.app ? 'eigene App · ' + r.app.name : '', openApp: () => { const st = r.app && this.unroute(r.app.route); if (st) this.setState(st); },
+        q: r.qs.filter((q) => !q.answer).length + ' offen', on: rec && rec.id === r.id ? 'true' : 'false', bd: rec && rec.id === r.id ? '#2B4C8C' : '#E6E0D2',
+        go: () => this.setState({ rec: r.id, sess: null }),
+      }));
+      now.allPlan = onlyApp ? [] : planned.map((x) => ({ t: x.title, id: x.id, st: x.status, go: () => this.setState({ sess: x.id, rec: null, ntab: 'prompt' }) }));
+      now.hasPlan = now.allPlan.length > 0;
+      now.onlyApp = onlyApp ? 'true' : 'false';
+      now.toggleApp = () => this.setState({ onlyApp: !onlyApp });
+      now.recHead = R.length + ' Sitzungen mit Bericht · ' + R.filter((r) => r.app).length + ' mit eigener App · ' + planned.length + ' geplant in NOW.md';
       const plan = D.sessions;
       const firstReady = plan.sessions.find((x) => x.status === 'ready');
       const selId = s.sess || (firstReady ? firstReady.id : 'free');
@@ -845,10 +943,10 @@ class Component extends DCLogic {
           dom: uid + '-sess-' + x.id, n: String(x.n), t: x.title, st: x.status, stBg: ready ? '#E4E9F2' : '#F6E4DC', stFg: ready ? '#2B4C8C' : '#9A2D1A',
           claim: this.claimLine(x.id), claimBg: this.claimTone(x.id)[0], claimFg: this.claimTone(x.id)[1],
           next: this.runs(x.nruns), bd: on ? '#2B4C8C' : '#E6E0D2', bg: on ? '#FFFFFF' : 'transparent', cur: on ? 'true' : 'false',
-          pick: () => this.setState({ sess: x.id, ntab: 'prompt', copied: null }),
+          pick: () => this.setState({ sess: x.id, rec: null, ntab: 'prompt', copied: null }),
         };
       });
-      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', label: '＋ New session — title, next step, files, claim, NOW.md entry', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', ntab: 'prompt', copied: null }) };
+      now.free = { bd: selId === 'free' ? '#2B4C8C' : '#E6E0D2', label: '＋ New session — title, next step, files, claim, NOW.md entry', cur: selId === 'free' ? 'true' : 'false', pick: () => this.setState({ sess: 'free', rec: null, ntab: 'prompt', copied: null }) };
       const bd = s.board;
       now.board = {
         live: !!bd, ok: !!bd && bd.ok, busy: !!s.boardBusy, refresh: () => this.loadBoard(true),

@@ -112,12 +112,13 @@ html{scrollbar-color:#9A9384 #F3F0E8;scrollbar-width:thin}
 .rq-empty{padding:22px 8px;color:#645F53;line-height:1.6}
 .rq-empty h3{font-family:'Newsreader',Georgia,serif;font-size:25px;font-weight:500;color:#1C1B18;margin:0 0 12px}
 .rq-empty p{margin:0 0 12px}
+.sa-h{margin:0 0 6px;font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:10.5px;font-weight:500;letter-spacing:.1em;text-transform:uppercase;color:#B0341E}.sa-ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:5px;font-size:13.5px;line-height:1.45}.sa-cmd{display:block;margin-top:3px;font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:11px;color:#4A463E;overflow-wrap:anywhere}
 .rq-prompt{white-space:pre-wrap;overflow-wrap:anywhere;font-family:'IBM Plex Mono',monospace;font-size:11px;line-height:1.6;background:#F3F0E8;padding:12px}
 .rq-detail summary{cursor:pointer;min-height:44px;display:flex;align-items:center;text-decoration:underline;text-underline-offset:3px;font-size:12px;color:#2B4C8C}
 .rq-detail .rq-storage{font-size:11.5px;color:#645F53}
 .rq-notice{padding:10px;background:#EFE9D4;color:#4A463E;border:1px solid #C9C0AC;border-radius:5px}
 @media(min-width:861px) and (max-width:1200px){.kp-app .m-rail{display:none !important}.kp-app .m-nav{width:180px !important}.kp-app .m-article{padding:30px 24px 70px !important}}
-@media(max-width:860px){.kp-app{height:auto !important}.kp-app .m-nav{width:100% !important;flex-direction:column !important;align-items:stretch;gap:7px}.kp-app .m-brand{display:none}.kp-app .m-navlist{width:100%;gap:3px !important}.kp-app .m-navbtn{min-height:44px}.kp-app .m-left{width:auto !important;max-height:380px}.kp-app .m-rail{width:auto !important}.rq-columns{grid-template-columns:minmax(0,1fr);gap:0}.rq-detail{grid-row:1}.rq-list{max-height:520px}.rq-filters input,.rq-filters select,.rq-label select,.rq-label textarea{font-size:16px}.rq-question{font-size:24px}.kp-view-tabs{gap:4px}.kp-view-tabs button{font-size:13px}.rq-toolbar .rq-button{flex:1 1 auto}}
+@media(max-width:860px){.kp-app{height:auto !important}.kp-app .m-nav{width:100% !important;flex-direction:column !important;align-items:stretch;gap:7px}.kp-app .m-brand{display:none}.kp-app .m-navlist{width:100%;gap:3px !important}.kp-app .m-navbtn{min-height:44px}.kp-app .m-left{width:auto !important;max-height:380px}.kp-app .m-rail{width:auto !important}.rq-columns{grid-template-columns:minmax(0,1fr);gap:0}.rq-detail{grid-row:1}.rq-list{max-height:520px}.rq-filters input,.rq-filters select,.rq-label select,.rq-label textarea{font-size:16px}.rq-question{font-size:24px}.kp-view-tabs{gap:4px}.kp-view-tabs button{font-size:13px}.rq-toolbar .rq-button{flex:1 1 auto}.sa-band{grid-template-columns:minmax(0,1fr) !important}.sa-report{grid-template-columns:minmax(0,1fr) !important}}
 @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto !important}}
 
 </style>
@@ -216,11 +217,63 @@ html{scrollbar-color:#9A9384 #F3F0E8;scrollbar-width:thin}
 </header>
 <div class="m-body" style="flex-grow: 1; min-height: 0; display: flex; flex-direction: column; position: relative;">
 <sc-if value="{{is.now}}" hint-placeholder-val="{{ true }}">
-<div class="m-pad" style="flex-grow: 1; min-height: 0; display: flex; flex-direction: column; gap: 20px; padding: 24px 28px 24px 32px; box-sizing: border-box;">
+<div class="m-pad" style="flex-grow: 1; min-height: 0; overflow-y: auto; display: flex; flex-direction: column; gap: 20px; padding: 24px 28px 24px 32px; box-sizing: border-box;">
 <div class="m-hero" style="display: flex; align-items: flex-end; gap: 32px;">
 <p class="m-lede" style="margin: 0; flex-grow: 1; max-width: 940px; font-family: 'Newsreader', Georgia, serif; font-size: 30px; line-height: 1.22; letter-spacing: -0.01em; color: #1C1B18;"><span>{{now.l1}}</span><span style="color: #4A463E;">{{now.l2}}</span><span style="color: #B0341E;">{{now.l3}}</span></p>
 <p class="m-heromark" style="margin: 0; flex-shrink: 0; text-align: right; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; line-height: 1.7; color: #645F53;">snapshot of commit {{meta.commit}}<br>{{meta.date}} · numbers from scripts/state.py</p>
 </div>
+<section class="sa-band" aria-label="Die Sitzungen: Bericht, Fragen an dich, alle Sitzungen" style="flex-shrink: 0; display: grid; grid-template-columns: minmax(0, 1.25fr) minmax(0, 1fr); gap: 14px;">
+<sc-if value="{{now.hasRec}}" hint-placeholder-val="{{ true }}">
+<article style="display: flex; flex-direction: column; gap: 12px; padding: 16px 18px; background: #FFFFFF; border: 1px solid #DDD6C6; border-radius: 10px; min-width: 0;">
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53; overflow-wrap: anywhere;">{{now.rc.kicker}}</span>
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 26px; line-height: 1.15; font-weight: 500;">{{now.rc.title}}</h2>
+<span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11.5px; color: #4A463E; overflow-wrap: anywhere;">{{now.rc.dates}}</span>
+<p style="margin: 0; font-size: 13.5px; line-height: 1.45; color: #4A463E;">{{now.rc.mandate}}</p>
+<div class="sa-report" style="display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 12px 18px;">
+<div style="min-width: 0;"><h3 class="sa-h">Getan</h3><ul class="sa-ul"><sc-for list="{{now.rc.done}}" as="x" hint-placeholder-count="3"><li>{{x}}</li></sc-for></ul></div>
+<div style="min-width: 0;"><h3 class="sa-h">Gedacht</h3><ul class="sa-ul"><sc-for list="{{now.rc.thought}}" as="x" hint-placeholder-count="2"><li>{{x}}</li></sc-for></ul></div>
+<div style="min-width: 0;"><h3 class="sa-h">Prioritäten</h3><ol class="sa-ul" style="list-style: none; padding-left: 0;"><sc-for list="{{now.rc.prio}}" as="x" hint-placeholder-count="3"><li style="display: flex; gap: 8px;"><span style="font-family: 'Newsreader', Georgia, serif; font-size: 18px; line-height: 1.1; color: #B0341E;">{{x.n}}</span><span>{{x.x}}</span></li></sc-for></ol></div>
+<div style="min-width: 0;"><h3 class="sa-h">Als Nächstes</h3><ul class="sa-ul"><sc-for list="{{now.rc.next}}" as="x" hint-placeholder-count="2"><li>{{x.x}}<sc-if value="{{x.hasCmd}}" hint-placeholder-val="{{ false }}"><code class="sa-cmd">{{x.cmd}}</code></sc-if></li></sc-for></ul></div>
+</div>
+<sc-if value="{{now.rc.hasApp}}" hint-placeholder-val="{{ false }}"><div class="rq-toolbar"><button type="button" class="rq-button" onClick="{{now.rc.openApp}}">Eigene App öffnen: {{now.rc.app}}</button></div></sc-if>
+</article>
+<article style="display: flex; flex-direction: column; gap: 10px; padding: 16px 18px; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; min-width: 0; max-height: 640px; overflow-y: auto;">
+<h2 style="margin: 0; font-family: 'Newsreader', Georgia, serif; font-size: 22px; font-weight: 500;">Fragen an dich</h2>
+<span style="font-size: 12.5px; color: #645F53;">{{now.rc.qHead}}</span>
+<sc-for list="{{now.qs}}" as="q" hint-placeholder-count="3">
+<div style="display: flex; flex-direction: column; gap: 8px; padding: 12px; border: 1px solid #DDD6C6; border-radius: 8px; background: #FFFFFF;">
+<span style="display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53;"><span style="overflow-wrap: anywhere;">{{q.id}}</span><span style="padding: 2px 8px; border-radius: 10px; background: #E4E9F2; color: #2B4C8C;">{{q.depth}}</span></span>
+<span style="font-family: 'Newsreader', Georgia, serif; font-size: 17px; line-height: 1.35;">{{q.text}}</span>
+<sc-if value="{{q.hasCtx}}" hint-placeholder-val="{{ true }}"><details><summary style="cursor: pointer; font-size: 12.5px; color: #2B4C8C;">Zusammenhang</summary><p style="margin: 6px 0 0; font-size: 13px; line-height: 1.5; color: #4A463E;">{{q.ctx}}</p></details></sc-if>
+<sc-if value="{{q.isYes}}" hint-placeholder-val="{{ false }}"><div style="display: flex; flex-wrap: wrap; gap: 6px;"><sc-for list="{{q.yes}}" as="c" hint-placeholder-count="2"><button type="button" aria-pressed="{{c.on}}" disabled="{{c.dis}}" onClick="{{c.go}}" class="rq-button" style="min-height: 36px; padding: 6px 14px; background: {{c.bg}}; color: {{c.fg}}; border-color: {{c.bd}};">{{c.label}}</button></sc-for></div></sc-if>
+<sc-if value="{{q.isOpt}}" hint-placeholder-val="{{ false }}"><div style="display: flex; flex-direction: column; gap: 6px;"><sc-for list="{{q.opts}}" as="c" hint-placeholder-count="3"><button type="button" aria-pressed="{{c.on}}" disabled="{{c.dis}}" onClick="{{c.go}}" class="rq-button" style="min-height: 36px; padding: 6px 12px; text-align: left; background: {{c.bg}}; color: {{c.fg}}; border-color: {{c.bd}};">{{c.label}}</button></sc-for></div></sc-if>
+<label class="rq-label"><textarea rows="2" value="{{q.words}}" disabled="{{q.locked}}" onChange="{{q.onWords}}" placeholder="{{q.wordsHint}}"></textarea></label>
+<span style="display: flex; flex-wrap: wrap; gap: 6px 10px; align-items: center; font-size: 11.5px; color: #645F53;"><span style="padding: 2px 8px; border-radius: 10px; background: {{q.stBg}}; color: {{q.stFg}}; overflow-wrap: anywhere;">{{q.st}}</span><span style="overflow-wrap: anywhere;">{{q.lands}}</span></span>
+</div>
+</sc-for>
+<p class="rq-storage" role="status">{{now.af.n}} · {{now.af.storage}}</p>
+<sc-if value="{{now.af.has}}" hint-placeholder-val="{{ false }}">
+<div class="rq-toolbar"><button type="button" class="rq-button rq-primary" onClick="{{now.af.save}}">Antwortdatei speichern</button><button type="button" class="rq-button" onClick="{{now.af.copy}}">{{now.af.copyLabel}}</button></div>
+<details><summary style="cursor: pointer; font-size: 12.5px; color: #2B4C8C;">Antwortdatei ansehen · {{now.af.path}}</summary><pre class="rq-prompt">{{now.af.text}}</pre></details>
+</sc-if>
+</article>
+</sc-if>
+<sc-if value="{{now.noRec}}" hint-placeholder-val="{{ false }}"><p style="margin: 0; font-size: 14px; color: #645F53;">Noch keine Sitzung hat einen Bericht — python3 scripts/records.py new &lt;id&gt;</p></sc-if>
+<section aria-label="Alle Sitzungen" style="grid-column: 1 / -1; display: flex; flex-direction: column; gap: 8px; padding: 14px 16px; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; min-width: 0;">
+<div style="display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px 14px;"><h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; font-weight: 500;">Alle Sitzungen</h2><span style="font-size: 12px; color: #645F53;">{{now.recHead}}</span><button type="button" aria-pressed="{{now.onlyApp}}" onClick="{{now.toggleApp}}" class="rq-button" style="min-height: 32px; padding: 4px 12px;">nur mit eigener App</button></div>
+<div class="sa-list" style="display: grid; grid-template-columns: repeat(auto-fill, minmax(260px, 1fr)); gap: 8px;">
+<sc-for list="{{now.allRec}}" as="r" hint-placeholder-count="2">
+<div style="display: flex; flex-direction: column; gap: 6px; padding: 10px 12px; border: 1px solid {{r.bd}}; border-radius: 8px; background: #FFFFFF; min-width: 0;">
+<button type="button" aria-current="{{r.on}}" onClick="{{r.go}}" class="kp-hov" style="display: flex; flex-direction: column; gap: 3px; padding: 0; border: 0; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;"><span style="font-size: 14px; line-height: 1.35;">{{r.t}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53; overflow-wrap: anywhere;">{{r.id}} · {{r.when}} · {{r.q}}</span></button>
+<sc-if value="{{r.hasApp}}" hint-placeholder-val="{{ false }}"><button type="button" onClick="{{r.openApp}}" style="align-self: flex-start; padding: 3px 10px; border: 1px solid #B0341E; border-radius: 12px; background: #F6E4DC; color: #9A2D1A; cursor: pointer; font-family: inherit; font-size: 12px;">{{r.app}} ↗</button></sc-if>
+</div>
+</sc-for>
+<sc-for list="{{now.allPlan}}" as="r" hint-placeholder-count="2">
+<button type="button" onClick="{{r.go}}" class="kp-hov" style="display: flex; flex-direction: column; gap: 3px; padding: 10px 12px; border: 1px dashed #C9C0AC; border-radius: 8px; background: transparent; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18; min-width: 0;"><span style="font-size: 14px; line-height: 1.35;">{{r.t}}</span><span style="font-family: 'IBM Plex Mono', ui-monospace, monospace; font-size: 11px; color: #645F53; overflow-wrap: anywhere;">NOW.md · {{r.st}} · noch kein Bericht</span></button>
+</sc-for>
+</div>
+</section>
+</section>
 <div class="m-tiles" style="display: grid; grid-template-columns: repeat(6, minmax(0, 1fr)); gap: 12px;">
 <sc-for list="{{now.tiles}}" as="t" hint-placeholder-count="6">
 <button type="button" onClick="{{t.go}}" class="kp-hov" style="display: flex; flex-direction: column; align-items: flex-start; gap: 8px; min-height: 134px; padding: 14px 16px 16px; box-sizing: border-box; border-radius: 10px; border: 1px solid #DDD6C6; background: #FBFAF6; text-align: left; cursor: pointer; font-family: inherit; color: #1C1B18;">
@@ -231,7 +284,7 @@ html{scrollbar-color:#9A9384 #F3F0E8;scrollbar-width:thin}
 </button>
 </sc-for>
 </div>
-<div class="m-cols" style="flex-grow: 1; min-height: 0; display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr) minmax(0, 1.1fr); gap: 14px;">
+<div class="m-cols" style="flex-grow: 1; min-height: 560px; flex-shrink: 0; display: grid; grid-template-columns: minmax(0, 0.9fr) minmax(0, 1.3fr) minmax(0, 1.1fr); gap: 14px;">
 <section aria-label="For the author" style="display: flex; flex-direction: column; min-height: 0; background: #FBFAF6; border: 1px solid #DDD6C6; border-radius: 10px; overflow: hidden;">
 <div style="display: flex; align-items: baseline; gap: 10px; padding: 14px 18px 12px; border-bottom: 1px solid #E6E0D2;">
 <h2 style="margin: 0; flex-grow: 1; font-family: 'Newsreader', Georgia, serif; font-size: 20px; line-height: 1.2; font-weight: 500;">For the author</h2>

@@ -64,7 +64,8 @@ On the website (not inside a canvas frame) the app keeps its state in the URL:
 `#/wiki/<slug>`, `#/conflicts/C2`, `#/questions/Q3` or `#/questions/agenda`,
 `#/corpus/<slug>`, `#/graph/<term|doc|conflict|question>/<id>`, `#/process/<tab>[/<id>]`,
 `#/manuscript/<tab>[/<key>]` (the novel's workspace, decision 024),
-`#/manuscript/schreibtisch[/kap-NN[/szene-N]]` (the Schreibtisch, decision 030), and
+`#/manuscript/schreibtisch[/kap-NN[/szene-N]]` (the Schreibtisch, decision 030),
+`#/now/record/<id>` (a session's record: its report, its questions to the author by depth, the answer file), and
 `#/now/session/<id>` — one of the next sessions, opened with its prompt.
 Stable ids, never list positions, so a link survives a rebuild; the back button
 retraces the screens; a hash not starting `#/` is a section anchor and is left alone.
@@ -119,6 +120,7 @@ import quotes  # noqa: E402
 import appstamp  # noqa: E402
 import selftests  # noqa: E402
 import sessions as session_plan  # noqa: E402
+import records as session_records  # noqa: E402
 import state  # noqa: E402
 import subject  # noqa: E402
 import wiki_index  # noqa: E402
@@ -760,6 +762,32 @@ def desk_export(md: "Renderer", novel: dict) -> dict:
     return {"rules": rules, "chapters": chapters, "words": list(manuscript.WORDS)}
 
 
+def records_export() -> dict:
+    """The sessions' records and the answers already in files (scripts/records.py), for the start page: each record's
+    report, app and questions; per question the answer that holds, if any. Newest record first. Nothing judged."""
+    data = session_records.load()
+    st = session_records.state(data)
+    out = []
+    for r in sorted(data["records"], key=lambda r: (r.get("ended") or "9999", r.get("started") or ""), reverse=True):
+        qs = []
+        for q in r.get("questions", []):
+            a = st.get(q["id"])
+            qs.append({"id": q["id"], "depth": q.get("depth"), "text": q.get("text", ""), "context": q.get("context", ""),
+                       "options": [[o.get("key", ""), o.get("text", "")] for o in q.get("options", [])],
+                       "rec": q.get("recommended", ""), "lands": q.get("lands_in", ""), "asked": q.get("asked_on", ""),
+                       "answer": None if a is None else {"yes": a.get("yes"), "option": a.get("option", ""), "words": a.get("words", ""),
+                                                         "on": a.get("given_on", ""), "file": a["file"].relative_to(ROOT).as_posix()}})
+        rep = r.get("report") or {}
+        out.append({"id": r.get("id", ""), "f": r["_file"].relative_to(ROOT).as_posix(), "t": r.get("title", ""),
+                    "started": r.get("started", ""), "ended": r.get("ended") or "", "branch": r.get("branch") or "",
+                    "pr": r.get("pr") or 0, "mandate": r.get("mandate", ""),
+                    "done": [x.get("text", "") for x in rep.get("done", [])], "thought": [x.get("text", "") for x in rep.get("thought", [])],
+                    "prio": [x.get("text", "") for x in rep.get("priorities", [])],
+                    "next": [[x.get("text", ""), x.get("command", "")] for x in rep.get("next", [])],
+                    "app": r.get("app"), "qs": qs, "follows": r.get("follows", [])})
+    return {"records": out, "problems": session_records.problems(data)}
+
+
 def export(checks: bool = True, fresh: bool = False) -> dict:
     """Everything the app shows, as one JSON-able dict."""
     read = reading_order()
@@ -910,7 +938,7 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
     # it requires (the 2026-10-05 rewrite emptied three panels without a word from any check).
     agenda = {"intro": intro[0] if intro else [], "decided": md.runs("**Decided so far:**" + decided.group(1)) if decided else [],
               "unsettled": listed("The novel — what no source settles"), "process": listed("Questions for the author")}
-    plan = session_plan.derive(now_text)
+    plan = session_plan.derive(now_text, with_records=True)
     for x in plan["sessions"]:
         x["runs"], x["nruns"] = md.runs(x["md"]), md.runs(x["next_md"])
     for x in plan["notes"]:
@@ -1082,7 +1110,7 @@ def export(checks: bool = True, fresh: bool = False) -> dict:
         "meta": {"commit": head[0] if head else "", "date": head[1] if len(head) > 1 else "", "checks_from": checks_from},
         "state": {k: [v["value"], v["how"]] for k, v in derived.items()},
         "docs": docs, "pages": pages, "conflicts": conflicts, "questions": questions, "readingQuestions": rq, "readingBanks": rq_banks, "questionCategories": reading_questions.CATEGORIES, "compare": compare,
-        "agenda": agenda, "sessions": plan, "now": {"lede": now_lede, "sec": now_secs},
+        "agenda": agenda, "sessions": plan, "records": records_export(), "now": {"lede": now_lede, "sec": now_secs},
         "goal": {"title": goal_title, "lede": goal_lede, "sec": goal_secs},
         "decisions": decisions, "principles": principles, "catalogue": catalogue, "manuscript": manuscript, "novel": novel,
         "invariants": table_after("## 0 · Invariants"), "commands": table_after("## The commands, as combinations"),
@@ -1236,6 +1264,12 @@ def agent_index(data: dict) -> list[dict]:
               for ch in desk["chapters"] for sc in ch["scenes"]]
     items += [{"kind": "rule", "id": r["id"], "title": r["x"][:160], "path": "Manuscript/regeln.jsonl",
                "address": "#/manuscript/schreibtisch/regeln", "status": r["status"]} for r in desk["rules"]]
+    recs = (data.get("records") or {}).get("records", [])
+    items += [{"kind": "session-record", "id": r["id"], "title": r["t"], "path": r["f"], "address": f"#/now/record/{r['id']}",
+               "status": "open" if not r["ended"] else "ended", "app": (r["app"] or {}).get("route", "")} for r in recs]
+    items += [{"kind": "session-question", "id": q["id"], "title": q["text"][:160], "path": r["f"], "address": f"#/now/record/{r['id']}",
+               "depth": q["depth"], "status": "answered" if q["answer"] else "open", "lands_in": q["lands"]}
+              for r in recs for q in r["qs"]]
     items += [{"kind": "session", "id": x["id"], "title": x["title"], "path": "NOW.md", "address": f"#/now/session/{x['id']}",
                "status": x["status"]} for x in data["sessions"]["sessions"]]
     return items
@@ -1542,6 +1576,18 @@ def check_data(data: dict) -> list[str]:
     for r in desk.get("rules", []):
         if r["status"] not in ("offen", "bestätigt", "verworfen", "ersetzt"):
             problems.append(f"rule {r['id']}: status {r['status']!r} is not one the register knows")
+    recs = data.get("records") or {"records": [], "problems": []}
+    problems += [f"session records: {p}" for p in recs.get("problems", [])]
+    rec_ids = {r["id"] for r in recs.get("records", [])}
+    for r in recs.get("records", []):
+        if not (r["done"] and r["thought"] and r["prio"] and r["next"]):
+            problems.append(f"session record {r['id']}: the report card would be empty — done, thought, priorities and next are all required")
+        for other in r["follows"]:
+            if other not in rec_ids:
+                problems.append(f"session record {r['id']}: follows {other}, which has no record")
+        for q in r["qs"]:
+            if q["depth"] == 2 and len(q["options"]) < 2:
+                problems.append(f"session question {q['id']}: depth 2 with fewer than two options — nothing to choose on the start page")
     for key, have in (("agenda.process — NOW.md § Questions for the author", data["agenda"]["process"]),
                       ("sessions — NOW.md § Half-done", data["sessions"]["sessions"])):
         if not have:
@@ -1603,6 +1649,8 @@ D.principles.forEach((x, i) => rt({ screen: 'process', ptab: 'principles', pprin
 D.compare.forEach((x, i) => rt({ screen: 'process', ptab: 'compare', pcmp: i }, 'record ' + x.k));
 D.sessions.sessions.forEach((x) => rt({ screen: 'now', sess: x.id }, 'session ' + x.id));
 rt({ screen: 'now', sess: 'free' }, 'the free prompt');
+D.records.records.forEach((r) => rt({ screen: 'now', rec: r.id }, 'record ' + r.id));
+D.records.records.filter((r) => r.app).forEach((r) => { if (!c.unroute(r.app.route)) bad.push('record ' + r.id + ': its app route ' + r.app.route + ' leads nowhere'); });
 c.novelTabs().forEach((t) => {
   rt({ screen: 'manuscript', mtab: t[0] }, 'workspace tab ' + t[0]);
   c.novelEntries(t[0]).filter((x) => !x.group).forEach((x) => rt({ screen: 'manuscript', mtab: t[0], msel: x.key }, t[0] + ' ' + x.key));
@@ -1738,6 +1786,50 @@ def check_session_ui(data: dict, js: str | None = None, template: str | None = N
         "session UI: export guards, manual drafts, forks and board request lifecycle checked offline, with node"
 
 
+ANSWER_HARNESS = """
+const c = new Component(); c.props = {}; c.state = { screen: 'now', answers: {} };
+const D = c.kp(); const out = [];
+D.records.records.forEach((r) => {
+  const answers = {};
+  r.qs.filter((q) => !q.answer).forEach((q) => {
+    answers[q.id] = q.depth === 1 ? { yes: true } : q.depth === 2 ? { option: q.options[q.options.length - 1][0], words: 'Prüfwort' } : { words: 'Eine Antwort in eigenen Worten.' };
+  });
+  const f = c.answerFile(r, answers, new Date(Date.UTC(2026, 9, 26, 18, 0, 0)));
+  if (f) out.push(f);
+});
+console.log(JSON.stringify(out));
+"""
+
+
+def check_answer_export(data: dict, js: str | None = None) -> tuple[list[str], str]:
+    """The start page's answer file, answered for every open question by depth, must pass scripts/records.py's rules
+    against the records it answers — the same check CI runs on a file the author lands."""
+    node = shutil.which("node")
+    if not node:
+        return [], "answer export NOT checked: node is not installed"
+    stub = "class DCLogic { constructor() { this.props = {}; this.state = {}; } setState(p) { Object.assign(this.state, p); } }\n"
+    with tempfile.TemporaryDirectory() as tmp:
+        path = Path(tmp) / "answers.js"
+        path.write_text(stub + data_script(data, js) + ANSWER_HARNESS, encoding="utf-8")
+        proc = subprocess.run([node, str(path)], capture_output=True, text=True, timeout=60)
+        if proc.returncode:
+            return [f"answer export: {proc.stderr.strip().splitlines()[-1] if proc.stderr.strip() else 'node failed'}"], "answer export"
+        files = json.loads(proc.stdout.strip().splitlines()[-1])
+        folder = Path(tmp) / "Plan" / "sessions"
+        (folder / "answers").mkdir(parents=True)
+        for src in session_records.FOLDER.glob("*.json"):
+            shutil.copy(src, folder / src.name)
+        for f in files:
+            (folder / "answers" / f["name"]).write_text(json.dumps(f["body"], ensure_ascii=False), encoding="utf-8")
+        probs = session_records.problems(session_records.load(folder), root=ROOT)
+    n_open = sum(1 for r in data["records"]["records"] for q in r["qs"] if not q["answer"])
+    n_ans = sum(len(f["body"]["answers"]) for f in files)
+    out = [f"answer export: {p}" for p in probs]
+    if n_ans != n_open:
+        out.append(f"answer export: {n_open} open questions answered, {n_ans} answers in the files — the export drops or invents one")
+    return out, f"answer export: {len(files)} file(s), {n_ans} answers by depth, checked by records.py"
+
+
 def check_reading_ui(data: dict) -> tuple[list[str], str]:
     node = shutil.which("node")
     if not node: return [], "reading UI NOT checked: node is not installed"
@@ -1786,8 +1878,9 @@ def check(out: Path = OUT, data: dict | None = None) -> tuple[list[str], list[st
     editor_problems, editor_note = check_editor(data) if not script_problems else ([], "editor not checked: the syntax failed")
     session_problems, session_note = check_session_ui(data) if not script_problems else ([], "session UI not checked: the syntax failed")
     reading_problems, reading_note = check_reading_ui(data) if not script_problems else ([], "reading UI not checked: syntax failed")
-    return (problems + script_problems + route_problems + board_problems + editor_problems + session_problems + reading_problems,
-            [note, route_note, board_note, editor_note, session_note, reading_note])
+    answer_problems, answer_note = check_answer_export(data) if not script_problems else ([], "answer export not checked: syntax failed")
+    return (problems + script_problems + route_problems + board_problems + editor_problems + session_problems + reading_problems + answer_problems,
+            [note, route_note, board_note, editor_note, session_note, reading_note, answer_note])
 
 
 # ---------------------------------------------------------------- selftest
@@ -1941,6 +2034,14 @@ def selftest() -> tuple[list[str], list[str]]:
             if not any("sessions.py" in p for p in drift):
                 failures.append(f"an id that differs from sessions.slug (no length cut): not reported — got {drift[:2]}")
             lost_js = COMPONENT.read_text(encoding="utf-8").replace(
+                "if (String(a.words || '').trim()) out.words = String(a.words).trim();", "", 1)
+            if any(q["depth"] == 3 and not q["answer"] for r in data["records"]["records"] for q in r["qs"]):
+                lost, _ = check_answer_export(data, lost_js)
+                if not any("depth 3 is answered in the author's words" in p for p in lost):
+                    failures.append(f"an answer file that drops the author's words: not reported — got {lost[:2]}")
+            else:
+                unrun.append("no open depth-3 question in Plan/sessions/: the dropped-words case did not run")
+            lost_js = COMPONENT.read_text(encoding="utf-8").replace(
                 "st.msel = key;", "st.msel = key + 'x';", 1)
             lost, _ = check_routes(data, lost_js)
             if not any("cast " in p or "chapters " in p or "schreibtisch " in p for p in lost):
@@ -1960,7 +2061,7 @@ def main(argv: list[str]) -> int:
         for u in unrun:
             print(f"  not run  {u}")
         print(f"ui: {'every check reported its defect' if not failures else str(len(failures)) + ' case(s) failed'} "
-              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor)")
+              "(clean build, 6 markup, 4 data, 2 agent files, 1 syntax, 2 addresses, 1 board drift, 2 editor, 1 answer export)")
         return 1 if failures else 0
     data = build(OUT, checks="--no-checks" not in argv, fresh="--fresh-checks" in argv)
     project = OUT / "canvas" / "project"
