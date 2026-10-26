@@ -62,6 +62,8 @@ SUITES = [
     ("promotion: pin, Since review, ledger", "std", ["scripts/promote.py", "selftest"]),
     ("term pages: tags, decisions, pin", "std", ["scripts/terms.py", "selftest"]),
     ("full read: ledger, thoughts, page", "std", ["scripts/fullread.py", "selftest"]),
+    ("prose rules: register, scopes, checks", "std", ["scripts/rules.py", "selftest"]),
+    ("prose rules, live", "std", ["scripts/rules.py", "register"]),
     ("dramatica: chart, check, derivation", "std", ["scripts/dramatica.py", "selftest"]),
     ("storyform: refusals, provenance, NCP", "std", ["scripts/storyform.py", "selftest"]),
     ("storyform, live", "std", ["scripts/storyform.py", "--check"]),

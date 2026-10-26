@@ -68,6 +68,9 @@ jobs:
       - name: full reads (fullread.py check)
         if: always()
         run: python3 scripts/fullread.py check
+      - name: prose rules (rules.py register)
+        if: always()
+        run: python3 scripts/rules.py register
       - name: judgement replay (judgements.py)
         if: always()
         run: python3 scripts/judgements.py --open
