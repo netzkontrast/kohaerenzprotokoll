@@ -200,10 +200,16 @@ def build(n: int, today: str | None = None) -> str:
     out = ["---", f"kapitel: {n}", f"titel: {title or '—'}", f"written: {today}", "by: brief.py", "status: briefing"]
 
     K, V, S = [], [], []
-    # [K] canon rows naming the chapter or its figures
+    # [K] canon rows naming the chapter or its figures, and the answer of every Weiche that touches the chapter —
+    # the same set § Offen lists while it is open; an answer given for this chapter must not drop out of its briefing
+    touching = set()
+    for wid in weiche.sheets():
+        ch = weiche.chapters_of(wid)
+        if n in set(ch["development"]) | set(ch["treatment"]) | set(ch["sheet"]):
+            touching.add(wid)
     for r in kanon:
         if WORD(f"Kap {n}").search(r["what"]) or any(WORD(f).search(r["what"]) for f in figures if f not in ("AEGIS", "Kael")) \
-                or r["id"] in ("030",) and False:
+                or r["id"] in touching:
             K.append(f"- [K] **{r['id']}** ({r['date']}): {r['what']} — `{r['where'].strip('`')}`")
     # [K] storypoints
     for sp in dev.get("storypoints", []):
@@ -370,6 +376,14 @@ def selftest() -> int:
         results.append(("it carries the treatment paragraph as [V] and an open Weiche", "- [V] Treatment, Kap 1" in text and "weiche.py answer" in text))
         results.append(("every bullet of the first four sections is tagged", all(re.match(r"^(- \[[KVSDL]\]|  |$|## |# |[^-])", ln) for ln in text.split("\n## Offen")[0].split("# Briefing")[1].split("\n"))))
         results.append(("it names its inputs and their hash", re.search(r"^inputs_hash: [0-9a-f]{64}$", text, re.M) is not None and "Manuscript/kanon.md" in text.split("---")[1]))
+        import weiche
+        answered = [wid for wid, path in weiche.sheets().items()
+                    if weiche.frontmatter(path.read_text(encoding="utf-8")).get("status") == "beantwortet"
+                    and 1 in set(weiche.chapters_of(wid)["development"]) | set(weiche.chapters_of(wid)["treatment"]) | set(weiche.chapters_of(wid)["sheet"])
+                    and any(r["id"] == wid for r in weiche.kanon_rows())]
+        decided = text.split("## Vorgeschlagen")[0]
+        results.append(("every answered Weiche touching Kap 1 stands under Entschieden, whatever its words name",
+                        all(f"**{wid}**" in decided for wid in answered)))
         early = "Mich" "ael"
         results.append(("it writes no early name", early not in text and "Isab" "ella" not in text))
     for name, ok in results:
