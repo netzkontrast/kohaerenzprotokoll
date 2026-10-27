@@ -18,6 +18,8 @@ author and the answer, not the author's working minutes, which the session canno
 | CI red on the stale briefing; defect found and fixed | 11:49 | 12:05 | see F6, F7 |
 | Weichen round 2 put to the author (W28, W21, W20, SP) | ~11:10 | 12:03 | four answers, all the recommended option |
 | answers recorded, rules carried into `regeln.jsonl`, briefing regenerated | 12:03 | 12:06 | 25 rules: 17 bestätigt, 1 verworfen, 2 ersetzt, 5 offen (L9, L12, L15a, L15c, W7a) |
+| beats: scope and falsity asked, six beats proposed, author removed the Anschluss | ~12:20 | 18:28 | `manuscript.py beats 1 1`; the wait includes worker restarts |
+| Szene 1 written, draft frozen (`szene-1/entwurf.md`, 779 words), both checks, two editor reports | 18:28 | 18:31 | `manuscript.py check 1 1`: 0 Fehler, 0 Rückfragen |
 
 ## Friction, as it happened
 
@@ -32,8 +34,11 @@ author and the answer, not the author's working minutes, which the session canno
 | F7 | `brief.py` | **Defect.** An answered Weiche appeared under *Entschieden* only when its words named the chapter or a figure; W2 and W3, answered for Kap 1, and the older W12 were missing — from the one text a scene may be written from. | fixed in `brief.py`: every answered Weiche that touches the chapter stands under *Entschieden*; a selftest case that fails on the old rule |
 | F8 | SP answer → `prose_rules.py` | The author's SP answer confirms the remaining locks "für Szene 1"; the rule register has no scope field, so a confirmation reads as for the whole book. The session confirmed only rules whose text fits Kap 1 and left L9, L12, L15a, L15c and W7a open rather than widen the author's words. Carrying an answer into the register is a second, manual step the author never sees. | Schreibtisch candidate: an answer that names rules shows which ones it confirms before it is recorded |
 | F9 | briefing § Offen | W17, W18 and W33 stay open; none is needed for Szene 1, and the session did not put them (see F3). | not asked in this run; they remain open in the briefing |
+| F10 | beats proposal | W28 („In Szene 1 steht der Abschnitt auf der Löschliste“) and W20 („Szene 1 braucht eine Zeile, die das zeigt“) are the author's answers in § Entschieden; the session proposed the beats from § Vorgeschlagen only, the author approved them, and the draft lacks both lines. Found by the continuity read, not by any check. | Schreibtisch candidate: the beats form lists every decided obligation that names the scene, beside the proposal |
+| F11 | `continuity.py`, `prose_rules.py` | Both checks pass with 0 findings on a draft that misses two decided obligations: neither reads an answer's „Szene N braucht …“ clause. A green check here proves only the rules it encodes. | candidate check: an obligation that names a scene and no line of its prose answers it is a query |
+| F12 | the draft | The woman's moving lips (`szene-1-das-licht.md:L82`) are not in the approved beats; the session added them. Named in the line-editor report, left for the author. | none — the author's mark decides |
 
 ## What follows
 
-The beats of Szene 1 (proposed from § Vorgeschlagen, approved by the author), then the scene, the checks and the
-author's edits. The Schreibtisch changes wait until the run is through.
+The author's answer on F10 (amend the beats, or keep them), then the author's marks and edits in the Schreibtisch, the
+diff, and approval in the author's words. The Schreibtisch changes wait until the run is through.
