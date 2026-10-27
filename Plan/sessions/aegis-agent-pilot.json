@@ -24,6 +24,13 @@
     ]
    },
    {
+    "text": "Spec-A, die normative Spezifikation der Schleife, von einem dreiteiligen Panel geprüft; zwei Blocker und drei weitere Fehler im Code behoben, jeder mit einem Fall, der vorher fehlschlug; die Statements tragen ehrlich, ob ein Fall sie bewacht",
+    "refs": [
+     "Plan/concept/aegis-loop-spec_2026-10-27.md",
+     "Plan/runs/aegis-pilot-2026-10-26/spec-review_2026-10-27.md"
+    ]
+   },
+   {
     "text": "Die Website ohne Login (Entscheidung 032); sie antwortete überall 503, weil SITE_PASSWORD fehlte; /mcp behält sein Token",
     "refs": [
      "middleware.js",
@@ -126,6 +133,31 @@
     "decision:032"
    ],
    "lands_in": "Plan/decisions/032-the-site-opens.md",
+   "asked_on": "2026-10-27"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-aegis-agent-pilot-03",
+   "depth": 2,
+   "text": "Wer darf im AEGIS-Pilot das gemeinsame Kapitel weiterstellen?",
+   "context": "Heute darf jede aktive Figur das Kapitel um eins weiterstellen. Kael (Ende Kap 40) kann so mit zwei Mal „warten“ AEGIS (Ende Kap 39) aus dem Spiel nehmen. Die Spezifikation (Plan/concept/aegis-loop-spec_2026-10-27.md, A.4.6) lässt das offen.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Niemand im Spiel: nur ein Szenen-Ereignis des Szenarios stellt das Kapitel weiter"
+    },
+    {
+     "key": "B",
+     "text": "Jede aktive Figur um höchstens eins, wie heute"
+    },
+    {
+     "key": "C",
+     "text": "Nur die Figur, an die sich die Szene richtet"
+    }
+   ],
+   "recommended": "A",
+   "concerns": [],
+   "lands_in": "Plan/concept/aegis-loop-spec_2026-10-27.md",
    "asked_on": "2026-10-27"
   }
  ],

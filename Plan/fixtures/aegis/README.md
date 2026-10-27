@@ -100,8 +100,9 @@ nothing masked, nothing closed. The seven rejections are recorded in the run's
 
 `scenario`, `schema_version`, `status: proposal`, `inputs` (decided / proposals),
 `assumptions[]`, `chapter`, `world`, `figures{}` (role, profile, endpoint_chapter,
-allowed_actions, sees), `actions{}` (cost, requires, effects, consequence, and `target: "anomaly"` for an action
-that acts on one), `facts[]` (visible_to, and `subject` — what the observation is about: an anomaly id, `reserve`,
+allowed_actions, sees), `actions{}` (cost, requires, effects, consequence, `claim_to` for an action that delivers a
+claim, and `target: "anomaly"` for an action that acts on one; a proposal that delivers a claim carries its text in
+`claim`, apart from its literary `reason` and `log`), `facts[]` (visible_to, and `subject` — what the observation is about: an anomaly id, `reserve`,
 a sector; schema 2), `claims[]`, `beliefs[]` (holder, source, status),
 `author_only[]`, `state{}` (version, chapter, reserve, memories, anomalies),
 `responses[]` (the frozen proposals) and `expected{}`. `scripts/aegis.py

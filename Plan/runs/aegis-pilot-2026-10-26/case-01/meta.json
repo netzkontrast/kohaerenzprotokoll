@@ -1,8 +1,8 @@
 {
   "scenario": "case-01-sweep",
-  "scenario_sha256": "60d7cda08ab9f9cfb09ebdbbfced9ea8c9cd26f1eda759ef9045f3869d75289e",
-  "responses_sha256": "74d1beef01cc729d96a241ad6c2f2bbd592eff030c86d8d31276c905d62e0006",
-  "source_revision": "82f61021df0e29af74f0bb58ebcbcc623c5f82c6",
+  "scenario_sha256": "bee86405664b0ed5606b81fa1115a926394fd9eaf0facdd05a3976b87b6eb247",
+  "responses_sha256": "d70e52ccc07159c10238ac88243716ef2cad6711be8d152ed34d0b4254cdef4b",
+  "source_revision": "3c1dcea0eb45487ec7705c8c04ff3f00908ff4fb",
   "schema_version": 2,
   "parent": null
 }

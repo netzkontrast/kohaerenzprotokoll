@@ -87,7 +87,7 @@
      "expected_version": 0, "reason": "Toleranz unterschritten; Sweep innerhalb der Reserve.",
      "log": "Maßnahme: Sweep Sektor 04. Kohärenz 0,71 → Ziel 1,00. Reserve −7."},
     {"action_id": "c1-a2", "actor": "kael", "type": "report", "target": "X1", "observations": ["F1-consequence-c1-a1"],
-     "expected_version": 1, "reason": "Der Block ist grau; die Hausnummern fehlen.",
+     "expected_version": 1, "claim": "Der Block ist grau; die Hausnummern fehlen.",
      "log": "Kael meldet den grauen Block über die Konsole."},
     {"action_id": "c1-a1", "actor": "aegis", "type": "sweep", "target": "X1", "observations": ["F1"],
      "expected_version": 1, "reason": "(Wiederholung derselben Aktions-ID — darf nichts kosten.)"}

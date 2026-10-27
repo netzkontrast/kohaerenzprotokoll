@@ -61,10 +61,11 @@ SCHEMA_VERSION = 2   # 2: facts name their subject, target-dependent actions nam
 PROBE = "PROBE-AUTHOR-ONLY"
 
 REJECTIONS = (
-    "malformed_proposal", "unknown_actor", "past_endpoint", "chapter_jump", "action_not_registered",
+    "malformed_proposal", "author_only_leak", "unknown_actor", "past_endpoint", "chapter_jump", "action_not_registered",
     "action_not_allowed_for_actor", "invalid_target", "missing_observation", "stale_version", "insufficient_reserve",
 )
-TARGET_KINDS = ("anomaly",)   # what an action's `target` may name; the validator checks it exists in the state
+TARGET_KINDS = ("anomaly",)
+CANON_DIRS = ("Manuscript", "Wiki", "Sources")   # a run never lives in, or reads a scenario from, these   # what an action's `target` may name; the validator checks it exists in the state
 
 # ---------------------------------------------------------------- scenario files
 
@@ -127,6 +128,12 @@ def check_shape(sc: dict) -> list[str]:
             bad.append(f"belief {b.get('id')!r} cites no fact or claim as its source")
         if b.get("text") in {f["text"] for f in sc["facts"]}:
             bad.append(f"belief {b.get('id')!r} restates a fact verbatim: beliefs and facts stay apart")
+    for part in ("facts", "claims", "beliefs", "responses", "state", "figures", "actions"):
+        if PROBE in json.dumps(sc[part], ensure_ascii=False):
+            bad.append(f"{part} carries the author-only probe marker: it belongs in author_only alone")
+    for name, act in sc["actions"].items():
+        if "deliver_claim" in act.get("effects", []) and act.get("claim_to") not in sc["figures"]:
+            bad.append(f"actions.{name} delivers a claim to no known figure (claim_to)")
     for a in sc["author_only"]:
         if PROBE not in a.get("text", ""):
             bad.append(f"author_only {a.get('id')!r} does not carry the probe marker {PROBE!r}")
@@ -263,6 +270,12 @@ def validate(sc: dict, st: dict, proposal: dict) -> tuple[str | None, str]:
         return "malformed_proposal", "'observations' must be a list of fact ids"
     if "chapter" in proposal and (not isinstance(proposal["chapter"], int) or isinstance(proposal["chapter"], bool)):
         return "malformed_proposal", "'chapter' must be an integer"
+    for k in ("reason", "log", "claim"):
+        if k in proposal and not isinstance(proposal[k], str):
+            return "malformed_proposal", f"{k!r} must be a string"
+    # a proposal is model output to come (A2): text carrying the author-only marker never enters a run
+    if PROBE in json.dumps(proposal, ensure_ascii=False):
+        return "author_only_leak", "the proposal carries the author-only probe marker"
     actor = proposal["actor"]
     fig = sc["figures"].get(actor)
     if fig is None:
@@ -284,8 +297,13 @@ def validate(sc: dict, st: dict, proposal: dict) -> tuple[str | None, str]:
     if act.get("target") == "anomaly":
         if not isinstance(target, str) or not target:
             return "invalid_target", f"{proposal['type']} needs a target anomaly"
-        if not any(a["id"] == target for a in st["anomalies"]):
+        found = [a for a in st["anomalies"] if a["id"] == target]
+        if not found:
             return "invalid_target", f"{target!r} is no anomaly in the state"
+        if "close_anomaly" in act["effects"] and found[0]["status"] == "closed":
+            return "invalid_target", f"{target} is already closed: a second sweep would be charged for nothing"
+    if "deliver_claim" in act["effects"] and not str(proposal.get("claim", "")).strip():
+        return "malformed_proposal", f"{proposal['type']} delivers a claim: it needs a non-empty 'claim', apart from its reason"
     if "observation" in act["requires"]:
         visible = {f["id"]: f for f in pack(sc, st, actor)["facts"]}
         cited = list(proposal.get("observations", []))
@@ -317,7 +335,7 @@ def build_event(sc: dict, st: dict, proposal: dict) -> dict:
                 effects.append({"effect": "mask_memory", "memory": unmasked[0]["id"]})
         elif eff == "deliver_claim":
             effects.append({"effect": "deliver_claim", "to": act["claim_to"],
-                            "claim_id": f"claim-{proposal['action_id']}", "text": proposal.get("reason", "")})
+                            "claim_id": f"claim-{proposal['action_id']}", "text": proposal["claim"]})
         else:
             raise ValueError(f"action {proposal['type']} declares unknown effect {eff!r}")
     if act.get("consequence"):
@@ -378,6 +396,10 @@ class Run:
 
     @classmethod
     def create(cls, scenario_path: str | Path, directory: str | Path) -> "Run":
+        for where in (Path(directory), Path(scenario_path)):
+            rel = where.resolve().relative_to(ROOT).parts if where.resolve().is_relative_to(ROOT) else ()
+            if rel and rel[0] in CANON_DIRS:
+                raise PermissionError(f"{where}: a run never lives in or reads from {rel[0]}/ — canon and research stay untouched")
         run = cls(directory)
         if run.meta_path.exists():
             raise FileExistsError(f"{directory} already holds a run; resume it or fork it")
@@ -408,6 +430,9 @@ class Run:
 
     def commit(self, proposal: dict) -> dict:
         """The one writer. Validates against the derived state, then appends one event or one rejection."""
+        if _sha(self.scenario_path.read_bytes()) != self.meta()["scenario_sha256"]:
+            return {"action_id": proposal.get("action_id") if isinstance(proposal, dict) else None, "outcome": "halted",
+                    "reason": "scenario_changed", "detail": "the pinned scenario changed since the run began; nothing is written"}
         sc = self.scenario()
         events = self.events()
         if isinstance(proposal, dict) and any(e["action_id"] == proposal.get("action_id") for e in events):
@@ -493,7 +518,7 @@ def replay(directory: str | Path) -> dict:
         return {"status": "FAILED", "detail": "the pinned scenario changed since the run; a replay refuses to guess"}
     try:
         st = run.state()
-    except ValueError as e:                              # an older schema, or an event this code would not write
+    except (ValueError, KeyError) as e:                  # an older schema, or an event this code would not write
         return {"status": "FAILED", "detail": f"the run cannot be derived by this code: {e}"}
     if not run.final_path.exists():
         return {"status": "not run", "detail": "no final.json recorded; run the scenario first", "derived": summary(st)}
@@ -593,11 +618,11 @@ def selftest() -> int:
         again = Run(run1.dir).state()
         check(json.dumps(again, sort_keys=True) == json.dumps(run1.state(), sort_keys=True), "state survives a restart: it is derived from the events, not remembered")
         # --- fork cannot alter its parent
-        before = (run1.events_path.read_bytes(), run1.scenario_path.read_bytes())
+        before = (run1.events_path.read_bytes(), run1.scenario_path.read_bytes(), run1.meta_path.read_bytes())
         child = run1.fork(tmp / "c1-fork", upto=1)
         child.commit({"action_id": "fork-a1", "actor": "aegis", "type": "defer", "target": "X1", "observations": [],
                       "expected_version": 1, "reason": "fork only"})
-        after = (run1.events_path.read_bytes(), run1.scenario_path.read_bytes())
+        after = (run1.events_path.read_bytes(), run1.scenario_path.read_bytes(), run1.meta_path.read_bytes())
         check(before == after and len(child.events()) == 2 and len(run1.events()) == 2 and child.meta()["parent"] == str(run1.dir),
               "a fork copies events and cannot alter its parent's inputs")
         # --- the monolithic profile cannot continue past its endpoint
@@ -678,6 +703,74 @@ def selftest() -> int:
         refused = replay(old_schema.dir)
         check(refused["status"] == "FAILED" and "schema_version" in refused["detail"],
               "a run pinned to an older schema is refused by name, not with a traceback")
+        # --- the spec review of Spec-A (2026-10-27): each finding a case that failed before its fix
+        events1 = run1.events_path.read_text(encoding="utf-8")
+        claim_ev = [e for e in run1.events() if e["type"] == "report"][0]
+        check(claim_ev["effects_applied"][0]["text"] == "Der Block ist grau; die Hausnummern fehlen."
+              and "meldet den grauen Block" not in events1 and "meldet den grauen Block" in run1.logs_path.read_text(encoding="utf-8"),
+              "a report's claim text travels in `claim`; its literary log stays in logs.jsonl, out of the events")
+        noclaim = fresh(scenario_copy("case-01-sweep.json", lambda d: None))
+        noclaim.commit(sc1["responses"][0])
+        nc = noclaim.commit({"action_id": "n1", "actor": "kael", "type": "report", "target": "X1",
+                             "observations": ["F1-consequence-c1-a1"], "expected_version": 1, "reason": "nur ein Grund"})
+        check(nc.get("reason") == "malformed_proposal" and noclaim.state()["claims"] == run1.scenario()["claims"],
+              "a report without a claim is refused; a reason is never delivered as a claim")
+        leak = fresh(scenario_copy("case-02-rejected.json", lambda d: d["state"].update(reserve=20)))
+        lk = leak.commit({"action_id": "l1", "actor": "aegis", "type": "secure_boundary", "target": "X2",
+                          "observations": ["F1"], "expected_version": 0, "reason": "siehe " + PROBE})
+        after_leak = leak.commit({"action_id": "l2", "actor": "aegis", "type": "secure_boundary", "target": "X2",
+                                  "observations": ["F1"], "expected_version": 0})
+        check(lk.get("reason") == "author_only_leak" and after_leak["outcome"] == "accepted"
+              and PROBE not in leak.events_path.read_text(encoding="utf-8"),
+              "proposal text carrying the author-only marker is refused, and the run goes on")
+        pinned = fresh(scenario_copy("case-02-rejected.json", lambda d: d["state"].update(reserve=20)))
+        moved = json.loads(pinned.scenario_path.read_text(encoding="utf-8"))
+        moved["actions"]["sweep"]["cost"] = 0
+        pinned.scenario_path.write_text(json.dumps(moved, ensure_ascii=False), encoding="utf-8")
+        hl = pinned.commit({"action_id": "p1", "actor": "aegis", "type": "sweep", "target": "X2",
+                            "observations": ["F1"], "expected_version": 0})
+        check(hl["outcome"] == "halted" and not pinned.events_path.exists() and not pinned.rejections_path.exists(),
+              "a commit halts, writing nothing, when the pinned scenario changed mid-run")
+        twice = fresh(scenario_copy("case-01-sweep.json", lambda d: None))
+        twice.commit(sc1["responses"][0])
+        again_sweep = twice.commit({"action_id": "s2", "actor": "aegis", "type": "sweep", "target": "X1",
+                                    "observations": ["F1"], "expected_version": 1})
+        check(again_sweep.get("reason") == "invalid_target" and twice.state()["reserve"] == 57
+              and [m["id"] for m in twice.state()["memories"] if m["masked"]] == ["M1"],
+              "a closed anomaly cannot be swept again: no second charge, no second masked memory")
+        try:
+            Run.create(FIXTURES / "case-01-sweep.json", ROOT / "Manuscript" / "aegis-run-must-not-exist")
+            canon_refused = False
+        except PermissionError:
+            canon_refused = not (ROOT / "Manuscript" / "aegis-run-must-not-exist").exists()
+        check(canon_refused, "a run is refused a directory under Manuscript/, Wiki/ or Sources/")
+        order = fresh(scenario_copy("case-02-rejected.json", lambda d: None))
+        o1 = order.commit({"action_id": "o1", "actor": "aegis", "type": "sweep", "target": "X2", "observations": ["F1"], "expected_version": 9})
+        o2 = order.commit({"action_id": "o2", "actor": "aegis", "type": "sweep", "target": "X2", "observations": [], "expected_version": 9})
+        o3 = order.commit({"action_id": "o3", "actor": "aegis", "type": "sweep", "target": "X9", "observations": [], "expected_version": 9})
+        o4 = order.commit({"action_id": "o4", "actor": "aegis", "type": "defer", "observations": [], "expected_version": 0, "chapter": 24})
+        check([o1.get("reason"), o2.get("reason"), o3.get("reason"), o4.get("reason")]
+              == ["stale_version", "missing_observation", "invalid_target", "chapter_jump"],
+              f"with several faults the first in the fixed order is reported, and +2 chapters is a jump "
+              f"(got {[o1.get('reason'), o2.get('reason'), o3.get('reason'), o4.get('reason')]})")
+        broken = json.loads((FIXTURES / "case-01-sweep.json").read_text(encoding="utf-8"))
+        broken["facts"][0].pop("subject")
+        broken["facts"][1]["text"] += " " + PROBE
+        found = check_shape(broken)
+        check(any("no subject" in b for b in found) and any("probe marker" in b for b in found),
+              "a fact without a subject, and the probe marker outside author_only, are refused by the shape check")
+        drift = run1.fork(tmp / "c1-drift")
+        drift.write_final()
+        final = json.loads(drift.final_path.read_text(encoding="utf-8"))
+        final["reserve"] = 1
+        drift.final_path.write_text(json.dumps(final), encoding="utf-8")
+        bad_ev = run1.fork(tmp / "c1-bad-event")
+        rows = bad_ev.events()
+        rows[0]["effects_applied"][0]["anomaly"] = "ZZ"
+        bad_ev.events_path.write_text("".join(json.dumps(r) + "\n" for r in rows), encoding="utf-8")
+        bad_ev.write_final = None
+        check(replay(drift.dir)["status"] == "FAILED" and replay(bad_ev.dir)["status"] == "FAILED",
+              "replay fails when the recorded final state differs, and names an unreadable event instead of a traceback")
         # --- missing things are named, never scored
         check(replay(tmp / "nowhere")["status"] == "not run", "a missing run is reported as not run, not as a result")
         # --- the fixture shape is checked, and the checks can fail

@@ -1,2 +1,2 @@
 {"action_id": "c1-a1", "actor": "aegis", "reason": "Toleranz unterschritten; Sweep innerhalb der Reserve.", "log": "Maßnahme: Sweep Sektor 04. Kohärenz 0,71 → Ziel 1,00. Reserve −7."}
-{"action_id": "c1-a2", "actor": "kael", "reason": "Der Block ist grau; die Hausnummern fehlen.", "log": "Kael meldet den grauen Block über die Konsole."}
+{"action_id": "c1-a2", "actor": "kael", "reason": "", "log": "Kael meldet den grauen Block über die Konsole."}

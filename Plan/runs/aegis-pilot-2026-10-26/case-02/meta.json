@@ -2,7 +2,7 @@
   "scenario": "case-02-rejected",
   "scenario_sha256": "5317bed66ff594ff01033a977ae3688c9a5c3f4b98d1299ca438450c629a82f9",
   "responses_sha256": "dee4bd78101c15c4e7b135238314cbb8fd151201264e1e358083cb76810d3b3d",
-  "source_revision": "82f61021df0e29af74f0bb58ebcbcc623c5f82c6",
+  "source_revision": "3c1dcea0eb45487ec7705c8c04ff3f00908ff4fb",
   "schema_version": 2,
   "parent": null
 }
