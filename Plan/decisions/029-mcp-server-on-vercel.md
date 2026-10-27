@@ -39,6 +39,8 @@ The concept is `Plan/concept/mcp-server_2026-10-16.md`.
    `Authorization: Bearer <RAG_MCP_TOKEN>`, and `api/rag_server.py` checks the token again. **It fails closed**: a
    path whose variable is unset answers 503, so turning Vercel's login off before setting the variables exposes
    nothing. This replaces §4's open site: with Vercel's login off, the project's own login is what stands in front.
+   **Changed 2026-10-27 by decision 032:** the website's login is gone at the author's word; the token for `/mcp` and
+   `/api/*` stays.
 
 ## What was rejected
 

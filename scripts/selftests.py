@@ -88,7 +88,7 @@ SUITES = [
     ("graphrag", "std", ["scripts/graphrag.py", "selftest"]),
     ("rag: serving index, search, windows, quotations, withheld lines", "std", ["scripts/rag.py", "selftest"]),
     ("MCP server: every tool through FastMCP", "mcp", ["api/rag_server.py", "selftest"]),
-    ("website login: middleware.js, fail closed", "node", ["scripts/auth_selftest.js"]),
+    ("website access: middleware.js, the site open, /mcp behind its token", "node", ["scripts/auth_selftest.js"]),
     ("static pages: render, withhold, incremental", "std", ["scripts/static_pages.py", "selftest"]),
     ("bench set: frozen, hashed, drift, clusters", "std", ["scripts/benchset.py", "selftest"]),
     ("bench set, live: integrity of the frozen cases", "std", ["scripts/benchset.py", "check"]),
