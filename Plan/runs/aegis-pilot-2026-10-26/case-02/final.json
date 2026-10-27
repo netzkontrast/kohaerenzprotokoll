@@ -24,6 +24,7 @@
     {
       "id": "F1",
       "kind": "observed",
+      "subject": "X2",
       "text": "Anomalie X2, Archipel-Rand, KW2: Kohärenzwert 0,77, Messung 11:02.",
       "visible_to": [
         "aegis"
@@ -32,6 +33,7 @@
     {
       "id": "F2",
       "kind": "observed",
+      "subject": "reserve",
       "text": "Reserve bei 3 % (Testzustand).",
       "visible_to": [
         "aegis"

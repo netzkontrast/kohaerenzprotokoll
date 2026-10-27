@@ -1,6 +1,6 @@
 {
   "scenario": "case-01-sweep",
-  "schema_version": 1,
+  "schema_version": 2,
   "status": "proposal",
   "title": "AEGIS observes a scenario-local anomaly and proposes a permitted sweep; Kael perceives the consequence",
   "written": "2026-10-26",
@@ -45,20 +45,20 @@
     }
   },
   "actions": {
-    "sweep": {"cost": 7, "requires": ["observation"], "effects": ["close_anomaly", "mask_memory"],
+    "sweep": {"target": "anomaly", "cost": 7, "requires": ["observation"], "effects": ["close_anomaly", "mask_memory"],
               "consequence": {"visible_to": ["kael"], "text": "Der Block um {target} ist über Nacht grau geworden; die Hausnummern fehlen."}},
-    "secure_boundary": {"cost": 2, "requires": ["observation"], "effects": []},
+    "secure_boundary": {"target": "anomaly", "cost": 2, "requires": ["observation"], "effects": []},
     "defer": {"cost": 0, "requires": [], "effects": []},
-    "report": {"cost": 0, "requires": ["observation"], "effects": ["deliver_claim"],
+    "report": {"target": "anomaly", "cost": 0, "requires": ["observation"], "effects": ["deliver_claim"],
                "claim_to": "aegis"},
     "wait": {"cost": 0, "requires": [], "effects": []}
   },
   "facts": [
-    {"id": "F1", "kind": "observed", "visible_to": ["aegis"],
+    {"id": "F1", "kind": "observed", "subject": "X1", "visible_to": ["aegis"],
      "text": "Anomalie X1, Sektor 04, KW1: Kohärenzwert 0,71, Toleranz 0,80 unterschritten, Messung 06:10."},
-    {"id": "F2", "kind": "observed", "visible_to": ["aegis"],
+    {"id": "F2", "kind": "observed", "subject": "reserve", "visible_to": ["aegis"],
      "text": "Reserve bei 64 % (clock-b.json, Vorschlag)."},
-    {"id": "F3", "kind": "observed", "visible_to": ["kael"],
+    {"id": "F3", "kind": "observed", "subject": "sector-04", "visible_to": ["kael"],
      "text": "Kael steht um 06:10 an der Konsole; die Zuweisung für Sektor 04 ist nicht auf null."}
   ],
   "claims": [],

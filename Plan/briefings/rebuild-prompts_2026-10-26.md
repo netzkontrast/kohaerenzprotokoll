@@ -89,8 +89,9 @@ promotion or user-facing flag (P0 reserves these).
 ### B2 — layer scope
 
 Goal: one scope file per research layer declaring what it may contain, what it ignores, and which derived views it
-feeds; a lint that fails when a view reads a path it writes. Create `Plan/decisions/030-layer-scope.md` first (a
-proposal for the author), then `Plan/scope/{sources-terms,sources-notes,wiki,manuscript}.json` and
+feeds; a lint that fails when a view reads a path it writes. Create a decision file first — `Plan/decisions/<NNN>-layer-scope.md` with the next unused number at the time
+(030 is the writing workshop, 031 is reserved for the session apps, 032 is the open site: `ls Plan/decisions`; a
+duplicate number collides in the app's decision addresses) — as a proposal for the author, then `Plan/scope/{sources-terms,sources-notes,wiki,manuscript}.json` and
 `scripts/scope_lint.py --check`. Pattern: `/home/user/self-driving-agents/engineering/bank-template.json` and
 `src/scripts/lint-bank-templates.mjs`. Add the CI step only with the author's approval. Nothing retains,
 consolidates or calls a model.

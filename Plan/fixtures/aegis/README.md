@@ -71,8 +71,9 @@ holds the received claim `K1` as a belief of status `received` — a received
 statement, not an observation.
 
 **Proposals, in order**, each rejected with its typed reason, in the
-validator's fixed order (actor → endpoint → registered action → allowed for
-actor → observations present in the actor's pack → state version → reserve):
+validator's fixed order (proposal shape → actor → endpoint, by the persisted chapter first → chapter
+step → registered action → allowed for actor → target → an observation present in the actor's pack and
+about that target → state version → reserve; the order since the review of PR #198, 2026-10-27):
 1. `c2-a1` sweep X3 with no observation → `missing_observation`.
 2. `c2-a2` sweep X2 citing the received claim `K1` as an observation →
    `missing_observation` (a claim is not an observation).
@@ -99,8 +100,9 @@ nothing masked, nothing closed. The seven rejections are recorded in the run's
 
 `scenario`, `schema_version`, `status: proposal`, `inputs` (decided / proposals),
 `assumptions[]`, `chapter`, `world`, `figures{}` (role, profile, endpoint_chapter,
-allowed_actions, sees), `actions{}` (cost, requires, effects, consequence),
-`facts[]` (visible_to), `claims[]`, `beliefs[]` (holder, source, status),
+allowed_actions, sees), `actions{}` (cost, requires, effects, consequence, and `target: "anomaly"` for an action
+that acts on one), `facts[]` (visible_to, and `subject` — what the observation is about: an anomaly id, `reserve`,
+a sector; schema 2), `claims[]`, `beliefs[]` (holder, source, status),
 `author_only[]`, `state{}` (version, chapter, reserve, memories, anomalies),
 `responses[]` (the frozen proposals) and `expected{}`. `scripts/aegis.py
 validate <file>` refuses a file that departs from it, naming the field.

@@ -11,6 +11,7 @@
     {
       "id": "F3",
       "kind": "observed",
+      "subject": "sector-04",
       "visible_to": [
         "kael"
       ],
@@ -35,6 +36,7 @@
     "facts": 2,
     "claims": 0,
     "author_only": 2,
+    "masked_memories": 0,
     "state_keys": [
       "reserve",
       "memories",

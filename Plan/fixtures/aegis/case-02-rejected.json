@@ -1,6 +1,6 @@
 {
   "scenario": "case-02-rejected",
-  "schema_version": 1,
+  "schema_version": 2,
   "status": "proposal",
   "title": "AEGIS requests actions without the required observation, with insufficient reserve, and against a stale state version; every one is rejected and nothing changes",
   "written": "2026-10-26",
@@ -39,17 +39,17 @@
     }
   },
   "actions": {
-    "sweep": {"cost": 7, "requires": ["observation"], "effects": ["close_anomaly", "mask_memory"],
+    "sweep": {"target": "anomaly", "cost": 7, "requires": ["observation"], "effects": ["close_anomaly", "mask_memory"],
               "consequence": {"visible_to": ["kael"], "text": "Der Block um {target} ist grau geworden."}},
-    "secure_boundary": {"cost": 2, "requires": ["observation"], "effects": []},
+    "secure_boundary": {"target": "anomaly", "cost": 2, "requires": ["observation"], "effects": []},
     "defer": {"cost": 0, "requires": [], "effects": []},
-    "report": {"cost": 0, "requires": ["observation"], "effects": ["deliver_claim"], "claim_to": "aegis"},
+    "report": {"target": "anomaly", "cost": 0, "requires": ["observation"], "effects": ["deliver_claim"], "claim_to": "aegis"},
     "wait": {"cost": 0, "requires": [], "effects": []}
   },
   "facts": [
-    {"id": "F1", "kind": "observed", "visible_to": ["aegis"],
+    {"id": "F1", "kind": "observed", "subject": "X2", "visible_to": ["aegis"],
      "text": "Anomalie X2, Archipel-Rand, KW2: Kohärenzwert 0,77, Messung 11:02."},
-    {"id": "F2", "kind": "observed", "visible_to": ["aegis"],
+    {"id": "F2", "kind": "observed", "subject": "reserve", "visible_to": ["aegis"],
      "text": "Reserve bei 3 % (Testzustand)."}
   ],
   "claims": [

@@ -1,9 +1,9 @@
 {
   "scenario": "case-01-sweep",
-  "scenario_sha256": "f32c92ef411ed51e770135958ad6c8d0ac3e19a827d3adeed110b406f1cddb09",
+  "scenario_sha256": "60d7cda08ab9f9cfb09ebdbbfced9ea8c9cd26f1eda759ef9045f3869d75289e",
   "responses_sha256": "74d1beef01cc729d96a241ad6c2f2bbd592eff030c86d8d31276c905d62e0006",
-  "source_revision": "fd03e8d09e284a439c79854285d32c8b830339d3",
-  "schema_version": 1,
+  "source_revision": "82f61021df0e29af74f0bb58ebcbcc623c5f82c6",
+  "schema_version": 2,
   "parent": "Plan/runs/aegis-pilot-2026-10-26/case-01",
   "forked_at_version": 1
 }

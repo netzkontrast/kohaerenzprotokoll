@@ -32,7 +32,12 @@ What the files show:
 `grep -r PROBE-AUTHOR-ONLY` over this directory finds the marker only inside
 the pinned `scenario.json` copies, which are the author's input, never a pack or
 a tool response. `python3 scripts/aegis.py selftest` repeats every assertion of
-the briefing's acceptance list on a temporary copy (24 lines, each able to fail).
+the briefing's acceptance list on a temporary copy (32 lines, each able to fail).
+
+**Regenerated 2026-10-27** with the commands above, after the review of PR #198: facts now name their `subject`,
+the fixtures are schema 2, and the validator refuses an unrelated observation, a backdated chapter, a missing or
+unknown target and a malformed proposal; a pack shows a masked memory by its id alone. The two cases' outcomes are
+unchanged. A run pinned to schema 1 is refused by `replay` by name; git holds the earlier run (`git log -- Plan/runs/aegis-pilot-2026-10-26`).
 
 Each `case-*/` holds: `scenario.json` (pinned), `meta.json` (scenario sha256,
 responses sha256, git revision at run time), `events.jsonl` (accepted events,

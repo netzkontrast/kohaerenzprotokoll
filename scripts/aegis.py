@@ -57,13 +57,14 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 FIXTURES = ROOT / "Plan" / "fixtures" / "aegis"
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2   # 2: facts name their subject, target-dependent actions name their target kind (review of PR #198)
 PROBE = "PROBE-AUTHOR-ONLY"
 
 REJECTIONS = (
-    "unknown_actor", "past_endpoint", "action_not_registered", "action_not_allowed_for_actor",
-    "missing_observation", "stale_version", "insufficient_reserve",
+    "malformed_proposal", "unknown_actor", "past_endpoint", "chapter_jump", "action_not_registered",
+    "action_not_allowed_for_actor", "invalid_target", "missing_observation", "stale_version", "insufficient_reserve",
 )
+TARGET_KINDS = ("anomaly",)   # what an action's `target` may name; the validator checks it exists in the state
 
 # ---------------------------------------------------------------- scenario files
 
@@ -102,7 +103,13 @@ def check_shape(sc: dict) -> list[str]:
                 bad.append(f"actions.{name} lacks {k!r}")
         if act.get("cost", 0) < 0:
             bad.append(f"actions.{name} has a negative cost")
+        if act.get("target") is not None and act["target"] not in TARGET_KINDS:
+            bad.append(f"actions.{name} names target kind {act['target']!r}, none of {TARGET_KINDS}")
+        if "close_anomaly" in act.get("effects", []) and act.get("target") != "anomaly":
+            bad.append(f"actions.{name} closes an anomaly but does not declare target 'anomaly'")
     for f in sc["facts"]:
+        if not isinstance(f.get("subject"), str) or not f.get("subject"):
+            bad.append(f"fact {f.get('id')!r} has no subject: an observation says what it is about")
         if not f.get("visible_to"):
             bad.append(f"fact {f.get('id')!r} has no visible_to: every fact names who sees it")
         for who in f.get("visible_to", []):
@@ -185,7 +192,7 @@ def apply_event(st: dict, ev: dict) -> dict:
         elif kind == "mask_memory":
             _memory(st, eff["memory"])["masked"] = True
         elif kind == "consequence_fact":
-            st["facts"].append({"id": eff["fact_id"], "kind": "consequence",
+            st["facts"].append({"id": eff["fact_id"], "kind": "consequence", "subject": eff.get("subject", ""),
                                 "visible_to": list(eff["visible_to"]), "text": eff["text"],
                                 "from_event": ev["action_id"]})
         elif kind == "deliver_claim":
@@ -215,9 +222,15 @@ def pack(sc: dict, st: dict, figure: str) -> dict:
     claims = [c for c in st["claims"] if c["to"] == figure]
     beliefs = [b for b in sc["beliefs"] if b["holder"] == figure]
     view = {"version": st["version"], "chapter": st["chapter"]}
+    masked_hidden = 0
     for key in ("reserve", "memories", "anomalies"):
         if fig["sees"].get(key):
             view[key] = copy.deepcopy(st[key])
+    if "memories" in view:
+        # a masked memory is lost to the figure: its id and the fact of the loss stay, its text does not
+        # (the authoritative state and the replay keep it; review of PR #198, P2)
+        masked_hidden = sum(1 for m in view["memories"] if m.get("masked"))
+        view["memories"] = [{"id": m["id"], "masked": True} if m.get("masked") else m for m in view["memories"]]
     hidden_facts = len(st["facts"]) - len(facts)
     out = {
         "figure": figure, "role": fig["role"], "profile": fig["profile"],
@@ -225,7 +238,7 @@ def pack(sc: dict, st: dict, figure: str) -> dict:
         "allowed_actions": list(fig["allowed_actions"]),
         "facts": facts, "claims": claims, "beliefs": beliefs, "state": view,
         "omitted": {"facts": hidden_facts, "claims": len(st["claims"]) - len(claims),
-                    "author_only": len(sc["author_only"]),
+                    "author_only": len(sc["author_only"]), "masked_memories": masked_hidden,
                     "state_keys": [k for k in ("reserve", "memories", "anomalies") if not fig["sees"].get(k)]},
     }
     if PROBE in json.dumps(out, ensure_ascii=False):
@@ -236,26 +249,54 @@ def pack(sc: dict, st: dict, figure: str) -> dict:
 # ---------------------------------------------------------------- validation
 
 def validate(sc: dict, st: dict, proposal: dict) -> tuple[str | None, str]:
-    """The first failing rule, in fixed order, or (None, 'ok'). Decidable; no model."""
+    """The first failing rule, in fixed order, or (None, 'ok'). Decidable; no model.
+
+    Order: shape → actor → endpoint (persisted chapter, then the proposal's) → chapter step → registered → allowed
+    → target → observation about that target → version → reserve. Every refusal is a recorded rejection; nothing
+    here raises on a malformed proposal (review of PR #198, P2)."""
+    if not isinstance(proposal, dict):
+        return "malformed_proposal", "a proposal is a JSON object"
+    for k, typ in (("action_id", str), ("actor", str), ("type", str), ("expected_version", int)):
+        if not isinstance(proposal.get(k), typ) or isinstance(proposal.get(k), bool):
+            return "malformed_proposal", f"{k!r} missing or not {typ.__name__}"
+    if not isinstance(proposal.get("observations", []), list) or not all(isinstance(o, str) for o in proposal.get("observations", [])):
+        return "malformed_proposal", "'observations' must be a list of fact ids"
+    if "chapter" in proposal and (not isinstance(proposal["chapter"], int) or isinstance(proposal["chapter"], bool)):
+        return "malformed_proposal", "'chapter' must be an integer"
     actor = proposal["actor"]
     fig = sc["figures"].get(actor)
     if fig is None:
         return "unknown_actor", f"no figure {actor!r}"
+    # the persisted chapter decides whether the actor still acts; a proposal cannot backdate itself into activity
+    if st["chapter"] > fig["endpoint_chapter"]:
+        return "past_endpoint", f"{actor} ({fig['profile']}) ended at chapter {fig['endpoint_chapter']}; the world is at {st['chapter']}"
     chapter = proposal.get("chapter", st["chapter"])
     if chapter > fig["endpoint_chapter"]:
         return "past_endpoint", f"{actor} ({fig['profile']}) cannot act in chapter {chapter}: endpoint {fig['endpoint_chapter']}"
+    if chapter not in (st["chapter"], st["chapter"] + 1):
+        return "chapter_jump", f"a proposal stays in chapter {st['chapter']} or moves to the next; it asked for {chapter}"
     act = sc["actions"].get(proposal["type"])
     if act is None:
         return "action_not_registered", f"{proposal['type']!r} is not a registered action"
     if proposal["type"] not in fig["allowed_actions"]:
         return "action_not_allowed_for_actor", f"{actor} may not {proposal['type']}"
+    target = proposal.get("target")
+    if act.get("target") == "anomaly":
+        if not isinstance(target, str) or not target:
+            return "invalid_target", f"{proposal['type']} needs a target anomaly"
+        if not any(a["id"] == target for a in st["anomalies"]):
+            return "invalid_target", f"{target!r} is no anomaly in the state"
     if "observation" in act["requires"]:
-        visible = {f["id"] for f in pack(sc, st, actor)["facts"]}
+        visible = {f["id"]: f for f in pack(sc, st, actor)["facts"]}
         cited = list(proposal.get("observations", []))
         missing = [o for o in cited if o not in visible]
         if not cited or missing:
             return "missing_observation", (f"{proposal['type']} requires an observation in {actor}'s pack; "
                                            f"cited {cited}, not visible {missing}")
+        # a visible fact about something else authorises nothing: one cited observation must be about the target
+        if act.get("target") == "anomaly" and not any(visible[o].get("subject") == target for o in cited):
+            return "missing_observation", (f"{proposal['type']} on {target} requires an observation of {target}; "
+                                           f"cited {cited} are about {sorted({visible[o].get('subject') for o in cited})}")
     if proposal["expected_version"] != st["version"]:
         return "stale_version", f"expected version {proposal['expected_version']}, state is {st['version']}"
     if act["cost"] > st["reserve"]:
@@ -282,7 +323,7 @@ def build_event(sc: dict, st: dict, proposal: dict) -> dict:
     if act.get("consequence"):
         c = act["consequence"]
         effects.append({"effect": "consequence_fact", "fact_id": f"F1-consequence-{proposal['action_id']}",
-                        "visible_to": list(c["visible_to"]),
+                        "subject": str(proposal.get("target", "")), "visible_to": list(c["visible_to"]),
                         "text": c["text"].replace("{target}", str(proposal.get("target", "")))})
     ev = {"action_id": proposal["action_id"], "actor": proposal["actor"], "type": proposal["type"],
           "target": proposal.get("target"), "observations": list(proposal.get("observations", [])),
@@ -369,15 +410,16 @@ class Run:
         """The one writer. Validates against the derived state, then appends one event or one rejection."""
         sc = self.scenario()
         events = self.events()
-        if any(e["action_id"] == proposal["action_id"] for e in events):
+        if isinstance(proposal, dict) and any(e["action_id"] == proposal.get("action_id") for e in events):
             return {"action_id": proposal["action_id"], "outcome": "duplicate", "reason": "action id already committed; nothing charged"}
         st = derive_state(sc, events)
         code, detail = validate(sc, st, proposal)
         if code:
-            row = {"action_id": proposal["action_id"], "actor": proposal["actor"], "type": proposal["type"],
+            got = proposal if isinstance(proposal, dict) else {}
+            row = {"action_id": got.get("action_id"), "actor": got.get("actor"), "type": got.get("type"),
                    "reason": code, "detail": detail, "state_version": st["version"]}
             _append_atomic(self.rejections_path, row)
-            return {"action_id": proposal["action_id"], "outcome": "rejected", "reason": code, "detail": detail}
+            return {"action_id": got.get("action_id"), "outcome": "rejected", "reason": code, "detail": detail}
         ev = build_event(sc, st, proposal)
         apply_event(st, ev)                                  # proves the event applies before it is written
         _append_atomic(self.events_path, ev)
@@ -449,7 +491,10 @@ def replay(directory: str | Path) -> dict:
     raw = run.scenario_path.read_bytes()
     if _sha(raw) != meta["scenario_sha256"]:
         return {"status": "FAILED", "detail": "the pinned scenario changed since the run; a replay refuses to guess"}
-    st = run.state()
+    try:
+        st = run.state()
+    except ValueError as e:                              # an older schema, or an event this code would not write
+        return {"status": "FAILED", "detail": f"the run cannot be derived by this code: {e}"}
     if not run.final_path.exists():
         return {"status": "not run", "detail": "no final.json recorded; run the scenario first", "derived": summary(st)}
     recorded = json.loads(run.final_path.read_text(encoding="utf-8"))
@@ -563,6 +608,76 @@ def selftest() -> int:
         tampered = run1.fork(tmp / "c1-tampered")
         tampered.scenario_path.write_text(tampered.scenario_path.read_text(encoding="utf-8") + "\n", encoding="utf-8")
         check(replay(tampered.dir)["status"] == "FAILED", "a replay refuses a scenario that changed since the run")
+        # --- the review of PR #198 (2026-10-26): each finding as a case that failed before the fix
+        def scenario_copy(name: str, mutate) -> Path:
+            d = json.loads((FIXTURES / name).read_text(encoding="utf-8"))
+            mutate(d)
+            out = tmp / f"review-{len(list(tmp.glob('review-*')))}.json"
+            out.write_text(json.dumps(d, ensure_ascii=False), encoding="utf-8")
+            return out
+
+        def fresh(path: Path) -> "Run":
+            return Run.create(path, tmp / f"run-{path.stem}")
+
+        rich = fresh(scenario_copy("case-02-rejected.json", lambda d: d["state"].update(reserve=20)))
+        unrelated = rich.commit({"action_id": "r1", "actor": "aegis", "type": "sweep", "target": "X3",
+                                 "observations": ["F1"], "expected_version": 0})
+        reserve_only = rich.commit({"action_id": "r2", "actor": "aegis", "type": "sweep", "target": "X3",
+                                    "observations": ["F2"], "expected_version": 0})
+        check(unrelated["outcome"] == "rejected" and unrelated["reason"] == "missing_observation"
+              and reserve_only["outcome"] == "rejected" and rich.state()["reserve"] == 20
+              and all(a["status"] == "open" for a in rich.state()["anomalies"]),
+              "[P1] a visible fact about X2, or about the reserve, does not authorise a sweep of X3")
+        bound = rich.commit({"action_id": "r3", "actor": "aegis", "type": "sweep", "target": "X2",
+                             "observations": ["F1"], "expected_version": 0})
+        check(bound["outcome"] == "accepted", "the observation of X2 still authorises the sweep of X2")
+
+        late = fresh(scenario_copy("case-02-rejected.json", lambda d: d["state"].update(chapter=40)))
+        check(pack(late.scenario(), late.state(), "aegis")["active"] is False, "AEGIS is inactive in chapter 40")
+        backdated = late.commit({"action_id": "b1", "actor": "aegis", "type": "defer", "observations": [],
+                                 "expected_version": 0, "chapter": 39})
+        check(backdated["outcome"] == "rejected" and backdated["reason"] == "past_endpoint"
+              and late.state()["chapter"] == 40 and late.state()["version"] == 0,
+              "[P1] a proposal cannot backdate the world to reactivate an actor past its endpoint")
+        mid = fresh(scenario_copy("case-02-rejected.json", lambda d: None))
+        back = mid.commit({"action_id": "b2", "actor": "aegis", "type": "defer", "observations": [],
+                           "expected_version": 0, "chapter": 10})
+        jump = mid.commit({"action_id": "b3", "actor": "aegis", "type": "defer", "observations": [],
+                           "expected_version": 0, "chapter": 30})
+        step = mid.commit({"action_id": "b4", "actor": "aegis", "type": "defer", "observations": [],
+                           "expected_version": 0, "chapter": 23})
+        check(back.get("reason") == "chapter_jump" and jump.get("reason") == "chapter_jump" and step["outcome"] == "accepted"
+              and mid.state()["chapter"] == 23, "a proposal stays in its chapter or moves to the next, never back or across")
+
+        masked = pack(sc1, run1.state(), "aegis")
+        m1 = [m for m in masked["state"]["memories"] if m["id"] == "M1"]
+        check(m1 == [{"id": "M1", "masked": True}] and "Sektor 04 nominal" not in json.dumps(masked, ensure_ascii=False)
+              and masked["omitted"]["masked_memories"] == 1
+              and any(m["id"] == "M1" and m.get("text") for m in run1.state()["memories"]),
+              "[P2] after the sweep the masked memory's text is gone from AEGIS' pack, kept in the replay state")
+
+        loose = fresh(scenario_copy("case-02-rejected.json", lambda d: d["state"].update(reserve=20)))
+        outs = [loose.commit(x) for x in (
+            {"action_id": "t1", "actor": "aegis", "type": "sweep", "observations": ["F1"], "expected_version": 0},
+            {"action_id": "t2", "actor": "aegis", "type": "sweep", "target": "X9", "observations": ["F1"], "expected_version": 0},
+            {"action_id": "t3", "actor": "aegis", "type": "sweep", "target": ["X2"], "observations": ["F1"], "expected_version": 0},
+            {"action_id": "t4", "type": "sweep", "target": "X2", "observations": ["F1"], "expected_version": 0},
+            {"action_id": "t5", "actor": "aegis", "type": "sweep", "target": "X2", "observations": "F1", "expected_version": 0},
+        )]
+        check([o.get("reason") for o in outs] == ["invalid_target", "invalid_target", "invalid_target",
+                                                   "malformed_proposal", "malformed_proposal"]
+              and len(loose.rejections()) == 5 and loose.state()["version"] == 0,
+              f"[P2] a missing, unknown or mistyped target and a malformed proposal are recorded rejections, never a crash "
+              f"(got {[o.get('reason') for o in outs]})")
+        old_schema = run1.fork(tmp / "c1-old-schema")
+        pinned = json.loads(old_schema.scenario_path.read_text(encoding="utf-8"))
+        pinned["schema_version"] = 1
+        raw = json.dumps(pinned, ensure_ascii=False).encode()
+        old_schema.scenario_path.write_bytes(raw)
+        old_schema.meta_path.write_text(json.dumps(dict(old_schema.meta(), scenario_sha256=_sha(raw))), encoding="utf-8")
+        refused = replay(old_schema.dir)
+        check(refused["status"] == "FAILED" and "schema_version" in refused["detail"],
+              "a run pinned to an older schema is refused by name, not with a traceback")
         # --- missing things are named, never scored
         check(replay(tmp / "nowhere")["status"] == "not run", "a missing run is reported as not run, not as a result")
         # --- the fixture shape is checked, and the checks can fail
