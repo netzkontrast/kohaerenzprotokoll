@@ -1,0 +1,135 @@
+{
+ "@type": "Session",
+ "id": "aegis-agent-pilot",
+ "title": "AEGIS-Pilot: die zwei Fälle offline, die Prüfung nach dem Review, die offene Website",
+ "started": "2026-10-27",
+ "ended": null,
+ "branch": "claude/kohaerenz-protokoll-refactor-qqkxo7",
+ "pr": 198,
+ "mandate": "Die Anweisungen des Autors vom 2026-10-26 und 2026-10-27: Repos überblicken, Kohärenz umbauen, den AEGIS-Pilot offline; das Site-Login entfernen und die Website reparieren",
+ "report": {
+  "done": [
+   {
+    "text": "Die zwei Handfälle und ihre Offline-Schleife: Pakete, Prüfer, ein Schreiber, Replay, Fork",
+    "refs": [
+     "scripts/aegis.py",
+     "Plan/fixtures/aegis/README.md"
+    ]
+   },
+   {
+    "text": "Die vier Befunde deines Reviews behoben, jeder als Selbsttest, der vorher fehlschlug: Beobachtung an das Ziel gebunden, Kapitel aus dem gespeicherten Zustand, maskierte Erinnerung ohne Text im Paket, fehlerhafte Vorschläge als Ablehnung statt Absturz",
+    "refs": [
+     "scripts/aegis.py",
+     "Plan/runs/aegis-pilot-2026-10-26/README.md"
+    ]
+   },
+   {
+    "text": "Die Website ohne Login (Entscheidung 032); sie antwortete überall 503, weil SITE_PASSWORD fehlte; /mcp behält sein Token",
+    "refs": [
+     "middleware.js",
+     "scripts/auth_selftest.js",
+     "Plan/decisions/032-the-site-opens.md"
+    ]
+   },
+   {
+    "text": "Der Schreibpfad für Antworten als Entwurf aufbewahrt, nicht verdrahtet, bis du die Frage zum Schreibpfad beantwortest",
+    "refs": [
+     "Plan/runs/session-apps-2026-10-26/write-path-draft/README.md"
+    ]
+   },
+   {
+    "text": "Das Umbau-Konzept um agency und die Folgeaufträge; B2 nennt keine doppelte Entscheidungsnummer mehr",
+    "refs": [
+     "Plan/concept/rebuild-with-agency_2026-10-26.md",
+     "Plan/briefings/rebuild-prompts_2026-10-26.md"
+    ]
+   }
+  ],
+  "thought": [
+   {
+    "text": "Zwei Sitzungen haben die Datensätze parallel gebaut; deine gemergte Fassung (records.py) gilt, meine wurde verworfen statt doppelt geführt."
+   },
+   {
+    "text": "Das Repository ist auf GitHub öffentlich; das Login schützte nichts, was GitHub nicht ohnehin zeigt. Offen bleibt, ob die App-Daten wie die statischen Seiten gefiltert werden."
+   }
+  ],
+  "priorities": [
+   {
+    "rank": 1,
+    "text": "Den Merge von PR #198, damit die Website wieder antwortet"
+   },
+   {
+    "rank": 2,
+    "text": "Deine Antwort zum Filtern der App-Daten"
+   },
+   {
+    "rank": 3,
+    "text": "A1 des AEGIS-Piloten: Wiederholungsbudget, Zwei-Fehler-Stopp, Widerspruchsprüfung, Behauptungsbuch — offline, vor jedem Modellaufruf"
+   }
+  ],
+  "next": [
+   {
+    "text": "Nach dem Merge prüfen, dass die Website antwortet",
+    "command": "curl -sS -o /dev/null -w \"%{http_code}\" https://kohaerenzprotokoll.vercel.app/"
+   },
+   {
+    "text": "Den AEGIS-Selbsttest und die Fälle erneut laufen lassen",
+    "command": "python3 scripts/aegis.py selftest"
+   }
+  ]
+ },
+ "app": null,
+ "questions": [
+  {
+   "@type": "Question",
+   "id": "Q-aegis-agent-pilot-01",
+   "depth": 2,
+   "text": "Sollen die App-Daten der offenen Website gefiltert werden wie die statischen Seiten?",
+   "context": "Die statischen Seiten und der MCP-Index lassen jede Zeile mit einem früheren Namen oder dem Trauma-Symbol weg (Entscheidungen 028, 029); die App-Daten (agents/data.json, die Frames) tun das nicht. Im Build vom 2026-10-26 passen 883 Zeichenketten auf das Muster, manche nur das englische Wort „shadow“. Das öffentliche GitHub-Repository enthält denselben Text.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Beim Build in web.py filtern, die Treffer ersetzt, IDs eingeschlossen (Links ändern sich)"
+    },
+    {
+     "key": "B",
+     "text": "Die App-Daten bleiben, wie sie sind"
+    }
+   ],
+   "recommended": "A",
+   "concerns": [
+    "decision:032",
+    "decision:028"
+   ],
+   "lands_in": "Plan/decisions/032-the-site-opens.md",
+   "asked_on": "2026-10-27"
+  },
+  {
+   "@type": "Question",
+   "id": "Q-aegis-agent-pilot-02",
+   "depth": 2,
+   "text": "Was soll /mcp tun, solange RAG_MCP_TOKEN in Vercel nicht gesetzt ist?",
+   "context": "/mcp antwortet 503, weil das Token fehlt; die Website ist seit Entscheidung 032 offen. Du hattest nur nach dem Site-Login gefragt.",
+   "options": [
+    {
+     "key": "A",
+     "text": "Geschlossen lassen; du setzt das Token in Vercel, wenn du den Server brauchst"
+    },
+    {
+     "key": "B",
+     "text": "Ebenfalls öffnen, ohne Token"
+    }
+   ],
+   "recommended": "A",
+   "concerns": [
+    "decision:029",
+    "decision:032"
+   ],
+   "lands_in": "Plan/decisions/032-the-site-opens.md",
+   "asked_on": "2026-10-27"
+  }
+ ],
+ "follows": [
+  "every-session-an-app-on-the-start-page"
+ ]
+}
