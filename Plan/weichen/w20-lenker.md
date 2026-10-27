@@ -1,6 +1,6 @@
 ---
 id: W20
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W7, Q7]
 frage_art: schalter        # schlüssel | schalter | standard | vertagt
 auslöser: "Leserpanel J: der Skeptiker vermutet, dass jemand Kael lenkt"
@@ -32,3 +32,7 @@ ist.“ Der Plan sagt dazu nichts. Die Nähe ist Zufall der Wartung von Sektor 0
 dass AEGIS den Anschluss bei der Prüfung „zufällig“ der Konsole 4/9 zuteilt. Der Leser bekommt die Erklärung, Kael nie.
 
 **Frage an dich:** Bearbeiten Konsolen den eigenen Sektor?
+
+## Antwort
+
+**Beantwortet 2026-10-27: A.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „A, erklärt in Kap 6 — Konsolen bearbeiten den eigenen Sektor; die Wartung nimmt Sektor 04, also liegt alles bei Kael. Szene 1 braucht eine Zeile, die das zeigt. Kap 6 zeigt aus AEGIS' Sicht, wie die Zeile zu ihm kam.“

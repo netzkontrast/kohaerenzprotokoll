@@ -1,6 +1,6 @@
 ---
 id: SP
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: []
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
@@ -73,3 +73,5 @@ geändert hat.
 **Was offen bleibt:** L1, L2, L4, L7, L8, L12, L15, deine ja/nein-Antworten.
 
 **Empfehlung:** die überholten Zeilen streichen, L9 mit W5 entscheiden, den Rest bestätigen.
+
+**Beantwortet 2026-10-27.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „Überholte streichen, Rest bestätigen — L10, L11 und die überholten Teile von L6, L13, L14 fallen; L9 gilt mit deiner Antwort zu W5; L3, L4, L5, L6, L7 und die übrigen gelten für Szene 1 als bestätigt.“

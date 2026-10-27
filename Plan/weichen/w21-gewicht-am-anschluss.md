@@ -1,6 +1,6 @@
 ---
 id: W21
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [Q7, W7, W15]
 frage_art: schalter        # schlüssel | schalter | standard | vertagt
 auslöser: "Leserpanel J: „sieben Milliarden Bänke“ als Menschheit gelesen"
@@ -32,3 +32,7 @@ Schritt 47; Q7: Kael ist der aus 734 herausgetrennte Teil).
 Welt. Ein Leser, der Menschheit hört, wird nicht betrogen, sondern zum Thema geführt. C würde W14 vorentscheiden.
 
 **Frage an dich:** Bleibt die Zahl mit ihrem Echo?
+
+## Antwort
+
+**Beantwortet 2026-10-27: B.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: Echo als Fährte — 2,2 × 10²⁹ Bit bleibt; wer eine Menschheit hört, wird zum Thema geführt: zehn Jahre wiegen eine Welt. Das Buch löst die Fährte später auf.“

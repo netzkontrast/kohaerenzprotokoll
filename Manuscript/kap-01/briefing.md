@@ -4,8 +4,8 @@ titel: Vorkühlung
 written: 2026-10-27
 by: brief.py
 status: briefing
-inputs: ["Manuscript/kanon.md", "Plan/storyform/a.json", "Plan/storyform/b.json", "Plan/storyform/weave.json", "Plan/storyform/anteile.json", "Plan/storyform/development.json", "Manuscript/plot/treatment.md", "Manuscript/regeln.jsonl", "Wiki/chapters/kap-01.md", "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md", "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md", "Manuscript/kontinuitaet/kap-00.json", "Manuscript/kontinuitaet/kap-01.json", "Plan/weichen/sp-sperren-2026-05.md", "Plan/weichen/w17-archetypen-nach-kw1.md", "Plan/weichen/w18-kael-handelt-akt-ii.md", "Plan/weichen/w20-lenker.md", "Plan/weichen/w21-gewicht-am-anschluss.md", "Plan/weichen/w28-fehlender-schritt.md", "Plan/weichen/w33-kishotenketsu-rezept.md", "Manuscript/figuren/aegis.md", "Manuscript/figuren/alte-frau.md", "Manuscript/figuren/kael.md", "Manuscript/figuren/silas.md"]
-inputs_hash: 8870c8adf2819c164b33441a3ae5fbbc52124a06b7e2e995feee060acd9db950
+inputs: ["Manuscript/kanon.md", "Plan/storyform/a.json", "Plan/storyform/b.json", "Plan/storyform/weave.json", "Plan/storyform/anteile.json", "Plan/storyform/development.json", "Manuscript/plot/treatment.md", "Manuscript/regeln.jsonl", "Wiki/chapters/kap-01.md", "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md", "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md", "Manuscript/kontinuitaet/kap-00.json", "Manuscript/kontinuitaet/kap-01.json", "Plan/weichen/w17-archetypen-nach-kw1.md", "Plan/weichen/w18-kael-handelt-akt-ii.md", "Plan/weichen/w33-kishotenketsu-rezept.md", "Manuscript/figuren/aegis.md", "Manuscript/figuren/alte-frau.md", "Manuscript/figuren/kael.md", "Manuscript/figuren/silas.md"]
+inputs_hash: 3788fa5034760a37e0605e086a7ada484c126e5d02db6b60aa64d3a9e9da9fb6
 ---
 
 # Briefing Kap 1 — Vorkühlung
@@ -24,6 +24,10 @@ Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; e
 - [K] **W3** (2026-10-27): A: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „Ich, Präsens, als Regel — Kael erzählt in der ersten Person im Präsens, für das ganze Buch; Szene 1 kann mit ‚Das Licht ist schon da, als ich erwache.‘ beginnen.“ — `Plan/weichen/w3-stimme.md`
 - [K] **W7** (2026-10-27): B: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: getrennte Freigaben — In Szene 1: kein Name eines Anteils, keine Amnesie als Wort, kein Fachwort der Dissoziation; Kaels Name fällt, weil die alte Frau fragt. Jede weitere Freigabe später einzeln.“ — `Plan/weichen/w7-schleier.md`
 - [K] **W5** (2026-10-27): B: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: Kälte vor der Löschung — Die Stadt kühlt vor einem Fenster vor; danach riecht es kurz scharf, kalt, elektrisch. Keine Wärme in Kap 1; ob Wärme allein Junas Zeichen ist, bleibt für Kap 3 offen.“ — `Plan/weichen/w5-sensorik.md`
+- [K] **W28** (2026-10-27): A: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „A: Löschung der Welt — Der Korridor verliert 0,73 m als verbuchte Löschung, wie in den Entwürfen. Kaels eigene Lücke bekommt in Kap 3 ein eigenes Ding, das Messzeichen. In Szene 1 steht der Abschnitt auf der Löschliste.“ — `Plan/weichen/w28-fehlender-schritt.md`
+- [K] **W21** (2026-10-27): B: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: Echo als Fährte — 2,2 × 10²⁹ Bit bleibt; wer eine Menschheit hört, wird zum Thema geführt: zehn Jahre wiegen eine Welt. Das Buch löst die Fährte später auf.“ — `Plan/weichen/w21-gewicht-am-anschluss.md`
+- [K] **W20** (2026-10-27): A: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „A, erklärt in Kap 6 — Konsolen bearbeiten den eigenen Sektor; die Wartung nimmt Sektor 04, also liegt alles bei Kael. Szene 1 braucht eine Zeile, die das zeigt. Kap 6 zeigt aus AEGIS' Sicht, wie die Zeile zu ihm kam.“ — `Plan/weichen/w20-lenker.md`
+- [K] **SP** (2026-10-27): Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „Überholte streichen, Rest bestätigen — L10, L11 und die überholten Teile von L6, L13, L14 fallen; L9 gilt mit deiner Antwort zu W5; L3, L4, L5, L6, L7 und die übrigen gelten für Szene 1 als bestätigt.“ — `Plan/weichen/sp-sperren-2026-05.md`
 - [K] Storypoint A-MC Concern: Memory (`Plan/storyform/a.json`, Entscheidung 025)
 - [K] Storypoint A Story Requirements: Learning (`Plan/storyform/a.json`, Entscheidung 025)
 - [K] Storypoint A-MC Unique Ability: Thought (`Plan/storyform/a.json`, Entscheidung 025)
@@ -39,6 +43,18 @@ Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; e
 - [K] Regel R03: Kein geschlechtliches Pronomen für Kael, Juna, AEGIS oder einen Anteil — auch nicht in Zitaten. — geprüft: `pronomen-figuren` (`Manuscript/regeln.jsonl`, 2026-10-26)
 - [K] Regel R04: Die Weltcodes Co₁, McL, B, Ly, M werden nie ausgeschrieben. (`Manuscript/regeln.jsonl`, 2026-10-26)
 - [K] Regel R05: Keine Namen realer Personen und keine nach Personen benannten Konzepte in der Prosa. (`Manuscript/regeln.jsonl`, 2026-10-26)
+- [K] Regel L3: Erster Satz von Kap 1 = letzter Satz, den Kael schreibt: „Das Licht ist schon da, als ich erwache.“ (Erstsatz-Lock, berichtet 2026-05-30; zugleich W3 A, Ich/Präsens). — geprüft: `erstsatz` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L4a: Die Amnesie wird nie erwähnt — kein „ich erinnere mich nicht“; sie wird erlebt, durch eine konkrete Falschheit. — geprüft: `wort-verbot` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L4b: KW1: absolutes Metaphernverbot, assertorische Sätze; die Philosophie verschwindet unter dem Konkreten. (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L4c: Eine einzige konkrete Falschheit pro Kapitel in Akt I (Prosa-Regel Kap 1, berichtet 2026-05-31 „aus User-Feedback“). (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L5: Keine AEGIS-Stimme in Kap 1; nur sterile Konsolen-Direktiven, keine Systemlog-Stimme, die einen Agenten ausweist. — geprüft: `wort-verbot` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L6b: Keine Wärme in Kap 1; Ozon kalt und scharf (Hitze-Polaritätsregel, berichtet 2026-05-30; die Gegenposition in 41 Quellen ist C11, die Wahl W5/W24). — geprüft: `wort-verbot` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L6c: Der Silas-Halbsatz „Etwas in der Frequenz der Lüftung schien zu—“ steht in Kap 1. (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L7: Die Blutung der Knöchel lebt nur in Kap 0; Kap 1 bleibt spurlos (berichtet 2026-05-31; 13+ Quellen sehen es anders, C10; SP empfiehlt: ändern). — geprüft: `wort-verbot` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel L15b: Keine Abkürzung des Multiplizitäts-Schleiers vor etwa Kap 10 (W7 setzt den Fall des Schleiers auf Kap 13). (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel W7b: Kein DKT-Fachwort vor Kap 13: Alter, Fragment, ANP, EP, TSDP, DID, dissoziativ (Empfehlung W7). — geprüft: `wort-verbot` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel A19: Bis Kap 13 trägt kein Anteil einen Namen; die Anteile zeigen sich über Spur und Körper (die Arbeitsgrundlage des Autors vom 2026-10-05, anteile.json). — geprüft: `wort-verbot` (`Manuscript/regeln.jsonl`, 2026-10-27)
+- [K] Regel W3: Kael erzählt als Ich im Präsens, als Regel des Buches (Empfehlung W3 A und der Entscheidungsvorlage, Runde 1). — geprüft: `erzaehlform` (`Manuscript/regeln.jsonl`, 2026-10-27)
 
 ## Vorgeschlagen
 
@@ -80,21 +96,8 @@ Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; e
 - [V] Entwurf `Manuscript/kap-01/entwurf-h-radiator.md`, 2385 Wörter — ein Pol, keine Grundlage (Entscheidung 030, Antwort 3)
 - [V] Entwurf `Manuscript/kap-01/entwurf-i-grauzone.md`, 2417 Wörter — ein Pol, keine Grundlage (Entscheidung 030, Antwort 3)
 - [V] Entwurf `Manuscript/kap-01/entwurf-j-rueckfrage.md`, 2103 Wörter — ein Pol, keine Grundlage (Entscheidung 030, Antwort 3)
-- [V] Regel L3 (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L127]): Erster Satz von Kap 1 = letzter Satz, den Kael schreibt: „Das Licht ist schon da, als ich erwache.“ (Erstsatz-Lock, berichtet 2026-05-30; zugleich W3 A, Ich/Präsens). — Rückfrage: `erstsatz`
-- [V] Regel L4a (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L58]): Die Amnesie wird nie erwähnt — kein „ich erinnere mich nicht“; sie wird erlebt, durch eine konkrete Falschheit. — Rückfrage: `wort-verbot`
-- [V] Regel L4b (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L59]): KW1: absolutes Metaphernverbot, assertorische Sätze; die Philosophie verschwindet unter dem Konkreten.
-- [V] Regel L4c (offen, ^[kapitel-kompendium-gather-2026-05-31-md.md:L33]): Eine einzige konkrete Falschheit pro Kapitel in Akt I (Prosa-Regel Kap 1, berichtet 2026-05-31 „aus User-Feedback“).
-- [V] Regel L5 (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L208]): Keine AEGIS-Stimme in Kap 1; nur sterile Konsolen-Direktiven, keine Systemlog-Stimme, die einen Agenten ausweist. — Rückfrage: `wort-verbot`
-- [V] Regel L6a (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L518]): „Einheit 734“ in Kap 1 genau einmal, unkommentiert (berichtet 2026-05-30; Q7 lässt offen, was 734 im Alltag bezeichnet).
-- [V] Regel L6b (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L64]): Keine Wärme in Kap 1; Ozon kalt und scharf (Hitze-Polaritätsregel, berichtet 2026-05-30; die Gegenposition in 41 Quellen ist C11, die Wahl W5/W24). — Rückfrage: `wort-verbot`
-- [V] Regel L6c (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L518]): Der Silas-Halbsatz „Etwas in der Frequenz der Lüftung schien zu—“ steht in Kap 1.
-- [V] Regel L7 (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L459]): Die Blutung der Knöchel lebt nur in Kap 0; Kap 1 bleibt spurlos (berichtet 2026-05-31; 13+ Quellen sehen es anders, C10; SP empfiehlt: ändern). — Rückfrage: `wort-verbot`
 - [V] Regel L9 (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L458]): Kaltes Ozon = AEGIS' Unterdrückung; Wärme = Junas Spur, Debüt Kap 3; Landauer-Hitze nur in Vortex 1 Beat 4; nie mischen.
-- [V] Regel L15b (offen, ^[kohaerenz-protokoll-storyform-und-outline-2026-06-10-md.md:L81]): Keine Abkürzung des Multiplizitäts-Schleiers vor etwa Kap 10 (W7 setzt den Fall des Schleiers auf Kap 13).
 - [V] Regel W7a (offen, Plan/weichen/w7-schleier.md): Das Wort „Trennungsprotokoll“ gehört AEGIS und der Genesis; es fällt nie auf Kaels Seite (Empfehlung W7). — Rückfrage: `wort-verbot`
-- [V] Regel W7b (offen, Plan/weichen/w7-schleier.md): Kein DKT-Fachwort vor Kap 13: Alter, Fragment, ANP, EP, TSDP, DID, dissoziativ (Empfehlung W7). — Rückfrage: `wort-verbot`
-- [V] Regel A19 (offen, Plan/storyform/anteile.json): Bis Kap 13 trägt kein Anteil einen Namen; die Anteile zeigen sich über Spur und Körper (die Arbeitsgrundlage des Autors vom 2026-10-05, anteile.json). — Rückfrage: `wort-verbot`
-- [V] Regel W3 (offen, Plan/weichen/w3-stimme.md): Kael erzählt als Ich im Präsens, als Regel des Buches (Empfehlung W3 A und der Entscheidungsvorlage, Runde 1). — Rückfrage: `erzaehlform`
 
 ## Quellen
 
@@ -135,12 +138,8 @@ Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; e
 
 ## Offen — vor der ersten Szene zu beantworten
 
-- **SP** (offen, schlüssel; das Blatt nennt das Kapitel) — `Plan/weichen/sp-sperren-2026-05.md`. Empfehlung: je Zeile. Antwort: `python3 scripts/weiche.py answer SP --option X --words "…"`
 - **W17** (offen, schlüssel; das Blatt nennt das Kapitel) — `Plan/weichen/w17-archetypen-nach-kw1.md`: A Die Funktionen gehen an Anteile über.; B Die vier Menschen kehren in anderer Gestalt wieder.; C Eine kehrt zurück, die anderen übergeben an Anteile.. Empfehlung: D, mit der Rückkehr der alten Frau aus C. Antwort: `python3 scripts/weiche.py answer W17 --option X --words "…"`
 - **W18** (offen, schlüssel; das Blatt nennt das Kapitel) — `Plan/weichen/w18-kael-handelt-akt-ii.md`: A Kap 20 wird Kaels Wahl.; B Kap 23 wird Kaels Wunsch.; C beides.. Empfehlung: A. Antwort: `python3 scripts/weiche.py answer W18 --option X --words "…"`
-- **W20** (offen, schalter; das Blatt nennt das Kapitel) — `Plan/weichen/w20-lenker.md`: A Es ist Sektor 04.; B AEGIS lenkt, ohne es zu wissen.; C ein Anteil lenkt.. Empfehlung: A. Antwort: `python3 scripts/weiche.py answer W20 --option X --words "…"`
-- **W21** (offen, schalter; das Blatt nennt das Kapitel) — `Plan/weichen/w21-gewicht-am-anschluss.md`: A Die Zahl ändern.; B Das Echo behalten, als bewusste Fährte.; C Das Echo behalten und einlösen.. Empfehlung: B. Antwort: `python3 scripts/weiche.py answer W21 --option X --words "…"`
-- **W28** (offen, schlüssel; das Blatt nennt das Kapitel) — `Plan/weichen/w28-fehlender-schritt.md`: A Der Schritt bleibt eine Löschung der Welt,; B Der Schritt ist Kaels private Lücke,. Empfehlung: A. Antwort: `python3 scripts/weiche.py answer W28 --option X --words "…"`
 - **W33** (offen, schlüssel; das Blatt nennt das Kapitel) — `Plan/weichen/w33-kishotenketsu-rezept.md`. Empfehlung: B. Antwort: `python3 scripts/weiche.py answer W33 --option X --words "…"`
 
 ## Szenen

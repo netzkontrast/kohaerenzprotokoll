@@ -1,6 +1,6 @@
 ---
 id: W28
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [Kap-1-Entwurf J, Kap-2-Entwurf A]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: "Durchsicht M1: der fehlende Schritt ist in den Entwürfen eine Löschung, im Treatment Kaels Lücke"
@@ -43,3 +43,7 @@ Storyform B, Kael ist A.
 Kap 3 und 15 in Treatment und `development.json`. Die Entwürfe bleiben unberührt.
 
 **Frage an dich:** Bleibt der Schritt eine Löschung der Welt, und Kap 3 bekommt das Messzeichen (A)?
+
+## Antwort
+
+**Beantwortet 2026-10-27: A.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „A: Löschung der Welt — Der Korridor verliert 0,73 m als verbuchte Löschung, wie in den Entwürfen. Kaels eigene Lücke bekommt in Kap 3 ein eigenes Ding, das Messzeichen. In Szene 1 steht der Abschnitt auf der Löschliste.“
