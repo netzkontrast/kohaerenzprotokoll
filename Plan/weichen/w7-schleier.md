@@ -1,6 +1,6 @@
 ---
 id: W7
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W3, W6, W9, W12, W10]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
@@ -106,3 +106,5 @@ W3/W6 begrenzen den Zugang, W9/W12 die Herkunftswahrheit, W10 die Stimmen.
   `development.json` der Genesis-Flashback, und nach W12 ist die Nacht dasselbe Ereignis. Offen ist, ob Kael oder Silas
   im Text je dieses Wort haben oder nur die Nacht. **Empfehlung:** Auf Kaels Seite fällt das Wort nie. Nur AEGIS'
   Kapitel und Kap 40 benutzen es.
+
+**Beantwortet 2026-10-27: B.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: getrennte Freigaben — In Szene 1: kein Name eines Anteils, keine Amnesie als Wort, kein Fachwort der Dissoziation; Kaels Name fällt, weil die alte Frau fragt. Jede weitere Freigabe später einzeln.“

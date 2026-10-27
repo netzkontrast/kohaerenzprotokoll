@@ -1,6 +1,6 @@
 ---
 id: W5
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W2, W6, W9, W15, W8]
 frage_art: standard        # schlüssel | schalter | standard | vertagt
 auslöser: "nach Antwort auf das Sperren-Blatt (Hitze-Polarität)"
@@ -92,3 +92,5 @@ Spur folgt W8. C11 bleibt bis zur Autorenentscheidung offen.
 zeigen, Beat 4 bleibt der Höhepunkt.
 
 **Frage an dich:** Zwei Register, Löschwärme mit Zahl und Junas Wärme ohne?
+
+**Beantwortet 2026-10-27: B.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: Kälte vor der Löschung — Die Stadt kühlt vor einem Fenster vor; danach riecht es kurz scharf, kalt, elektrisch. Keine Wärme in Kap 1; ob Wärme allein Junas Zeichen ist, bleibt für Kap 3 offen.“

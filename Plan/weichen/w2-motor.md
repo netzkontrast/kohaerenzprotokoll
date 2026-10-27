@@ -1,6 +1,6 @@
 ---
 id: W2
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W1]
 frage_art: schlüssel        # schlüssel | schalter | standard | vertagt
 auslöser: ""
@@ -137,3 +137,7 @@ wurde.
 **Empfehlung:** W2 als „C mit A, dazu die Reise aus B“ beantworten.
 
 **Frage an dich:** Ist W2 damit beantwortet?
+
+## Antwort
+
+**Beantwortet 2026-10-27: C.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „C mit A, dazu B — Die Löschung als Gegner mit sichtbarer Uhr; Kaels Beruf als Ort, an dem er die Uhr liest; die Reise durch die vier Welten. So ist das Treatment schon gebaut — Szene 1 steht unter der Frist 16:40.“

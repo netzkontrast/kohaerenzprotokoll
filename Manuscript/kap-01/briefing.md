@@ -1,7 +1,7 @@
 ---
 kapitel: 1
 titel: Vorkühlung
-written: 2026-10-26
+written: 2026-10-27
 by: brief.py
 status: briefing
 inputs: ["Manuscript/kanon.md", "Plan/storyform/a.json", "Plan/storyform/b.json", "Plan/storyform/weave.json", "Plan/storyform/anteile.json", "Plan/storyform/development.json", "Manuscript/plot/treatment.md", "Manuscript/regeln.jsonl", "Wiki/chapters/kap-01.md", "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md", "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md", "Manuscript/kontinuitaet/kap-00.json", "Manuscript/kontinuitaet/kap-01.json", "Plan/weichen/sp-sperren-2026-05.md", "Plan/weichen/w17-archetypen-nach-kw1.md", "Plan/weichen/w18-kael-handelt-akt-ii.md", "Plan/weichen/w2-motor.md", "Plan/weichen/w20-lenker.md", "Plan/weichen/w21-gewicht-am-anschluss.md", "Plan/weichen/w28-fehlender-schritt.md", "Plan/weichen/w3-stimme.md", "Plan/weichen/w33-kishotenketsu-rezept.md", "Plan/weichen/w5-sensorik.md", "Plan/weichen/w7-schleier.md", "Manuscript/figuren/aegis.md", "Manuscript/figuren/alte-frau.md", "Manuscript/figuren/kael.md", "Manuscript/figuren/silas.md"]
@@ -10,7 +10,7 @@ inputs_hash: da88528d9b36b46cfb17b1fed65abeda3a2f538d09b0f056f814c07c516f8285
 
 # Briefing Kap 1 — Vorkühlung
 
-Geschrieben am 2026-10-26 von `brief.py` aus den Unterlagen des Repositoriums; es urteilt nicht. `[K]` ist entschieden (Kanon, Storyform, Weaving, Karten, bestätigte Regeln), `[V]` vorgeschlagen (Treatment, Entwicklung, Beats, Entwürfe, offene Regeln), `[S]` sagen die Quellen (Forschung, nie Kanon), `[D]` abgeleitet (Kontinuität). Was eine Szene schreibt, steht hier und nirgends sonst (Entscheidung 030).
+Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; es urteilt nicht. `[K]` ist entschieden (Kanon, Storyform, Weaving, Karten, bestätigte Regeln), `[V]` vorgeschlagen (Treatment, Entwicklung, Beats, Entwürfe, offene Regeln), `[S]` sagen die Quellen (Forschung, nie Kanon), `[D]` abgeleitet (Kontinuität). Was eine Szene schreibt, steht hier und nirgends sonst (Entscheidung 030).
 
 ## Entschieden
 
