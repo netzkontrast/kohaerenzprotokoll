@@ -151,6 +151,32 @@ def kanon_rows(text: str | None = None) -> list[dict]:
     return out
 
 
+RESTING = re.compile(r"^- \*\*([^*]+)\*\* ruht seit ([\w-]+)(?: \((\d{4}-\d{2}-\d{2})\))?:\s*(.*)$")
+
+
+def resting(text: str | None = None) -> dict[str, dict]:
+    """The canon rows that rest: `## Ruhend` in kanon.md, one bullet per row — `- **id** ruht seit 033 (date): why`.
+
+    A row rests when a later decision of the author's takes away what it decided (decision 033: the world keeps two
+    premises only). It is not deleted and not edited: the table keeps the author's words as they were given, and
+    this section says, with the decision that did it, that they no longer hold. The tools read a resting row as
+    history, never as decided content."""
+    text = text if text is not None else (KANON.read_text(encoding="utf-8") if KANON.exists() else "")
+    m = re.search(r"^## Ruhend\n(.*?)(?=^## |\Z)", text, re.M | re.S)
+    out = {}
+    for line in (m.group(1).split("\n") if m else []):
+        r = RESTING.match(line.strip())
+        if r:
+            out[r.group(1).strip()] = {"since": r.group(2), "on": r.group(3) or "", "why": r.group(4).strip()}
+    return out
+
+
+def in_force(rows: list[dict], text: str | None = None) -> list[dict]:
+    """The canon rows that hold: every row of § Entscheidungen that does not rest."""
+    rest = resting(text)
+    return [r for r in rows if r["id"] not in rest]
+
+
 def add_kanon_row(wid: str, date: str, what: str, where: str, kanon: Path | None = None) -> None:
     path = kanon or KANON
     text = path.read_text(encoding="utf-8")
@@ -304,6 +330,13 @@ def selftest() -> int:
         results.append(("the frontmatter reads id, status, a list and a quoted value", meta["id"] == "W99" and meta["status"] == "offen"
                         and meta["hängt_ab_von"] == ["W1", "W2"] and meta["empfehlung"] == "A"))
         results.append(("the options are parsed", options_of(SHEET) == [("A", "Die Welt"), ("B", "Die Scherben")]))
+        kt = ("## Entscheidungen\n\n| id | Datum | Was gilt | Wo |\n|---|---|---|---|\n| K1 | 2026-10-05 | Vier Welten. | x |\n"
+              "| K2 | 2026-10-05 | Fünf Wächter. | y |\n\n## Ruhend\n\n- **K1** ruht seit 033 (2026-10-28): nur zwei Voraussetzungen.\n"
+              "- kein Eintrag\n\n## Weiter\n")
+        results.append(("a resting row is read with its decision and date, and only the bullets of § Ruhend count",
+                        resting(kt) == {"K1": {"since": "033", "on": "2026-10-28", "why": "nur zwei Voraussetzungen."}}))
+        results.append(("a resting row stays in the table but does not hold", [r["id"] for r in kanon_rows(kt)] == ["K1", "K2"]
+                        and [r["id"] for r in in_force(kanon_rows(kt), kt)] == ["K2"]))
         results.append(("the chapters a sheet names are listed", named_in_sheet(SHEET) == [1, 40]))
         dev = {"1": {"open": "siehe W99"}, "2": {"open": "nichts"}, "40": {"open": "W99 entscheidet"}}
         treat = "### Kap 2 — x\n- hängt an W99.\n### Kap 3 — y\n- nichts.\n"

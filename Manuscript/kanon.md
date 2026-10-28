@@ -42,6 +42,14 @@ eine Weiche gilt dort nur als Kanon, wenn sie eine `id` aus dieser Tabelle nennt
 | W21 | 2026-10-27 | B: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „B: Echo als Fährte — 2,2 × 10²⁹ Bit bleibt; wer eine Menschheit hört, wird zum Thema geführt: zehn Jahre wiegen eine Welt. Das Buch löst die Fährte später auf.“ | `Plan/weichen/w21-gewicht-am-anschluss.md` |
 | W20 | 2026-10-27 | A: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „A, erklärt in Kap 6 — Konsolen bearbeiten den eigenen Sektor; die Wartung nimmt Sektor 04, also liegt alles bei Kael. Szene 1 braucht eine Zeile, die das zeigt. Kap 6 zeigt aus AEGIS' Sicht, wie die Zeile zu ihm kam.“ | `Plan/weichen/w20-lenker.md` |
 | SP | 2026-10-27 | Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „Überholte streichen, Rest bestätigen — L10, L11 und die überholten Teile von L6, L13, L14 fallen; L9 gilt mit deiner Antwort zu W5; L3, L4, L5, L6, L7 und die übrigen gelten für Szene 1 als bestätigt.“ | `Plan/weichen/sp-sperren-2026-05.md` |
+| 033 | 2026-10-28 | Die Welt hat nur noch zwei Voraussetzungen, die Wahrheitstheorie und die Dual-Kernel-Theorie (der Autor, 2026-10-28: „… dann möchte ich nur noch die wahrheitstheorie und die Dual Kernel Theorie als worldbuilding Vorraussetzungen… bitte schlag mit einem komplett neuen Plot vor“ und „wir sind immerhin im Information Universum. - also ist jeder Gedanke auch eine Projektion“). Das übrige Worldbuilding ruht (§ Ruhend). Der neue Plot ist ein Vorschlag. | `Plan/decisions/033-two-premises-and-a-new-plot.md` |
+
+## Ruhend
+
+Zeilen, deren Entscheidung eine spätere Entscheidung von dir aufgehoben hat. Sie bleiben oben stehen, wie du sie gegeben hast; hier steht, dass sie nicht mehr gelten, und wodurch. Die Werkzeuge lesen sie als Geschichte, nicht als Entschiedenes (`weiche.resting`).
+
+- **Kernwelten** ruht seit 033 (2026-10-28): Die Welt hat nur noch zwei Voraussetzungen, die Wahrheitstheorie und die Dual-Kernel-Theorie; vier Kernwelten sind keine davon.
+- **C9** ruht seit 033 (2026-10-28): Die Konstrukt-Stadt als KW1 ist Worldbuilding außerhalb der zwei Voraussetzungen.
 
 ## Freigegebene Kapitel
 

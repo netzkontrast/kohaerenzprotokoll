@@ -4,9 +4,13 @@ kind: welt
 kanon: ["C9"]
 match: ["Konstrukt-Stadt", "Logos-Prime"]
 wiki: konstrukt-stadt
+status: ruht
+ruht_seit: "033"
 ---
 
 # Die Konstrukt-Stadt
+
+> **Ruht seit Entscheidung 033 (2026-10-28).** Die Welt hat nur noch zwei Voraussetzungen, die Wahrheitstheorie und die Dual-Kernel-Theorie; diese Karte ist keine davon. Sie ist nicht gelöscht: Was hier steht, bleibt als Idee lesbar, und dein Wort kann sie zurückholen.
 
 Die erste Kernwelt, in der das Buch nach den Quellen beginnt.
 

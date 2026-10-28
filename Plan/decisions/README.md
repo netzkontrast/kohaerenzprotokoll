@@ -48,6 +48,7 @@ decision files are missing from it or listed here without existing, and
 | `029-mcp-server-on-vercel.md` | 2026-10-16 | The retrieval tools as a read-only FastMCP server on Vercel: search over the landed documents and the wiki, graph retrieval, line windows and quotation checks; the documents' lines go to Vercel behind its login; access by a protection-bypass secret |
 | `030-the-writing-workshop.md` | 2026-10-26 | The writing workshop: a session writes scene by scene on beats the author approves, Weichen answered per chapter, a briefing of the decided and the proposed, a continuity register, a prose-rule register with status, 3,000–5,000 words per chapter in the pilot, marks per paragraph in the app and approval by the author's words, every tool before the first scene |
 | `032-the-site-opens.md` | 2026-10-27 | The website opens without a login, at the author's word; `/mcp` and `/api/*` keep their bearer token |
+| `033-two-premises-and-a-new-plot.md` | 2026-10-28 | The world keeps two premises, the Wahrheitstheorie and the Dual-Kernel-Theorie; the other world cards and the rows Kernwelten and C9 rest (not deleted); a completely new plot is proposed, and the old plot's rows hold until the author approves one |
 
 A decision the author still has to make is not here: it is a question under
 `NOW.md`, *Questions for the author*, until it is answered.

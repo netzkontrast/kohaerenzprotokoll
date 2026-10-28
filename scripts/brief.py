@@ -88,27 +88,48 @@ def storypoint_value(ref: list, forms: dict) -> str:
     return f"{ref[0]} {name}"
 
 
+def kanon_block(text: str) -> str:
+    k = re.search(r"^## Kanon\n(.*?)(?=^## |\Z)", text, re.M | re.S)
+    return k.group(1).strip() if k else ""
+
+
+def holding_cards(manuscript: Path | None = None) -> list[dict]:
+    """The figure and world cards that hold — a card resting by a later decision (033) is history, not decided."""
+    import cards
+    return [c for c in cards.load(manuscript or MANUSCRIPT) if not cards.rests(c)]
+
+
 def card_canon(name_or_match: str) -> tuple[str, str] | None:
-    """(file, the card's ## Kanon block) for the figure or world card whose `match` holds the word."""
-    for folder in ("figuren", "welt"):
-        for p in sorted((MANUSCRIPT / folder).glob("*.md")):
-            text = p.read_text(encoding="utf-8")
-            m = re.search(r"^match: \[(.*)\]$", text, re.M)
-            if m and name_or_match in [x.strip().strip('"') for x in m.group(1).split(",")]:
-                k = re.search(r"^## Kanon\n(.*?)(?=^## |\Z)", text, re.M | re.S)
-                return p.relative_to(ROOT).as_posix(), (k.group(1).strip() if k else "")
+    """(file, the card's ## Kanon block) for the holding figure or world card whose `match` holds the word."""
+    for c in holding_cards():
+        if c["fm"].get("kind") != "voraussetzung" and name_or_match in (c["fm"].get("match") or []):
+            return c["path"].relative_to(ROOT).as_posix(), kanon_block(c["text"])
     return None
 
 
 def figures_in(text: str) -> list[str]:
     out = []
-    for folder in ("figuren", "welt"):
-        for p in sorted((MANUSCRIPT / folder).glob("*.md")):
-            m = re.search(r"^match: \[(.*)\]$", p.read_text(encoding="utf-8"), re.M)
-            for w in ([x.strip().strip('"') for x in m.group(1).split(",")] if m else []):
-                if WORD(w).search(text) and w not in out:
-                    out.append(w)
+    for c in holding_cards():
+        if c["fm"].get("kind") == "voraussetzung":
+            continue  # a premise stands in every briefing, whether the paragraph names it or not
+        for w in c["fm"].get("match") or []:
+            if WORD(w).search(text) and w not in out:
+                out.append(w)
     return out
+
+
+def premise_lines(manuscript: Path | None = None) -> tuple[list[str], list[str]]:
+    """([K] bullets for the world's premises, their files) — every chapter's briefing carries them (decision 033)."""
+    import cards
+    lines, files = [], []
+    base = manuscript or MANUSCRIPT
+    for c in cards.premises(base):
+        block = " ".join(kanon_block(c["text"]).split())
+        ids = ", ".join(c["fm"].get("kanon") or [])
+        rel = c["path"].relative_to(ROOT).as_posix() if c["path"].is_relative_to(ROOT) else f"Manuscript/{c['rel']}"
+        lines.append(f"- [K] Voraussetzung der Welt — {c['fm'].get('name')} ({ids}): {block or 'nichts entschieden'} (`{rel}`)")
+        files.append(rel)
+    return lines, files
 
 
 SZENE = re.compile(r"\bSzene (\d+)\b")
@@ -135,15 +156,17 @@ def duties_of(n: int, k: int) -> list[dict]:
     return [d for d in duties(decided_rows(n, weiche.kanon_rows())) if d["scene"] == k]
 
 
-def decided_rows(n: int, kanon: list[dict]) -> list[dict]:
-    """The canon rows a briefing of chapter n stands on: naming the chapter, or the answer of a Weiche touching it."""
+def decided_rows(n: int, kanon: list[dict], rest: dict | None = None) -> list[dict]:
+    """The canon rows a briefing of chapter n stands on: naming the chapter, or the answer of a Weiche touching it —
+    and holding: a row resting by a later decision (kanon.md § Ruhend) is history, not a duty."""
     import weiche
     touching = set()
     for wid in weiche.sheets():
         ch = weiche.chapters_of(wid)
         if n in set(ch["development"]) | set(ch["treatment"]) | set(ch["sheet"]):
             touching.add(wid)
-    return [r for r in kanon if WORD(f"Kap {n}").search(r["what"]) or r["id"] in touching]
+    rest = weiche.resting() if rest is None else rest
+    return [r for r in kanon if r["id"] not in rest and (WORD(f"Kap {n}").search(r["what"]) or r["id"] in touching)]
 
 
 def terms_in(text: str) -> list[tuple[str, str, bool]]:
@@ -242,10 +265,19 @@ def build(n: int, today: str | None = None) -> str:
         ch = weiche.chapters_of(wid)
         if n in set(ch["development"]) | set(ch["treatment"]) | set(ch["sheet"]):
             touching.add(wid)
+    rest, resting_named = weiche.resting(), []
+    # [K] the world's premises, in every chapter (decision 033)
+    premises, premise_files = premise_lines()
+    K += premises
     for r in kanon:
         if WORD(f"Kap {n}").search(r["what"]) or any(WORD(f).search(r["what"]) for f in figures if f not in ("AEGIS", "Kael")) \
                 or r["id"] in touching:
+            if r["id"] in rest:
+                resting_named.append(f"{r['id']} (seit {rest[r['id']]['since']})")
+                continue
             K.append(f"- [K] **{r['id']}** ({r['date']}): {r['what']} — `{r['where'].strip('`')}`")
+    if resting_named:
+        K.append(f"- [L] Ruhend, nicht entschieden: {', '.join(resting_named)} — Geschichte, keine Pflicht (`Manuscript/kanon.md` § Ruhend)")
     # [K] storypoints
     for sp in dev.get("storypoints", []):
         K.append(f"- [K] Storypoint {storypoint_value(sp, forms)} (`Plan/storyform/{'a' if sp[0] == 'A' else 'b'}.json`, Entscheidung 025)")
@@ -253,8 +285,10 @@ def build(n: int, today: str | None = None) -> str:
     if wrow:
         K.append(f"- [K] Weaving: Route `{wrow.get('route')}`, A trägt {', '.join(wrow.get('A', [])) or '—'}, B trägt {', '.join(wrow.get('B', [])) or '—'}"
                  + (f", Anker „{wrow['anchor']}“" if wrow.get("anchor") else "") + f"; Akt {act or '?'}"
-                 + (f", {world['world']} ({world['label']}, Kap {world['chapters'][0]}–{world['chapters'][1]})" if world else ", der Rahmen")
-                 + " (`Plan/storyform/weave.json`, Kanonzeile Kernwelten)")
+                 + ("" if "Kernwelten" in rest else
+                    f", {world['world']} ({world['label']}, Kap {world['chapters'][0]}–{world['chapters'][1]})" if world else ", der Rahmen")
+                 + (" (`Plan/storyform/weave.json`; die Welt des Kapitels ruht mit der Kanonzeile Kernwelten, 033)" if "Kernwelten" in rest
+                    else " (`Plan/storyform/weave.json`, Kanonzeile Kernwelten)"))
     # [K] parts (the author's working base, step 32) — named as such
     for app in anteile.get("appearances", []):
         if n in app.get("chapters", []):
@@ -342,7 +376,7 @@ def build(n: int, today: str | None = None) -> str:
     if not Z:
         Z.append(f"- Noch keine Szene. Die erste entsteht auf Beats, die der Autor freigibt (`python3 scripts/manuscript.py beats kap-{n:02d} 1 --words \"…\"`), bei 3 000–5 000 Wörtern je Kapitel (W16).")
 
-    files = inputs_of(n, weichen_files, cards)
+    files = inputs_of(n, weichen_files, cards + premise_files)
     out += ["inputs: [" + ", ".join(f'"{f.relative_to(ROOT).as_posix()}"' for f in files) + "]", f"inputs_hash: {hash_of(files)}", "---", ""]
     out += [f"# Briefing Kap {n}" + (f" — {title}" if title else ""), "",
             f"Geschrieben am {today} von `brief.py` aus den Unterlagen des Repositoriums; es urteilt nicht. `[K]` ist entschieden (Kanon, Storyform, Weaving, Karten, bestätigte Regeln), `[V]` vorgeschlagen (Treatment, Entwicklung, Beats, Entwürfe, offene Regeln), `[S]` sagen die Quellen (Forschung, nie Kanon), `[D]` abgeleitet (Kontinuität). Was eine Szene schreibt, steht hier und nirgends sonst (Entscheidung 030).", "",
@@ -426,6 +460,19 @@ def selftest() -> int:
                         [(d["scene"], d["id"]) for d in du] == [(1, "W90"), (2, "W91")]
                         and du[0]["sentence"] == "In Szene 1 steht der Abschnitt auf der Löschliste."
                         and du[0]["context"] == "A: Löschung — Der Korridor verliert 0,73 m." and "Gewählt" not in du[0]["context"]))
+        ms = Path(tmp) / "ms"
+        for d in ("figuren", "welt"):
+            (ms / d).mkdir(parents=True)
+        (ms / "welt" / "dkt.md").write_text('---\nname: Die Dual-Kernel-Theorie\nkind: voraussetzung\nkanon: ["033"]\nmatch: ["DKT"]\n---\n\n'
+                                           '## Kanon\n\nVoraussetzung der Welt (033).\n\n## Was die Quellen sagen\n\n- viel\n', encoding="utf-8")
+        (ms / "welt" / "stadt.md").write_text('---\nname: Stadt\nkind: welt\nstatus: ruht\nruht_seit: "033"\nmatch: ["Stadt"]\n---\n\n## Kanon\n\nKW1.\n', encoding="utf-8")
+        pl, pf = premise_lines(ms)
+        results.append(("a premise card is a [K] line of every briefing, with its decision and its Kanon block only (033)",
+                        pl == ["- [K] Voraussetzung der Welt — Die Dual-Kernel-Theorie (033): Voraussetzung der Welt (033). (`Manuscript/welt/dkt.md`)"]))
+        results.append(("a resting card is not a holding card", [c["rel"] for c in holding_cards(ms)] == ["welt/dkt.md"]))
+        rows2 = [{"id": "Kernwelten", "what": "Vier Welten, Kap 1–13.", "date": "", "where": ""}, {"id": "W9", "what": "Kap 1 beginnt kalt.", "date": "", "where": ""}]
+        results.append(("a resting canon row is not a row the briefing stands on, even when it names the chapter",
+                        [r["id"] for r in decided_rows(1, rows2, rest={"Kernwelten": {"since": "033"}})] == ["W9"]))
         decided = text.split("## Vorgeschlagen")[0]
         results.append(("every answered Weiche touching Kap 1 stands under Entschieden, whatever its words name",
                         all(f"**{wid}**" in decided for wid in answered)))

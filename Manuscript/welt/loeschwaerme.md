@@ -4,9 +4,13 @@ kind: welt
 kanon: []
 match: ["Landauer", "Wärme", "vorkühl", "Vorkühlung"]
 wiki: landauer-signatur
+status: ruht
+ruht_seit: "033"
 ---
 
 # Löschwärme
+
+> **Ruht seit Entscheidung 033 (2026-10-28).** Die Welt hat nur noch zwei Voraussetzungen, die Wahrheitstheorie und die Dual-Kernel-Theorie; diese Karte ist keine davon. Sie ist nicht gelöscht: Was hier steht, bleibt als Idee lesbar, und dein Wort kann sie zurückholen. Die Landauer-Physik selbst lebt in der Karte `dual-kernel-theorie.md` weiter, als Brücke zwischen den Kernen; hier ruht, was die Entwürfe daraus gemacht haben.
 
 Vergessen kostet Wärme. Die harte Physik, die die meisten Entwürfe tragen.
 
