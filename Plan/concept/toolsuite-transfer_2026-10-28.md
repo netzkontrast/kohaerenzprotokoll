@@ -23,6 +23,7 @@ author's call.
 | `writing-intelligence` (voice-metric vector with a drift direction) | German sentence and paragraph rhythm; the word-level diff of two versions | `voice_metrics.py measure · compare · baseline · check` | pilot step 5 (the diff between draft and the author's version); step 6 (a baseline from approved text only) |
 | `agent-file` (share gate: scan exported state before it leaves) | scan the built website for what the MCP server withholds | `share_check.py`, importing `rag.WITHHELD_LINE` | decision 029 §3 withholds those lines on `/mcp`, but the frames were never scanned; Q-aegis-agent-pilot-01 |
 | `worldbuilder` (per-kind schema, cross-reference check) | every reference on a figure or world card resolves | `cards.py check` | "a link is never inferred": worldbuilder's auto-fix is left behind |
+| `narrative-context-protocol` (Core 3.0.0-rc.1, Dramatica profile 1.0.0-rc.1; "preserve, do not normalise") | the emitted NCP document against byte-pinned copies of both schemas, plus three cross-checks Core accepts and should not | `ncp_check.py`; `Plan/storyform/ncp/schema/` (from afa8d86); a `std` suite for the cross-checks, a `jsonschema` suite for the schemas (`not run` without the package) | second round, 2026-10-28 |
 | `lit-critic` (cross-run finding identity, dispositions that follow a finding) | an editor's finding keeps its identity across runs; the author's disposition follows it | `findings.py import · list · dispose`, `Plan/runs/writing/ledger.jsonl` | ported as a design. lit-critic keys with Python's salted `hash()`; here the key is sha256 of the file and the verbatim line |
 
 ## What running them found, on the first day
@@ -41,16 +42,22 @@ author's call.
   - The check changes nothing. The frame scrub stays the author's question.
   - The pattern's lack of word boundaries also makes `/mcp` withhold harmless lines (a line containing „Foreshadowing“).
     That errs toward withholding. Whether to bound it is the author's rule (decisions 028, 029), so it is left as it is.
+- **The NCP document passes both schemas**, and none of the three cross-checks fires. Core itself accepts a payload
+  without a declaration and a version mismatch between the two; the probe that showed it is in the script's docstring.
 - **The cards are clean.** `cards.py check` gives 0 findings over 28 cards.
 - **The ledger holds the pilot's two editor reports.** 19 sightings, 18 findings. One line was cited by both reports; it is one finding, seen twice.
 
 ## Not taken this round, and why
 
 From §6, still open, each one waiting on something named:
-- the settled-directions registry (`epistemic-protocols`);
-- the layer scope lint (`self-driving-agents`);
-- the `development.json` shadowing check (`BuildYourOwnHarness`);
-- the NCP schema check (`narrative-context-protocol`). It needs `jsonschema`, so it would be a venv suite, not `std`;
+- the `development.json` shadowing check (`BuildYourOwnHarness`) — **already there**: `storyform.py`'s
+  `development_audit` refuses any field outside the chapter fields („structural overrides are not allowed“), every
+  storypoint that does not resolve in `a.json`/`b.json`, and every storypoint the weave does not give the chapter.
+  Nothing to transfer;
+- the layer scope lint (`self-driving-agents`) — deferred: `Plan/derived/` holds 591 entries, most of them per-document files, from
+  many writers, and declaring each view's reads and writes is the store inventory `SPEC.md` §9 owes first;
+- the settled-directions registry (`epistemic-protocols`) — a registry is only as good as its entries, and which
+  directions count as settled is the author's to say; an empty registry would be a dormant surface;
 - the setup/payoff ledger (`writer-skills`). It waits on question 6 of the rebuild concept: where 734, the Genesis steps and the Vortex are planted;
 - the style check (`lit-critic`). It needs a style sheet whose syntax the author approves. `prose_rules.py` already checks the confirmed rules mechanically;
 - the pressure coach (`literary-skills`), the prompt-brief (`prompt-architect`), the flag-only reviewer (`dspy-agent-skills`) and the calibration (`metadpy`).

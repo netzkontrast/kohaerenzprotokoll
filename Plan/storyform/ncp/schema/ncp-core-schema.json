@@ -1,0 +1,345 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "$id": "https://narrativecontextprotocol.com/core/3.0.0-rc.1/ncp-core-schema.json",
+    "title": "Narrative Context Protocol Core 3.0.0-rc.1",
+    "description": "Narrative-system-neutral envelope for transporting narrative context, authorial intent, provenance, profiles, extensions, and opaque attestations.",
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+        "ncp_version",
+        "document",
+        "story"
+    ],
+    "properties": {
+        "ncp_version": {
+            "const": "3.0.0-rc.1"
+        },
+        "document": {
+            "$ref": "#/$defs/document"
+        },
+        "story": {
+            "$ref": "#/$defs/story"
+        },
+        "profiles": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/profileDeclaration"
+            },
+            "uniqueItems": true
+        },
+        "extensions": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/extensionDeclaration"
+            },
+            "uniqueItems": true
+        },
+        "storytelling_moments": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/storytellingMoment"
+            }
+        },
+        "contributions": {
+            "type": "array",
+            "items": {
+                "$ref": "#/$defs/contribution"
+            }
+        },
+        "attestations": {
+            "type": "array",
+            "description": "Opaque validation or certification records supplied by external systems. Core validates their transport shape but does not interpret or endorse them.",
+            "items": {
+                "$ref": "#/$defs/attestation"
+            }
+        },
+        "payloads": {
+            "type": "object",
+            "description": "Profile- and extension-owned data keyed by declared namespace. NCP Core does not interpret payload semantics.",
+            "additionalProperties": true
+        }
+    },
+    "$defs": {
+        "uri": {
+            "type": "string",
+            "format": "uri"
+        },
+        "timestamp": {
+            "type": "string",
+            "format": "date-time"
+        },
+        "document": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "id",
+                "created_at"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "created_at": {
+                    "$ref": "#/$defs/timestamp"
+                },
+                "updated_at": {
+                    "$ref": "#/$defs/timestamp"
+                },
+                "version": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "authorship": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/party"
+                    }
+                },
+                "provenance": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/provenance"
+                    }
+                }
+            }
+        },
+        "story": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "id"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "title": {
+                    "type": "string"
+                },
+                "logline": {
+                    "type": "string"
+                },
+                "external_references": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/reference"
+                    }
+                }
+            }
+        },
+        "party": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "id",
+                "role"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "name": {
+                    "type": "string"
+                },
+                "role": {
+                    "type": "string",
+                    "minLength": 1
+                }
+            }
+        },
+        "reference": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "system",
+                "value"
+            ],
+            "properties": {
+                "system": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "value": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "uri": {
+                    "$ref": "#/$defs/uri"
+                },
+                "entity_type": {
+                    "type": "string"
+                }
+            }
+        },
+        "provenance": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "at",
+                "action"
+            ],
+            "properties": {
+                "at": {
+                    "$ref": "#/$defs/timestamp"
+                },
+                "action": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "actor_id": {
+                    "type": "string"
+                },
+                "source": {
+                    "$ref": "#/$defs/reference"
+                }
+            }
+        },
+        "profileDeclaration": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "namespace",
+                "profile_version",
+                "schema"
+            ],
+            "properties": {
+                "namespace": {
+                    "type": "string",
+                    "pattern": "^[a-z][a-z0-9-]*:$"
+                },
+                "profile_version": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "schema": {
+                    "$ref": "#/$defs/uri"
+                }
+            }
+        },
+        "extensionDeclaration": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "namespace",
+                "version",
+                "schema"
+            ],
+            "properties": {
+                "namespace": {
+                    "type": "string",
+                    "pattern": "^[a-z][a-z0-9-]*:$"
+                },
+                "version": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "schema": {
+                    "$ref": "#/$defs/uri"
+                }
+            }
+        },
+        "storytellingMoment": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "id",
+                "summary"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "summary": {
+                    "type": "string"
+                },
+                "references": {
+                    "type": "array",
+                    "items": {
+                        "$ref": "#/$defs/reference"
+                    }
+                }
+            }
+        },
+        "contribution": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "id",
+                "contributor_id",
+                "at"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "contributor_id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "at": {
+                    "$ref": "#/$defs/timestamp"
+                },
+                "summary": {
+                    "type": "string"
+                }
+            }
+        },
+        "attestation": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+                "id",
+                "kind",
+                "subject_hash",
+                "issued_at",
+                "issuer"
+            ],
+            "properties": {
+                "id": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "kind": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "profile_namespace": {
+                    "type": "string",
+                    "pattern": "^[a-z][a-z0-9-]*:$"
+                },
+                "profile_version": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "semantic_model_version": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "subject_hash": {
+                    "type": "string",
+                    "minLength": 1
+                },
+                "issued_at": {
+                    "$ref": "#/$defs/timestamp"
+                },
+                "issuer": {
+                    "$ref": "#/$defs/reference"
+                },
+                "status": {
+                    "type": "object",
+                    "description": "Profile- or issuer-defined status values. NCP Core does not interpret these fields.",
+                    "additionalProperties": true
+                },
+                "signed_record": {
+                    "type": "string",
+                    "description": "An issuer-defined signed record or detached signature representation."
+                }
+            }
+        }
+    }
+}

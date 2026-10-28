@@ -14,6 +14,7 @@ that creates it, and the exit status says so.
 
 from __future__ import annotations
 
+import importlib.util
 import shutil
 import subprocess
 import sys
@@ -38,6 +39,9 @@ KINDS = {
                  ".venv-typesafe absent — scripts/install.sh typesafe"),
     # the upstream package, only to hold the port to it (`hx.py parity`); no pipeline step needs it
     "he": (None, "he", "upstream Hyper-Extract absent — scripts/install.sh hyperextract"),
+    # a package this interpreter may lack: present when it imports (a callable `needs`)
+    "jsonschema": (None, lambda: importlib.util.find_spec("jsonschema") is not None,
+                   "jsonschema absent — the NCP schema validation needs it (pip install jsonschema in a venv)"),
 }
 
 # (name, interpreter, arguments). "dspy" means .venv-dspy.
@@ -72,6 +76,8 @@ SUITES = [
     ("briefings, live", "std", ["scripts/brief.py", "check"]),
     ("manuscript: scenes, checks, approval", "std", ["scripts/manuscript.py", "selftest"]),
     ("manuscript, live", "std", ["scripts/manuscript.py", "verify"]),
+    ("ncp: declaration cross-checks, pinned schemas", "std", ["scripts/ncp_check.py", "selftest"]),
+    ("ncp, live: the emitted document against the schemas", "jsonschema", ["scripts/ncp_check.py"]),
     ("voice metrics: German sentences, drift, word diff", "std", ["scripts/voice_metrics.py", "selftest"]),
     ("share check: withheld names in published output", "std", ["scripts/share_check.py", "selftest"]),
     ("cards: references resolve", "std", ["scripts/cards.py", "selftest"]),
@@ -168,7 +174,7 @@ def run_suite(suite: tuple[str, str, list[str]]) -> tuple[str, str, str]:
     """(held | FAILED | not run, the suite's name, what it said last) for one suite."""
     name, kind, args = suite
     interpreter, needs, remedy = KINDS.get(kind, (None, None, ""))
-    present = needs is None or (shutil.which(needs) if isinstance(needs, str) else needs.exists())
+    present = needs is None or (needs() if callable(needs) else shutil.which(needs) if isinstance(needs, str) else needs.exists())
     if not present:
         return "not run", name, remedy
     python = str(interpreter) if interpreter else sys.executable
