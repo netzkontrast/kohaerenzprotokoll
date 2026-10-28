@@ -1,7 +1,7 @@
 ---
 kapitel: 1
 titel: Vorkühlung
-written: 2026-10-27
+written: 2026-10-28
 by: brief.py
 status: briefing
 inputs: ["Manuscript/kanon.md", "Plan/storyform/a.json", "Plan/storyform/b.json", "Plan/storyform/weave.json", "Plan/storyform/anteile.json", "Plan/storyform/development.json", "Manuscript/plot/treatment.md", "Manuscript/regeln.jsonl", "Wiki/chapters/kap-01.md", "Plan/runs/writing/book/scene-architecture_akt-1_2026-10-05.md", "Plan/runs/writing/book/scene-architecture_akt-2_2026-10-05.md", "Manuscript/kontinuitaet/kap-00.json", "Manuscript/kontinuitaet/kap-01.json", "Plan/weichen/w17-archetypen-nach-kw1.md", "Plan/weichen/w18-kael-handelt-akt-ii.md", "Plan/weichen/w33-kishotenketsu-rezept.md", "Manuscript/figuren/aegis.md", "Manuscript/figuren/alte-frau.md", "Manuscript/figuren/kael.md", "Manuscript/figuren/silas.md"]
@@ -10,7 +10,7 @@ inputs_hash: 3788fa5034760a37e0605e086a7ada484c126e5d02db6b60aa64d3a9e9da9fb6
 
 # Briefing Kap 1 — Vorkühlung
 
-Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; es urteilt nicht. `[K]` ist entschieden (Kanon, Storyform, Weaving, Karten, bestätigte Regeln), `[V]` vorgeschlagen (Treatment, Entwicklung, Beats, Entwürfe, offene Regeln), `[S]` sagen die Quellen (Forschung, nie Kanon), `[D]` abgeleitet (Kontinuität). Was eine Szene schreibt, steht hier und nirgends sonst (Entscheidung 030).
+Geschrieben am 2026-10-28 von `brief.py` aus den Unterlagen des Repositoriums; es urteilt nicht. `[K]` ist entschieden (Kanon, Storyform, Weaving, Karten, bestätigte Regeln), `[V]` vorgeschlagen (Treatment, Entwicklung, Beats, Entwürfe, offene Regeln), `[S]` sagen die Quellen (Forschung, nie Kanon), `[D]` abgeleitet (Kontinuität). Was eine Szene schreibt, steht hier und nirgends sonst (Entscheidung 030).
 
 ## Entschieden
 
@@ -38,6 +38,12 @@ Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; e
 - [K] Karte alte Frau: - **Funktion** (W10-A): Sidekick (Support, Faith). (`Manuscript/figuren/alte-frau.md`)
 - [K] Karte Kael: - **Kael (2026-10-05), seine Karte:** Host-ANP von dreizehn Anteilen. Want — Ordnung, der Tag „richtig“, die Null am Abend. Need — die zehn Jahre tragen, die Anteile anerkennen, sprechen, wo er schwieg, fühlen dürfen. Wunde — Bindungstrauma der Basisrealität, dann die Fragmentierungsnacht, ausgelöst durch die drohende Trennung aus Liebe; Oblivion löschte die zehn Jahre. Lügen — „Wenn ich nichts fü (`Manuscript/figuren/kael.md`)
 - [K] Karte Silas: - **Lager:** Er gehört zum Lager der Suche. (`Manuscript/figuren/silas.md`)
+- [K] Pflicht Szene 1 (W2): C mit A, dazu B — Die Löschung als Gegner mit sichtbarer Uhr; Kaels Beruf als Ort, an dem er die Uhr liest; die Reise durch die vier Welten. So ist das Treatment schon gebaut — Szene 1 steht unter der Frist 16:40.
+- [K] Pflicht Szene 1 (W3): Ich, Präsens, als Regel — Kael erzählt in der ersten Person im Präsens, für das ganze Buch; Szene 1 kann mit ‚Das Licht ist schon da, als ich erwache.‘ beginnen.
+- [K] Pflicht Szene 1 (W7): B: getrennte Freigaben — In Szene 1: kein Name eines Anteils, keine Amnesie als Wort, kein Fachwort der Dissoziation; Kaels Name fällt, weil die alte Frau fragt.
+- [K] Pflicht Szene 1 (W28): Kaels eigene Lücke bekommt in Kap 3 ein eigenes Ding, das Messzeichen. In Szene 1 steht der Abschnitt auf der Löschliste.
+- [K] Pflicht Szene 1 (W20): A, erklärt in Kap 6 — Konsolen bearbeiten den eigenen Sektor; die Wartung nimmt Sektor 04, also liegt alles bei Kael. Szene 1 braucht eine Zeile, die das zeigt.
+- [K] Pflicht Szene 1 (SP): Überholte streichen, Rest bestätigen — L10, L11 und die überholten Teile von L6, L13, L14 fallen; L9 gilt mit deiner Antwort zu W5; L3, L4, L5, L6, L7 und die übrigen gelten für Szene 1 als bestätigt.
 - [K] Regel R01: Frühere Namen der Figuren und jeder Name, den der Korpus nach „ehem.“ gibt, werden nie geschrieben, nie aufgelistet, nie zitiert. — geprüft: `fruehe-namen` (`Manuscript/regeln.jsonl`, 2026-10-26)
 - [K] Regel R02: Das Symbol der Kernwunde wird nie geschrieben; es heißt nur „Kernwunde“. — geprüft: `kernwunde` (`Manuscript/regeln.jsonl`, 2026-10-26)
 - [K] Regel R03: Kein geschlechtliches Pronomen für Kael, Juna, AEGIS oder einen Anteil — auch nicht in Zitaten. — geprüft: `pronomen-figuren` (`Manuscript/regeln.jsonl`, 2026-10-26)
@@ -144,4 +150,4 @@ Geschrieben am 2026-10-27 von `brief.py` aus den Unterlagen des Repositoriums; e
 
 ## Szenen
 
-- Noch keine Szene. Die erste entsteht auf Beats, die der Autor freigibt (`python3 scripts/manuscript.py beats kap-01 1 --words "…"`), bei 3 000–5 000 Wörtern je Kapitel (W16).
+- `Manuscript/kap-01/szene-1-das-licht.md` — entwurf, 964 Wörter

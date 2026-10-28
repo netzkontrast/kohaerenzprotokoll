@@ -111,6 +111,41 @@ def figures_in(text: str) -> list[str]:
     return out
 
 
+SZENE = re.compile(r"\bSzene (\d+)\b")
+
+
+def duties(rows: list[dict]) -> list[dict]:
+    """The decided sentences that name a scene: {scene, id, sentence}. The pilot's F10 — W28 and W20 asked for a line
+    in Szene 1, the beats were proposed without them, and no check said so. A duty is read, never judged answered:
+    `manuscript.py check` lists it as a query until the author's approval."""
+    out = []
+    for r in rows:
+        text = re.sub(r"^.*?(?:Liste|Gespräch[^:]*): „", "", r["what"]).rstrip("“ ")  # the answer, not its preamble
+        sents = [x.strip() for x in re.split(r"(?<=[.!?])\s+", text) if x.strip()]
+        for i, sent in enumerate(sents):
+            for k in sorted(set(SZENE.findall(sent)), key=int):
+                out.append({"scene": int(k), "id": r["id"], "sentence": sent,
+                            "context": sents[i - 1] if i else ""})
+    return out
+
+
+def duties_of(n: int, k: int) -> list[dict]:
+    """The duties of scene k in chapter n, from the rows the briefing stands on."""
+    import weiche
+    return [d for d in duties(decided_rows(n, weiche.kanon_rows())) if d["scene"] == k]
+
+
+def decided_rows(n: int, kanon: list[dict]) -> list[dict]:
+    """The canon rows a briefing of chapter n stands on: naming the chapter, or the answer of a Weiche touching it."""
+    import weiche
+    touching = set()
+    for wid in weiche.sheets():
+        ch = weiche.chapters_of(wid)
+        if n in set(ch["development"]) | set(ch["treatment"]) | set(ch["sheet"]):
+            touching.add(wid)
+    return [r for r in kanon if WORD(f"Kap {n}").search(r["what"]) or r["id"] in touching]
+
+
 def terms_in(text: str) -> list[tuple[str, str, bool]]:
     """(slug, title, has a thought page) for every wiki term whose surface the text writes."""
     index = ROOT / "Wiki" / "index.json"
@@ -232,6 +267,9 @@ def build(n: int, today: str | None = None) -> str:
             cards.append(file)
             line = " ".join(block.split())[:400] if block else "nichts entschieden"
             K.append(f"- [K] Karte {f}: {line} (`{file}`)")
+    # [K] duties: a decided sentence that names a scene (F10)
+    for d in duties([r for r in kanon if any(f"**{r['id']}**" in k for k in K)]):
+        K.append(f"- [K] Pflicht Szene {d['scene']} ({d['id']}): " + (f"{d['context']} " if d["context"] else "") + d["sentence"])
     # rules
     rules_in = [r for r in prose_rules.rows() if prose_rules.in_scope(r, n)]
     for r in rules_in:
@@ -381,6 +419,13 @@ def selftest() -> int:
                     if weiche.frontmatter(path.read_text(encoding="utf-8")).get("status") == "beantwortet"
                     and 1 in set(weiche.chapters_of(wid)["development"]) | set(weiche.chapters_of(wid)["treatment"]) | set(weiche.chapters_of(wid)["sheet"])
                     and any(r["id"] == wid for r in weiche.kanon_rows())]
+        rows = [{"id": "W90", "what": "A: Gewählt vom Autor im Gespräch der Sitzung x am 2026-10-27, als Option aus der vorgelegten Liste: „A: Löschung — Der Korridor verliert 0,73 m. In Szene 1 steht der Abschnitt auf der Löschliste.“"},
+                {"id": "W91", "what": "Szene 2 braucht eine Zeile. Kap 1 hat drei Szenen."}]
+        du = duties(rows)
+        results.append(("a decided sentence naming a scene is a duty of that scene, with its answer, not its preamble (F10)",
+                        [(d["scene"], d["id"]) for d in du] == [(1, "W90"), (2, "W91")]
+                        and du[0]["sentence"] == "In Szene 1 steht der Abschnitt auf der Löschliste."
+                        and du[0]["context"] == "A: Löschung — Der Korridor verliert 0,73 m." and "Gewählt" not in du[0]["context"]))
         decided = text.split("## Vorgeschlagen")[0]
         results.append(("every answered Weiche touching Kap 1 stands under Entschieden, whatever its words name",
                         all(f"**{wid}**" in decided for wid in answered)))

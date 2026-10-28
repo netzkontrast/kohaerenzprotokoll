@@ -6,7 +6,7 @@ status: entwurf
 beats_on: 2026-10-27
 beats_words: Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „Ohne den Anschluss — Beat 3 loses the grey Anschluss (from Entwurf G); the RÜCKFRAGE later needs another place to land.“ Vorher gewählt: Szenenende „An der Bank“, Falschheit „Die Temperatur“.
 briefing: 3788fa5034760a37e0605e086a7ada484c126e5d02db6b60aa64d3a9e9da9fb6
-geprueft: 2026-10-27 regeln 0 Fehler 0 Rückfragen · kontinuität 0 Rückfragen
+geprueft: 2026-10-28 regeln 0 Fehler 0 Rückfragen · kontinuität 0 Rückfragen · pflichten 6 zu lesen
 geprueft_hash: 5eeae230a92e22aaa79bbdd0642e7ce59c2d3d5b2ea9c3f5d0f2e80975796256
 ---
 > Beats (freigegeben 2026-10-27): 1. „Das Licht ist schon da, als ich erwache.“ (L3; Ich, Präsens). Die linke Hand hält die rechte; er hat sie nicht so hingelegt. Er löst sie (Hook-in). 2. Die Wandfläche zeigt 20,6 °C; in dieser Wohneinheit ist es immer einundzwanzig Grad — die eine Falschheit des Kapitels (L4c); er liest sie, kommentiert sie nicht, keine Erinnerung wird erwähnt (L4a). Kalt, keine Wärme (L6b). 3. Er zieht die Jacke an, bevor er isst. 4. Die Wandfläche zeigt nur sterile Direktiven (Schichtbeginn); keine Stimme, kein Systemlog (L5). 5. Transitkorridor Delta-7: alle tragen die Jacken geschlossen; Anzeige WARTUNG · HEUTE 16:40–16:43 · VORKÜHLUNG; Ozon kalt und scharf (W5 B). 6. Auf der Bank bei Schritt 210 in Abschnitt 3 sitzt eine alte Frau, die Hände in die Ärmel gezogen; er hat dort noch nie jemanden sitzen sehen. Er geht weiter — Ende der Szene. Nicht in der Szene: die Knöchel (L7), kein Name und kein Fachwort für einen Anteil (A19, W7b), keine 734, kein Anschluss, der Silas-Halbsatz (L6c) erst in einer späteren Szene von Kap 1.
