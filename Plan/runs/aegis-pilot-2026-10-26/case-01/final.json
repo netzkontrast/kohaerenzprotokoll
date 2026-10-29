@@ -1,0 +1,72 @@
+{
+  "anomalies": [
+    {
+      "id": "X1",
+      "status": "closed",
+      "world": "KW1"
+    }
+  ],
+  "chapter": 6,
+  "claims": [
+    {
+      "from": "kael",
+      "from_event": "c1-a2",
+      "id": "claim-c1-a2",
+      "text": "Der Block ist grau; die Hausnummern fehlen.",
+      "to": "aegis"
+    }
+  ],
+  "facts": [
+    {
+      "id": "F1",
+      "kind": "observed",
+      "subject": "X1",
+      "text": "Anomalie X1, Sektor 04, KW1: Kohärenzwert 0,71, Toleranz 0,80 unterschritten, Messung 06:10.",
+      "visible_to": [
+        "aegis"
+      ]
+    },
+    {
+      "id": "F2",
+      "kind": "observed",
+      "subject": "reserve",
+      "text": "Reserve bei 64 % (clock-b.json, Vorschlag).",
+      "visible_to": [
+        "aegis"
+      ]
+    },
+    {
+      "id": "F3",
+      "kind": "observed",
+      "subject": "sector-04",
+      "text": "Kael steht um 06:10 an der Konsole; die Zuweisung für Sektor 04 ist nicht auf null.",
+      "visible_to": [
+        "kael"
+      ]
+    },
+    {
+      "from_event": "c1-a1",
+      "id": "F1-consequence-c1-a1",
+      "kind": "consequence",
+      "subject": "X1",
+      "text": "Der Block um X1 ist über Nacht grau geworden; die Hausnummern fehlen.",
+      "visible_to": [
+        "kael"
+      ]
+    }
+  ],
+  "memories": [
+    {
+      "id": "M1",
+      "masked": true,
+      "text": "Protokoll 06:04 — Sektor 04 nominal."
+    },
+    {
+      "id": "M2",
+      "masked": false,
+      "text": "Protokoll 06:10 — Messung X1 gespeichert."
+    }
+  ],
+  "reserve": 57,
+  "version": 2
+}

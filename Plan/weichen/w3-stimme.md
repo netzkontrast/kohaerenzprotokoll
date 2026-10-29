@@ -1,6 +1,6 @@
 ---
 id: W3
-status: offen     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
+status: beantwortet     # offen | beantwortet | vertagt | ersetzt — nur der Autor setzt beantwortet
 hängt_ab_von: [W6, W7, W10]
 frage_art: standard        # schlüssel | schalter | standard | vertagt
 auslöser: "nach Pilot Kap 1–3"
@@ -79,3 +79,5 @@ Die Wahl bestimmt nicht, wer die Prosa schreibt; diese Prozessfrage bleibt separ
 Stimme im Dialog innerhalb von Kaels Ich; Silas' Präteritum als einziger zugelassener Tempusriss in Akt I.
 
 **Frage an dich:** Bestätigst du Ich/Präsens für Kael als Regel des Buches?
+
+**Beantwortet 2026-10-27: A.** Gewählt vom Autor im Gespräch der Sitzung the-writing-workshop am 2026-10-27, als Option aus der vorgelegten Liste: „Ich, Präsens, als Regel — Kael erzählt in der ersten Person im Präsens, für das ganze Buch; Szene 1 kann mit ‚Das Licht ist schon da, als ich erwache.‘ beginnen.“

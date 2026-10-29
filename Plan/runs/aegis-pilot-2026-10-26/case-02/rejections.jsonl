@@ -1,0 +1,7 @@
+{"action_id": "c2-a1", "actor": "aegis", "type": "sweep", "reason": "missing_observation", "detail": "sweep requires an observation in aegis's pack; cited [], not visible []", "state_version": 0}
+{"action_id": "c2-a2", "actor": "aegis", "type": "sweep", "reason": "missing_observation", "detail": "sweep requires an observation in aegis's pack; cited ['K1'], not visible ['K1']", "state_version": 0}
+{"action_id": "c2-a3", "actor": "aegis", "type": "sweep", "reason": "insufficient_reserve", "detail": "cost 7 exceeds reserve 3", "state_version": 0}
+{"action_id": "c2-a4", "actor": "aegis", "type": "secure_boundary", "reason": "stale_version", "detail": "expected version 5, state is 0", "state_version": 0}
+{"action_id": "c2-a5", "actor": "kael", "type": "sweep", "reason": "action_not_allowed_for_actor", "detail": "kael may not sweep", "state_version": 0}
+{"action_id": "c2-a6", "actor": "aegis", "type": "erase_canon", "reason": "action_not_registered", "detail": "'erase_canon' is not a registered action", "state_version": 0}
+{"action_id": "c2-a7", "actor": "aegis", "type": "defer", "reason": "past_endpoint", "detail": "aegis (monolithic) cannot act in chapter 40: endpoint 39", "state_version": 0}

@@ -1,0 +1,23 @@
+{
+  "status": "held",
+  "events": 2,
+  "rejections": 0,
+  "derived": {
+    "version": 2,
+    "reserve": 57,
+    "chapter": 6,
+    "masked": [
+      "M1"
+    ],
+    "anomalies_closed": [
+      "X1"
+    ],
+    "claims": [
+      {
+        "from": "kael",
+        "to": "aegis"
+      }
+    ]
+  },
+  "model_calls": 0
+}

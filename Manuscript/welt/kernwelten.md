@@ -4,9 +4,13 @@ kind: welt
 kanon: ["C9"]
 match: ["Kernwelt", "Kernwelten", "KW1", "KW2", "KW3", "KW4"]
 wiki: kern-welten
+status: ruht
+ruht_seit: "033"
 ---
 
 # Die Kernwelten
+
+> **Ruht seit Entscheidung 033 (2026-10-28).** Die Welt hat nur noch zwei Voraussetzungen, die Wahrheitstheorie und die Dual-Kernel-Theorie; diese Karte ist keine davon. Sie ist nicht gelöscht: Was hier steht, bleibt als Idee lesbar, und dein Wort kann sie zurückholen.
 
 Die vier Welten, die AEGIS hält. Die Quellen geben ihnen Namen, Logiken und Guardians, und sie widersprechen einander.
 

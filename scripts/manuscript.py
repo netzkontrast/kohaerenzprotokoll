@@ -135,23 +135,28 @@ def scene_path(n: int, k: int, base: Path | None = None) -> Path:
     raise SystemExit(f"no scene {k} in Kap {n}")
 
 
-def check(n: int, k: int, today: str | None = None, base: Path | None = None) -> dict:
+def check(n: int, k: int, today: str | None = None, base: Path | None = None, duties_fn=None) -> dict:
     import continuity
     import prose_rules
+    if duties_fn is None:
+        import brief
+        duties_fn = brief.duties_of
     path = scene_path(n, k, base)
     sc = read_scene(path)
     if not sc["prose"].strip():
         raise SystemExit(f"{path.name}: no prose yet")
     rf = prose_rules.check(path, n)
     cf = continuity.check(path, n)
+    # a decided sentence naming this scene is never judged answered by code: it is read beside the prose (F10, F11)
+    du = duties_fn(n, k)
     fails = sum(1 for f in rf if f["severity"] == "fail")
     today = today or datetime.date.today().isoformat()
-    sc["head"]["geprueft"] = f"{today} regeln {fails} Fehler {len(rf) - fails} Rückfragen · kontinuität {len(cf)} Rückfragen"
+    sc["head"]["geprueft"] = f"{today} regeln {fails} Fehler {len(rf) - fails} Rückfragen · kontinuität {len(cf)} Rückfragen · pflichten {len(du)} zu lesen"
     sc["head"]["geprueft_hash"] = sc["prose_hash"]
     if sc["head"].get("status") == "beats":
         sc["head"]["status"] = "entwurf"
     write_scene(path, sc["head"], sc["body"])
-    return {"rules": rf, "continuity": cf, "fails": fails, "words": sc["words"]}
+    return {"rules": rf, "continuity": cf, "duties": du, "fails": fails, "words": sc["words"]}
 
 
 def approve(n: int, k: int, words: str, today: str | None = None, base: Path | None = None, kanon: Path | None = None,
@@ -303,17 +308,20 @@ def selftest() -> int:
         # prose, then check (the live rules and register: the fixture prose is clean)
         text = p.read_text(encoding="utf-8")
         p.write_text(text + "Das Licht ist schon da, als ich erwache. Ich ziehe die linke Hand weg.\n", encoding="utf-8")
-        r = check(1, 1, "2026-10-27", base)
+        duty = lambda n, k: [{"scene": 1, "id": "W99", "sentence": "In Szene 1 steht der Abschnitt auf der Liste.", "context": ""}] if k == 1 else []  # noqa: E731
+        r = check(1, 1, "2026-10-27", base, duties_fn=duty)
         sc = read_scene(p)
         results.append(("check records the run on the prose and moves beats to entwurf", r["fails"] == 0 and sc["head"]["status"] == "entwurf"
                         and sc["head"]["geprueft_hash"] == sc["prose_hash"] and "regeln 0 Fehler" in sc["head"]["geprueft"]))
+        results.append(("a decided sentence naming the scene comes back as a duty to read, on clean prose too (F10, F11)",
+                        [d["id"] for d in r["duties"]] == ["W99"] and "pflichten 1 zu lesen" in sc["head"]["geprueft"]))
         p.write_text(p.read_text(encoding="utf-8") + "\nNoch ein Satz.\n", encoding="utf-8")
         try:
             approve(1, 1, "frei", base=base, kanon=kanon, briefing_status=current)
             results.append(("approval after an edit without a new check is refused", False))
         except SystemExit as e:
             results.append(("approval after an edit without a new check is refused", "changed since" in str(e)))
-        check(1, 1, "2026-10-27", base)
+        check(1, 1, "2026-10-27", base, duties_fn=duty)
         try:
             approve(1, 1, "", base=base, kanon=kanon, briefing_status=current)
             results.append(("approval without words is refused", False))
@@ -366,7 +374,9 @@ def main(argv: list[str]) -> int:
             print(f"{f['severity']:5} {f['rule']:5} Absatz {f['absatz']:>3}  {f['wort']!s:28} {f['stelle']}")
         for f in r["continuity"]:
             print(f"query {f['tabelle']:7} Absatz {f['absatz']:>3}  {f['frage']}")
-        print(f"{r['words']} Wörter; {r['fails']} Fehler, {len(r['rules']) - r['fails']} Regel-Rückfragen, {len(r['continuity'])} Kontinuitäts-Rückfragen")
+        for d in r["duties"]:
+            print(f"duty  {d['id']:7} Szene {d['scene']}: {d['sentence']} — welche Zeile antwortet? (der Autor liest)")
+        print(f"{r['words']} Wörter; {r['fails']} Fehler, {len(r['rules']) - r['fails']} Regel-Rückfragen, {len(r['continuity'])} Kontinuitäts-Rückfragen, {len(r['duties'])} Pflichten zu lesen")
         return 1 if r["fails"] else 0
     if verb == "approve" and len(rest) >= 2:
         print(json.dumps(approve(kap(rest[0]), int(rest[1]), opt("--words")), ensure_ascii=False))
