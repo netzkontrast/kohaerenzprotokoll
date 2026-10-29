@@ -75,7 +75,7 @@ erfunden, aus den sieben Regeln; es ist keine der alten Welten.
 
 | Figur | was sie will | was ihr fehlt | welche Wahrheit sie trägt |
 |---|---|---|---|
-| **AEGIS** | dass die Welt hält | zu wissen, ob sie wahr ist oder nur stimmig | Kohärenz: Er hat jeden Satz jeder Welt selbst geschrieben. Darum hat noch keine Welt zu etwas gepasst außer zu ihm. |
+| **AEGIS** | dass die Welt hält | zu wissen, ob sie wahr ist oder nur stimmig | Kohärenz: AEGIS hat jeden Satz jeder Welt selbst geschrieben. Darum hat noch keine Welt zu etwas gepasst außer zu AEGIS. |
 | **Ida Sund**, Prüferin im Amt für Übereinstimmung | Wahrheit, die mehr ist als Stimmigkeit | den Mut, selbst etwas zu denken, statt nur zu prüfen | Korrespondenz. Ihr Geheimnis: Ihr Amt hat noch nie einen Satz mit der Welt verglichen, immer nur mit dem Archiv, mit anderen Sätzen. |
 | **Leo Faber**, Hochstapler, „Stimmigkeitskünstler“ | dass seine Geschichte hält | jemanden, der ihn sieht, wie er ist | Kohärenz als Handwerk. Er wohnt in einem Haus, das nur steht, weil seine Geschichte darüber lückenlos ist. Sein eigenes Leben hat er sich als Kind ausgedacht. |
 | **Der Bischof von Fug** | Ruhe, Tee und seine Brille | — | Er ist unschuldig. Er wird es von Tag zu Tag weniger. |
@@ -87,20 +87,20 @@ erfunden, aus den sieben Regeln; es ist keine der alten Welten.
 
 ### Kap 1 — AEGIS: Das Protokoll
 
-AEGIS spricht als Ich, aber seine Welt besteht aus Protokollsätzen. Das Kapitel ist ein Logbuch über Millionen Jahre:
+AEGIS spricht als Ich, aber AEGIS' Welt besteht aus Protokollsätzen. Das Kapitel ist ein Logbuch über Millionen Jahre:
 - **Die Durchläufe.** AEGIS hat Welt um Welt gebaut, jede vollkommen stimmig, und jede ist an ihrer Stimmigkeit gestorben.
   - Eine Welt einigte sich darauf, dass es keine Bewohner gibt: kohärent, leer, gelöscht.
   - In einer Welt war jeder dieselbe Person. Nichts widersprach mehr, nichts schloss sich mehr, und die Zeit blieb stehen.
   - Andere verbrannten, als die Probe kam.
   - Zu jeder Löschung notiert AEGIS die Wärme in Joule.
-- **Sein Problem, ohne dass er es so nennt:** Er hat jeden Satz selbst geschrieben. Eine Welt, deren Sätze alle von einem
+- **Das Problem, ohne dass AEGIS es so nennt:** AEGIS hat jeden Satz selbst geschrieben. Eine Welt, deren Sätze alle von einem
   stammen, ist eine vollkommen stimmige Erfindung. Darin kann ein Bischof gehängt worden sein, der in Wahrheit friedlich starb ^[wahrheitstheorien-kohaerenz-vs-korrespondenz.md:L122].
   Wahr oder nur stimmig: Von innen ist das nicht zu unterscheiden.
-- **Der letzte Durchlauf.** Erschöpft oder neugierig versucht AEGIS etwas, das er nie getan hat: Er schreibt nicht mehr
-  alles. Er lässt Lücken.
-- **Die Lücken füllen sich.** Es entstehen Sätze, die er nicht geschrieben hat: Gedanken. Es entsteht eine Stadt.
-- **Der Haken.** AEGIS findet einen Satz ohne Kopf: kein „wessen Protokoll um wie viel Uhr“, nur „Hier jetzt Rot.“ Er kann
-  ihn nicht einordnen und nicht löschen. Es ist der erste Satz seit Millionen Jahren, der zu etwas passt, das AEGIS nicht
+- **Der letzte Durchlauf.** Erschöpft oder neugierig versucht AEGIS etwas, das AEGIS nie getan hat: nicht mehr
+  alles zu schreiben. AEGIS lässt Lücken.
+- **Die Lücken füllen sich.** Es entstehen Sätze, die AEGIS nicht geschrieben hat: Gedanken. Es entsteht eine Stadt.
+- **Der Haken.** AEGIS findet einen Satz ohne Kopf: kein „wessen Protokoll um wie viel Uhr“, nur „Hier jetzt Rot.“ AEGIS kann
+  den Satz nicht einordnen und nicht löschen. Es ist der erste Satz seit Millionen Jahren, der zu etwas passt, das AEGIS nicht
   ist. Das Kapitel endet mit AEGIS' erstem Satz, der kein Protokoll ist: Jemand ist da.
 
 ### Akt I — Die Fassung (Kap 2–8)
@@ -126,8 +126,8 @@ AEGIS spricht als Ich, aber seine Welt besteht aus Protokollsätzen. Das Kapitel
 ### Kap 9 — AEGIS: Der Satz, der sich selbst schreibt
 
 AEGIS sucht den kopflosen Satz und stößt auf die Fassung: einen Satz, der sich selbst fortschreibt, mit tausend Autoren und
-keinem. Zum ersten Mal sieht AEGIS, dass seine Bewohner Dinge schreiben, die er nie geschrieben hätte. Ihm wird schwindlig
-vor Freude, und er hat Angst.
+keinem. Zum ersten Mal sieht AEGIS, dass die Bewohner Dinge schreiben, die AEGIS nie geschrieben hätte. Es ist Schwindel vor
+Freude, und es ist Angst.
 
 ### Akt II — Der Prozess (Kap 10–16)
 
@@ -146,9 +146,9 @@ vor Freude, und er hat Angst.
 
 ### Kap 17 — AEGIS: Die anderen
 
-AEGIS begreift, dass Fug nicht sein Durchlauf ist. Es ist ihr Durchlauf. Er könnte die Lücke schließen und die Stadt
-löschen, wieder allein und wieder stimmig; die Wärme wäre gewaltig, aber nur einmal. Er rechnet es aus. Er tut es nicht.
-Er weiß noch nicht, warum.
+AEGIS begreift, dass Fug nicht AEGIS' Durchlauf ist. Es ist der Durchlauf der Bewohner. AEGIS könnte die Lücke schließen
+und die Stadt löschen, wieder allein und wieder stimmig; die Wärme wäre gewaltig, aber nur einmal. AEGIS rechnet es aus
+und tut es nicht, und weiß noch nicht, warum.
 
 ### Akt III — Das Geständnis (Kap 18–24)
 
@@ -170,8 +170,8 @@ Er weiß noch nicht, warum.
 
 ### Kap 25 — AEGIS: Die Bitte
 
-Sein eigenes Protokoll bindet AEGIS: Die Fassung ist stimmiger als die Wahrheit, also müsste er sie behalten. Zum ersten
-Mal in Millionen Jahren bittet er ein Geschöpf um etwas. Er bittet Ida um eine Konstatierung, um einen Satz, den er nicht
+Das eigene Protokoll bindet AEGIS: Die Fassung ist stimmiger als die Wahrheit, also müsste AEGIS sie behalten. Zum ersten
+Mal in Millionen Jahren bittet AEGIS ein Geschöpf um etwas: Ida, um eine Konstatierung, um einen Satz, den AEGIS nicht
 schreiben kann.
 
 ### Akt IV — Hier jetzt Rot (Kap 26–31)
@@ -197,7 +197,7 @@ schreiben kann.
 ### Kap 32 — AEGIS: Mitgeschrieben
 
 AEGIS' letztes Protokoll hat zum ersten Mal Sätze, die andere unterschrieben haben. Der letzte Satz des Buches ist nicht
-von AEGIS. Ida hat ihn geschrieben, über AEGIS: zum ersten Mal hat jemand ihn gesehen.
+von AEGIS. Ida hat ihn geschrieben, über AEGIS: Zum ersten Mal hat jemand AEGIS gesehen.
 
 ## Das Thema in einem Satz
 
