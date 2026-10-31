@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "figures": [{"id":"f-ada","name":"Ada (synthetic)","origin":"originalCharacter"},{"id":"f-bex","name":"Bex (synthetic)","origin":"fanfictionCharacter"}],
+  "traits": [{"id":"t-watchful","label":"watchful"}],
+  "instances": [{"id":"i-ada","figure_id":"f-ada","session_id":"s-one","trait_ids":["t-watchful"]},{"id":"i-bex","figure_id":"f-bex","session_id":"s-one","trait_ids":[]},{"id":"i-ada-two","figure_id":"f-ada","session_id":"s-two","trait_ids":[]}],
+  "event_roles": [{"id":"er-witness","label":"witness"}],
+  "relationship_roles": [{"id":"rr-ally","label":"ally"}],
+  "events": [{"id":"e-arrival","session_id":"s-one","position":0,"roles":[{"instance_id":"i-ada","role_id":"er-witness"}]},{"id":"e-alarm","session_id":"s-one","position":1,"roles":[{"instance_id":"i-ada","role_id":"er-witness"}]}],
+  "relationships": [{"id":"r-alliance","session_id":"s-one","participants":[{"instance_id":"i-ada","role_id":"rr-ally"},{"instance_id":"i-bex","role_id":"rr-ally"}]}],
+  "transitions": [{"id":"st-alert","instance_id":"i-ada","event_id":"e-alarm","before":"calm","after":"alert"}],
+  "chapters": [{"id":"c-opening","session_id":"s-one","event_ids":["e-alarm","e-arrival"]}]
+}
